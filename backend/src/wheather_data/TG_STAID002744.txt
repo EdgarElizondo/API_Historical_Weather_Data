@@ -18,7 +18,7 @@ This is the blended series of station BONES I BARDU, NORWAY (STAID: 2744)
 Blended and updated with sources:11266 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2744, 11266,20180701,-9999,    9
   2744, 11266,20180702,-9999,    9
   2744, 11266,20180703,-9999,    9

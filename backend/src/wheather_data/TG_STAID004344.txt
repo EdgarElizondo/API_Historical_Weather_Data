@@ -18,7 +18,7 @@ This is the blended series of station LEIPZIG-HOLZHAUSEN, GERMANY (STAID: 4344)
 Blended and updated with sources:25220 910471 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4344, 25220,18631201,  -21,    0
   4344, 25220,18631202,   -8,    0
   4344, 25220,18631203,   42,    0

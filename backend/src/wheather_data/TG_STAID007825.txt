@@ -18,7 +18,7 @@ This is the blended series of station SALLA KK MYLLYTIE, FINLAND (STAID: 7825)
 Blended and updated with sources:46336 46376 902849 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7825, 46336,19610101,  -68,    0
   7825, 46336,19610102,  -52,    0
   7825, 46336,19610103,  -45,    0

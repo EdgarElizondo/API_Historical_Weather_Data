@@ -18,7 +18,7 @@ This is the blended series of station E6 HJERKINN, NORWAY (STAID: 18401)
 Blended and updated with sources:99158 99543 100746 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18401,100746,19410501,   13,    0
  18401,100746,19410502,    2,    0
  18401,100746,19410503,   19,    0

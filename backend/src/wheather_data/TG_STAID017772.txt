@@ -18,7 +18,7 @@ This is the blended series of station SAN_CARLO, ITALY (STAID: 17772)
 Blended and updated with sources:94920 97080 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17772, 97080,20051201,-9999,    9
  17772, 97080,20051202,-9999,    9
  17772, 97080,20051203,-9999,    9

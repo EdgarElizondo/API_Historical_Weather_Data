@@ -18,7 +18,7 @@ This is the blended series of station SZCZYTNO, POLAND (STAID: 25091)
 Blended and updated with sources:139542 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25091,139542,19510101,  -63,    0
  25091,139542,19510102,  -33,    0
  25091,139542,19510103,    5,    0

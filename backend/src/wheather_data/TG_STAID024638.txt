@@ -18,7 +18,7 @@ This is the blended series of station KROISEGG, AUSTRIA (STAID: 24638)
 Blended and updated with sources:133890 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24638,133890,20160601,-9999,    9
  24638,133890,20160602,-9999,    9
  24638,133890,20160603,-9999,    9

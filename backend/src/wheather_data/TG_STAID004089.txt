@@ -18,7 +18,7 @@ This is the blended series of station LANDSHUT-REITHOF, GERMANY (STAID: 4089)
 Blended and updated with sources:22160 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4089, 22160,20080401,   93,    0
   4089, 22160,20080402,   66,    0
   4089, 22160,20080403,   43,    0

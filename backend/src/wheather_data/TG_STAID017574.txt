@@ -18,7 +18,7 @@ This is the blended series of station CASTELFRANCO_EMILIA, ITALY (STAID: 17574)
 Blended and updated with sources:94048 94752 95968 97232 916128 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17574,916128,20051201,-9999,    9
  17574,916128,20051202,-9999,    9
  17574,916128,20051203,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station VESTFOSSEN, NORWAY (STAID: 18168)
 Blended and updated with sources:99295 99647 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18168, 99647,20130101,  -25,    0
  18168, 99647,20130102,  -74,    0
  18168, 99647,20130103,  -20,    0

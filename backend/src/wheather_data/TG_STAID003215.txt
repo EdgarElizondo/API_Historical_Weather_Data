@@ -18,7 +18,7 @@ This is the blended series of station UST'-MAYA, RUSSIAN FEDERATION (STAID: 3215
 Blended and updated with sources:16952 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3215, 16952,18970101,-9999,    9
   3215, 16952,18970102,-9999,    9
   3215, 16952,18970103,-9999,    9

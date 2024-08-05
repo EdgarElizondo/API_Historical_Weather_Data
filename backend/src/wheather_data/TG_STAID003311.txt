@@ -18,7 +18,7 @@ This is the blended series of station KOCEVJE, SLOVENIA (STAID: 3311)
 Blended and updated with sources:14958 914118 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3311, 14958,19610101,   -7,    0
   3311, 14958,19610102,    6,    0
   3311, 14958,19610103,   64,    0

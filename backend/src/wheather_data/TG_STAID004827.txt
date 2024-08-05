@@ -18,7 +18,7 @@ This is the blended series of station MELCHOW-SCHONHOLZ, GERMANY (STAID: 4827)
 Blended and updated with sources:31016 32132 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4827, 31016,19971101,   12,    0
   4827, 31016,19971102,   44,    0
   4827, 31016,19971103,   11,    0

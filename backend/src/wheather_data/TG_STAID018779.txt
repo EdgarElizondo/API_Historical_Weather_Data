@@ -18,7 +18,7 @@ This is the blended series of station STRANDA - HELSEM, NORWAY (STAID: 18779)
 Blended and updated with sources:100626 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18779,100626,19610101,  -11,    0
  18779,100626,19610102,  -14,    0
  18779,100626,19610103,  -10,    0

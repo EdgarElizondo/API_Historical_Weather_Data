@@ -18,7 +18,7 @@ This is the blended series of station VICOMARINO, ITALY (STAID: 21783)
 Blended and updated with sources:118208 118240 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21783,118240,20200501,-9999,    9
  21783,118240,20200502,-9999,    9
  21783,118240,20200503,-9999,    9

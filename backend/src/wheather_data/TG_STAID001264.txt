@@ -18,7 +18,7 @@ This is the blended series of station PENZA, RUSSIAN FEDERATION (STAID: 1264)
 Blended and updated with sources:49643 927962 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1264, 49643,19360101,  -39,    0
   1264, 49643,19360102,  -31,    0
   1264, 49643,19360103,  -52,    0

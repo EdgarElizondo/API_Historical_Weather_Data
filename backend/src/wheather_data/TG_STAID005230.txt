@@ -18,7 +18,7 @@ This is the blended series of station HALMSTAD, SWEDEN (STAID: 5230)
 Blended and updated with sources:35342 35354 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5230, 35342,18710101, -127,    1
   5230, 35342,18710102, -130,    1
   5230, 35342,18710103,  -41,    1

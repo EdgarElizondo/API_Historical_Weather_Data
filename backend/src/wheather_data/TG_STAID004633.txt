@@ -18,7 +18,7 @@ This is the blended series of station SCHWARZBURG, GERMANY (STAID: 4633)
 Blended and updated with sources:28688 29708 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4633, 28688,19490705,  167,    0
   4633, 28688,19490706,  115,    0
   4633, 28688,19490707,  135,    0

@@ -18,7 +18,7 @@ This is the blended series of station VILLACH, AUSTRIA (STAID: 24345)
 Blended and updated with sources:130055 130094 132265 135372 911213 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24345,135372,19300101,  -10,    0
  24345,135372,19300102,  -13,    0
  24345,135372,19300103,   -8,    0

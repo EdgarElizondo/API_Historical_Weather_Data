@@ -18,7 +18,7 @@ This is the blended series of station NAMYSLOW, POLAND (STAID: 25009)
 Blended and updated with sources:138558 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25009,138558,19610101,   -5,    0
  25009,138558,19610102,  -10,    0
  25009,138558,19610103,   22,    0

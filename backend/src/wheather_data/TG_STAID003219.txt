@@ -18,7 +18,7 @@ This is the blended series of station BUXTA PROVIDENIYA, RUSSIAN FEDERATION (STA
 Blended and updated with sources:16972 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3219, 16972,19360101, -120,    0
   3219, 16972,19360102, -128,    0
   3219, 16972,19360103, -136,    0

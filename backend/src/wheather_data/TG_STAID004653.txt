@@ -18,7 +18,7 @@ This is the blended series of station SONDERSHAUSEN, GERMANY (STAID: 4653)
 Blended and updated with sources:28928 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4653, 28928,19470101,  -71,    0
   4653, 28928,19470102,  -29,    0
   4653, 28928,19470103,  -31,    0

@@ -18,7 +18,7 @@ This is the blended series of station DUVED, SWEDEN (STAID: 5680)
 Blended and updated with sources:36833 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5680, 36833,19300101,  -33,    0
   5680, 36833,19300102, -159,    0
   5680, 36833,19300103,  -17,    0

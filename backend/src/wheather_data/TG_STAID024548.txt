@@ -18,7 +18,7 @@ This is the blended series of station MURAU, AUSTRIA (STAID: 24548)
 Blended and updated with sources:132733 911280 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24548,132733,19890101,  -19,    0
  24548,132733,19890102,  -14,    0
  24548,132733,19890103,  -21,    0

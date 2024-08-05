@@ -18,7 +18,7 @@ This is the blended series of station STATION NORD AWS, GREENLAND [DENMARK] (STA
 Blended and updated with sources:47397 47417 904310 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8016, 47397,19610101, -368,    0
   8016, 47397,19610102, -346,    0
   8016, 47397,19610103, -354,    0

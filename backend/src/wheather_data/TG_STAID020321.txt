@@ -18,7 +18,7 @@ This is the blended series of station OEVRE LEIRBOTN, NORWAY (STAID: 20321)
 Blended and updated with sources:108983 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20321,108983,20191024,  -45,    0
  20321,108983,20191025,  -19,    0
  20321,108983,20191026,  -68,    0

@@ -18,7 +18,7 @@ This is the blended series of station BERLIN-BUCH, GERMANY (STAID: 4529)
 Blended and updated with sources:27440 27824 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4529, 27440,19610101,   12,    0
   4529, 27440,19610102,    0,    0
   4529, 27440,19610103,   27,    0

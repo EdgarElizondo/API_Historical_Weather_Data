@@ -18,7 +18,7 @@ This is the blended series of station PENICUIK, UNITED KINGDOM (STAID: 1831)
 Blended and updated with sources:7025 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1831,  7025,19600101,   50,    1
   1831,  7025,19600102,   -2,    0
   1831,  7025,19600103,   30,    0

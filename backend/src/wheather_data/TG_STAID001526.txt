@@ -18,7 +18,7 @@ This is the blended series of station UZHHOROD, UKRAINE (STAID: 1526)
 Blended and updated with sources:17472 933631 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1526, 17472,19460101,-9999,    9
   1526, 17472,19460102,-9999,    9
   1526, 17472,19460103,-9999,    9

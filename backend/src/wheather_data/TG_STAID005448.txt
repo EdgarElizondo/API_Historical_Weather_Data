@@ -18,7 +18,7 @@ This is the blended series of station OREBRO_A, SWEDEN (STAID: 5448)
 Blended and updated with sources:36068 36089 902432 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5448, 36089,18581201,    7,    1
   5448, 36089,18581202,   10,    1
   5448, 36089,18581203,   11,    1

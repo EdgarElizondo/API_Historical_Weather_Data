@@ -18,7 +18,7 @@ This is the blended series of station GROSSER ARBER, GERMANY (STAID: 3993)
 Blended and updated with sources:21008 910791 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3993, 21008,19821101,   80,    0
   3993, 21008,19821102,   83,    0
   3993, 21008,19821103,   69,    0

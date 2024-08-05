@@ -18,7 +18,7 @@ This is the blended series of station PARETS DEL VALLES, SPAIN (STAID: 11063)
 Blended and updated with sources:56427 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11063, 56427,20081001,-9999,    9
  11063, 56427,20081002,-9999,    9
  11063, 56427,20081003,-9999,    9

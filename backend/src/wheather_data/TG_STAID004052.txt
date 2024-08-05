@@ -18,7 +18,7 @@ This is the blended series of station ELZACH-FISNACHT, GERMANY (STAID: 4052)
 Blended and updated with sources:21716 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4052, 21716,19871101,  113,    0
   4052, 21716,19871102,   93,    0
   4052, 21716,19871103,   87,    0

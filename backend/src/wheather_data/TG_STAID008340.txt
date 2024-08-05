@@ -18,7 +18,7 @@ This is the blended series of station UST'-BARGUZIN, RUSSIAN FEDERATION (STAID: 
 Blended and updated with sources:50858 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8340, 50858,19360101, -191,    0
   8340, 50858,19360102, -244,    0
   8340, 50858,19360103, -239,    0

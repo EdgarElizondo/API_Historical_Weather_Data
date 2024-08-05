@@ -18,7 +18,7 @@ This is the blended series of station VATTERODE-GRAFENSTUHL, GERMANY (STAID: 438
 Blended and updated with sources:25736 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4387, 25736,19520101,   15,    0
   4387, 25736,19520102,   43,    0
   4387, 25736,19520103,   12,    0

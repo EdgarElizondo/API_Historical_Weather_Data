@@ -18,7 +18,7 @@ This is the blended series of station HERZBERG, GERMANY (STAID: 4219)
 Blended and updated with sources:23720 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4219, 23720,19911001,   99,    0
   4219, 23720,19911002,   99,    0
   4219, 23720,19911003,  108,    0

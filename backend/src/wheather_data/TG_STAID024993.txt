@@ -18,7 +18,7 @@ This is the blended series of station LUBACZOW, POLAND (STAID: 24993)
 Blended and updated with sources:138354 138366 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24993,138366,19610101,  -40,    0
  24993,138366,19610102,   -7,    0
  24993,138366,19610103,   24,    0

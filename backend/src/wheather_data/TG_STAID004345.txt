@@ -18,7 +18,7 @@ This is the blended series of station LENNESTADT-THETEN, GERMANY (STAID: 4345)
 Blended and updated with sources:25232 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4345, 25232,19620401,   26,    0
   4345, 25232,19620402,   54,    0
   4345, 25232,19620403,   82,    0

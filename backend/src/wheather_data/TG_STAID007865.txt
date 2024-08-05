@@ -18,7 +18,7 @@ This is the blended series of station INARI RAJAJOOSEPPI, FINLAND (STAID: 7865)
 Blended and updated with sources:46581 902818 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7865, 46581,20030701,  220,    0
   7865, 46581,20030702,  227,    0
   7865, 46581,20030703,  209,    0

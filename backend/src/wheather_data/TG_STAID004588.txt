@@ -18,7 +18,7 @@ This is the blended series of station BERLIN-ZEHLENDORF, GERMANY (STAID: 4588)
 Blended and updated with sources:133 24584 27488 28148 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4588, 27488,18760101,   22,    0
   4588, 27488,18760102,   25,    0
   4588, 27488,18760103,    3,    0

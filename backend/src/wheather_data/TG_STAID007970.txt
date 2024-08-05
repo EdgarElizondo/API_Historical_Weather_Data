@@ -18,7 +18,7 @@ This is the blended series of station UPERNAVIK, GREENLAND [DENMARK] (STAID: 797
 Blended and updated with sources:46897 46907 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7970, 46897,19580101, -199,    0
   7970, 46897,19580102, -177,    0
   7970, 46897,19580103, -181,    0

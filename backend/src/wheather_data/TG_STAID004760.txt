@@ -18,7 +18,7 @@ This is the blended series of station BOBECK, GERMANY (STAID: 4760)
 Blended and updated with sources:30212 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4760, 30212,19940501,   73,    0
   4760, 30212,19940502,   76,    0
   4760, 30212,19940503,  108,    0

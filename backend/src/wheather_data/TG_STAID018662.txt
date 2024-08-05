@@ -18,7 +18,7 @@ This is the blended series of station E18 LANNER, NORWAY (STAID: 18662)
 Blended and updated with sources:99646 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18662, 99646,20130101,-9999,    9
  18662, 99646,20130102,-9999,    9
  18662, 99646,20130103,-9999,    9

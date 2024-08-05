@@ -18,7 +18,7 @@ This is the blended series of station BORUCINO, POLAND (STAID: 25109)
 Blended and updated with sources:139758 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25109,139758,20050501,  112,    0
  25109,139758,20050502,  117,    0
  25109,139758,20050503,  141,    0

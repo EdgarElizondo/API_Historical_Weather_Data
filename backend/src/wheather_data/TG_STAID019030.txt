@@ -18,7 +18,7 @@ This is the blended series of station YTTERHOLMEN FYR, NORWAY (STAID: 19030)
 Blended and updated with sources:100913 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19030,100913,19960401,-9999,    9
  19030,100913,19960402,-9999,    9
  19030,100913,19960403,-9999,    9

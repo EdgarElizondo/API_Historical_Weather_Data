@@ -18,7 +18,7 @@ This is the blended series of station KANGILINNGUIT, GREENLAND [DENMARK] (STAID:
 Blended and updated with sources:47237 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8000, 47237,19610101,-9999,    9
   8000, 47237,19610102,   -3,    0
   8000, 47237,19610103,  -47,    0

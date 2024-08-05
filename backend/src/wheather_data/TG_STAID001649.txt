@@ -18,7 +18,7 @@ This is the blended series of station COL DU GRAND ST-BERNARD, SWITZERLAND (STAI
 Blended and updated with sources:5100 906717 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1649,  5100,19010101,  -88,    1
   1649,  5100,19010102, -104,    1
   1649,  5100,19010103, -143,    1

@@ -18,7 +18,7 @@ This is the blended series of station BAMBERG, GERMANY (STAID: 40)
 Blended and updated with sources:128 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     40,   128,19490101,   38,    0
     40,   128,19490102,   27,    0
     40,   128,19490103,   27,    0

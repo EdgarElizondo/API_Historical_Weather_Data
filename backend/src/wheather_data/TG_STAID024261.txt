@@ -18,7 +18,7 @@ This is the blended series of station NEUMARKT, AUSTRIA (STAID: 24261)
 Blended and updated with sources:129015 134930 911220 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24261,134930,19360101,   18,    0
  24261,134930,19360102,   13,    0
  24261,134930,19360103,   38,    0

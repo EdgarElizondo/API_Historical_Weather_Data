@@ -18,7 +18,7 @@ This is the blended series of station MJOENDALEN - ORKIDEHOEGDA, NORWAY (STAID: 
 Blended and updated with sources:99065 99593 99647 100761 901477 901480 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18628,100761,19660501,   26,    0
  18628,100761,19660502,   12,    0
  18628,100761,19660503,   13,    0

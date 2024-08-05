@@ -18,7 +18,7 @@ This is the blended series of station SALZBURG-FLUGHAFEN, AUSTRIA (STAID: 24779)
 Blended and updated with sources:38 135723 911150 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24779,135723,18740101,  -77,    0
  24779,135723,18740102,   -9,    0
  24779,135723,18740103,   -9,    0

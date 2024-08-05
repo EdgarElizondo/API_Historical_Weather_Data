@@ -18,7 +18,7 @@ This is the blended series of station DALATANGI, ICELAND (STAID: 65)
 Blended and updated with sources:249 904097 904197 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     65,   249,19490101,  -56,    0
     65,   249,19490102,  -89,    0
     65,   249,19490103,  -36,    0

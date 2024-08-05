@@ -18,7 +18,7 @@ This is the blended series of station DORPEN, GERMANY (STAID: 4838)
 Blended and updated with sources:25064 31148 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4838, 25064,19470101,   -5,    0
   4838, 25064,19470102,   10,    0
   4838, 25064,19470103,   -5,    0

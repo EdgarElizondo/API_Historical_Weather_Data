@@ -18,7 +18,7 @@ This is the blended series of station MAMAKAN, RUSSIAN FEDERATION (STAID: 8306)
 Blended and updated with sources:50688 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8306, 50688,19590101, -368,    0
   8306, 50688,19590102, -442,    0
   8306, 50688,19590103, -451,    0

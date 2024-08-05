@@ -18,7 +18,7 @@ This is the blended series of station SKREDDERDALEN, NORWAY (STAID: 18136)
 Blended and updated with sources:99204 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18136, 99204,20160817,  121,    0
  18136, 99204,20160818,  130,    0
  18136, 99204,20160819,  122,    0

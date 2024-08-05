@@ -18,7 +18,7 @@ This is the blended series of station UST'-NYUKZHA, RUSSIAN FEDERATION (STAID: 8
 Blended and updated with sources:50713 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8311, 50713,19380101,-9999,    9
   8311, 50713,19380102,-9999,    9
   8311, 50713,19380103,-9999,    9

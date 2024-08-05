@@ -18,7 +18,7 @@ This is the blended series of station AMBERG-UNTERAMMERSRICHT, GERMANY (STAID: 4
 Blended and updated with sources:22604 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4126, 22604,19470101,  -70,    0
   4126, 22604,19470102,  -44,    0
   4126, 22604,19470103,  -41,    0

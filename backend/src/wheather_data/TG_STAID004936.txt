@@ -18,7 +18,7 @@ This is the blended series of station WITTINGEN-VORHOP, GERMANY (STAID: 4936)
 Blended and updated with sources:32324 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4936, 32324,20070501,   96,    0
   4936, 32324,20070502,  116,    0
   4936, 32324,20070503,  136,    0

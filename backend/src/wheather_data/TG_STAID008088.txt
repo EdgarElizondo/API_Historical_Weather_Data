@@ -18,7 +18,7 @@ This is the blended series of station VANZHIL'-KY'NAK, RUSSIAN FEDERATION (STAID
 Blended and updated with sources:48598 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8088, 48598,19550101, -314,    0
   8088, 48598,19550102, -220,    0
   8088, 48598,19550103, -238,    0

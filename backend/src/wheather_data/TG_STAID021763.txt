@@ -18,7 +18,7 @@ This is the blended series of station FV17 ASELIBRUA, NORWAY (STAID: 21763)
 Blended and updated with sources:99182 99438 118115 118121 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21763, 99182,20140101,   28,    0
  21763, 99182,20140102,-9999,    9
  21763, 99182,20140103,   61,    0

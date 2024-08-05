@@ -18,7 +18,7 @@ This is the blended series of station RORBACKSNAS, SWEDEN (STAID: 5582)
 Blended and updated with sources:36509 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5582, 36509,19680201,  -23,    0
   5582, 36509,19680202, -150,    0
   5582, 36509,19680203, -188,    0

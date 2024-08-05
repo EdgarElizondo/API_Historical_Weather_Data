@@ -18,7 +18,7 @@ This is the blended series of station LEADHILLS, UNITED KINGDOM (STAID: 1876)
 Blended and updated with sources:7070 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1876,  7070,19600101,   36,    1
   1876,  7070,19600102,   -6,    0
   1876,  7070,19600103,   11,    0

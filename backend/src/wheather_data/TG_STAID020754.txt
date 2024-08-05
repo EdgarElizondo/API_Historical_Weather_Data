@@ -18,7 +18,7 @@ This is the blended series of station NIEL-BIJ-ST.-TRUIDEN_P, BELGIUM (STAID: 20
 Blended and updated with sources:118289 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20754,118289,20201001,  139,    0
  20754,118289,20201002,  122,    0
  20754,118289,20201003,  123,    0

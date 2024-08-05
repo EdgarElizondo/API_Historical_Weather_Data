@@ -18,7 +18,7 @@ This is the blended series of station BERG/OBERPFALZ, GERMANY (STAID: 4477)
 Blended and updated with sources:26816 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4477, 26816,19911001,  128,    0
   4477, 26816,19911002,  104,    0
   4477, 26816,19911003,   84,    0

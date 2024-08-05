@@ -18,7 +18,7 @@ This is the blended series of station RUDOLFSHUETTE, AUSTRIA (STAID: 24663)
 Blended and updated with sources:134215 135164 911138 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24663,135164,19610801,   82,    0
  24663,135164,19610802,   61,    0
  24663,135164,19610803,   24,    0

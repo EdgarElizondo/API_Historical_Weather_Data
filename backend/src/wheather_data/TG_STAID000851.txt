@@ -18,7 +18,7 @@ This is the blended series of station SZEGED, HUNGARY (STAID: 851)
 Blended and updated with sources:52447 912982 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    851, 52447,19010101,  -63,    0
    851, 52447,19010102, -110,    0
    851, 52447,19010103, -122,    0

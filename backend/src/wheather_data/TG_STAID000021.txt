@@ -18,7 +18,7 @@ This is the blended series of station ZAGREB-GRIC, CROATIA (STAID: 21)
 Blended and updated with sources:60 914236 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     21,    60,18610101,-9999,    9
     21,    60,18610102,-9999,    9
     21,    60,18610103,-9999,    9

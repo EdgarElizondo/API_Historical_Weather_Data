@@ -18,7 +18,7 @@ This is the blended series of station CARNWATH, UNITED KINGDOM (STAID: 1877)
 Blended and updated with sources:7071 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1877,  7071,19600101,   56,    1
   1877,  7071,19600102,    0,    0
   1877,  7071,19600103,   17,    0

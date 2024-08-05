@@ -18,7 +18,7 @@ This is the blended series of station BUDRIO_PRUNARO, ITALY (STAID: 17861)
 Blended and updated with sources:94472 97984 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17861, 94472,20120401,-9999,    9
  17861, 94472,20120402,-9999,    9
  17861, 94472,20120403,-9999,    9

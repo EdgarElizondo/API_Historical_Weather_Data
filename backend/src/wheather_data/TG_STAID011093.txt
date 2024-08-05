@@ -18,7 +18,7 @@ This is the blended series of station ULVIK-HJELTNES, NORWAY (STAID: 11093)
 Blended and updated with sources:56729 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11093, 56729,19660101,-9999,    9
  11093, 56729,19660102,-9999,    9
  11093, 56729,19660103,-9999,    9

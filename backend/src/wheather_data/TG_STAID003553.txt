@@ -18,7 +18,7 @@ This is the blended series of station BALLYHAISE, IRELAND (STAID: 3553)
 Blended and updated with sources:7568 16147 903979 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3553,  7568,19930101,-9999,    9
   3553,  7568,19930102,   80,    0
   3553,  7568,19930103,   69,    0

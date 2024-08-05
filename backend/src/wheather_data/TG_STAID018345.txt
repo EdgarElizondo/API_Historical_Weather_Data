@@ -18,7 +18,7 @@ This is the blended series of station FV289 HURUM, NORWAY (STAID: 18345)
 Blended and updated with sources:99062 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18345, 99062,20170301,-9999,    9
  18345, 99062,20170302,-9999,    9
  18345, 99062,20170303,-9999,    9

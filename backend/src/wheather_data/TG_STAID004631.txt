@@ -18,7 +18,7 @@ This is the blended series of station SCHWANEBECK, GERMANY (STAID: 4631)
 Blended and updated with sources:28664 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4631, 28664,19950701,  154,    0
   4631, 28664,19950702,  147,    0
   4631, 28664,19950703,  190,    0

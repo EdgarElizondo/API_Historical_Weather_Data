@@ -18,7 +18,7 @@ This is the blended series of station HASSLEHOLM, SWEDEN (STAID: 5934)
 Blended and updated with sources:62824 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5934, 62824,19510501,-9999,    9
   5934, 62824,19510502,-9999,    9
   5934, 62824,19510503,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station WELZHEIM (A), GERMANY (STAID: 4821)
 Blended and updated with sources:23168 24332 30944 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4821, 30944,19510101,    8,    0
   4821, 30944,19510102,    7,    0
   4821, 30944,19510103,   -3,    0

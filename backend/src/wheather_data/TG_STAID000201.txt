@@ -18,7 +18,7 @@ This is the blended series of station KLAIPEDA, LITHUANIA (STAID: 201)
 Blended and updated with sources:625 926509 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    201,   625,19290101,-9999,    9
    201,   625,19290102,  -50,    0
    201,   625,19290103,  -44,    0

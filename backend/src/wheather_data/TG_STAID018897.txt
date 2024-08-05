@@ -18,7 +18,7 @@ This is the blended series of station FORTUN, NORWAY (STAID: 18897)
 Blended and updated with sources:100765 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18897,100765,19310101,-9999,    9
  18897,100765,19310102,-9999,    9
  18897,100765,19310103,-9999,    9

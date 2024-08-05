@@ -18,7 +18,7 @@ This is the blended series of station JABLONKA, POLAND (STAID: 24876)
 Blended and updated with sources:136962 911918 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24876,136962,19610101,  -23,    0
  24876,136962,19610102,  -40,    0
  24876,136962,19610103,   15,    0

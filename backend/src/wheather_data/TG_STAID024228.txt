@@ -18,7 +18,7 @@ This is the blended series of station IMST, AUSTRIA (STAID: 24228)
 Blended and updated with sources:128586 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24228,128586,19871201,-9999,    9
  24228,128586,19871202,-9999,    9
  24228,128586,19871203,-9999,    9

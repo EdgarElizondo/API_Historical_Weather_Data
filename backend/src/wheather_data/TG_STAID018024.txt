@@ -18,7 +18,7 @@ This is the blended series of station GAMANJUNNI, NORWAY (STAID: 18024)
 Blended and updated with sources:99149 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18024, 99149,20161001,-9999,    9
  18024, 99149,20161002,-9999,    9
  18024, 99149,20161003,-9999,    9

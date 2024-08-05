@@ -18,7 +18,7 @@ This is the blended series of station KARLSTAD-AIRPORT, SWEDEN (STAID: 7)
 Blended and updated with sources:36140 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
      7, 36140,19420601,  102,    0
      7, 36140,19420602,   94,    0
      7, 36140,19420603,  138,    0

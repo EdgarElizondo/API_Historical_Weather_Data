@@ -18,7 +18,7 @@ This is the blended series of station LILLEHAMMER II, NORWAY (STAID: 18958)
 Blended and updated with sources:99088 100827 901378 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18958,100827,19570101,  -69,    0
  18958,100827,19570102, -112,    0
  18958,100827,19570103, -151,    0

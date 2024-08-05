@@ -18,7 +18,7 @@ This is the blended series of station REKDAL, NORWAY (STAID: 18240)
 Blended and updated with sources:99504 901214 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18240, 99504,20080527,   89,    0
  18240, 99504,20080528,  110,    0
  18240, 99504,20080529,  144,    0

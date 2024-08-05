@@ -18,7 +18,7 @@ This is the blended series of station RV9 DALEHEFTE, NORWAY (STAID: 18535)
 Blended and updated with sources:99414 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18535, 99414,20130101,-9999,    9
  18535, 99414,20130102,-9999,    9
  18535, 99414,20130103,-9999,    9

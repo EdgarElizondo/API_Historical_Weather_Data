@@ -18,7 +18,7 @@ This is the blended series of station OLDENBURG, GERMANY (STAID: 4497)
 Blended and updated with sources:27044 27056 910215 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4497, 27044,19470101,  -14,    0
   4497, 27044,19470102,   11,    0
   4497, 27044,19470103,  -17,    0

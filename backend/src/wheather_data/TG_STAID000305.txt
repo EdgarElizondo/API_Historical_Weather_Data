@@ -18,7 +18,7 @@ This is the blended series of station TRANEBJERG OEST-1, DENMARK (STAID: 305)
 Blended and updated with sources:833 6711 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    305,   833,18731201,-9999,    9
    305,   833,18731202,-9999,    9
    305,   833,18731203,-9999,    9

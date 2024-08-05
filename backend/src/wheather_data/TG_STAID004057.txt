@@ -18,7 +18,7 @@ This is the blended series of station ENGELSKIRCHEN, GERMANY (STAID: 4057)
 Blended and updated with sources:21776 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4057, 21776,19510101,    2,    0
   4057, 21776,19510102,   16,    0
   4057, 21776,19510103,    1,    0

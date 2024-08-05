@@ -18,7 +18,7 @@ This is the blended series of station OMSK, RUSSIAN FEDERATION (STAID: 3116)
 Blended and updated with sources:17070 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3116, 17070,19160101, -171,    0
   3116, 17070,19160102, -204,    0
   3116, 17070,19160103, -273,    1

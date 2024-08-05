@@ -18,7 +18,7 @@ This is the blended series of station POLANA CHOCHOLOWSKA, POLAND (STAID: 24877)
 Blended and updated with sources:136974 136986 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24877,136986,19910101,   13,    0
  24877,136986,19910102,  -32,    0
  24877,136986,19910103,   33,    0

@@ -18,7 +18,7 @@ This is the blended series of station CHEKUNDA, RUSSIAN FEDERATION (STAID: 3261)
 Blended and updated with sources:17256 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3261, 17256,19360101, -326,    0
   3261, 17256,19360102, -398,    0
   3261, 17256,19360103, -350,    0

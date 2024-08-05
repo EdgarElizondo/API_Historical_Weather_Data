@@ -18,7 +18,7 @@ This is the blended series of station KOTKA SUNILA, FINLAND (STAID: 7177)
 Blended and updated with sources:42389 43044 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7177, 43044,19590101,   -1,    0
   7177, 43044,19590102,   -1,    0
   7177, 43044,19590103,    6,    0

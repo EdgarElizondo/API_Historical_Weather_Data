@@ -18,7 +18,7 @@ This is the blended series of station DYSTERUD, NORWAY (STAID: 19090)
 Blended and updated with sources:99279 99503 100875 100983 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19090,100875,19570801,  150,    0
  19090,100875,19570802,  144,    0
  19090,100875,19570803,  149,    0

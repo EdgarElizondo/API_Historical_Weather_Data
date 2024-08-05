@@ -18,7 +18,7 @@ This is the blended series of station SORIA, SPAIN (STAID: 424)
 Blended and updated with sources:20516 908148 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    424, 20516,19431101,   76,    0
    424, 20516,19431102,   75,    0
    424, 20516,19431103,   58,    0

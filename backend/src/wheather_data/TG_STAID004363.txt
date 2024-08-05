@@ -18,7 +18,7 @@ This is the blended series of station BARUTH, GERMANY (STAID: 4363)
 Blended and updated with sources:25448 910376 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4363, 25448,19930801,-9999,    9
   4363, 25448,19930802,-9999,    9
   4363, 25448,19930803,-9999,    9

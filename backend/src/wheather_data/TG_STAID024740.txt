@@ -18,7 +18,7 @@ This is the blended series of station SCHOECKL, AUSTRIA (STAID: 24740)
 Blended and updated with sources:135216 911241 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24740,135216,19280101,-9999,    9
  24740,135216,19280102,-9999,    9
  24740,135216,19280103,-9999,    9

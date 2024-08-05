@@ -18,7 +18,7 @@ This is the blended series of station LIGONCHIO CENTRALE, ITALY (STAID: 859)
 Blended and updated with sources:95712 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    859, 95712,20051201,-9999,    9
    859, 95712,20051202,-9999,    9
    859, 95712,20051203,-9999,    9

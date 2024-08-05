@@ -18,7 +18,7 @@ This is the blended series of station ALVSBY_SKOGSSKOLA, SWEDEN (STAID: 6815)
 Blended and updated with sources:37163 70345 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6815, 70345,19610101,  -45,    0
   6815, 70345,19610102,  -67,    0
   6815, 70345,19610103,  -71,    0

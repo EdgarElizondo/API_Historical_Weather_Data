@@ -18,7 +18,7 @@ This is the blended series of station SAN CASSIANO, ITALY (STAID: 2889)
 Blended and updated with sources:97088 97800 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2889, 97800,20110501,  155,    0
   2889, 97800,20110502,  158,    0
   2889, 97800,20110503,  169,    0

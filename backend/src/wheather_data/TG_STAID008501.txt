@@ -18,7 +18,7 @@ This is the blended series of station OSSORA, RUSSIAN FEDERATION (STAID: 8501)
 Blended and updated with sources:51663 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8501, 51663,19660101,  -68,    0
   8501, 51663,19660102,   -3,    0
   8501, 51663,19660103,  -16,    0

@@ -18,7 +18,7 @@ This is the blended series of station COPPARO, ITALY (STAID: 2801)
 Blended and updated with sources:95040 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2801, 95040,20051201,-9999,    9
   2801, 95040,20051202,-9999,    9
   2801, 95040,20051203,-9999,    9

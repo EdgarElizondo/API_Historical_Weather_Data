@@ -18,7 +18,7 @@ This is the blended series of station DEBESSY', RUSSIAN FEDERATION (STAID: 8179)
 Blended and updated with sources:49763 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8179, 49763,19590101, -101,    0
   8179, 49763,19590102, -104,    0
   8179, 49763,19590103, -121,    0

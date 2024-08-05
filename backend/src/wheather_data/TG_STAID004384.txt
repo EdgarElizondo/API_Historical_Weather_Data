@@ -18,7 +18,7 @@ This is the blended series of station KR. BAUTZEN KUBSCHUTZ, GERMANY (STAID: 438
 Blended and updated with sources:25700 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4384, 25700,19450601,-9999,    9
   4384, 25700,19450602,-9999,    9
   4384, 25700,19450603,-9999,    9

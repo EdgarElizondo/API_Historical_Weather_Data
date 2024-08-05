@@ -18,7 +18,7 @@ This is the blended series of station PECS POGANY, HUNGARY (STAID: 849)
 Blended and updated with sources:52442 912942 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    849, 52442,19010101,  -41,    0
    849, 52442,19010102, -102,    0
    849, 52442,19010103,  -98,    0

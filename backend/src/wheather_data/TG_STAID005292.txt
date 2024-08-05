@@ -18,7 +18,7 @@ This is the blended series of station GODEBERG, SWEDEN (STAID: 5292)
 Blended and updated with sources:35540 35549 35552 902549 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5292, 35552,19450101,  -56,    0
   5292, 35552,19450102,   23,    0
   5292, 35552,19450103,   27,    0

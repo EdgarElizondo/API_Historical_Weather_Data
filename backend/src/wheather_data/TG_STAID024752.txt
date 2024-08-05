@@ -18,7 +18,7 @@ This is the blended series of station VILLACH-STADT, AUSTRIA (STAID: 24752)
 Blended and updated with sources:135372 911213 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24752,135372,19300101,  -10,    0
  24752,135372,19300102,  -13,    0
  24752,135372,19300103,   -8,    0

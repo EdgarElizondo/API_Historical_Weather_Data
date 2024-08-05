@@ -18,7 +18,7 @@ This is the blended series of station E18 INNTJORHEIA, NORWAY (STAID: 18416)
 Blended and updated with sources:99193 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18416, 99193,20140101,-9999,    9
  18416, 99193,20140102,-9999,    9
  18416, 99193,20140103,-9999,    9

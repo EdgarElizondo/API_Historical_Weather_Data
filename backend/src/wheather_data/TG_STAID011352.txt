@@ -18,7 +18,7 @@ This is the blended series of station KARDLA, ESTONIA (STAID: 11352)
 Blended and updated with sources:75010 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11352, 75010,19630901,  196,    0
  11352, 75010,19630902,  190,    0
  11352, 75010,19630903,  191,    0

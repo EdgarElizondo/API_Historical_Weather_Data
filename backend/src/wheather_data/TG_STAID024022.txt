@@ -18,7 +18,7 @@ This is the blended series of station KLAUSEN-LEOPOLDSDORF, AUSTRIA (STAID: 2402
 Blended and updated with sources:125934 125947 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24022,125934,19550901,-9999,    9
  24022,125934,19550902,-9999,    9
  24022,125934,19550903,-9999,    9

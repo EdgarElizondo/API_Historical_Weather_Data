@@ -18,7 +18,7 @@ This is the blended series of station KARIJOKI KANKALO, FINLAND (STAID: 7240)
 Blended and updated with sources:43359 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7240, 43359,19931101,-9999,    9
   7240, 43359,19931102,-9999,    9
   7240, 43359,19931103,-9999,    9

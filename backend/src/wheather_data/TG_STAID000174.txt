@@ -18,7 +18,7 @@ This is the blended series of station BRINDISI, ITALY (STAID: 174)
 Blended and updated with sources:858 916320 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    174,   858,19510101,   73,    0
    174,   858,19510102,   84,    0
    174,   858,19510103,  122,    0

@@ -18,7 +18,7 @@ This is the blended series of station OEYESTRANDA, NORWAY (STAID: 18830)
 Blended and updated with sources:100688 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18830,100688,19640901,  105,    0
  18830,100688,19640902,   89,    0
  18830,100688,19640903,  115,    0

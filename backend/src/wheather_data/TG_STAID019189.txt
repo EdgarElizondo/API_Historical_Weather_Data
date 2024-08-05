@@ -18,7 +18,7 @@ This is the blended series of station FV45 SKAFSA, NORWAY (STAID: 19189)
 Blended and updated with sources:100977 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19189,100977,20170301,-9999,    9
  19189,100977,20170302,-9999,    9
  19189,100977,20170303,-9999,    9

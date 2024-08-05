@@ -18,7 +18,7 @@ This is the blended series of station JOHVI, ESTONIA (STAID: 11350)
 Blended and updated with sources:75002 926046 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11350, 75002,19590101,  -18,    0
  11350, 75002,19590102,    2,    0
  11350, 75002,19590103,    6,    0

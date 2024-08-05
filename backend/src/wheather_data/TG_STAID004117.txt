@@ -18,7 +18,7 @@ This is the blended series of station FREYSTADT-OBERNDORF, GERMANY (STAID: 4117)
 Blended and updated with sources:22496 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4117, 22496,20060101,   16,    0
   4117, 22496,20060102,   -7,    0
   4117, 22496,20060103,   -1,    0

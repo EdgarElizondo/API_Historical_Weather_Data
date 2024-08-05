@@ -18,7 +18,7 @@ This is the blended series of station DEGERFORS, SWEDEN (STAID: 5449)
 Blended and updated with sources:36071 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5449, 36071,19450101,  -65,    0
   5449, 36071,19450102,   19,    0
   5449, 36071,19450103,   18,    0

@@ -18,7 +18,7 @@ This is the blended series of station LGOTA GORNA, POLAND (STAID: 24960)
 Blended and updated with sources:137970 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24960,137970,19810101,   19,    0
  24960,137970,19810102,   -1,    0
  24960,137970,19810103,   14,    0

@@ -18,7 +18,7 @@ This is the blended series of station ALSFELD-EIFA, GERMANY (STAID: 4966)
 Blended and updated with sources:32684 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4966, 32684,19781101,   36,    0
   4966, 32684,19781102,   30,    0
   4966, 32684,19781103,   44,    0

@@ -18,7 +18,7 @@ This is the blended series of station EBRACH, GERMANY (STAID: 4037)
 Blended and updated with sources:21536 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4037, 21536,19630101,  -59,    0
   4037, 21536,19630102,  -39,    0
   4037, 21536,19630103,  -10,    0

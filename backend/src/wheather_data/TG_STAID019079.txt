@@ -18,7 +18,7 @@ This is the blended series of station FAUSKE, NORWAY (STAID: 19079)
 Blended and updated with sources:99517 100682 100970 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19079,100970,19570101,  -94,    0
  19079,100970,19570102,  -83,    0
  19079,100970,19570103, -109,    0

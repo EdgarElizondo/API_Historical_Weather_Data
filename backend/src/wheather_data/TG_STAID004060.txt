@@ -18,7 +18,7 @@ This is the blended series of station EPPINGEN, GERMANY (STAID: 4060)
 Blended and updated with sources:21812 21824 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4060, 21812,19470701,-9999,    9
   4060, 21812,19470702,-9999,    9
   4060, 21812,19470703,-9999,    9

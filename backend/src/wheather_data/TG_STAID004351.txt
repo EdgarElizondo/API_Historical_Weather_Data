@@ -18,7 +18,7 @@ This is the blended series of station KOLN-STAMMHEIM, GERMANY (STAID: 4351)
 Blended and updated with sources:24668 25304 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4351, 24668,19360101,   91,    0
   4351, 24668,19360102,   74,    0
   4351, 24668,19360103,   64,    0

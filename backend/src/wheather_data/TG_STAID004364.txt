@@ -18,7 +18,7 @@ This is the blended series of station LOHNBERG-OBERSHAUSEN, GERMANY (STAID: 4364
 Blended and updated with sources:25460 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4364, 25460,19930701,  202,    0
   4364, 25460,19930702,  220,    0
   4364, 25460,19930703,  202,    0

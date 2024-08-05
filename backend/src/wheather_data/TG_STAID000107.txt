@@ -18,7 +18,7 @@ This is the blended series of station VESTERVIG, DENMARK (STAID: 107)
 Blended and updated with sources:831 906052 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    107,   831,18740801,  156,    0
    107,   831,18740802,  148,    0
    107,   831,18740803,  157,    0

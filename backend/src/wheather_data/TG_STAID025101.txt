@@ -18,7 +18,7 @@ This is the blended series of station ROZANYSTOK, POLAND (STAID: 25101)
 Blended and updated with sources:139662 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25101,139662,19610101,   -6,    0
  25101,139662,19610102,  -10,    0
  25101,139662,19610103,   -1,    0

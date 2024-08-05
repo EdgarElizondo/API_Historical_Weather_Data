@@ -18,7 +18,7 @@ This is the blended series of station ARNIS, GERMANY (STAID: 4169)
 Blended and updated with sources:23120 30908 910042 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4169, 23120,19460101,  -12,    0
   4169, 23120,19460102,   -7,    0
   4169, 23120,19460103,  -20,    0

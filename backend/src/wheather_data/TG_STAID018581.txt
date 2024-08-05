@@ -18,7 +18,7 @@ This is the blended series of station FV21 TANGEN, NORWAY (STAID: 18581)
 Blended and updated with sources:99494 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18581, 99494,20151101,-9999,    9
  18581, 99494,20151102,-9999,    9
  18581, 99494,20151103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station SERMIDE (SP 91), ITALY (STAID: 11611)
 Blended and updated with sources:97456 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11611, 97456,20051201,-9999,    9
  11611, 97456,20051202,-9999,    9
  11611, 97456,20051203,-9999,    9

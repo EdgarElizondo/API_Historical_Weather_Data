@@ -18,7 +18,7 @@ This is the blended series of station URSHULT-KUNNINGE, SWEDEN (STAID: 5218)
 Blended and updated with sources:35300 35306 35321 63209 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5218, 35321,19450101,  -75,    0
   5218, 35321,19450102,   28,    0
   5218, 35321,19450103,   37,    0

@@ -18,7 +18,7 @@ This is the blended series of station SAN_BARTOLOMEO_IN_BOSCO, ITALY (STAID: 177
 Blended and updated with sources:95264 95400 95416 97056 97208 97256 97960 916133 916138 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17771,916138,20051201,   52,    0
  17771,916138,20051202,   23,    0
  17771,916138,20051203,-9999,    9

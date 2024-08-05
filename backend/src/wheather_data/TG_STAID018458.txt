@@ -18,7 +18,7 @@ This is the blended series of station FV65 BYE, NORWAY (STAID: 18458)
 Blended and updated with sources:99268 99417 100867 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18458,100867,19791201,   28,    0
  18458,100867,19791202,   40,    0
  18458,100867,19791203,   -1,    0

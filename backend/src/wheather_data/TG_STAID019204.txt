@@ -18,7 +18,7 @@ This is the blended series of station BEIARN - HAUGBAKK, NORWAY (STAID: 19204)
 Blended and updated with sources:101029 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19204,101029,19760101,  -32,    0
  19204,101029,19760102,  -39,    0
  19204,101029,19760103,  -41,    0

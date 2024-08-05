@@ -18,7 +18,7 @@ This is the blended series of station CALDES DE MONTBUI, SPAIN (STAID: 11021)
 Blended and updated with sources:56049 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11021, 56049,20080101,   27,    0
  11021, 56049,20080102,   44,    0
  11021, 56049,20080103,   60,    0

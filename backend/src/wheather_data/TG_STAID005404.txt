@@ -18,7 +18,7 @@ This is the blended series of station NAVEN_A, SWEDEN (STAID: 5404)
 Blended and updated with sources:35924 902403 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5404, 35924,19960901,  149,    0
   5404, 35924,19960902,  157,    0
   5404, 35924,19960903,  174,    0

@@ -18,7 +18,7 @@ This is the blended series of station ACHINSK, RUSSIAN FEDERATION (STAID: 8223)
 Blended and updated with sources:50273 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8223, 50273,19000101,-9999,    9
   8223, 50273,19000102,-9999,    9
   8223, 50273,19000103,-9999,    9

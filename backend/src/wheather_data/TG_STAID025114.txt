@@ -18,7 +18,7 @@ This is the blended series of station GDYNIA, POLAND (STAID: 25114)
 Blended and updated with sources:139818 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25114,139818,19510101,  -71,    0
  25114,139818,19510102,  -27,    0
  25114,139818,19510103,   15,    0

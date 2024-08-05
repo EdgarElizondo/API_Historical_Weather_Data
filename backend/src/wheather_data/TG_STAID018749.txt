@@ -18,7 +18,7 @@ This is the blended series of station BOE I VESTERALEN II, NORWAY (STAID: 18749)
 Blended and updated with sources:99561 100590 100748 100775 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18749,100748,19540101,   36,    0
  18749,100748,19540102,  -12,    0
  18749,100748,19540103,  -27,    0

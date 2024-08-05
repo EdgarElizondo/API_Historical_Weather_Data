@@ -18,7 +18,7 @@ This is the blended series of station WIESBADEN-DOTZHEIM, GERMANY (STAID: 4765)
 Blended and updated with sources:30272 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4765, 30272,19600101,   70,    0
   4765, 30272,19600102,   69,    0
   4765, 30272,19600103,   68,    0

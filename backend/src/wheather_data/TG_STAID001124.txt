@@ -18,7 +18,7 @@ This is the blended series of station KARGOPOL', RUSSIAN FEDERATION (STAID: 1124
 Blended and updated with sources:48318 922845 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1124, 48318,18830101, -175,    0
   1124, 48318,18830102, -196,    0
   1124, 48318,18830103, -125,    0

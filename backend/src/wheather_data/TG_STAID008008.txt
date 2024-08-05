@@ -18,7 +18,7 @@ This is the blended series of station NARSAQ HELIPORT, GREENLAND [DENMARK] (STAI
 Blended and updated with sources:47327 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8008, 47327,19580101,  -25,    0
   8008, 47327,19580102,  -43,    0
   8008, 47327,19580103,  -40,    0

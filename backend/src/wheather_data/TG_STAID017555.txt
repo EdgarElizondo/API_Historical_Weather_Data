@@ -18,7 +18,7 @@ This is the blended series of station CAMSE, ITALY (STAID: 17555)
 Blended and updated with sources:94096 94576 120992 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17555, 94576,20051201,-9999,    9
  17555, 94576,20051202,-9999,    9
  17555, 94576,20051203,-9999,    9

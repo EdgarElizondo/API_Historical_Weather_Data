@@ -18,7 +18,7 @@ This is the blended series of station LOHR/MAIN-HALSBACH, GERMANY (STAID: 4868)
 Blended and updated with sources:31508 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4868, 31508,20051101,   77,    0
   4868, 31508,20051102,   90,    0
   4868, 31508,20051103,  123,    0

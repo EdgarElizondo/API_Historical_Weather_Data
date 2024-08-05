@@ -18,7 +18,7 @@ This is the blended series of station SUSENDAL - BJORMO, NORWAY (STAID: 19037)
 Blended and updated with sources:100922 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19037,100922,19751201,  -84,    0
  19037,100922,19751202,  -85,    0
  19037,100922,19751203,  -67,    0

@@ -18,7 +18,7 @@ This is the blended series of station SOLYANKA, RUSSIAN FEDERATION (STAID: 8240)
 Blended and updated with sources:50358 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8240, 50358,19360101, -172,    0
   8240, 50358,19360102, -138,    0
   8240, 50358,19360103, -128,    0

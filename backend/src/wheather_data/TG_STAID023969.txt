@@ -18,7 +18,7 @@ This is the blended series of station GUTENBRUNN-MARTINSBERG, AUSTRIA (STAID: 23
 Blended and updated with sources:125271 134579 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23969,134579,19360101,-9999,    9
  23969,134579,19360102,-9999,    9
  23969,134579,19360103,-9999,    9

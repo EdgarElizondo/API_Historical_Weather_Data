@@ -18,7 +18,7 @@ This is the blended series of station LENSAHN, GERMANY (STAID: 4348)
 Blended and updated with sources:25268 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4348, 25268,19620401,   20,    0
   4348, 25268,19620402,   52,    0
   4348, 25268,19620403,   86,    0

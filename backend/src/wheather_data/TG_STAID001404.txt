@@ -18,7 +18,7 @@ This is the blended series of station MURCIA/SAN JAVIER, SPAIN (STAID: 1404)
 Blended and updated with sources:20336 908433 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1404, 20336,19440801,-9999,    9
   1404, 20336,19440802,-9999,    9
   1404, 20336,19440803,-9999,    9

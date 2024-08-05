@@ -18,7 +18,7 @@ This is the blended series of station AHAUS, GERMANY (STAID: 4919)
 Blended and updated with sources:32120 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4919, 32120,20060301,    1,    0
   4919, 32120,20060302,   -3,    0
   4919, 32120,20060303,  -14,    0

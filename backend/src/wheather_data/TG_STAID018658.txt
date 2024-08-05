@@ -18,7 +18,7 @@ This is the blended series of station FV40 DAGALIFJELL, NORWAY (STAID: 18658)
 Blended and updated with sources:99641 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18658, 99641,20130101,-9999,    9
  18658, 99641,20130102,-9999,    9
  18658, 99641,20130103,-9999,    9

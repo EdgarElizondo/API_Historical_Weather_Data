@@ -18,7 +18,7 @@ This is the blended series of station PETISTRASK_A, SWEDEN (STAID: 5731)
 Blended and updated with sources:37004 902282 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5731, 37004,19951201,-9999,    9
   5731, 37004,19951202,-9999,    9
   5731, 37004,19951203,-9999,    9

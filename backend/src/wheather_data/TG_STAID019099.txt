@@ -18,7 +18,7 @@ This is the blended series of station KISTRAND III, NORWAY (STAID: 19099)
 Blended and updated with sources:100992 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19099,100992,19801001,   68,    0
  19099,100992,19801002,   51,    0
  19099,100992,19801003,   55,    0

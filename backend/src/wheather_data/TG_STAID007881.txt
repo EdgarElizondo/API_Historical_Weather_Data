@@ -18,7 +18,7 @@ This is the blended series of station INARI ANGELI LINTUPUOLISELKA, FINLAND (STA
 Blended and updated with sources:46661 902857 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7881, 46661,20081001,    0,    0
   7881, 46661,20081002,  -21,    0
   7881, 46661,20081003,  -35,    0

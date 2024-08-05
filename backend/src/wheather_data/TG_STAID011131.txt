@@ -18,7 +18,7 @@ This is the blended series of station DRAG I TYSFJORD, NORWAY (STAID: 11131)
 Blended and updated with sources:57098 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11131, 57098,19570101,  -79,    0
  11131, 57098,19570102,  -72,    0
  11131, 57098,19570103,  -48,    0

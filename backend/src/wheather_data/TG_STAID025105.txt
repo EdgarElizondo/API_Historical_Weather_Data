@@ -18,7 +18,7 @@ This is the blended series of station DARLOWO, POLAND (STAID: 25105)
 Blended and updated with sources:139710 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25105,139710,19510101,  -60,    0
  25105,139710,19510102,  -16,    0
  25105,139710,19510103,    6,    0

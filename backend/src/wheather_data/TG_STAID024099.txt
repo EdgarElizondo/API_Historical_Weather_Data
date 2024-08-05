@@ -18,7 +18,7 @@ This is the blended series of station BAD ISCHL, AUSTRIA (STAID: 24099)
 Blended and updated with sources:126922 132512 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24099,132512,19420401,-9999,    9
  24099,132512,19420402,-9999,    9
  24099,132512,19420403,-9999,    9

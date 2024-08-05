@@ -18,7 +18,7 @@ This is the blended series of station NOSSEN, GERMANY (STAID: 4867)
 Blended and updated with sources:31496 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4867, 31496,19490201,  -44,    0
   4867, 31496,19490202,  -57,    0
   4867, 31496,19490203,  -39,    0

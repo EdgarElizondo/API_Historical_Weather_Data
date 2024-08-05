@@ -18,7 +18,7 @@ This is the blended series of station KOZIENCE, POLAND (STAID: 8959)
 Blended and updated with sources:140389 912488 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8959,140389,19770101,  -59,    0
   8959,140389,19770102,    5,    0
   8959,140389,19770103,   -3,    0

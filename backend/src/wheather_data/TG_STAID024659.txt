@@ -18,7 +18,7 @@ This is the blended series of station MITTERSILL, AUSTRIA (STAID: 24659)
 Blended and updated with sources:134163 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24659,134163,20171201,  -64,    0
  24659,134163,20171202,  -87,    0
  24659,134163,20171203,  -79,    0

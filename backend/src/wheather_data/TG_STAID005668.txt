@@ -18,7 +18,7 @@ This is the blended series of station FROSON_D, SWEDEN (STAID: 5668)
 Blended and updated with sources:8913 36791 36794 36797 58035 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5668, 58035,18600901,  117,    1
   5668, 58035,18600902,  112,    1
   5668, 58035,18600903,   96,    1

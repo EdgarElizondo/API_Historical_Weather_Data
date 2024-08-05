@@ -18,7 +18,7 @@ This is the blended series of station BJORKEDE, SWEDEN (STAID: 5709)
 Blended and updated with sources:36929 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5709, 36929,19610101,  -35,    0
   5709, 36929,19610102, -106,    0
   5709, 36929,19610103,  -85,    0

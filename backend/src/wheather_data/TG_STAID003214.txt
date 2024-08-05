@@ -18,7 +18,7 @@ This is the blended series of station YAKUTSK, RUSSIAN FEDERATION (STAID: 3214)
 Blended and updated with sources:16947 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3214, 16947,18880101,-9999,    9
   3214, 16947,18880102,-9999,    9
   3214, 16947,18880103,-9999,    9

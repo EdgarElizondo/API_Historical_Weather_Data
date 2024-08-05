@@ -18,7 +18,7 @@ This is the blended series of station FON, NORWAY (STAID: 23869)
 Blended and updated with sources:99384 99395 124136 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23869, 99384,20150601,  107,    1
  23869, 99384,20150602,   86,    0
  23869, 99384,20150603,  125,    0

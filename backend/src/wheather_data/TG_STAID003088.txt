@@ -18,7 +18,7 @@ This is the blended series of station TURINSK, RUSSIAN FEDERATION (STAID: 3088)
 Blended and updated with sources:49743 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3088, 49743,19360101,  -59,    0
   3088, 49743,19360102,  -58,    0
   3088, 49743,19360103,  -54,    0

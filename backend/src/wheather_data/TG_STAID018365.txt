@@ -18,7 +18,7 @@ This is the blended series of station E16 FLAM, NORWAY (STAID: 18365)
 Blended and updated with sources:99105 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18365, 99105,20140101,-9999,    9
  18365, 99105,20140102,-9999,    9
  18365, 99105,20140103,-9999,    9

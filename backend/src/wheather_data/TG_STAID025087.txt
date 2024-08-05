@@ -18,7 +18,7 @@ This is the blended series of station LIDZBARK, POLAND (STAID: 25087)
 Blended and updated with sources:139494 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25087,139494,19860101, -133,    0
  25087,139494,19860102,  -71,    0
  25087,139494,19860103,  -15,    0

@@ -18,7 +18,7 @@ This is the blended series of station SANT ROMA DABELLA, SPAIN (STAID: 11074)
 Blended and updated with sources:56526 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11074, 56526,20080101,   11,    0
  11074, 56526,20080102,   -4,    0
  11074, 56526,20080103,   19,    0

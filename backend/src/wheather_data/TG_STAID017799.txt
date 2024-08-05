@@ -18,7 +18,7 @@ This is the blended series of station SASSO_MARCONI_ARPA, ITALY (STAID: 17799)
 Blended and updated with sources:94368 97360 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17799, 97360,20051201,-9999,    9
  17799, 97360,20051202,-9999,    9
  17799, 97360,20051203,-9999,    9

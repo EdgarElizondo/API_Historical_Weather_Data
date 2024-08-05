@@ -18,7 +18,7 @@ This is the blended series of station FRAMMERSBACH, GERMANY (STAID: 4101)
 Blended and updated with sources:22304 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4101, 22304,19650401,   45,    0
   4101, 22304,19650402,   56,    0
   4101, 22304,19650403,   66,    0

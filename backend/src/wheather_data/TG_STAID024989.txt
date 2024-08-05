@@ -18,7 +18,7 @@ This is the blended series of station WERBKOWICE, POLAND (STAID: 24989)
 Blended and updated with sources:138318 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24989,138318,19610101,  -27,    0
  24989,138318,19610102,   -7,    0
  24989,138318,19610103,   20,    0

@@ -18,7 +18,7 @@ This is the blended series of station HAR KENAAN, ISRAEL (STAID: 130)
 Blended and updated with sources:850 20636 940153 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    130,   850,19390101,-9999,    9
    130,   850,19390102,-9999,    9
    130,   850,19390103,-4959,    1

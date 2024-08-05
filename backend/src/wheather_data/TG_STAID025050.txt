@@ -18,7 +18,7 @@ This is the blended series of station OPIESIN-GLOGOWA, POLAND (STAID: 25050)
 Blended and updated with sources:139038 139050 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25050,139038,19610101,    0,    0
  25050,139038,19610102,    1,    0
  25050,139038,19610103,   11,    0

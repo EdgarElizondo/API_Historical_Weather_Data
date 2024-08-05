@@ -18,7 +18,7 @@ This is the blended series of station SAFFLE, SWEDEN (STAID: 5441)
 Blended and updated with sources:36044 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5441, 36044,19610101,   -6,    0
   5441, 36044,19610102,    3,    0
   5441, 36044,19610103,   12,    0

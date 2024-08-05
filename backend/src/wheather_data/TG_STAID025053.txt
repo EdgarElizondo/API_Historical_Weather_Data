@@ -18,7 +18,7 @@ This is the blended series of station WARSZAWA-BIELANY, POLAND (STAID: 25053)
 Blended and updated with sources:139086 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25053,139086,19510101,  -37,    0
  25053,139086,19510102,  -13,    0
  25053,139086,19510103,   22,    0

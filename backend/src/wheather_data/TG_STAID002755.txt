@@ -18,7 +18,7 @@ This is the blended series of station ISFJORD RADIO, NORWAY (STAID: 2755)
 Blended and updated with sources:11365 901013 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2755, 11365,19340901,   51,    1
   2755, 11365,19340902,   52,    1
   2755, 11365,19340903,   48,    1

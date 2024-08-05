@@ -18,7 +18,7 @@ This is the blended series of station KVESMENES - RYENG, NORWAY (STAID: 19081)
 Blended and updated with sources:100972 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19081,100972,19660101, -160,    0
  19081,100972,19660102, -213,    0
  19081,100972,19660103, -200,    0

@@ -18,7 +18,7 @@ This is the blended series of station AXTY', RUSSIAN FEDERATION (STAID: 3128)
 Blended and updated with sources:52433 937663 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3128, 52433,19100101,-9999,    9
   3128, 52433,19100102,-9999,    9
   3128, 52433,19100103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station SAALBACH, AUSTRIA (STAID: 24737)
 Blended and updated with sources:132655 135177 911366 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24737,135177,19751101,   56,    0
  24737,135177,19751102,   62,    0
  24737,135177,19751103,   71,    0

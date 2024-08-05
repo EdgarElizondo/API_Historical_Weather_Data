@@ -18,7 +18,7 @@ This is the blended series of station SZPROTAWA, POLAND (STAID: 25000)
 Blended and updated with sources:138450 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25000,138450,19610101,   16,    0
  25000,138450,19610102,   -7,    0
  25000,138450,19610103,   28,    0

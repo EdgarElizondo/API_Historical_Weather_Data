@@ -18,7 +18,7 @@ This is the blended series of station TROSTBERG, GERMANY (STAID: 4699)
 Blended and updated with sources:29480 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4699, 29480,19450101,  -46,    0
   4699, 29480,19450102,  -73,    0
   4699, 29480,19450103,  -44,    0

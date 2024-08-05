@@ -18,7 +18,7 @@ This is the blended series of station YASHKUL', RUSSIAN FEDERATION (STAID: 1343)
 Blended and updated with sources:52068 934866 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1343, 52068,19370101,-9999,    9
   1343, 52068,19370102,-9999,    9
   1343, 52068,19370103,-9999,    9

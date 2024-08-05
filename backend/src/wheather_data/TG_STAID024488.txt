@@ -18,7 +18,7 @@ This is the blended series of station GAENSERNDORF, AUSTRIA (STAID: 24488)
 Blended and updated with sources:130627 130640 130770 131953 135762 911085 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24488,130770,19650701,  215,    0
  24488,130770,19650702,  190,    0
  24488,130770,19650703,  170,    0

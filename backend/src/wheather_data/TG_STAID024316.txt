@@ -18,7 +18,7 @@ This is the blended series of station SILBEREGG, AUSTRIA (STAID: 24316)
 Blended and updated with sources:129717 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24316,129717,19710101,  -52,    0
  24316,129717,19710102,  -70,    0
  24316,129717,19710103,  -95,    0

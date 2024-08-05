@@ -18,7 +18,7 @@ This is the blended series of station MURCIA/ALCANTARILLA, SPAIN (STAID: 3949)
 Blended and updated with sources:20327 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3949, 20327,19400101,   72,    0
   3949, 20327,19400102,   97,    0
   3949, 20327,19400103,   81,    0

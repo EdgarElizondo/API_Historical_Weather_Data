@@ -18,7 +18,7 @@ This is the blended series of station RAUMA KPKI, FINLAND (STAID: 7057)
 Blended and updated with sources:42414 42424 42494 902761 902961 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7057, 42424,19590101,   11,    0
   7057, 42424,19590102,    0,    0
   7057, 42424,19590103,    4,    0

@@ -18,7 +18,7 @@ This is the blended series of station YUZHNO-SUXOKUMSK, RUSSIAN FEDERATION (STAI
 Blended and updated with sources:52318 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8548, 52318,19550101,    4,    0
   8548, 52318,19550102,   20,    0
   8548, 52318,19550103,   31,    0

@@ -18,7 +18,7 @@ This is the blended series of station HATTULA LEPAA-1, FINLAND (STAID: 709)
 Blended and updated with sources:42754 42759 42854 902704 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    709, 42759,19590101,   -4,    0
    709, 42759,19590102,  -12,    0
    709, 42759,19590103,    1,    0

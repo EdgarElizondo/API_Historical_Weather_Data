@@ -18,7 +18,7 @@ This is the blended series of station SATENAS_D, SWEDEN (STAID: 5375)
 Blended and updated with sources:35834 35837 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5375, 35834,19490101,   17,    1
   5375, 35834,19490102,   32,    1
   5375, 35834,19490103,   26,    1

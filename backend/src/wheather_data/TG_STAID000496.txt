@@ -18,7 +18,7 @@ This is the blended series of station KEMPTEN, GERMANY (STAID: 496)
 Blended and updated with sources:2414 910946 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    496,  2414,19520101,   26,    0
    496,  2414,19520102,   10,    0
    496,  2414,19520103,   10,    0

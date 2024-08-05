@@ -18,7 +18,7 @@ This is the blended series of station FV37 RAULANDSFJELLET, NORWAY (STAID: 18666
 Blended and updated with sources:34804 56813 99658 100677 901450 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18666,100677,19631201,  -22,    0
  18666,100677,19631202,  -42,    0
  18666,100677,19631203,  -63,    0

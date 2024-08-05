@@ -18,7 +18,7 @@ This is the blended series of station CARLISLE, UNITED KINGDOM (STAID: 2115)
 Blended and updated with sources:56839 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2115, 56839,20130101,   55,    0
   2115, 56839,20130102,   78,    0
   2115, 56839,20130103,   86,    0

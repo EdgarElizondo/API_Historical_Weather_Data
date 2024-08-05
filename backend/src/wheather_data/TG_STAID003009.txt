@@ -18,7 +18,7 @@ This is the blended series of station BISHKEK, KYRGYZSTAN (STAID: 3009)
 Blended and updated with sources:17667 938353 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3009, 17667,19360101,  -77,    0
   3009, 17667,19360102, -100,    0
   3009, 17667,19360103,  -93,    0

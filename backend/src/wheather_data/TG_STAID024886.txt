@@ -18,7 +18,7 @@ This is the blended series of station DOBCZYCE, POLAND (STAID: 24886)
 Blended and updated with sources:137082 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24886,137082,19870101,   38,    0
  24886,137082,19870102,  -44,    0
  24886,137082,19870103, -114,    0

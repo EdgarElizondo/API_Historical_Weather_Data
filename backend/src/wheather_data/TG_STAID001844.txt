@@ -18,7 +18,7 @@ This is the blended series of station ROTHAMSTED, UNITED KINGDOM (STAID: 1844)
 Blended and updated with sources:7038 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1844,  7038,19160101,-9999,    9
   1844,  7038,19160102,-9999,    9
   1844,  7038,19160103,   95,    0

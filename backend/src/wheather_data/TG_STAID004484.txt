@@ -18,7 +18,7 @@ This is the blended series of station OBERNDORF/NECKAR-AISTAIG, GERMANY (STAID: 
 Blended and updated with sources:26900 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4484, 26900,19820701,  161,    0
   4484, 26900,19820702,  205,    0
   4484, 26900,19820703,  205,    0

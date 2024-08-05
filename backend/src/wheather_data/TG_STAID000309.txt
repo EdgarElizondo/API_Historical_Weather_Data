@@ -18,7 +18,7 @@ This is the blended series of station ALICANTE EL ALTET, SPAIN (STAID: 309)
 Blended and updated with sources:1034 908360 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    309,  1034,19670101,  122,    0
    309,  1034,19670102,   91,    0
    309,  1034,19670103,   84,    0

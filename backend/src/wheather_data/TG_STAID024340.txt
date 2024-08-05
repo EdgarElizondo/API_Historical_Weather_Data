@@ -18,7 +18,7 @@ This is the blended series of station VELDEN, AUSTRIA (STAID: 24340)
 Blended and updated with sources:130029 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24340,130029,19610101,  -41,    0
  24340,130029,19610102,  -13,    0
  24340,130029,19610103,  -25,    0

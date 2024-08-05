@@ -18,7 +18,7 @@ This is the blended series of station ESCHENBACH/OBERPFALZ, GERMANY (STAID: 4069
 Blended and updated with sources:21920 26624 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4069, 21920,19670101,   20,    0
   4069, 21920,19670102,   -4,    0
   4069, 21920,19670103,  -16,    0

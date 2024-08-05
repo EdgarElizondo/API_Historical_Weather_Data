@@ -18,7 +18,7 @@ This is the blended series of station SOEMNA - KVALOEYFJELLET, NORWAY (STAID: 18
 Blended and updated with sources:99523 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18246, 99523,20151010,   72,    1
  18246, 99523,20151011,   80,    1
  18246, 99523,20151012,   75,    0

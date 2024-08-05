@@ -18,7 +18,7 @@ This is the blended series of station MEININGEN, GERMANY (STAID: 486)
 Blended and updated with sources:2334 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    486,  2334,19790101, -172,    0
    486,  2334,19790102, -133,    0
    486,  2334,19790103, -108,    0

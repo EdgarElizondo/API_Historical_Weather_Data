@@ -18,7 +18,7 @@ This is the blended series of station BAD LOBENSTEIN, GERMANY (STAID: 4362)
 Blended and updated with sources:25436 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4362, 25436,19910101,   13,    0
   4362, 25436,19910102,   41,    0
   4362, 25436,19910103,   75,    0

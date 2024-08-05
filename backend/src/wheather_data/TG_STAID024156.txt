@@ -18,7 +18,7 @@ This is the blended series of station HOLZGAU, AUSTRIA (STAID: 24156)
 Blended and updated with sources:127663 127676 127689 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24156,127663,19360101,   40,    0
  24156,127663,19360102,   18,    0
  24156,127663,19360103,   40,    0

@@ -18,7 +18,7 @@ This is the blended series of station TOVEHULT, SWEDEN (STAID: 5296)
 Blended and updated with sources:35567 35594 35600 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5296, 35600,19450101,  -32,    1
   5296, 35600,19450102,   36,    1
   5296, 35600,19450103,   37,    1

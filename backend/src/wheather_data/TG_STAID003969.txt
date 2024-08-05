@@ -18,7 +18,7 @@ This is the blended series of station VALENCIA/AEROPUERTO, SPAIN (STAID: 3969)
 Blended and updated with sources:20579 908284 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3969, 20579,19650101,-9999,    9
   3969, 20579,19650102,-9999,    9
   3969, 20579,19650103,-9999,    9

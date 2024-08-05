@@ -18,7 +18,7 @@ This is the blended series of station HELMSTEDT-EMMERSTEDT, GERMANY (STAID: 4094
 Blended and updated with sources:22220 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4094, 22220,20080601,  208,    0
   4094, 22220,20080602,  224,    0
   4094, 22220,20080603,  202,    0

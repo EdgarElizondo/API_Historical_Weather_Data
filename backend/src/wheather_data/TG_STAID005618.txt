@@ -18,7 +18,7 @@ This is the blended series of station SVEG_A, SWEDEN (STAID: 5618)
 Blended and updated with sources:36623 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5618, 36623,20091001,    3,    0
   5618, 36623,20091002,   -2,    0
   5618, 36623,20091003,   -6,    0

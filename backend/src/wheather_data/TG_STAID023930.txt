@@ -18,7 +18,7 @@ This is the blended series of station HOLLABRUNN/SCHOENGRABERN NORD, AUSTRIA (ST
 Blended and updated with sources:124764 124790 134631 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23930,134631,19730401,-9999,    9
  23930,134631,19730402,-9999,    9
  23930,134631,19730403,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station SCHMALENBECK, GERMANY (STAID: 4612)
 Blended and updated with sources:28436 29804 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4612, 28436,19610101,   27,    0
   4612, 28436,19610102,    8,    0
   4612, 28436,19610103,   24,    0

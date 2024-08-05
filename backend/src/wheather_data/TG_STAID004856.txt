@@ -18,7 +18,7 @@ This is the blended series of station SINGEN, GERMANY (STAID: 4856)
 Blended and updated with sources:31364 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4856, 31364,20040701,  166,    0
   4856, 31364,20040702,  156,    0
   4856, 31364,20040703,  158,    0

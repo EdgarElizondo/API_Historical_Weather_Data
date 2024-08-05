@@ -18,7 +18,7 @@ This is the blended series of station KOSCIERZYNA, POLAND (STAID: 25108)
 Blended and updated with sources:139746 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25108,139746,19520101,   -6,    0
  25108,139746,19520102,   16,    0
  25108,139746,19520103,   15,    0

@@ -18,7 +18,7 @@ This is the blended series of station E6 NOESTVET, NORWAY (STAID: 18417)
 Blended and updated with sources:32920 99099 99194 99229 99323 99592 99635 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18417, 99592,20120201,  -88,    0
  18417, 99592,20120202, -103,    0
  18417, 99592,20120203, -145,    0

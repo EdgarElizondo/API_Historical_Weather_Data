@@ -18,7 +18,7 @@ This is the blended series of station TOMASZOW LUBELSKI, POLAND (STAID: 24990)
 Blended and updated with sources:138330 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24990,138330,19510101,  -46,    0
  24990,138330,19510102,  -30,    0
  24990,138330,19510103,   -9,    0

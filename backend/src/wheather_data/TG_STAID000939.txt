@@ -18,7 +18,7 @@ This is the blended series of station LAMIA, GREECE (STAID: 939)
 Blended and updated with sources:16407 916675 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    939, 16407,20010101,   91,    0
    939, 16407,20010102,   80,    0
    939, 16407,20010103,   75,    0

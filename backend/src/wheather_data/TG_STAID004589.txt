@@ -18,7 +18,7 @@ This is the blended series of station SALZGITTER-RINGELHEIM, GERMANY (STAID: 458
 Blended and updated with sources:28160 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4589, 28160,19650101,   40,    0
   4589, 28160,19650102,   23,    0
   4589, 28160,19650103,   12,    0

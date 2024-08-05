@@ -18,7 +18,7 @@ This is the blended series of station BENISSANET, SPAIN (STAID: 11016)
 Blended and updated with sources:56004 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11016, 56004,20080101,    1,    0
  11016, 56004,20080102,   17,    0
  11016, 56004,20080103,   41,    0

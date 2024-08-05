@@ -18,7 +18,7 @@ This is the blended series of station FREDRIKA, SWEDEN (STAID: 5711)
 Blended and updated with sources:36932 36935 902263 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5711, 36935,19610101,  -48,    0
   5711, 36935,19610102,  -82,    0
   5711, 36935,19610103,  -40,    0

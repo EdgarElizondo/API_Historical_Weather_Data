@@ -18,7 +18,7 @@ This is the blended series of station MUNCHEBERG, GERMANY (STAID: 4430)
 Blended and updated with sources:26252 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4430, 26252,19490101,   34,    0
   4430, 26252,19490102,   23,    0
   4430, 26252,19490103,   32,    0

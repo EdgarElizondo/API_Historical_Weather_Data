@@ -18,7 +18,7 @@ This is the blended series of station WYSOWA, POLAND (STAID: 24915)
 Blended and updated with sources:137430 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24915,137430,19610101,  -11,    0
  24915,137430,19610102,   -6,    0
  24915,137430,19610103,   34,    0

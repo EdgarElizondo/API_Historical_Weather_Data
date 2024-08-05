@@ -18,7 +18,7 @@ This is the blended series of station MUNCHEN-PERLACH, GERMANY (STAID: 4434)
 Blended and updated with sources:26264 26300 26312 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4434, 26312,19400101,  -64,    0
   4434, 26312,19400102, -152,    0
   4434, 26312,19400103, -146,    0

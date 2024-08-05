@@ -18,7 +18,7 @@ This is the blended series of station FV37 JOENJILJO, NORWAY (STAID: 18350)
 Blended and updated with sources:99069 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18350, 99069,20140101,-9999,    9
  18350, 99069,20140102,-9999,    9
  18350, 99069,20140103,-9999,    9

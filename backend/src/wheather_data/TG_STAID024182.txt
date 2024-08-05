@@ -18,7 +18,7 @@ This is the blended series of station ALPBACH, AUSTRIA (STAID: 24182)
 Blended and updated with sources:127988 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24182,127988,20071127,-9999,    9
  24182,127988,20071128,  -42,    0
  24182,127988,20071129,   -5,    0

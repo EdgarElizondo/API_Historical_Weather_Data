@@ -18,7 +18,7 @@ This is the blended series of station WYCZECHY, POLAND (STAID: 25079)
 Blended and updated with sources:139398 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25079,139398,19880101,   39,    0
  25079,139398,19880102,   70,    0
  25079,139398,19880103,   74,    0

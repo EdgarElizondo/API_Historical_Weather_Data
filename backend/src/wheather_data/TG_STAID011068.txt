@@ -18,7 +18,7 @@ This is the blended series of station ROSES, SPAIN (STAID: 11068)
 Blended and updated with sources:56472 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11068, 56472,20080101,   57,    0
  11068, 56472,20080102,   68,    0
  11068, 56472,20080103,   88,    0

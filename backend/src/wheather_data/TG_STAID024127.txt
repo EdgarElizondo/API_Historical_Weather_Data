@@ -18,7 +18,7 @@ This is the blended series of station WIESMATH, AUSTRIA (STAID: 24127)
 Blended and updated with sources:127286 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24127,127286,19820701,  143,    0
  24127,127286,19820702,  169,    0
  24127,127286,19820703,  200,    0

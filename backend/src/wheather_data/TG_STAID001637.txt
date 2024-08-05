@@ -18,7 +18,7 @@ This is the blended series of station CWMYSTWYTH, UNITED KINGDOM (STAID: 1637)
 Blended and updated with sources:6940 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1637,  6940,20010101,   54,    0
   1637,  6940,20010102,   58,    0
   1637,  6940,20010103,   44,    0

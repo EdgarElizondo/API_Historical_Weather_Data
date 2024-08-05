@@ -18,7 +18,7 @@ This is the blended series of station KIRKENES LUFTHAVN - HOEYDE 212, NORWAY (ST
 Blended and updated with sources:100639 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18791,100639,20120601,-9999,    9
  18791,100639,20120602,-9999,    9
  18791,100639,20120603,-9999,    9

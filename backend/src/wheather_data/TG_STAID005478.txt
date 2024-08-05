@@ -18,7 +18,7 @@ This is the blended series of station HUSARO, SWEDEN (STAID: 5478)
 Blended and updated with sources:36179 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5478, 36179,19690601,   76,    0
   5478, 36179,19690602,   78,    0
   5478, 36179,19690603,   68,    0

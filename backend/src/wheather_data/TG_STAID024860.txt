@@ -18,7 +18,7 @@ This is the blended series of station PSZCZYNA, POLAND (STAID: 24860)
 Blended and updated with sources:136770 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24860,136770,19560101,    4,    1
  24860,136770,19560102,   16,    1
  24860,136770,19560103,  -15,    1

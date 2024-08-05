@@ -18,7 +18,7 @@ This is the blended series of station SENJA - LAUKHELLA, NORWAY (STAID: 18939)
 Blended and updated with sources:100806 901014 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18939,100806,19970801,-9999,    9
  18939,100806,19970802,-9999,    9
  18939,100806,19970803,-9999,    9

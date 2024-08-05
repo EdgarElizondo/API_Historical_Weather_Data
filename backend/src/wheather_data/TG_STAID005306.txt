@@ -18,7 +18,7 @@ This is the blended series of station GUNNEBO, SWEDEN (STAID: 5306)
 Blended and updated with sources:35567 35594 35600 35603 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5306, 35603,18590701,-9999,    9
   5306, 35603,18590702,-9999,    9
   5306, 35603,18590703,-9999,    9

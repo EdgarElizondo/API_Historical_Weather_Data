@@ -18,7 +18,7 @@ This is the blended series of station GRONNING, NORWAY (STAID: 5040)
 Blended and updated with sources:33580 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5040, 33580,20220806,   93,    1
   5040, 33580,20220807,  112,    0
   5040, 33580,20220808,  134,    0

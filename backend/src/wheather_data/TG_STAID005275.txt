@@ -18,7 +18,7 @@ This is the blended series of station HESTRA, SWEDEN (STAID: 5275)
 Blended and updated with sources:35501 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5275, 35501,19731101,   -2,    0
   5275, 35501,19731102,   15,    0
   5275, 35501,19731103,   15,    0

@@ -18,7 +18,7 @@ This is the blended series of station FALKENBERG, SWEDEN (STAID: 5247)
 Blended and updated with sources:35396 35408 35411 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5247, 35411,19640201,   36,    0
   5247, 35411,19640202,   14,    0
   5247, 35411,19640203,   30,    0

@@ -18,7 +18,7 @@ This is the blended series of station FV84 GUMPEN, NORWAY (STAID: 18680)
 Blended and updated with sources:99683 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18680, 99683,20140101,  -27,    0
  18680, 99683,20140102,-9999,    9
  18680, 99683,20140103,-9999,    9

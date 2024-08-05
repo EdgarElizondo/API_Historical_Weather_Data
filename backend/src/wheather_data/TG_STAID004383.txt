@@ -18,7 +18,7 @@ This is the blended series of station MALLERSDORF/NIEDERBAYERN, GERMANY (STAID: 
 Blended and updated with sources:25688 31196 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4383, 25688,19530101,  -17,    0
   4383, 25688,19530102,  -11,    0
   4383, 25688,19530103,  -20,    0

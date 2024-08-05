@@ -18,7 +18,7 @@ This is the blended series of station LAA/THAYA, AUSTRIA (STAID: 23937)
 Blended and updated with sources:124855 124868 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23937,124855,19520101,   39,    0
  23937,124855,19520102,   21,    0
  23937,124855,19520103,   18,    0

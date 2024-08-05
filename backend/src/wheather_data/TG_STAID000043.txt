@@ -18,7 +18,7 @@ This is the blended series of station DRESDEN WAHNSDORF, GERMANY (STAID: 43)
 Blended and updated with sources:143 2302 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     43,   143,19170101,   50,    0
     43,   143,19170102,   66,    0
     43,   143,19170103,   51,    0

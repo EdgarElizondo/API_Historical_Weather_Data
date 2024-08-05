@@ -18,7 +18,7 @@ This is the blended series of station BISCHBRUNN, GERMANY (STAID: 4681)
 Blended and updated with sources:29264 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4681, 29264,19670801,  207,    0
   4681, 29264,19670802,  202,    0
   4681, 29264,19670803,  165,    0

@@ -18,7 +18,7 @@ This is the blended series of station FV555 KROSSLEITET, NORWAY (STAID: 18352)
 Blended and updated with sources:10655 99072 99130 901311 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18352, 10655,19551001,-9999,    9
  18352, 10655,19551002,   86,    0
  18352, 10655,19551003,   77,    0

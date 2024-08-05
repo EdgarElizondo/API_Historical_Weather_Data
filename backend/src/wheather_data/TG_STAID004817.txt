@@ -18,7 +18,7 @@ This is the blended series of station BOKEL, GERMANY (STAID: 4817)
 Blended and updated with sources:30896 31604 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4817, 30896,19460101,  -33,    0
   4817, 30896,19460102,  -16,    0
   4817, 30896,19460103,  -24,    0

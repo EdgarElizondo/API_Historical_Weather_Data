@@ -18,7 +18,7 @@ This is the blended series of station HOCHFILZEN, AUSTRIA (STAID: 24817)
 Blended and updated with sources:135177 136217 911366 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24817,135177,19751101,   56,    0
  24817,135177,19751102,   62,    0
  24817,135177,19751103,   71,    0

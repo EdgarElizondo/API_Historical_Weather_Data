@@ -18,7 +18,7 @@ This is the blended series of station RYBNIK, POLAND (STAID: 24955)
 Blended and updated with sources:137910 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24955,137910,19810101,   32,    0
  24955,137910,19810102,   15,    0
  24955,137910,19810103,   34,    0

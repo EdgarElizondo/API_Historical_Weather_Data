@@ -18,7 +18,7 @@ This is the blended series of station TIRVIA, SPAIN (STAID: 16320)
 Blended and updated with sources:90627 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  16320, 90627,20180101,-9999,    9
  16320, 90627,20180102,-9999,    9
  16320, 90627,20180103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station DRESDEN (MITTE), GERMANY (STAID: 11744)
 Blended and updated with sources:80976 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11744, 80976,18280101,   -2,    0
  11744, 80976,18280102,   -2,    0
  11744, 80976,18280103,  -16,    0

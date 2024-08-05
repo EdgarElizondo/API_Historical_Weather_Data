@@ -18,7 +18,7 @@ This is the blended series of station LEIRFLATEN, NORWAY (STAID: 18250)
 Blended and updated with sources:99534 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18250, 99534,20120901,   87,    0
  18250, 99534,20120902,  107,    0
  18250, 99534,20120903,  102,    0

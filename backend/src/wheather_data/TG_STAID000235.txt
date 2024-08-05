@@ -18,7 +18,7 @@ This is the blended series of station TORREVIEJA, SPAIN (STAID: 235)
 Blended and updated with sources:724 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    235,   724,19270101,  100,    0
    235,   724,19270102,   90,    0
    235,   724,19270103,   85,    0

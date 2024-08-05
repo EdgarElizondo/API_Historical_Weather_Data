@@ -18,7 +18,7 @@ This is the blended series of station ZWIESELBERG, GERMANY (STAID: 4805)
 Blended and updated with sources:30740 30752 910796 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4805, 30752,19480101,  -40,    0
   4805, 30752,19480102,   15,    0
   4805, 30752,19480103,   58,    0

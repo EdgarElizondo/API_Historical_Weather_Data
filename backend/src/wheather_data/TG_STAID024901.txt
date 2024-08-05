@@ -18,7 +18,7 @@ This is the blended series of station MORSKIE OKO, POLAND (STAID: 24901)
 Blended and updated with sources:137238 137250 137262 911933 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24901,137250,19910101,  -44,    0
  24901,137250,19910102,  -65,    0
  24901,137250,19910103,   31,    0

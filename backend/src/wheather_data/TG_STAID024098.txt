@@ -18,7 +18,7 @@ This is the blended series of station ABTENAU, AUSTRIA (STAID: 24098)
 Blended and updated with sources:126909 132460 136061 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24098,132460,19630801,  196,    0
  24098,132460,19630802,  194,    0
  24098,132460,19630803,  210,    0

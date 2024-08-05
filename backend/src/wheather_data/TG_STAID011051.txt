@@ -18,7 +18,7 @@ This is the blended series of station MALGRAT DE MAR, SPAIN (STAID: 11051)
 Blended and updated with sources:56319 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11051, 56319,20080101,   40,    0
  11051, 56319,20080102,   67,    0
  11051, 56319,20080103,   95,    0

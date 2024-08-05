@@ -18,7 +18,7 @@ This is the blended series of station CESENATICO_PORTO, ITALY (STAID: 17588)
 Blended and updated with sources:94912 95856 916148 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17588,916148,20060701,  239,    0
  17588,916148,20060702,  247,    0
  17588,916148,20060703,  232,    0

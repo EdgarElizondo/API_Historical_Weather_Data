@@ -18,7 +18,7 @@ This is the blended series of station NAGLARP, SWEDEN (STAID: 5284)
 Blended and updated with sources:35510 35528 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5284, 35510,19590101,   14,    0
   5284, 35510,19590102,   14,    0
   5284, 35510,19590103,    2,    0

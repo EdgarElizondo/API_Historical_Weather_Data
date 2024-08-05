@@ -18,7 +18,7 @@ This is the blended series of station RIDDARHYTTAN, SWEDEN (STAID: 5505)
 Blended and updated with sources:36260 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5505, 36260,19680301,  -34,    0
   5505, 36260,19680302,  -45,    0
   5505, 36260,19680303,  -83,    0

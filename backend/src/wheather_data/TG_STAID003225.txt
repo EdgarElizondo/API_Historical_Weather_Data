@@ -18,7 +18,7 @@ This is the blended series of station SAMARA, RUSSIAN FEDERATION (STAID: 3225)
 Blended and updated with sources:17076 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3225, 17076,19360101, -122,    0
   3225, 17076,19360102, -110,    0
   3225, 17076,19360103,  -70,    0

@@ -18,7 +18,7 @@ This is the blended series of station FINNOEY I HAMAROEY, NORWAY (STAID: 18907)
 Blended and updated with sources:100773 901172 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18907,100773,19720701,  266,    0
  18907,100773,19720702,  252,    0
  18907,100773,19720703,  257,    0

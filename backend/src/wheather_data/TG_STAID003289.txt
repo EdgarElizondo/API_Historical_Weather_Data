@@ -18,7 +18,7 @@ This is the blended series of station ALMATY, KAZAKHSTAN (STAID: 3289)
 Blended and updated with sources:17622 936870 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3289, 17622,19150101,-9999,    9
   3289, 17622,19150102,-9999,    9
   3289, 17622,19150103,-9999,    9

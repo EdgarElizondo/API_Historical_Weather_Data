@@ -18,7 +18,7 @@ This is the blended series of station ESPOO OTANIEMI, FINLAND (STAID: 6995)
 Blended and updated with sources:84 42088 42094 42234 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6995,    84,19510101,  -63,    0
   6995,    84,19510102,  -52,    0
   6995,    84,19510103,  -33,    0

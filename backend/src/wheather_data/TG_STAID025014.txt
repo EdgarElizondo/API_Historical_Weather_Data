@@ -18,7 +18,7 @@ This is the blended series of station LUCMIERZ, POLAND (STAID: 25014)
 Blended and updated with sources:138618 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25014,138618,19880101,   44,    0
  25014,138618,19880102,   62,    0
  25014,138618,19880103,   78,    0

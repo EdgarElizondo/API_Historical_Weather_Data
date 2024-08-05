@@ -18,7 +18,7 @@ This is the blended series of station NAANTALI KESKUSTA, FINLAND (STAID: 6966)
 Blended and updated with sources:41883 41943 41968 41998 42008 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6966, 41943,19590101,    7,    0
   6966, 41943,19590102,    1,    0
   6966, 41943,19590103,   11,    0

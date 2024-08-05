@@ -18,7 +18,7 @@ This is the blended series of station GEVELSBERG-OBERBROKING, GERMANY (STAID: 40
 Blended and updated with sources:22148 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4088, 22148,20080501,   92,    0
   4088, 22148,20080502,   96,    0
   4088, 22148,20080503,  113,    0

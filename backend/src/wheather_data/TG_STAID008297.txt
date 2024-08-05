@@ -18,7 +18,7 @@ This is the blended series of station DZHIKIMDA, RUSSIAN FEDERATION (STAID: 8297
 Blended and updated with sources:50643 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8297, 50643,19390101,-9999,    9
   8297, 50643,19390102,-9999,    9
   8297, 50643,19390103,-9999,    9

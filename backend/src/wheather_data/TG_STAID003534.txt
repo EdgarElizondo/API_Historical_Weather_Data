@@ -18,7 +18,7 @@ This is the blended series of station GADDEDE A, SWEDEN (STAID: 3534)
 Blended and updated with sources:36995 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3534, 36995,20080101,  -59,    0
   3534, 36995,20080102,  -22,    0
   3534, 36995,20080103,  -50,    0

@@ -18,7 +18,7 @@ This is the blended series of station FREUDENBERG/MAIN-BOXTAL, GERMANY (STAID: 4
 Blended and updated with sources:31868 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4898, 31868,20041201,   42,    0
   4898, 31868,20041202,   43,    0
   4898, 31868,20041203,   43,    0

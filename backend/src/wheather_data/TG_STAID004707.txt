@@ -18,7 +18,7 @@ This is the blended series of station GOLLHOFEN, GERMANY (STAID: 4707)
 Blended and updated with sources:29576 29972 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4707, 29576,19510301,   -4,    0
   4707, 29576,19510302,  -21,    0
   4707, 29576,19510303,  -41,    0

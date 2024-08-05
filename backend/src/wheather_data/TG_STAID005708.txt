@@ -18,7 +18,7 @@ This is the blended series of station ALMDALEN, SWEDEN (STAID: 5708)
 Blended and updated with sources:36926 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5708, 36926,19641201,  -95,    0
   5708, 36926,19641202,  -79,    0
   5708, 36926,19641203,  -38,    0

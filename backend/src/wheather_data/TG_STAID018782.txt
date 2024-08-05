@@ -18,7 +18,7 @@ This is the blended series of station HOELAND - LOEKEN, NORWAY (STAID: 18782)
 Blended and updated with sources:100630 100699 100844 118118 901496 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18782,100699,19720701,  194,    0
  18782,100699,19720702,  149,    0
  18782,100699,19720703,  135,    0

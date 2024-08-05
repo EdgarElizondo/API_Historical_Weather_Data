@@ -18,7 +18,7 @@ This is the blended series of station EUROPLATFORM        , NETHERLANDS (STAID: 
 Blended and updated with sources:13734 906321 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3189, 13734,19960701,  137,    0
   3189, 13734,19960702,  138,    0
   3189, 13734,19960703,  150,    0

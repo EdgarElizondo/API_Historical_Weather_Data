@@ -18,7 +18,7 @@ This is the blended series of station SALA, SWEDEN (STAID: 5518)
 Blended and updated with sources:36302 36305 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5518, 36302,19701025,   41,    0
   5518, 36302,19701026,    6,    0
   5518, 36302,19701027,   16,    0

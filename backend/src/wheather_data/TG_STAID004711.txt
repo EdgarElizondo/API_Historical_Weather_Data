@@ -18,7 +18,7 @@ This is the blended series of station UTTENREUTH, GERMANY (STAID: 4711)
 Blended and updated with sources:2382 21884 21896 29624 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4711,  2382,18790101,   78,    0
   4711,  2382,18790102,   47,    0
   4711,  2382,18790103,   20,    0

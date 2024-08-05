@@ -18,7 +18,7 @@ This is the blended series of station ASSLAR KLEIN-ALTENSTADTEN, GERMANY (STAID:
 Blended and updated with sources:23588 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4208, 23588,19810901,  130,    0
   4208, 23588,19810902,  152,    0
   4208, 23588,19810903,  123,    0

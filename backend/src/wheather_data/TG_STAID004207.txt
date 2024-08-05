@@ -18,7 +18,7 @@ This is the blended series of station HEINSBERG-SCHLEIDEN, GERMANY (STAID: 4207)
 Blended and updated with sources:23576 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4207, 23576,19630101,  -44,    0
   4207, 23576,19630102,  -35,    0
   4207, 23576,19630103,   -7,    0

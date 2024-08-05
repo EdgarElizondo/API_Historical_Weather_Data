@@ -18,7 +18,7 @@ This is the blended series of station STENDE, LATVIA (STAID: 8896)
 Blended and updated with sources:119042 926318 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8896,119042,19230901,  141,    0
   8896,119042,19230902,  116,    0
   8896,119042,19230903,  121,    0

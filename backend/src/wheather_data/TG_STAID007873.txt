@@ -18,7 +18,7 @@ This is the blended series of station ENONTEKIO KILPISJARVI SAANA, FINLAND (STAI
 Blended and updated with sources:46621 902701 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7873, 46621,19911001,-9999,    9
   7873, 46621,19911002,  -25,    0
   7873, 46621,19911003,  -22,    0

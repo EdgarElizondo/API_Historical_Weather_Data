@@ -18,7 +18,7 @@ This is the blended series of station RHEINAU-MEMPRECHTSHOFEN, GERMANY (STAID: 4
 Blended and updated with sources:27752 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4555, 27752,19580101,   30,    0
   4555, 27752,19580102,   18,    0
   4555, 27752,19580103,   -3,    0

@@ -18,7 +18,7 @@ This is the blended series of station BOL'SHERECK, RUSSIAN FEDERATION (STAID: 85
 Blended and updated with sources:51713 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8511, 51713,19660101,  -75,    0
   8511, 51713,19660102,  -51,    0
   8511, 51713,19660103, -118,    0

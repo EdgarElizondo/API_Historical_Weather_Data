@@ -18,7 +18,7 @@ This is the blended series of station STABBO, SWEDEN (STAID: 5430)
 Blended and updated with sources:36002 36008 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5430, 36008,19701001,-9999,    9
   5430, 36008,19701002,  101,    1
   5430, 36008,19701003,   95,    1

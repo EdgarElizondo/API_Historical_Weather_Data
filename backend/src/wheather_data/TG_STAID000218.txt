@@ -18,7 +18,7 @@ This is the blended series of station BAIA MARE, ROMANIA (STAID: 218)
 Blended and updated with sources:870 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    218,   870,19210101,-9999,    9
    218,   870,19210102,-9999,    9
    218,   870,19210103,-9999,    9

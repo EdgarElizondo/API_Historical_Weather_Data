@@ -18,7 +18,7 @@ This is the blended series of station MEDOW-WUSSENTIN, GERMANY (STAID: 4832)
 Blended and updated with sources:22880 31076 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4832, 31076,19980901,  130,    0
   4832, 31076,19980902,  136,    0
   4832, 31076,19980903,  140,    0

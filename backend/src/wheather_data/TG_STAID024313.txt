@@ -18,7 +18,7 @@ This is the blended series of station FLATTNITZ, AUSTRIA (STAID: 24313)
 Blended and updated with sources:129678 132798 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24313,132798,19700901,   92,    0
  24313,132798,19700902,   98,    0
  24313,132798,19700903,  105,    0

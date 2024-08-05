@@ -18,7 +18,7 @@ This is the blended series of station SYFTELAND, NORWAY (STAID: 18769)
 Blended and updated with sources:99337 100585 100614 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18769,100614,19570101,  -16,    0
  18769,100614,19570102,  -59,    0
  18769,100614,19570103,   13,    0

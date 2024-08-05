@@ -18,7 +18,7 @@ This is the blended series of station TROMSO - HOLT, NORWAY (STAID: 18020)
 Blended and updated with sources:34900 99181 99703 100836 100853 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18020,100853,19000101,  -25,    0
  18020,100853,19000102,  -47,    0
  18020,100853,19000103,  -67,    0

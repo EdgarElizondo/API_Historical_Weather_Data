@@ -18,7 +18,7 @@ This is the blended series of station VISBY, SWEDEN (STAID: 465)
 Blended and updated with sources:35564 35579 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    465, 35564,18590801,  178,    1
    465, 35564,18590802,  172,    1
    465, 35564,18590803,  171,    1

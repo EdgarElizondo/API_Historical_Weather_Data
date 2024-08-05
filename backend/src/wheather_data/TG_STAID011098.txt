@@ -18,7 +18,7 @@ This is the blended series of station RANHEIM, NORWAY (STAID: 11098)
 Blended and updated with sources:56789 99266 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11098, 56789,20121001,-9999,    9
  11098, 56789,20121002,-9999,    9
  11098, 56789,20121003,-9999,    9

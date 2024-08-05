@@ -18,7 +18,7 @@ This is the blended series of station FARNETA CENTRALE, ITALY (STAID: 2811)
 Blended and updated with sources:95248 97840 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2811, 95248,20051201,-9999,    9
   2811, 95248,20051202,-9999,    9
   2811, 95248,20051203,-9999,    9

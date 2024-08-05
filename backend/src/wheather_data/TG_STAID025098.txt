@@ -18,7 +18,7 @@ This is the blended series of station NOWY CYDZYN, POLAND (STAID: 25098)
 Blended and updated with sources:139614 139626 139638 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25098,139614,19810101,   18,    0
  25098,139614,19810102,   -2,    0
  25098,139614,19810103,   -2,    0

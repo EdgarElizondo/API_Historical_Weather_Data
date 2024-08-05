@@ -18,7 +18,7 @@ This is the blended series of station WURZBURG, GERMANY (STAID: 489)
 Blended and updated with sources:2358 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    489,  2358,19470101,  -28,    0
    489,  2358,19470102,   -6,    0
    489,  2358,19470103,   -7,    0

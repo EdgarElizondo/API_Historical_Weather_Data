@@ -18,7 +18,7 @@ This is the blended series of station HAUKELISETER TESTFELT, NORWAY (STAID: 2006
 Blended and updated with sources:99240 106022 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20066, 99240,20130801,-9999,    9
  20066, 99240,20130802,-9999,    9
  20066, 99240,20130803,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station VINGER, NORWAY (STAID: 19015)
 Blended and updated with sources:99254 100897 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19015,100897,19570101,  -53,    0
  19015,100897,19570102,  -63,    0
  19015,100897,19570103,  -80,    0

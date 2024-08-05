@@ -18,7 +18,7 @@ This is the blended series of station OSTMARK-ASARNA, SWEDEN (STAID: 11208)
 Blended and updated with sources:71325 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11208, 71325,20131101,   55,    0
  11208, 71325,20131102,   30,    0
  11208, 71325,20131103,   29,    0

@@ -18,7 +18,7 @@ This is the blended series of station E6 MALVIK, NORWAY (STAID: 18671)
 Blended and updated with sources:11042 99663 100661 100797 901257 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18671, 11042,19230101,   -6,    0
  18671, 11042,19230102,   -3,    0
  18671, 11042,19230103,   52,    0

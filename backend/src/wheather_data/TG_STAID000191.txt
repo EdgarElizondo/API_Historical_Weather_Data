@@ -18,7 +18,7 @@ This is the blended series of station KJOEREMSGRENDE, NORWAY (STAID: 191)
 Blended and updated with sources:595 99380 100994 901233 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    191,100994,19000101,  -39,    1
    191,100994,19000102,  -92,    0
    191,100994,19000103,  -94,    0

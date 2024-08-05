@@ -18,7 +18,7 @@ This is the blended series of station MALIN HEAD, IRELAND (STAID: 122)
 Blended and updated with sources:456 903980 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    122,   456,19550101,-9999,    9
    122,   456,19550102,-9999,    9
    122,   456,19550103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station SMIDOVICH, RUSSIAN FEDERATION (STAID: 8451
 Blended and updated with sources:51413 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8451, 51413,19590101, -252,    0
   8451, 51413,19590102, -275,    0
   8451, 51413,19590103, -307,    0

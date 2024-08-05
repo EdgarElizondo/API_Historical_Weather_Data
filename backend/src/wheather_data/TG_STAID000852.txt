@@ -18,7 +18,7 @@ This is the blended series of station DEBRECEN AIRPORT, HUNGARY (STAID: 852)
 Blended and updated with sources:52437 912882 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    852, 52437,19010101, -117,    0
    852, 52437,19010102, -111,    0
    852, 52437,19010103, -130,    0

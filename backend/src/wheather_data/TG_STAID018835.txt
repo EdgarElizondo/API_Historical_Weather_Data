@@ -18,7 +18,7 @@ This is the blended series of station VENNAFJELL, NORWAY (STAID: 18835)
 Blended and updated with sources:100694 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18835,100694,19580601,  112,    0
  18835,100694,19580602,  115,    0
  18835,100694,19580603,   79,    0

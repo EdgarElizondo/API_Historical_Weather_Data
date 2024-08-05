@@ -18,7 +18,7 @@ This is the blended series of station REZEKNE, LATVIA (STAID: 21959)
 Blended and updated with sources:118934 118946 926446 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21959,118934,19470901,-9999,    9
  21959,118934,19470902,-9999,    9
  21959,118934,19470903,-9999,    9

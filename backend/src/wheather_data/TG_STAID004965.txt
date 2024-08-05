@@ -18,7 +18,7 @@ This is the blended series of station DARMSTADT-BOTANISCHER GARTEN, GERMANY (STA
 Blended and updated with sources:32648 32672 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4965, 32672,19370201,-9999,    9
   4965, 32672,19370202,-9999,    9
   4965, 32672,19370203,   49,    0

@@ -18,7 +18,7 @@ This is the blended series of station DRAMMEN - MARIENLYST, NORWAY (STAID: 18895
 Blended and updated with sources:99065 99104 99508 100761 901477 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18895,100761,19660501,   26,    0
  18895,100761,19660502,   12,    0
  18895,100761,19660503,   13,    0

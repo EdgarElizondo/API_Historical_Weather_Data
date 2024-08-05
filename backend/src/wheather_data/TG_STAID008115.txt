@@ -18,7 +18,7 @@ This is the blended series of station KREST-XAL'DZHAJ, RUSSIAN FEDERATION (STAID
 Blended and updated with sources:48733 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8115, 48733,19660101, -374,    0
   8115, 48733,19660102, -444,    0
   8115, 48733,19660103, -444,    0

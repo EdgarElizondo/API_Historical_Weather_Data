@@ -18,7 +18,7 @@ This is the blended series of station METZINGEN, GERMANY (STAID: 4411)
 Blended and updated with sources:26024 27740 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4411, 27740,19880501,  146,    0
   4411, 27740,19880502,  138,    0
   4411, 27740,19880503,  136,    0

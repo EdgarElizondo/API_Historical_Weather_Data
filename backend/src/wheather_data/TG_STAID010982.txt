@@ -18,7 +18,7 @@ This is the blended series of station F3-FB-1, NETHERLANDS (STAID: 10982)
 Blended and updated with sources:55462 906239 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  10982,906239,20090301,-9999,    9
  10982,906239,20090302,-9999,    9
  10982,906239,20090303,-9999,    9

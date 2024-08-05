@@ -18,7 +18,7 @@ This is the blended series of station ERSHOV, RUSSIAN FEDERATION (STAID: 2276)
 Blended and updated with sources:51828 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2276, 51828,19360101, -170,    0
   2276, 51828,19360102, -131,    0
   2276, 51828,19360103, -108,    0

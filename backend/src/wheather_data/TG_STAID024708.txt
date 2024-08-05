@@ -18,7 +18,7 @@ This is the blended series of station LANGENLOIS, AUSTRIA (STAID: 24708)
 Blended and updated with sources:134722 134800 911075 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24708,134722,19360101,   38,    0
  24708,134722,19360102,   33,    0
  24708,134722,19360103,   34,    0

@@ -18,7 +18,7 @@ This is the blended series of station KRUUNUPYY LENTOASEMA, FINLAND (STAID: 7580
 Blended and updated with sources:45100 902903 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7580, 45100,19610101,  -49,    0
   7580, 45100,19610102,  -49,    0
   7580, 45100,19610103,  -18,    0

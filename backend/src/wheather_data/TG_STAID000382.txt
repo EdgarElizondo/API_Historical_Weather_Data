@@ -18,7 +18,7 @@ This is the blended series of station BAJRAMALY, TURKMENISTAN (STAID: 382)
 Blended and updated with sources:17727 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    382, 17727,18890801,  297,    1
    382, 17727,18890802,  298,    1
    382, 17727,18890803,  253,    1

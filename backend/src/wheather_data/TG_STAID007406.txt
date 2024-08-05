@@ -18,7 +18,7 @@ This is the blended series of station VAASA VAASAN LENTOASEMA, FINLAND (STAID: 7
 Blended and updated with sources:44210 44225 44300 44310 44315 902911 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7406, 44210,19590101,   -7,    0
   7406, 44210,19590102,  -40,    0
   7406, 44210,19590103,  -39,    0

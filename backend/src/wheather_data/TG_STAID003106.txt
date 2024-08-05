@@ -18,7 +18,7 @@ This is the blended series of station ISHIM, RUSSIAN FEDERATION (STAID: 3106)
 Blended and updated with sources:49928 928573 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3106, 49928,19360101,  -83,    0
   3106, 49928,19360102,  -65,    0
   3106, 49928,19360103, -121,    0

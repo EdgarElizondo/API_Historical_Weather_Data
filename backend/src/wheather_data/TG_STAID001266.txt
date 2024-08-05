@@ -18,7 +18,7 @@ This is the blended series of station BEZENCHUK, RUSSIAN FEDERATION (STAID: 1266
 Blended and updated with sources:49653 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1266, 49653,19040101, -119,    0
   1266, 49653,19040102,-9999,    9
   1266, 49653,19040103, -215,    0

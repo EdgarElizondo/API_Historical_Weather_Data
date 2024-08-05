@@ -18,7 +18,7 @@ This is the blended series of station OCHSENHAUSEN-MITTELBUCH, GERMANY (STAID: 4
 Blended and updated with sources:26972 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4490, 26972,19880601,  109,    1
   4490, 26972,19880602,  123,    1
   4490, 26972,19880603,  160,    1

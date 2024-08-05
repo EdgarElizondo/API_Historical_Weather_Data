@@ -18,7 +18,7 @@ This is the blended series of station GRODKOW, POLAND (STAID: 24943)
 Blended and updated with sources:137766 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24943,137766,19610101,   -8,    0
  24943,137766,19610102,  -15,    0
  24943,137766,19610103,   23,    0

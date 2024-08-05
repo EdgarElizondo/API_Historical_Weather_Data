@@ -18,7 +18,7 @@ This is the blended series of station ULVHALL, SWEDEN (STAID: 5469)
 Blended and updated with sources:36146 36164 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5469, 36146,19610101,   -4,    0
   5469, 36146,19610102,   -1,    0
   5469, 36146,19610103,   14,    0

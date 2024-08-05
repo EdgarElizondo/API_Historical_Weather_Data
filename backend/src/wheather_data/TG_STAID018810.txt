@@ -18,7 +18,7 @@ This is the blended series of station VARDEN - FILEFJELL, NORWAY (STAID: 18810)
 Blended and updated with sources:99631 100660 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18810,100660,19670201, -120,    0
  18810,100660,19670202, -128,    0
  18810,100660,19670203, -127,    0

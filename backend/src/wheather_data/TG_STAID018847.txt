@@ -18,7 +18,7 @@ This is the blended series of station LEVAJOK - EVJEN, NORWAY (STAID: 18847)
 Blended and updated with sources:100705 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18847,100705,19671001,   15,    0
  18847,100705,19671002,   42,    0
  18847,100705,19671003,   92,    0

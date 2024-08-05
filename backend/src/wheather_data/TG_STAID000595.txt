@@ -18,7 +18,7 @@ This is the blended series of station SOESTERBERG, NETHERLANDS (STAID: 595)
 Blended and updated with sources:521 2129 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    595,   521,19010101,  -49,    0
    595,   521,19010102,  -18,    0
    595,   521,19010103,  -26,    0

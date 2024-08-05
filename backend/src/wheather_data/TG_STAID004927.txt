@@ -18,7 +18,7 @@ This is the blended series of station LEUTKIRCH-HERLAZHOFEN, GERMANY (STAID: 492
 Blended and updated with sources:32216 910945 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4927, 32216,20070401,-9999,    9
   4927, 32216,20070402,   88,    0
   4927, 32216,20070403,   58,    0

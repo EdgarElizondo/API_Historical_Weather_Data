@@ -18,7 +18,7 @@ This is the blended series of station MONDSEE, AUSTRIA (STAID: 24499)
 Blended and updated with sources:132096 134202 136035 911153 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24499,136035,19360101,   -3,    0
  24499,136035,19360102,   15,    0
  24499,136035,19360103,   50,    0

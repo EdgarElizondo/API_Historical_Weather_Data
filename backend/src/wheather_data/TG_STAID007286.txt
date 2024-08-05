@@ -18,7 +18,7 @@ This is the blended series of station MANTTA KPKI, FINLAND (STAID: 7286)
 Blended and updated with sources:43599 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7286, 43599,19700101,-9999,    9
   7286, 43599,19700102,-9999,    9
   7286, 43599,19700103,-9999,    9

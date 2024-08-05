@@ -18,7 +18,7 @@ This is the blended series of station OSTMARK-ROJDASEN, SWEDEN (STAID: 5545)
 Blended and updated with sources:36386 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5545, 36386,19880801,  124,    0
   5545, 36386,19880802,  111,    0
   5545, 36386,19880803,  121,    0

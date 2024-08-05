@@ -18,7 +18,7 @@ This is the blended series of station WIEN-HOHE WARTE HANNHUETTE, AUSTRIA (STAID
 Blended and updated with sources:42 119155 126090 130874 130926 135424 911035 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24409,126090,17750401,-9999,    9
  24409,126090,17750402,-9999,    9
  24409,126090,17750403,-9999,    9

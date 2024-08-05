@@ -18,7 +18,7 @@ This is the blended series of station GRANADA, SPAIN (STAID: 417)
 Blended and updated with sources:20093 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    417, 20093,19371201,-9999,    9
    417, 20093,19371202,-9999,    9
    417, 20093,19371203,-9999,    9

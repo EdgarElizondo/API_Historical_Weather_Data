@@ -18,7 +18,7 @@ This is the blended series of station GULLFAKS C, NORWAY (STAID: 18163)
 Blended and updated with sources:99278 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18163, 99278,19891101,   89,    0
  18163, 99278,19891102,   99,    0
  18163, 99278,19891103,   93,    0

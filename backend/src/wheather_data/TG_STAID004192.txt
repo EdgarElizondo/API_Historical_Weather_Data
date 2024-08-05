@@ -18,7 +18,7 @@ This is the blended series of station ASCHAFFENBURG, GERMANY (STAID: 4192)
 Blended and updated with sources:23396 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4192, 23396,19470101,  -20,    0
   4192, 23396,19470102,   -2,    0
   4192, 23396,19470103,    1,    0

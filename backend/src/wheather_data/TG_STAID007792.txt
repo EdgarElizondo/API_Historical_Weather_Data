@@ -18,7 +18,7 @@ This is the blended series of station ROVANIEMEN MLK MELTAUS, FINLAND (STAID: 77
 Blended and updated with sources:46210 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7792, 46210,19610101,  -66,    0
   7792, 46210,19610102,  -68,    0
   7792, 46210,19610103,  -52,    0

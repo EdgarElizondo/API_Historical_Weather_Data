@@ -18,7 +18,7 @@ This is the blended series of station DZHANA, RUSSIAN FEDERATION (STAID: 8407)
 Blended and updated with sources:51193 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8407, 51193,19590101, -306,    0
   8407, 51193,19590102, -283,    0
   8407, 51193,19590103, -290,    0

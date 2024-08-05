@@ -18,7 +18,7 @@ This is the blended series of station BOFFZEN, GERMANY (STAID: 4811)
 Blended and updated with sources:30824 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4811, 30824,19920501,   78,    0
   4811, 30824,19920502,   90,    0
   4811, 30824,19920503,   92,    0

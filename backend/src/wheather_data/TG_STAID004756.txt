@@ -18,7 +18,7 @@ This is the blended series of station WERL, GERMANY (STAID: 4756)
 Blended and updated with sources:30164 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4756, 30164,20030910,  125,    0
   4756, 30164,20030911,  131,    0
   4756, 30164,20030912,  148,    0

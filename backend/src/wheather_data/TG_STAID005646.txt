@@ -18,7 +18,7 @@ This is the blended series of station BORTNAN_A, SWEDEN (STAID: 5646)
 Blended and updated with sources:36716 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5646, 36716,19951201,-9999,    9
   5646, 36716,19951202,-9999,    9
   5646, 36716,19951203,-9999,    9

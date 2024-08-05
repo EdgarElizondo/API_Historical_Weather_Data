@@ -18,7 +18,7 @@ This is the blended series of station DYCE, UNITED KINGDOM (STAID: 1825)
 Blended and updated with sources:7019 903091 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1825,  7019,19600101,   62,    1
   1825,  7019,19600102,    0,    0
   1825,  7019,19600103,   25,    0

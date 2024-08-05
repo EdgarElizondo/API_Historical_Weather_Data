@@ -18,7 +18,7 @@ This is the blended series of station KOKKOLA HOLLIHAKA, FINLAND (STAID: 7591)
 Blended and updated with sources:45085 45155 902852 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7591, 45085,19910101,  -47,    0
   7591, 45085,19910102,  -82,    0
   7591, 45085,19910103,  -35,    0

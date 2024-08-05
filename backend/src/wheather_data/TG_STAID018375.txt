@@ -18,7 +18,7 @@ This is the blended series of station FV863 GAMNES, NORWAY (STAID: 18375)
 Blended and updated with sources:99118 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18375, 99118,20150301,-9999,    9
  18375, 99118,20150302,-9999,    9
  18375, 99118,20150303,-9999,    9

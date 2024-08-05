@@ -18,7 +18,7 @@ This is the blended series of station CELJE-MEDLOG, SLOVENIA (STAID: 3333)
 Blended and updated with sources:15178 914023 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3333, 15178,20090101,  -44,    0
   3333, 15178,20090102,  -31,    0
   3333, 15178,20090103,  -58,    0

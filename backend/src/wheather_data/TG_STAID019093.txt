@@ -18,7 +18,7 @@ This is the blended series of station NORDRE EIGEROEY, NORWAY (STAID: 19093)
 Blended and updated with sources:99386 100986 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19093,100986,19690901,  118,    0
  19093,100986,19690902,  118,    0
  19093,100986,19690903,  126,    0

@@ -18,7 +18,7 @@ This is the blended series of station ENNS, AUSTRIA (STAID: 23990)
 Blended and updated with sources:125531 125596 134462 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23990,125531,19480101,-9999,    9
  23990,125531,19480102,-9999,    9
  23990,125531,19480103,-9999,    9

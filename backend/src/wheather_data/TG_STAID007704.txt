@@ -18,7 +18,7 @@ This is the blended series of station PUOLANKA RASINKYLA-1, FINLAND (STAID: 7704
 Blended and updated with sources:45750 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7704, 45750,19871101,   24,    0
   7704, 45750,19871102,  -13,    0
   7704, 45750,19871103,   -3,    0

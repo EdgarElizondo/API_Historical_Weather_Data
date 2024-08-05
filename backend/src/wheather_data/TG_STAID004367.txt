@@ -18,7 +18,7 @@ This is the blended series of station LOHR/MAIN-STEINBACH, GERMANY (STAID: 4367)
 Blended and updated with sources:25496 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4367, 25496,19470101,  -22,    0
   4367, 25496,19470102,   -9,    0
   4367, 25496,19470103,   -6,    0

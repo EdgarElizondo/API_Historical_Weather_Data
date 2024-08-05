@@ -18,7 +18,7 @@ This is the blended series of station JERUSALEM CENTRAL, ISRAEL (STAID: 132)
 Blended and updated with sources:851 852 20633 940183 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    132,   851,19500101,   84,    0
    132,   851,19500102,   86,    0
    132,   851,19500103,  114,    0

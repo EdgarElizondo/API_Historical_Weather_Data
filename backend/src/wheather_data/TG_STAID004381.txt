@@ -18,7 +18,7 @@ This is the blended series of station MAINZ-LERCHENBERG (ZDF), GERMANY (STAID: 4
 Blended and updated with sources:25664 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4381, 25664,19480101,   16,    0
   4381, 25664,19480102,  100,    0
   4381, 25664,19480103,  125,    0

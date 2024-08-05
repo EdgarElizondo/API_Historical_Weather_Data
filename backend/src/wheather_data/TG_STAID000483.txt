@@ -18,7 +18,7 @@ This is the blended series of station DRESDEN-KLOTZSCHE, GERMANY (STAID: 483)
 Blended and updated with sources:143 2302 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    483,   143,19170101,   50,    1
    483,   143,19170102,   66,    1
    483,   143,19170103,   51,    1

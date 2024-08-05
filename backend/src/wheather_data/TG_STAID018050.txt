@@ -18,7 +18,7 @@ This is the blended series of station NJOS, NORWAY (STAID: 18050)
 Blended and updated with sources:99425 99692 100662 100703 901338 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18050,100703,19540101,   22,    0
  18050,100703,19540102,   62,    0
  18050,100703,19540103,   27,    0

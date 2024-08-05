@@ -18,7 +18,7 @@ This is the blended series of station GIESSEN (LAHNTAL), GERMANY (STAID: 4145)
 Blended and updated with sources:22832 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4145, 22832,19490101,   52,    0
   4145, 22832,19490102,   24,    0
   4145, 22832,19490103,   17,    0

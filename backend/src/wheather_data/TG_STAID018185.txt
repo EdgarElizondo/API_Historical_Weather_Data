@@ -18,7 +18,7 @@ This is the blended series of station HOVDEN - LUNDANE, NORWAY (STAID: 18185)
 Blended and updated with sources:99349 901441 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18185,901441,19941101,-9999,    9
  18185,901441,19941102,-9999,    9
  18185,901441,19941103,-9999,    9

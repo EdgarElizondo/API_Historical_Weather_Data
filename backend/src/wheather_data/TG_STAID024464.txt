@@ -18,7 +18,7 @@ This is the blended series of station ADMONT-MOORWIRTSCHAFT, AUSTRIA (STAID: 244
 Blended and updated with sources:131641 131693 136074 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24464,136074,18950701,-9999,    9
  24464,136074,18950702,-9999,    9
  24464,136074,18950703,-9999,    9

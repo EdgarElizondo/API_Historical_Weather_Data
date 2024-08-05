@@ -18,7 +18,7 @@ This is the blended series of station PRESTON: MOOR PARK, UNITED KINGDOM (STAID:
 Blended and updated with sources:7000 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1806,  7000,19600101,   88,    1
   1806,  7000,19600102,   39,    0
   1806,  7000,19600103,   70,    0

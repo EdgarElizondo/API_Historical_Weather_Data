@@ -18,7 +18,7 @@ This is the blended series of station GALLSPACH, AUSTRIA (STAID: 24490)
 Blended and updated with sources:131979 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24490,131979,19900601,  151,    0
  24490,131979,19900602,  152,    0
  24490,131979,19900603,  138,    0

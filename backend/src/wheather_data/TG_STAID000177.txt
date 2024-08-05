@@ -18,7 +18,7 @@ This is the blended series of station VERONA VILLAFRANCA, ITALY (STAID: 177)
 Blended and updated with sources:861 916090 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    177,   861,19510101,   11,    0
    177,   861,19510102,   27,    0
    177,   861,19510103,   36,    0

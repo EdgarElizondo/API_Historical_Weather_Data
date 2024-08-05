@@ -18,7 +18,7 @@ This is the blended series of station NYKOPINGS_FLYGPLATS, SWEDEN (STAID: 5412)
 Blended and updated with sources:35951 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5412, 35951,19440101,  -28,    0
   5412, 35951,19440102,  -77,    0
   5412, 35951,19440103,  -35,    0

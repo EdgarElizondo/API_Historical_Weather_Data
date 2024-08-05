@@ -18,7 +18,7 @@ This is the blended series of station OBERLEIS, AUSTRIA (STAID: 23939)
 Blended and updated with sources:124881 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23939,124881,19480101,  -39,    0
  23939,124881,19480102,   -5,    0
  23939,124881,19480103,   69,    0

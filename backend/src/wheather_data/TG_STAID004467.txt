@@ -18,7 +18,7 @@ This is the blended series of station NIDEGGEN-SCHMIDT, GERMANY (STAID: 4467)
 Blended and updated with sources:26696 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4467, 26696,19940101,   15,    0
   4467, 26696,19940102,   48,    0
   4467, 26696,19940103,   64,    0

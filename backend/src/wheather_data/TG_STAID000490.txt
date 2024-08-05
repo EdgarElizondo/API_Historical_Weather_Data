@@ -18,7 +18,7 @@ This is the blended series of station HOF, GERMANY (STAID: 490)
 Blended and updated with sources:2366 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    490,  2366,19470101,  -56,    0
    490,  2366,19470102,  -37,    0
    490,  2366,19470103,  -52,    0

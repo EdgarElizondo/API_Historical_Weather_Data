@@ -18,7 +18,7 @@ This is the blended series of station BREMEN-SEEFAHRTSCHULE, GERMANY (STAID: 488
 Blended and updated with sources:138 31700 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4884,   138,18900101,  -44,    0
   4884,   138,18900102,  -46,    0
   4884,   138,18900103,  -19,    0

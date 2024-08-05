@@ -18,7 +18,7 @@ This is the blended series of station STARE OLESNO, POLAND (STAID: 24951)
 Blended and updated with sources:137862 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24951,137862,19810101,   24,    0
  24951,137862,19810102,    6,    0
  24951,137862,19810103,   26,    0

@@ -18,7 +18,7 @@ This is the blended series of station EDEBACK, SWEDEN (STAID: 5523)
 Blended and updated with sources:36317 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5523, 36317,19450101,  -76,    0
   5523, 36317,19450102,  -17,    0
   5523, 36317,19450103,  -32,    0

@@ -18,7 +18,7 @@ This is the blended series of station ITZEHOE, GERMANY (STAID: 4261)
 Blended and updated with sources:24224 910142 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4261, 24224,19880301,-9999,    9
   4261, 24224,19880302,-9999,    9
   4261, 24224,19880303,-9999,    9

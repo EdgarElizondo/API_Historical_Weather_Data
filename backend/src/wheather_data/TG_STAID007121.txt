@@ -18,7 +18,7 @@ This is the blended series of station HAUHO HAHKIALA, FINLAND (STAID: 7121)
 Blended and updated with sources:42764 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7121, 42764,19640501,   51,    0
   7121, 42764,19640502,   54,    0
   7121, 42764,19640503,   54,    0

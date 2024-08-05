@@ -18,7 +18,7 @@ This is the blended series of station RUJIENA, LATVIA (STAID: 21961)
 Blended and updated with sources:118994 926238 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21961,118994,19260701,  180,    1
  21961,118994,19260702,  201,    1
  21961,118994,19260703,  210,    1

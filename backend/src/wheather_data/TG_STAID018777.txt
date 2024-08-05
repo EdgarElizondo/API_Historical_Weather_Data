@@ -18,7 +18,7 @@ This is the blended series of station BARENTSBURG, SVALBARD AND JAN MAYEN (STAID
 Blended and updated with sources:100624 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18777,100624,20140901,   30,    0
  18777,100624,20140902,   33,    0
  18777,100624,20140903,   35,    0

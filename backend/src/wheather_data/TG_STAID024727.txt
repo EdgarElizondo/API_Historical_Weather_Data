@@ -18,7 +18,7 @@ This is the blended series of station RADSTADT-TANDALIER, AUSTRIA (STAID: 24727)
 Blended and updated with sources:135047 911208 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24727,135047,19360101,    5,    0
  24727,135047,19360102,   35,    0
  24727,135047,19360103,   38,    0

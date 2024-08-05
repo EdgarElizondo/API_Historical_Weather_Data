@@ -18,7 +18,7 @@ This is the blended series of station SKAMDAL, NORWAY (STAID: 18161)
 Blended and updated with sources:99273 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18161, 99273,20110901,  112,    0
  18161, 99273,20110902,  123,    0
  18161, 99273,20110903,  164,    0

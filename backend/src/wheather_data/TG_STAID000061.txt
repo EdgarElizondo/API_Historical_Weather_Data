@@ -18,7 +18,7 @@ This is the blended series of station HERAKLION, GREECE (STAID: 61)
 Blended and updated with sources:232 916754 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     61,   232,19550101,  131,    0
     61,   232,19550102,  126,    0
     61,   232,19550103,  118,    0

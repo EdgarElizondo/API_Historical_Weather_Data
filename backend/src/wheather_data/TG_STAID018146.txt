@@ -18,7 +18,7 @@ This is the blended series of station BYGLANDSFJORD - NESET, NORWAY (STAID: 1814
 Blended and updated with sources:33052 33064 33076 99235 901442 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18146, 33052,19190701,  120,    1
  18146, 33052,19190702,  147,    1
  18146, 33052,19190703,  151,    1

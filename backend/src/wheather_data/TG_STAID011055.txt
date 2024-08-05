@@ -18,7 +18,7 @@ This is the blended series of station MONTSEC, SPAIN (STAID: 11055)
 Blended and updated with sources:56355 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11055, 56355,20080101,   39,    0
  11055, 56355,20080102,    7,    0
  11055, 56355,20080103,   -4,    0

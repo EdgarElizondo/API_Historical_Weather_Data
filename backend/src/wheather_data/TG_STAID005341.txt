@@ -18,7 +18,7 @@ This is the blended series of station VISINGSO, SWEDEN (STAID: 5341)
 Blended and updated with sources:35714 35723 902548 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5341, 35714,19620101,-9999,    9
   5341, 35714,19620102,-9999,    9
   5341, 35714,19620103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station HILDESHEIM-DRISPENSTEDT, GERMANY (STAID: 4
 Blended and updated with sources:22208 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4093, 22208,20080301,   69,    0
   4093, 22208,20080302,   79,    0
   4093, 22208,20080303,   54,    0

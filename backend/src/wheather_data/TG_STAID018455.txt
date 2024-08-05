@@ -18,7 +18,7 @@ This is the blended series of station VISUNDFELTET, NORWAY (STAID: 18455)
 Blended and updated with sources:99263 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18455, 99263,20141101,-9999,    9
  18455, 99263,20141102,-9999,    9
  18455, 99263,20141103,-9999,    9

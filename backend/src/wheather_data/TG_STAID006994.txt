@@ -18,7 +18,7 @@ This is the blended series of station HELSINKI KATAJALUOTO, FINLAND (STAID: 6994
 Blended and updated with sources:84 42088 42184 42199 42244 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6994,    84,19510101,  -63,    0
   6994,    84,19510102,  -52,    0
   6994,    84,19510103,  -33,    0

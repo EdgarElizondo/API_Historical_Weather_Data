@@ -18,7 +18,7 @@ This is the blended series of station VILNIUS, LITHUANIA (STAID: 202)
 Blended and updated with sources:629 926730 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    202,   629,19000101,    4,    0
    202,   629,19000102,  -16,    0
    202,   629,19000103,  -18,    0

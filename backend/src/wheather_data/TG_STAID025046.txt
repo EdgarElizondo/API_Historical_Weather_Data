@@ -18,7 +18,7 @@ This is the blended series of station STARY BRZESC, POLAND (STAID: 25046)
 Blended and updated with sources:139002 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25046,139002,19870101,   -4,    0
  25046,139002,19870102, -105,    0
  25046,139002,19870103, -101,    0

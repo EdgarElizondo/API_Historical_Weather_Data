@@ -18,7 +18,7 @@ This is the blended series of station SMARTNO PRI SLOVENJ GRADCU, SLOVENIA (STAI
 Blended and updated with sources:15138 914021 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3329, 15138,19610101,  -24,    0
   3329, 15138,19610102,  -14,    0
   3329, 15138,19610103,   33,    0

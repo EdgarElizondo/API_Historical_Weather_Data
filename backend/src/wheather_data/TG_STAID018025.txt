@@ -18,7 +18,7 @@ This is the blended series of station BEITOSTOLEN II, NORWAY (STAID: 18025)
 Blended and updated with sources:99165 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18025, 99165,20100829,   39,    0
  18025, 99165,20100830,   67,    0
  18025, 99165,20100831,   75,    0

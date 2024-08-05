@@ -18,7 +18,7 @@ This is the blended series of station LONINGEN, GERMANY (STAID: 4365)
 Blended and updated with sources:25472 25484 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4365, 25472,19460101,  -26,    0
   4365, 25472,19460102,  -18,    0
   4365, 25472,19460103,  -17,    0

@@ -18,7 +18,7 @@ This is the blended series of station NAANTALI RAULA, FINLAND (STAID: 6954)
 Blended and updated with sources:41883 41943 41998 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6954, 41943,19590101,    7,    0
   6954, 41943,19590102,    1,    0
   6954, 41943,19590103,   11,    0

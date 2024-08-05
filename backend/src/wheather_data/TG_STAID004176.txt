@@ -18,7 +18,7 @@ This is the blended series of station HAGEN-FLEY, GERMANY (STAID: 4176)
 Blended and updated with sources:21344 23204 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4176, 21344,19500101,   -2,    0
   4176, 21344,19500102,   34,    0
   4176, 21344,19500103,   52,    0

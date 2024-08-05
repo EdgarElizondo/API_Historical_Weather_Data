@@ -18,7 +18,7 @@ This is the blended series of station GAVLE_A, SWEDEN (STAID: 5566)
 Blended and updated with sources:36446 36458 902453 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5566, 36446,18740101,   18,    1
   5566, 36446,18740102,   40,    1
   5566, 36446,18740103,   33,    1

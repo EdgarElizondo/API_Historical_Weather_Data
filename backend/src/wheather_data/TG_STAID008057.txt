@@ -18,7 +18,7 @@ This is the blended series of station POLYARNOE, RUSSIAN FEDERATION (STAID: 8057
 Blended and updated with sources:48028 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8057, 48028,19360101,  -31,    0
   8057, 48028,19360102,  -28,    0
   8057, 48028,19360103,  -90,    0

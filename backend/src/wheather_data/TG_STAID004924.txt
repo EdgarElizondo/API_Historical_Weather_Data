@@ -18,7 +18,7 @@ This is the blended series of station GOTTFRIEDING, GERMANY (STAID: 4924)
 Blended and updated with sources:25184 32180 910872 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4924, 25184,19780901,  104,    0
   4924, 25184,19780902,   97,    0
   4924, 25184,19780903,  101,    0

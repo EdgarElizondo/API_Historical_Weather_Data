@@ -18,7 +18,7 @@ This is the blended series of station BOCHNIA, POLAND (STAID: 24911)
 Blended and updated with sources:137070 137382 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24911,137382,19610101,  -17,    0
  24911,137382,19610102,  -24,    0
  24911,137382,19610103,    8,    0

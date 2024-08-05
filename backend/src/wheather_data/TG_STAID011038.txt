@@ -18,7 +18,7 @@ This is the blended series of station FALSET, SPAIN (STAID: 11038)
 Blended and updated with sources:56202 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11038, 56202,20080101,   13,    0
  11038, 56202,20080102,   24,    0
  11038, 56202,20080103,   58,    0

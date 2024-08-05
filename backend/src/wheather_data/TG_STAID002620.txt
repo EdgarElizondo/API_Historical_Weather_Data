@@ -18,7 +18,7 @@ This is the blended series of station OSTRE TOTEN - APELSVOLL, NORWAY (STAID: 26
 Blended and updated with sources:10121 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2620, 10121,19570101,  -72,    0
   2620, 10121,19570102,  -87,    0
   2620, 10121,19570103, -117,    0

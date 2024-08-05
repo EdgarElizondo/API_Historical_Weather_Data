@@ -18,7 +18,7 @@ This is the blended series of station ASTURIAS/AVILES, SPAIN (STAID: 3909)
 Blended and updated with sources:19787 908011 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3909, 19787,19680801,  182,    0
   3909, 19787,19680802,  177,    0
   3909, 19787,19680803,  166,    0

@@ -18,7 +18,7 @@ This is the blended series of station TURKU ARTUKAINEN, FINLAND (STAID: 6979)
 Blended and updated with sources:41943 41968 41998 42008 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6979, 41943,19590101,    7,    0
   6979, 41943,19590102,    1,    0
   6979, 41943,19590103,   11,    0

@@ -18,7 +18,7 @@ This is the blended series of station BUHLERTAL-OBERTAL, GERMANY (STAID: 4944)
 Blended and updated with sources:32420 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4944, 32420,19860501,  156,    0
   4944, 32420,19860502,  171,    0
   4944, 32420,19860503,  160,    0

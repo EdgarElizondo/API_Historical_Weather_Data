@@ -18,7 +18,7 @@ This is the blended series of station MEZEN', RUSSIAN FEDERATION (STAID: 1093)
 Blended and updated with sources:48173 922471 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1093, 48173,19660101, -127,    0
   1093, 48173,19660102, -210,    0
   1093, 48173,19660103, -245,    0

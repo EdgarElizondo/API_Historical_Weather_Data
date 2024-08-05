@@ -18,7 +18,7 @@ This is the blended series of station NEWTOWN LINFORD, UNITED KINGDOM (STAID: 18
 Blended and updated with sources:7046 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1852,  7046,19600101,   94,    1
   1852,  7046,19600102,   48,    0
   1852,  7046,19600103,   64,    0

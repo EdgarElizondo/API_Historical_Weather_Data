@@ -18,7 +18,7 @@ This is the blended series of station MITT. MANIITSOQ, GREENLAND [DENMARK] (STAI
 Blended and updated with sources:47097 47107 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7988, 47097,19610101,-9999,    9
   7988, 47097,19610102,-9999,    9
   7988, 47097,19610103,-9999,    9

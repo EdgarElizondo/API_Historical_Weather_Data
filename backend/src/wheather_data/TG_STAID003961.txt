@@ -18,7 +18,7 @@ This is the blended series of station SEGOVIA, SPAIN (STAID: 3961)
 Blended and updated with sources:20480 20489 908213 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3961, 20489,19310101,   93,    0
   3961, 20489,19310102,  103,    0
   3961, 20489,19310103,  132,    0

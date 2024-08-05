@@ -18,7 +18,7 @@ This is the blended series of station CUOVDDATMOHKKI, NORWAY (STAID: 2751)
 Blended and updated with sources:11329 901057 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2751, 11329,19660801,  133,    0
   2751, 11329,19660802,  151,    0
   2751, 11329,19660803,  171,    0

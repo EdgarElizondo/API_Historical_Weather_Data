@@ -18,7 +18,7 @@ This is the blended series of station TEGYUL'TYA, RUSSIAN FEDERATION (STAID: 812
 Blended and updated with sources:48783 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8125, 48783,19420101, -433,    0
   8125, 48783,19420102, -442,    0
   8125, 48783,19420103, -302,    0

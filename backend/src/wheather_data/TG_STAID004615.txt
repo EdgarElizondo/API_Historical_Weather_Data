@@ -18,7 +18,7 @@ This is the blended series of station SCHMELZ-HUTTERSDORF, GERMANY (STAID: 4615)
 Blended and updated with sources:28472 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4615, 28472,19660101,   78,    0
   4615, 28472,19660102,   67,    0
   4615, 28472,19660103,   32,    0

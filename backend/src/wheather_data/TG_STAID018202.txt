@@ -18,7 +18,7 @@ This is the blended series of station AKSELOEYA, NORWAY (STAID: 18202)
 Blended and updated with sources:99397 901017 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18202, 99397,19020901,    2,    1
  18202, 99397,19020902,   38,    1
  18202, 99397,19020903,   28,    1

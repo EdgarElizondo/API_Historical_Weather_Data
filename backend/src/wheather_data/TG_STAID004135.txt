@@ -18,7 +18,7 @@ This is the blended series of station GEISINGEN, GERMANY (STAID: 4135)
 Blended and updated with sources:21332 22712 29516 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4135, 21332,19510101,-9999,    9
   4135, 21332,19510102,-9999,    9
   4135, 21332,19510103,-9999,    9

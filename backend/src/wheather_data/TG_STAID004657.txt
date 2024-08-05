@@ -18,7 +18,7 @@ This is the blended series of station BAD SOODEN-ALLENDORF, GERMANY (STAID: 4657
 Blended and updated with sources:28976 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4657, 28976,19510101,    3,    0
   4657, 28976,19510102,   12,    0
   4657, 28976,19510103,   20,    0

@@ -18,7 +18,7 @@ This is the blended series of station STOCKHOLM_A, SWEDEN (STAID: 5464)
 Blended and updated with sources:30 36122 36125 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5464,    30,17560101,  -87,    1
   5464,    30,17560102,  -92,    1
   5464,    30,17560103,  -86,    1

@@ -18,7 +18,7 @@ This is the blended series of station HARRAN, NORWAY (STAID: 19088)
 Blended and updated with sources:99139 99404 100980 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19088,100980,19800701,  184,    0
  19088,100980,19800702,  151,    0
  19088,100980,19800703,  149,    0

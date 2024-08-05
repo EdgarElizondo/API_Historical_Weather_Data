@@ -18,7 +18,7 @@ This is the blended series of station MITT. NERLERIT INAAT, GREENLAND [DENMARK] 
 Blended and updated with sources:47497 904341 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8022, 47497,20000101,-9999,    9
   8022, 47497,20000102,-9999,    9
   8022, 47497,20000103,-9999,    9

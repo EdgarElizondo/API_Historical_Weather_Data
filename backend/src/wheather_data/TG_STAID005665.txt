@@ -18,7 +18,7 @@ This is the blended series of station SOLLEFTEA, SWEDEN (STAID: 5665)
 Blended and updated with sources:36776 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5665, 36776,19630101, -121,    0
   5665, 36776,19630102,  -45,    0
   5665, 36776,19630103, -173,    0

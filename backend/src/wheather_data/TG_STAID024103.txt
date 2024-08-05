@@ -18,7 +18,7 @@ This is the blended series of station ADMONT-KAISERAU, AUSTRIA (STAID: 24103)
 Blended and updated with sources:126974 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24103,126974,19400901,  106,    0
  24103,126974,19400902,  141,    0
  24103,126974,19400903,  143,    0

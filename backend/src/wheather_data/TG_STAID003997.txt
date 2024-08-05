@@ -18,7 +18,7 @@ This is the blended series of station LAHR, GERMANY (STAID: 3997)
 Blended and updated with sources:21056 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3997, 21056,19500101,  -22,    0
   3997, 21056,19500102,   15,    0
   3997, 21056,19500103,   22,    0

@@ -18,7 +18,7 @@ This is the blended series of station KRASNY'J CHIKOJ, RUSSIAN FEDERATION (STAID
 Blended and updated with sources:51088 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8386, 51088,19130101,-9999,    9
   8386, 51088,19130102,-9999,    9
   8386, 51088,19130103,-9999,    9

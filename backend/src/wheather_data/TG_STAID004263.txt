@@ -18,7 +18,7 @@ This is the blended series of station AURICH, GERMANY (STAID: 4263)
 Blended and updated with sources:24248 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4263, 24248,19580901,  190,    0
   4263, 24248,19580902,  182,    0
   4263, 24248,19580903,  174,    0

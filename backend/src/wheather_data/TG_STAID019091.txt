@@ -18,7 +18,7 @@ This is the blended series of station SKABU - STORSLAEN, NORWAY (STAID: 19091)
 Blended and updated with sources:100984 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19091,100984,19681001,   27,    0
  19091,100984,19681002,   37,    0
  19091,100984,19681003,   43,    0

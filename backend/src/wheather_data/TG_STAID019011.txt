@@ -18,7 +18,7 @@ This is the blended series of station FUGLOEYKALVEN FYR, NORWAY (STAID: 19011)
 Blended and updated with sources:100891 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19011,100891,19871001,   90,    0
  19011,100891,19871002,   80,    0
  19011,100891,19871003,   70,    0

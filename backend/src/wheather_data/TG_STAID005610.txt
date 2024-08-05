@@ -18,7 +18,7 @@ This is the blended series of station LJUSDAL, SWEDEN (STAID: 5610)
 Blended and updated with sources:36596 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5610, 36596,19540101, -132,    0
   5610, 36596,19540102,    2,    1
   5610, 36596,19540103,  -26,    0

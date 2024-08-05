@@ -18,7 +18,7 @@ This is the blended series of station LLEIDA (OBSERVATORIO), SPAIN (STAID: 3943)
 Blended and updated with sources:20237 20246 55291 55305 908171 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3943, 55305,19470901,  228,    0
   3943, 55305,19470902,  207,    0
   3943, 55305,19470903,  226,    0

@@ -18,7 +18,7 @@ This is the blended series of station HAAPAVESI PIIPSANNEVA, FINLAND (STAID: 761
 Blended and updated with sources:45240 45300 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7619, 45240,19590101,  -66,    0
   7619, 45240,19590102,  -79,    0
   7619, 45240,19590103,  -66,    0

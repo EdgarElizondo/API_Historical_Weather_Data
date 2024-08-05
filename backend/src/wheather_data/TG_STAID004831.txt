@@ -18,7 +18,7 @@ This is the blended series of station GRAMBOW-SCHWENNENZ, GERMANY (STAID: 4831)
 Blended and updated with sources:31064 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4831, 31064,19981001,   71,    0
   4831, 31064,19981002,   46,    0
   4831, 31064,19981003,   30,    0

@@ -18,7 +18,7 @@ This is the blended series of station NICE, FRANCE (STAID: 757)
 Blended and updated with sources:4121 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    757,  4121,19420701,  233,    0
    757,  4121,19420702,  216,    0
    757,  4121,19420703,  214,    0

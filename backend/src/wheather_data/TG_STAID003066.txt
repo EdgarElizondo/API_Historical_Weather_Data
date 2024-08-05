@@ -18,7 +18,7 @@ This is the blended series of station SALEXARD, RUSSIAN FEDERATION (STAID: 3066)
 Blended and updated with sources:48448 923330 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3066, 48448,18820101,-9999,    9
   3066, 48448,18820102,-9999,    9
   3066, 48448,18820103,-9999,    9

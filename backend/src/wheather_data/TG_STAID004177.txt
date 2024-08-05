@@ -18,7 +18,7 @@ This is the blended series of station AROLSEN-NEU BERICH, GERMANY (STAID: 4177)
 Blended and updated with sources:23216 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4177, 23216,19680101,  -10,    0
   4177, 23216,19680102,  -17,    0
   4177, 23216,19680103,  -10,    0

@@ -18,7 +18,7 @@ This is the blended series of station BISER, RUSSIAN FEDERATION (STAID: 383)
 Blended and updated with sources:17038 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    383, 17038,18880101,-9999,    9
    383, 17038,18880102,-9999,    9
    383, 17038,18880103,-9999,    9

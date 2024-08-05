@@ -18,7 +18,7 @@ This is the blended series of station NADY'M, RUSSIAN FEDERATION (STAID: 8075)
 Blended and updated with sources:48483 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8075, 48483,19590101,-9999,    9
   8075, 48483,19590102,-9999,    9
   8075, 48483,19590103,-9999,    9

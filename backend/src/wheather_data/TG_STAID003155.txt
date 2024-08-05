@@ -18,7 +18,7 @@ This is the blended series of station TAMDY, UZBEKISTAN (STAID: 3155)
 Blended and updated with sources:17672 938413 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3155, 17672,19320101,-9999,    9
   3155, 17672,19320102,-9999,    9
   3155, 17672,19320103,-9999,    9

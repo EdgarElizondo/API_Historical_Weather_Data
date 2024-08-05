@@ -18,7 +18,7 @@ This is the blended series of station SKURDEVIKAI, NORWAY (STAID: 18670)
 Blended and updated with sources:99662 100858 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18670, 99662,20120101,-9999,    9
  18670, 99662,20120102,-9999,    9
  18670, 99662,20120103,-9999,    9

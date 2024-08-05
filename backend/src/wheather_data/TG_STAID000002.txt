@@ -18,7 +18,7 @@ This is the blended series of station FALUN, SWEDEN (STAID: 2)
 Blended and updated with sources:36437 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
      2, 36437,18600101,    4,    1
      2, 36437,18600102,   11,    1
      2, 36437,18600103,  -19,    1

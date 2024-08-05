@@ -18,7 +18,7 @@ This is the blended series of station CABAUW, NETHERLANDS (STAID: 438)
 Blended and updated with sources:2469 906348 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    438,  2469,19860401,-9999,    9
    438,  2469,19860402,-9999,    9
    438,  2469,19860403,-9999,    9

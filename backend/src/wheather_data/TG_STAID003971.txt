@@ -18,7 +18,7 @@ This is the blended series of station DAROCA, SPAIN (STAID: 3971)
 Blended and updated with sources:20624 908157 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3971, 20624,19200101,  102,    0
   3971, 20624,19200102,   44,    0
   3971, 20624,19200103,   47,    0

@@ -18,7 +18,7 @@ This is the blended series of station KESALAHTI MANTYNIEMI, FINLAND (STAID: 7403
 Blended and updated with sources:44190 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7403, 44190,19921001,-9999,    9
   7403, 44190,19921002,-9999,    9
   7403, 44190,19921003,-9999,    9

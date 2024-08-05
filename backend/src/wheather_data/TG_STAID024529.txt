@@ -18,7 +18,7 @@ This is the blended series of station ST.WOLFGANG, AUSTRIA (STAID: 24529)
 Blended and updated with sources:132486 135463 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24529,135463,19360101,   49,    0
  24529,135463,19360102,   69,    0
  24529,135463,19360103,   67,    0

@@ -18,7 +18,7 @@ This is the blended series of station ROMSDAL - ALNES, NORWAY (STAID: 19200)
 Blended and updated with sources:99289 101015 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19200,101015,19830201,-9999,    9
  19200,101015,19830202,-9999,    9
  19200,101015,19830203,-9999,    9

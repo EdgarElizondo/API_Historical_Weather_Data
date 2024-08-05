@@ -18,7 +18,7 @@ This is the blended series of station CRIMMITSCHAU, GERMANY (STAID: 4961)
 Blended and updated with sources:32624 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4961, 32624,19650101,   47,    0
   4961, 32624,19650102,   13,    0
   4961, 32624,19650103,    6,    0

@@ -18,7 +18,7 @@ This is the blended series of station VEFALL I DRANGEDAL, NORWAY (STAID: 19076)
 Blended and updated with sources:99138 100966 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19076,100966,19570101,  -36,    0
  19076,100966,19570102,  -64,    0
  19076,100966,19570103,  -51,    0

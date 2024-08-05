@@ -18,7 +18,7 @@ This is the blended series of station VITORIA/FORONDA, SPAIN (STAID: 3905)
 Blended and updated with sources:19733 19742 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3905, 19733,19430301,-9999,    9
   3905, 19733,19430302,-9999,    9
   3905, 19733,19430303,-9999,    9

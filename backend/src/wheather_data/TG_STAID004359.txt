@@ -18,7 +18,7 @@ This is the blended series of station LINDENFELS-WINTERKASTEN, GERMANY (STAID: 4
 Blended and updated with sources:25400 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4359, 25400,19730401,   54,    0
   4359, 25400,19730402,   40,    0
   4359, 25400,19730403,   11,    0

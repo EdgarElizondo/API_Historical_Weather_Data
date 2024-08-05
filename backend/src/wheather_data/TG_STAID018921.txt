@@ -18,7 +18,7 @@ This is the blended series of station OMASTRAND, NORWAY (STAID: 18921)
 Blended and updated with sources:100784 101012 901330 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18921,101012,19610701,  160,    0
  18921,101012,19610702,  135,    0
  18921,101012,19610703,  117,    0

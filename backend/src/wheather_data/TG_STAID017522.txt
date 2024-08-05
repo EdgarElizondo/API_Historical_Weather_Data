@@ -18,7 +18,7 @@ This is the blended series of station BANDO, ITALY (STAID: 17522)
 Blended and updated with sources:94176 95688 95848 95928 96320 96328 96992 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17522, 96992,20051201,-9999,    9
  17522, 96992,20051202,-9999,    9
  17522, 96992,20051203,-9999,    9

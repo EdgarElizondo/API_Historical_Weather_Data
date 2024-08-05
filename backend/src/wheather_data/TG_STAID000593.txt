@@ -18,7 +18,7 @@ This is the blended series of station SCHIPHOL, NETHERLANDS (STAID: 593)
 Blended and updated with sources:2115 906240 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    593,  2115,19510101,-9999,    9
    593,  2115,19510102,   13,    0
    593,  2115,19510103,    3,    0

@@ -18,7 +18,7 @@ This is the blended series of station ASKERSUND, SWEDEN (STAID: 5422)
 Blended and updated with sources:35981 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5422, 35981,19610101,  -12,    0
   5422, 35981,19610102,   -4,    0
   5422, 35981,19610103,    7,    0

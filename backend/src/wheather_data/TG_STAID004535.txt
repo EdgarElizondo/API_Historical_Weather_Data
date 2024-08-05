@@ -18,7 +18,7 @@ This is the blended series of station QUERFURT-MUHLE LODERSLEBEN, GERMANY (STAID
 Blended and updated with sources:27512 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4535, 27512,19950501,  111,    0
   4535, 27512,19950502,   97,    0
   4535, 27512,19950503,  124,    0

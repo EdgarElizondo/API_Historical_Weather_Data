@@ -18,7 +18,7 @@ This is the blended series of station MUHLHAUSEN, GERMANY (STAID: 4429)
 Blended and updated with sources:26240 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4429, 26240,19950401,   82,    0
   4429, 26240,19950402,  143,    0
   4429, 26240,19950403,  126,    0

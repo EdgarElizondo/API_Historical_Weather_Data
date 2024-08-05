@@ -18,7 +18,7 @@ This is the blended series of station KOLUDA WIELKA, POLAND (STAID: 25044)
 Blended and updated with sources:138978 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25044,138978,19510101,  -44,    0
  25044,138978,19510102,  -21,    0
  25044,138978,19510103,   14,    0

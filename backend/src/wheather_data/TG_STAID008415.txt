@@ -18,7 +18,7 @@ This is the blended series of station LITKE, RUSSIAN FEDERATION (STAID: 8415)
 Blended and updated with sources:51233 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8415, 51233,19590101, -214,    0
   8415, 51233,19590102, -210,    0
   8415, 51233,19590103, -205,    0

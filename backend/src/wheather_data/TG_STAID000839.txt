@@ -18,7 +18,7 @@ This is the blended series of station SKYROS, GREECE (STAID: 839)
 Blended and updated with sources:55865 916684 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    839,916684,19980101,-9999,    9
    839, 55865,19980102,  101,    0
    839, 55865,19980103,  113,    0

@@ -18,7 +18,7 @@ This is the blended series of station NIEGOW, POLAND (STAID: 25063)
 Blended and updated with sources:139206 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25063,139206,19860101, -114,    0
  25063,139206,19860102,  -51,    0
  25063,139206,19860103,  -14,    0

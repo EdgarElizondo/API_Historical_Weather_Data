@@ -18,7 +18,7 @@ This is the blended series of station TRYVASSHOEGDA II, NORWAY (STAID: 18750)
 Blended and updated with sources:9941 100592 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18750,  9941,19430101,  -94,    0
  18750,  9941,19430102, -134,    0
  18750,  9941,19430103,  -94,    0

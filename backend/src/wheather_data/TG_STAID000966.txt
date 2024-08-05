@@ -18,7 +18,7 @@ This is the blended series of station BOORA, IRELAND (STAID: 966)
 Blended and updated with sources:7552 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    966,  7552,19610101,   56,    0
    966,  7552,19610102,   39,    0
    966,  7552,19610103,   22,    0

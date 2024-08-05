@@ -18,7 +18,7 @@ This is the blended series of station MO 1, SWEDEN (STAID: 5673)
 Blended and updated with sources:36812 36824 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5673, 36812,19450101,  -49,    0
   5673, 36812,19450102,  -26,    0
   5673, 36812,19450103,  -90,    0

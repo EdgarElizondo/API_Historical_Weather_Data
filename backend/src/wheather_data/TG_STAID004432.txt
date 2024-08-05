@@ -18,7 +18,7 @@ This is the blended series of station MUNCHEN-BOTANISCHER GARTEN, GERMANY (STAID
 Blended and updated with sources:187 26264 26276 26288 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4432, 26276,18790101,   70,    0
   4432, 26276,18790102,   35,    0
   4432, 26276,18790103,   39,    0

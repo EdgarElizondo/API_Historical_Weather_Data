@@ -18,7 +18,7 @@ This is the blended series of station GVARV, NORWAY (STAID: 2638)
 Blended and updated with sources:10287 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2638, 10287,19190701,  132,    0
   2638, 10287,19190702,  136,    0
   2638, 10287,19190703,  166,    0

@@ -18,7 +18,7 @@ This is the blended series of station KAZACHINSKOE, RUSSIAN FEDERATION (STAID: 8
 Blended and updated with sources:50703 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8309, 50703,19590101, -306,    0
   8309, 50703,19590102, -340,    0
   8309, 50703,19590103, -468,    0

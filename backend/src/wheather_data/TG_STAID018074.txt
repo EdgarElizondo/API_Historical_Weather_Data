@@ -18,7 +18,7 @@ This is the blended series of station JUVVASSHOE, NORWAY (STAID: 18074)
 Blended and updated with sources:99749 901362 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18074, 99749,19990901,   10,    0
  18074, 99749,19990902,   65,    0
  18074, 99749,19990903,   72,    0

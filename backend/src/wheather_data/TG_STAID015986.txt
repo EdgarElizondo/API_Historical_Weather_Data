@@ -18,7 +18,7 @@ This is the blended series of station DACHSBERG-WOLPADINGEN, GERMANY (STAID: 159
 Blended and updated with sources:119709 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  15986,119709,20200208,   34,    0
  15986,119709,20200209,   59,    0
  15986,119709,20200210,   64,    0

@@ -18,7 +18,7 @@ This is the blended series of station E39 REED, NORWAY (STAID: 18664)
 Blended and updated with sources:99651 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18664, 99651,20170701,-9999,    9
  18664, 99651,20170702,-9999,    9
  18664, 99651,20170703,-9999,    9

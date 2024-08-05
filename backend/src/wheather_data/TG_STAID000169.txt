@@ -18,7 +18,7 @@ This is the blended series of station BOLOGNA, ITALY (STAID: 169)
 Blended and updated with sources:862 94648 94824 97888 916132 916140 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    169,   862,18140101,   36,    0
    169,   862,18140102,   24,    0
    169,   862,18140103,    9,    0

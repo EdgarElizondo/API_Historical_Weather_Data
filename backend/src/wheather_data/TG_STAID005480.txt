@@ -18,7 +18,7 @@ This is the blended series of station FELLINGSBRO-FINNAKER, SWEDEN (STAID: 5480)
 Blended and updated with sources:36185 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5480, 36185,19820901,  125,    0
   5480, 36185,19820902,  106,    0
   5480, 36185,19820903,  103,    0

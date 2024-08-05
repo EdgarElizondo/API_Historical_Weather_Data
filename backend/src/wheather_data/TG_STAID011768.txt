@@ -18,7 +18,7 @@ This is the blended series of station SANKT MICHAELISDONN, GERMANY (STAID: 11768
 Blended and updated with sources:21668 23612 81240 910130 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11768, 81240,19510401,   56,    0
  11768, 81240,19510402,   55,    0
  11768, 81240,19510403,   40,    0

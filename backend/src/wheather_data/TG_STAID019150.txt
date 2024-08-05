@@ -18,7 +18,7 @@ This is the blended series of station HOEGALOFTSKVELVEN, NORWAY (STAID: 19150)
 Blended and updated with sources:100739 100828 100940 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19150,100828,19750901,-9999,    9
  19150,100828,19750902,-9999,    9
  19150,100828,19750903,-9999,    9

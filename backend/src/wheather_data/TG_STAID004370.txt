@@ -18,7 +18,7 @@ This is the blended series of station LUBBEN-BLUMENFELDE, GERMANY (STAID: 4370)
 Blended and updated with sources:25532 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4370, 25532,19911001,  138,    0
   4370, 25532,19911002,  114,    0
   4370, 25532,19911003,  112,    0

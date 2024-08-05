@@ -18,7 +18,7 @@ This is the blended series of station VETLEFJORD - LANGETEIG, NORWAY (STAID: 191
 Blended and updated with sources:100573 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19125,100573,19831001,-9999,    9
  19125,100573,19831002,-9999,    9
  19125,100573,19831003,-9999,    9

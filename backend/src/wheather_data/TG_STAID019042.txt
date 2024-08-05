@@ -18,7 +18,7 @@ This is the blended series of station NORD-LENANGEN, NORWAY (STAID: 19042)
 Blended and updated with sources:99155 100927 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19042,100927,19691101,    6,    0
  19042,100927,19691102,  -20,    0
  19042,100927,19691103,   -9,    0

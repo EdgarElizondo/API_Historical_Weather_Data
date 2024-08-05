@@ -18,7 +18,7 @@ This is the blended series of station CROZIERPYNTEN, SVALBARD AND JAN MAYEN (STA
 Blended and updated with sources:101017 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19114,101017,19000101, -176,    1
  19114,101017,19000102, -127,    1
  19114,101017,19000103,  -85,    1

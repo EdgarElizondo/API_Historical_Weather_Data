@@ -18,7 +18,7 @@ This is the blended series of station UMAN, UKRAINE (STAID: 1519)
 Blended and updated with sources:5507 933587 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1519,  5507,18850901,  107,    0
   1519,  5507,18850902,  104,    0
   1519,  5507,18850903,   96,    0

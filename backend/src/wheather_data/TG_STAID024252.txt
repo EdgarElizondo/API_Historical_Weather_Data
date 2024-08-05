@@ -18,7 +18,7 @@ This is the blended series of station ST.MICHAEL/LUNGAU, AUSTRIA (STAID: 24252)
 Blended and updated with sources:128898 132876 135294 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24252,135294,19681201,  -42,    0
  24252,135294,19681202,  -60,    0
  24252,135294,19681203,  -33,    0

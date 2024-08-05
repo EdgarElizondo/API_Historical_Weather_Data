@@ -18,7 +18,7 @@ This is the blended series of station MOGOCHA, RUSSIAN FEDERATION (STAID: 3243)
 Blended and updated with sources:17166 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3243, 17166,19100101,-9999,    9
   3243, 17166,19100102,-9999,    9
   3243, 17166,19100103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station WELLMITZ, GERMANY (STAID: 4755)
 Blended and updated with sources:30152 31172 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4755, 30152,19941201,  -11,    0
   4755, 30152,19941202,  -30,    0
   4755, 30152,19941203,   18,    0

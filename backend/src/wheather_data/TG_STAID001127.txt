@@ -18,7 +18,7 @@ This is the blended series of station VY'BORG, RUSSIAN FEDERATION (STAID: 1127)
 Blended and updated with sources:48333 922892 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1127, 48333,19280101,-9999,    9
   1127, 48333,19280102,-9999,    9
   1127, 48333,19280103,-9999,    9

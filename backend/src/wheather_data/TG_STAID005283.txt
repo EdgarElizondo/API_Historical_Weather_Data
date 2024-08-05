@@ -18,7 +18,7 @@ This is the blended series of station OSTERGARN, SWEDEN (STAID: 5283)
 Blended and updated with sources:35519 35522 35525 902598 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5283, 35525,19550101,   -9,    1
   5283, 35525,19550102,    7,    1
   5283, 35525,19550103,  -13,    1

@@ -18,7 +18,7 @@ This is the blended series of station HOVRINGEN II, NORWAY (STAID: 18023)
 Blended and updated with sources:99103 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18023, 99103,20130901,-9999,    9
  18023, 99103,20130902,-9999,    9
  18023, 99103,20130903,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station SINGESHULT, SWEDEN (STAID: 5237)
 Blended and updated with sources:35363 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5237, 35363,19610101,   -6,    0
   5237, 35363,19610102,    6,    0
   5237, 35363,19610103,    9,    0

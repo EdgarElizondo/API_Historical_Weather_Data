@@ -18,7 +18,7 @@ This is the blended series of station BOI, SPAIN (STAID: 11017)
 Blended and updated with sources:56013 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11017, 56013,20080101,    6,    0
  11017, 56013,20080102,  -28,    0
  11017, 56013,20080103,  -59,    0

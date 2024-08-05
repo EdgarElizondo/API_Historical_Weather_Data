@@ -18,7 +18,7 @@ This is the blended series of station ROERVIK LUFTHAVN, NORWAY (STAID: 18273)
 Blended and updated with sources:99583 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18273, 99583,20030901,-9999,    9
  18273, 99583,20030902,-9999,    9
  18273, 99583,20030903,-9999,    9

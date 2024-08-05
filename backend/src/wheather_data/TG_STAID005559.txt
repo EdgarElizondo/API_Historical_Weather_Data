@@ -18,7 +18,7 @@ This is the blended series of station GRADA_KRAFTVERK, SWEDEN (STAID: 5559)
 Blended and updated with sources:36431 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5559, 36431,19571001,   27,    0
   5559, 36431,19571002,   64,    0
   5559, 36431,19571003,   68,    0

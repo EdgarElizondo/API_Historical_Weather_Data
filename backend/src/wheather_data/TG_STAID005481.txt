@@ -18,7 +18,7 @@ This is the blended series of station SVENSKA_BJORN, SWEDEN (STAID: 5481)
 Blended and updated with sources:36188 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5481, 36188,19850601,  101,    0
   5481, 36188,19850602,  102,    0
   5481, 36188,19850603,   62,    0

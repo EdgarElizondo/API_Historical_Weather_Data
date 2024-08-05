@@ -18,7 +18,7 @@ This is the blended series of station OBERHOF, GERMANY (STAID: 11764)
 Blended and updated with sources:81196 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11764, 81196,19500601,  122,    0
  11764, 81196,19500602,  147,    0
  11764, 81196,19500603,  169,    0

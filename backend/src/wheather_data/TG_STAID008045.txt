@@ -18,7 +18,7 @@ This is the blended series of station IM. E.K.FEDOROVA, RUSSIAN FEDERATION (STAI
 Blended and updated with sources:47968 920946 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8045, 47968,19590101,-9999,    9
   8045, 47968,19590102,-9999,    9
   8045, 47968,19590103,-9999,    9

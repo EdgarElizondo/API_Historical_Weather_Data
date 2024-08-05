@@ -18,7 +18,7 @@ This is the blended series of station LAPPEENRANTA LENTOASEMA, FINLAND (STAID: 7
 Blended and updated with sources:43229 43274 902958 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7214, 43229,19590101,  -60,    0
   7214, 43229,19590102,  -38,    0
   7214, 43229,19590103,  -21,    0

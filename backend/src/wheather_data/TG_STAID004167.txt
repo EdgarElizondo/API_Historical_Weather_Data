@@ -18,7 +18,7 @@ This is the blended series of station FELDKIRCHEN-WESTERHAM-LENZMUHLE, GERMANY (
 Blended and updated with sources:23096 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4167, 23096,19590101,   17,    0
   4167, 23096,19590102,   18,    0
   4167, 23096,19590103,   -4,    0

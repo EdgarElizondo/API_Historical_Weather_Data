@@ -18,7 +18,7 @@ This is the blended series of station OBERNEUKIRCHEN, AUSTRIA (STAID: 23956)
 Blended and updated with sources:125102 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23956,125102,19610101,  -49,    0
  23956,125102,19610102,  -45,    0
  23956,125102,19610103,  -13,    0

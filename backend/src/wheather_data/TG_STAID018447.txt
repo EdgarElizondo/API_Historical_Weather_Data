@@ -18,7 +18,7 @@ This is the blended series of station RV5 KAUPANGER, NORWAY (STAID: 18447)
 Blended and updated with sources:99250 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18447, 99250,20140101,-9999,    9
  18447, 99250,20140102,-9999,    9
  18447, 99250,20140103,   39,    0

@@ -18,7 +18,7 @@ This is the blended series of station GRABOWNICA, POLAND (STAID: 25008)
 Blended and updated with sources:138546 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25008,138546,19860101,  -84,    0
  25008,138546,19860102,  -35,    0
  25008,138546,19860103,    8,    0

@@ -18,7 +18,7 @@ This is the blended series of station ESPOO SEPANKYLA, FINLAND (STAID: 7021)
 Blended and updated with sources:42099 42149 42224 42229 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7021, 42099,19590101,    3,    0
   7021, 42099,19590102,    1,    0
   7021, 42099,19590103,    9,    0

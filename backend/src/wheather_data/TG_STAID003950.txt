@@ -18,7 +18,7 @@ This is the blended series of station PAMPLONA (OBSERVATORIO), SPAIN (STAID: 395
 Blended and updated with sources:20345 20354 908085 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3950, 20345,19530901,  260,    0
   3950, 20345,19530902,  251,    0
   3950, 20345,19530903,  232,    0

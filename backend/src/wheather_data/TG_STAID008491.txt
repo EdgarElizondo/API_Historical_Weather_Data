@@ -18,7 +18,7 @@ This is the blended series of station NEVEL'SK, RUSSIAN FEDERATION (STAID: 8491)
 Blended and updated with sources:51613 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8491, 51613,19460101,-9999,    9
   8491, 51613,19460102,-9999,    9
   8491, 51613,19460103,-9999,    9

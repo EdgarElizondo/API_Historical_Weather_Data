@@ -18,7 +18,7 @@ This is the blended series of station RADZYN, POLAND (STAID: 25003)
 Blended and updated with sources:138486 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25003,138486,20040101,  -13,    0
  25003,138486,20040102,  -34,    0
  25003,138486,20040103,  -39,    0

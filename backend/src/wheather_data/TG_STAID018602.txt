@@ -18,7 +18,7 @@ This is the blended series of station ASGARD B, NORWAY (STAID: 18602)
 Blended and updated with sources:99537 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18602, 99537,20140601,-9999,    9
  18602, 99537,20140602,-9999,    9
  18602, 99537,20140603,-9999,    9

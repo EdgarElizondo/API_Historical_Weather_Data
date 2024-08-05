@@ -18,7 +18,7 @@ This is the blended series of station FALERUM, SWEDEN (STAID: 5344)
 Blended and updated with sources:35726 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5344, 35726,19680701,  195,    0
   5344, 35726,19680702,  215,    0
   5344, 35726,19680703,  195,    0

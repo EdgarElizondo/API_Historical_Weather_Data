@@ -18,7 +18,7 @@ This is the blended series of station ZUBRACZE, POLAND (STAID: 24926)
 Blended and updated with sources:137562 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24926,137562,19910101,    9,    0
  24926,137562,19910102,   -7,    0
  24926,137562,19910103,   -2,    0

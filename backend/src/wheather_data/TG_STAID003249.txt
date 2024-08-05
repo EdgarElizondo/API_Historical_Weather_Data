@@ -18,7 +18,7 @@ This is the blended series of station KYAXTA, RUSSIAN FEDERATION (STAID: 3249)
 Blended and updated with sources:17196 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3249, 17196,18950101, -166,    0
   3249, 17196,18950102, -208,    0
   3249, 17196,18950103, -240,    0

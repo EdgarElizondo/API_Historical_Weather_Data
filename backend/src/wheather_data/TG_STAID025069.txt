@@ -18,7 +18,7 @@ This is the blended series of station BIELSK PODLASKI, POLAND (STAID: 25069)
 Blended and updated with sources:139278 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25069,139278,19610101,   -3,    0
  25069,139278,19610102,   -5,    0
  25069,139278,19610103,    3,    0

@@ -18,7 +18,7 @@ This is the blended series of station NOVO MESTO, SLOVENIA (STAID: 3328)
 Blended and updated with sources:15128 914121 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3328, 15128,19730101,  -21,    0
   3328, 15128,19730102,   -8,    0
   3328, 15128,19730103,    1,    0

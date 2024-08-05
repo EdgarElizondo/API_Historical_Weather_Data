@@ -18,7 +18,7 @@ This is the blended series of station VLADIKAVKAZ, RUSSIAN FEDERATION (STAID: 13
 Blended and updated with sources:52383 937228 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1378, 52383,18810101,    4,    0
   1378, 52383,18810102,   27,    0
   1378, 52383,18810103,   -7,    0

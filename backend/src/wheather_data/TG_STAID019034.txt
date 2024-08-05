@@ -18,7 +18,7 @@ This is the blended series of station LYNGDAL I NUMEDAL, NORWAY (STAID: 19034)
 Blended and updated with sources:100918 901474 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19034,100918,19540601,-9999,    9
  19034,100918,19540602,-9999,    9
  19034,100918,19540603,-9999,    9

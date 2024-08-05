@@ -18,7 +18,7 @@ This is the blended series of station FRANKFURT, GERMANY (STAID: 44)
 Blended and updated with sources:148 22376 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     44, 22376,18700101,  -24,    0
     44, 22376,18700102,   26,    0
     44, 22376,18700103,   25,    0

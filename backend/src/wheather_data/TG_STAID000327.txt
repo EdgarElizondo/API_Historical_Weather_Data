@@ -18,7 +18,7 @@ This is the blended series of station SOUDA AIRPORT, GREECE (STAID: 327)
 Blended and updated with sources:55816 916746 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    327,916746,19960101,-9999,    9
    327, 55816,19960102,  135,    0
    327, 55816,19960103,  127,    0

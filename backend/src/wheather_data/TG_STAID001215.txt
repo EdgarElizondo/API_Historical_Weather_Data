@@ -18,7 +18,7 @@ This is the blended series of station MOZHAJSK, RUSSIAN FEDERATION (STAID: 1215)
 Blended and updated with sources:49393 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1215, 49393,19360101,    0,    0
   1215, 49393,19360102,    4,    0
   1215, 49393,19360103,   -6,    0

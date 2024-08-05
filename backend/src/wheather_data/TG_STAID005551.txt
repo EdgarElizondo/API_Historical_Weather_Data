@@ -18,7 +18,7 @@ This is the blended series of station DOMNARVET, SWEDEN (STAID: 5551)
 Blended and updated with sources:36395 36404 36407 36413 36422 902435 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5551, 36395,19490101,    6,    1
   5551, 36395,19490102,   20,    1
   5551, 36395,19490103,   23,    1

@@ -18,7 +18,7 @@ This is the blended series of station BERLIN-RUDOW, GERMANY (STAID: 4566)
 Blended and updated with sources:11448 27800 27884 27932 28124 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4566, 27800,19360101,   24,    0
   4566, 27800,19360102,   46,    0
   4566, 27800,19360103,   51,    0

@@ -18,7 +18,7 @@ This is the blended series of station SLUBICE, POLAND (STAID: 779)
 Blended and updated with sources:6177 22388 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    779, 22388,19470101,  -28,    0
    779, 22388,19470102,  -34,    0
    779, 22388,19470103,  -58,    0

@@ -18,7 +18,7 @@ This is the blended series of station HELLIGVAER, NORWAY (STAID: 11127)
 Blended and updated with sources:57050 99458 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11127, 57050,19570101,   -9,    0
  11127, 57050,19570102,  -25,    0
  11127, 57050,19570103,  -25,    0

@@ -18,7 +18,7 @@ This is the blended series of station HOF-EIKENES, NORWAY (STAID: 18943)
 Blended and updated with sources:100810 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18943,100810,20170501,   67,    0
  18943,100810,20170502,   89,    0
  18943,100810,20170503,   97,    0

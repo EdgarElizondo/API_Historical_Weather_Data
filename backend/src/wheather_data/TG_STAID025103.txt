@@ -18,7 +18,7 @@ This is the blended series of station DZIWNOW, POLAND (STAID: 25103)
 Blended and updated with sources:139686 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25103,139686,19550401,   13,    0
  25103,139686,19550402,   23,    0
  25103,139686,19550403,   49,    0

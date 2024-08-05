@@ -18,7 +18,7 @@ This is the blended series of station ELAT-1, ISRAEL (STAID: 143)
 Blended and updated with sources:856 857 20642 940199 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    143,   857,19491001,-4812,    1
    143,   857,19491002,  260,    0
    143,   857,19491003,  284,    0

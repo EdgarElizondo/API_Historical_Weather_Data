@@ -18,7 +18,7 @@ This is the blended series of station KORNIK, POLAND (STAID: 25041)
 Blended and updated with sources:138942 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25041,138942,19510101,  -57,    0
  25041,138942,19510102,    4,    0
  25041,138942,19510103,    9,    0

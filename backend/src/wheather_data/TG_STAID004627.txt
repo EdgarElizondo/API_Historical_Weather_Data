@@ -18,7 +18,7 @@ This is the blended series of station SCHWABISCH HALL-BIBERSFELD, GERMANY (STAID
 Blended and updated with sources:28616 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4627, 28616,19830401,   68,    0
   4627, 28616,19830402,   50,    0
   4627, 28616,19830403,   46,    0

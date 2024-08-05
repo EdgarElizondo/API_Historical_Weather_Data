@@ -18,7 +18,7 @@ This is the blended series of station E39 VAGSBOTN, NORWAY (STAID: 18464)
 Blended and updated with sources:99079 99281 100722 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18464,100722,20140101,-9999,    9
  18464,100722,20140102,-9999,    9
  18464,100722,20140103,-9999,    9

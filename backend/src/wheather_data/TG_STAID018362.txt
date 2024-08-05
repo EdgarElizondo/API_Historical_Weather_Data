@@ -18,7 +18,7 @@ This is the blended series of station RV5 LUNDEBOTN, NORWAY (STAID: 18362)
 Blended and updated with sources:99098 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18362, 99098,20141201,-9999,    9
  18362, 99098,20141202,-9999,    9
  18362, 99098,20141203,-9999,    9

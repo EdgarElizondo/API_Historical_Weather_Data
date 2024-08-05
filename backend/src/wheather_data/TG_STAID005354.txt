@@ -18,7 +18,7 @@ This is the blended series of station BJARKA-SABY, SWEDEN (STAID: 5354)
 Blended and updated with sources:35759 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5354, 35759,19450101,  -40,    0
   5354, 35759,19450102,   43,    0
   5354, 35759,19450103,   27,    0

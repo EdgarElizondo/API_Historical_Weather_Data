@@ -18,7 +18,7 @@ This is the blended series of station LEJEN, SWEDEN (STAID: 5535)
 Blended and updated with sources:36353 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5535, 36353,19491101,    4,    0
   5535, 36353,19491102,   -1,    0
   5535, 36353,19491103,   42,    0

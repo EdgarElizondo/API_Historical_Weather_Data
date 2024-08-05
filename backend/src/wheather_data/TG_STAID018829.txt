@@ -18,7 +18,7 @@ This is the blended series of station YME, NORWAY (STAID: 18829)
 Blended and updated with sources:100686 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18829,100686,20000101,   79,    0
  18829,100686,20000102,   74,    0
  18829,100686,20000103,   75,    0

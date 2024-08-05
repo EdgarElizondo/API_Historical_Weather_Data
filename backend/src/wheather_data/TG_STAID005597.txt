@@ -18,7 +18,7 @@ This is the blended series of station KRACKELBACKEN, SWEDEN (STAID: 5597)
 Blended and updated with sources:36554 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5597, 36554,19681001,   65,    0
   5597, 36554,19681002,   39,    0
   5597, 36554,19681003,   43,    0

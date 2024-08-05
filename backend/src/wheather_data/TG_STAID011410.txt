@@ -18,7 +18,7 @@ This is the blended series of station MEROM GOLAN PICMAN, ISRAEL (STAID: 11410)
 Blended and updated with sources:76004 76007 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11410, 76004,19770201,   57,    0
  11410, 76004,19770202,   95,    0
  11410, 76004,19770203,  120,    0

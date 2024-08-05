@@ -18,7 +18,7 @@ This is the blended series of station ILLMITZ, AUSTRIA (STAID: 24083)
 Blended and updated with sources:126714 126766 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24083,126714,19901201,    7,    0
  24083,126714,19901202,   -4,    0
  24083,126714,19901203,  -44,    0

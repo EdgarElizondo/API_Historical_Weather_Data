@@ -18,7 +18,7 @@ This is the blended series of station KURU LANSI-AURE, FINLAND (STAID: 714)
 Blended and updated with sources:43484 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    714, 43484,19590101,  -27,    0
    714, 43484,19590102,  -43,    0
    714, 43484,19590103,  -16,    0

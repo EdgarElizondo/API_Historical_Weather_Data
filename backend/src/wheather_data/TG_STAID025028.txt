@@ -18,7 +18,7 @@ This is the blended series of station UHNIN, POLAND (STAID: 25028)
 Blended and updated with sources:138786 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25028,138786,19880101,   19,    0
  25028,138786,19880102,   54,    0
  25028,138786,19880103,   54,    0

@@ -18,7 +18,7 @@ This is the blended series of station LUGDE-PAENBRUCH, GERMANY (STAID: 4846)
 Blended and updated with sources:31244 910433 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4846,910433,20001011,-9999,    9
   4846, 31244,20001012,  106,    0
   4846,910433,20001013,-9999,    9

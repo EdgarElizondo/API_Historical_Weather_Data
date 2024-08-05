@@ -18,7 +18,7 @@ This is the blended series of station SALEN-HOGFJALLET_V, SWEDEN (STAID: 5581)
 Blended and updated with sources:36506 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5581, 36506,19960301,  -24,    0
   5581, 36506,19960302,  -55,    0
   5581, 36506,19960303,  -28,    0

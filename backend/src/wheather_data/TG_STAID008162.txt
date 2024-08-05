@@ -18,7 +18,7 @@ This is the blended series of station TOROPEÑ, RUSSIAN FEDERATION (STAID: 816
 Blended and updated with sources:49088 926479 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8162, 49088,19660101,-9999,    9
   8162, 49088,19660102,-9999,    9
   8162, 49088,19660103,    9,    0

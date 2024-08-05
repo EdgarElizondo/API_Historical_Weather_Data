@@ -18,7 +18,7 @@ This is the blended series of station LINDESNES FYR, NORWAY (STAID: 18767)
 Blended and updated with sources:9632 100612 901436 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18767,  9632,19531201,-9999,    9
  18767,  9632,19531202,-9999,    9
  18767,  9632,19531203,-9999,    9

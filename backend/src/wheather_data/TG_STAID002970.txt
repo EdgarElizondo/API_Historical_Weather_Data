@@ -18,7 +18,7 @@ This is the blended series of station LANZAROTE/AEROPUERTO, SPAIN (STAID: 2970)
 Blended and updated with sources:20201 960040 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2970, 20201,19721101,  201,    0
   2970, 20201,19721102,  192,    0
   2970, 20201,19721103,  194,    0

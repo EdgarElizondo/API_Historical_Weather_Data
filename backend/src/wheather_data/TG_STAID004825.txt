@@ -18,7 +18,7 @@ This is the blended series of station BONN-ROLEBER, GERMANY (STAID: 4825)
 Blended and updated with sources:30992 910519 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4825, 30992,19860801,-9999,    9
   4825, 30992,19860802,-9999,    9
   4825, 30992,19860803,-9999,    9

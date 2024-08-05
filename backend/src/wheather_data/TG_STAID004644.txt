@@ -18,7 +18,7 @@ This is the blended series of station SIGMARINGEN-LAIZ, GERMANY (STAID: 4644)
 Blended and updated with sources:28820 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4644, 28820,19510101,  -10,    0
   4644, 28820,19510102,   -8,    0
   4644, 28820,19510103,  -18,    0

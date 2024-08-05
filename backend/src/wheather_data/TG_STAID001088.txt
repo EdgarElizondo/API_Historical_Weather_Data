@@ -18,7 +18,7 @@ This is the blended series of station UXTA KALEVALA, RUSSIAN FEDERATION (STAID: 
 Blended and updated with sources:48148 922408 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1088, 48148,19360101,  -10,    0
   1088, 48148,19360102,   -9,    0
   1088, 48148,19360103,  -98,    0

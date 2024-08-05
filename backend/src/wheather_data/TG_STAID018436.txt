@@ -18,7 +18,7 @@ This is the blended series of station FV285 BOENESSKOGEN, NORWAY (STAID: 18436)
 Blended and updated with sources:99072 99230 99528 99551 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18436, 99230,20140101,-9999,    9
  18436, 99230,20140102,-9999,    9
  18436, 99230,20140103,-9999,    9

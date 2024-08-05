@@ -18,7 +18,7 @@ This is the blended series of station LESJA - NORDERHUS, NORWAY (STAID: 18870)
 Blended and updated with sources:100729 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18870,100729,19670801,  150,    0
  18870,100729,19670802,  136,    0
  18870,100729,19670803,  161,    0

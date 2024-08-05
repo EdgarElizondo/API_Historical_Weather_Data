@@ -18,7 +18,7 @@ This is the blended series of station DUBLIN AIRPORT, IRELAND (STAID: 1718)
 Blended and updated with sources:452 7565 903969 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1718,   452,18810101,   52,    0
   1718,   452,18810102,   73,    0
   1718,   452,18810103,   29,    0

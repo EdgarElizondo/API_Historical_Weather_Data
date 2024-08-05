@@ -18,7 +18,7 @@ This is the blended series of station STIFT ZWETTL, AUSTRIA (STAID: 23923)
 Blended and updated with sources:124660 124673 911020 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23923,124660,19360101,    0,    0
  23923,124660,19360102,   -4,    0
  23923,124660,19360103,   26,    0

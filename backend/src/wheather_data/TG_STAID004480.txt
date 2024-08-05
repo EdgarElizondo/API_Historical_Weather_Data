@@ -18,7 +18,7 @@ This is the blended series of station NURTINGEN, GERMANY (STAID: 4480)
 Blended and updated with sources:26852 30812 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4480, 30812,19510101,   10,    0
   4480, 30812,19510102,   20,    0
   4480, 30812,19510103,   11,    0

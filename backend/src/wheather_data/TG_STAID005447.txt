@@ -18,7 +18,7 @@ This is the blended series of station BLOMSKOG_A, SWEDEN (STAID: 5447)
 Blended and updated with sources:36065 36095 36104 902408 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5447, 36104,19490930,   96,    1
   5447, 36104,19491001,  106,    1
   5447, 36104,19491002,  113,    1

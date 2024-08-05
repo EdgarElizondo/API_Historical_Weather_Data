@@ -18,7 +18,7 @@ This is the blended series of station PIANDELAGOTTI, ITALY (STAID: 2865)
 Blended and updated with sources:96504 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2865, 96504,20051201,-9999,    9
   2865, 96504,20051202,-9999,    9
   2865, 96504,20051203,-9999,    9

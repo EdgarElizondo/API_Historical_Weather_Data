@@ -18,7 +18,7 @@ This is the blended series of station E16 VINJE VEST, NORWAY (STAID: 18420)
 Blended and updated with sources:99200 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18420, 99200,20140101,-9999,    9
  18420, 99200,20140102,-9999,    9
  18420, 99200,20140103,    9,    0

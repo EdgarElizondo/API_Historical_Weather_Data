@@ -18,7 +18,7 @@ This is the blended series of station BAJKIT, RUSSIAN FEDERATION (STAID: 3200)
 Blended and updated with sources:16872 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3200, 16872,19360101, -448,    0
   3200, 16872,19360102, -455,    0
   3200, 16872,19360103, -393,    0

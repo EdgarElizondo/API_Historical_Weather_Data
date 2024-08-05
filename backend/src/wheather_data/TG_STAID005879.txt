@@ -18,7 +18,7 @@ This is the blended series of station KOPINGE, SWEDEN (STAID: 5879)
 Blended and updated with sources:35141 62320 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5879, 35141,19490101,   44,    1
   5879, 35141,19490102,   51,    1
   5879, 35141,19490103,   45,    1

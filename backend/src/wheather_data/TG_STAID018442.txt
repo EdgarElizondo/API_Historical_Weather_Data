@@ -18,7 +18,7 @@ This is the blended series of station FV312 HANEKLEIVA, NORWAY (STAID: 18442)
 Blended and updated with sources:99053 99243 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18442, 99053,19950101,  -35,    0
  18442, 99053,19950102,  -28,    0
  18442, 99053,19950103,  -92,    0

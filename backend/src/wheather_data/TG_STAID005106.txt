@@ -18,7 +18,7 @@ This is the blended series of station SANDNES - ROVIK, NORWAY (STAID: 5106)
 Blended and updated with sources:9682 34372 99632 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5106,  9682,19521201,-9999,    9
   5106,  9682,19521202,-9999,    9
   5106,  9682,19521203,-9999,    9

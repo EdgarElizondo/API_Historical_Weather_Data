@@ -18,7 +18,7 @@ This is the blended series of station ULLADAL - FJELLBERG, NORWAY (STAID: 18831)
 Blended and updated with sources:100689 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18831,100689,19741101,   25,    0
  18831,100689,19741102,   18,    0
  18831,100689,19741103,    5,    0

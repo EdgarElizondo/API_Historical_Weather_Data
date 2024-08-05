@@ -18,7 +18,7 @@ This is the blended series of station GALTUER, AUSTRIA (STAID: 24686)
 Blended and updated with sources:134514 911312 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24686,134514,19890401,   80,    0
  24686,134514,19890402,   45,    0
  24686,134514,19890403,   50,    0

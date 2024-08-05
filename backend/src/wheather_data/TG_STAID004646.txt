@@ -18,7 +18,7 @@ This is the blended series of station SILBERHUTTE, GERMANY (STAID: 4646)
 Blended and updated with sources:28844 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4646, 28844,19470101,  -68,    0
   4646, 28844,19470102,  -50,    0
   4646, 28844,19470103,  -64,    0

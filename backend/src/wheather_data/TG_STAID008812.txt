@@ -18,7 +18,7 @@ This is the blended series of station DAGDA, LATVIA (STAID: 8812)
 Blended and updated with sources:118782 118794 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8812,118782,19470901,  120,    0
   8812,118782,19470902,  132,    0
   8812,118782,19470903,  124,    0

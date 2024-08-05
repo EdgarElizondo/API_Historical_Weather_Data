@@ -18,7 +18,7 @@ This is the blended series of station E8 BOSSOVARRI, NORWAY (STAID: 18496)
 Blended and updated with sources:99338 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18496, 99338,20180601,-9999,    9
  18496, 99338,20180602,-9999,    9
  18496, 99338,20180603,-9999,    9

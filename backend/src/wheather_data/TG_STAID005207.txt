@@ -18,7 +18,7 @@ This is the blended series of station MUNKA-LJUNGBY, SWEDEN (STAID: 5207)
 Blended and updated with sources:35267 35279 902607 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5207, 35279,19490101,   28,    1
   5207, 35279,19490102,   44,    1
   5207, 35279,19490103,   33,    1

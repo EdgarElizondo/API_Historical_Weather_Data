@@ -18,7 +18,7 @@ This is the blended series of station PORI MANTYLUOTO, FINLAND (STAID: 7238)
 Blended and updated with sources:43309 43349 43364 902751 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7238, 43309,19590101,    5,    0
   7238, 43309,19590102,   -4,    0
   7238, 43309,19590103,    1,    0

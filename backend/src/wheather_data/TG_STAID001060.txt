@@ -18,7 +18,7 @@ This is the blended series of station RUSTEFJELBMA, NORWAY (STAID: 1060)
 Blended and updated with sources:9478 901075 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1060,  9478,19531201,-9999,    9
   1060,  9478,19531202,-9999,    9
   1060,  9478,19531203,-9999,    9

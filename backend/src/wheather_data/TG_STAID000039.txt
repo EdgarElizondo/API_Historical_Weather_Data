@@ -18,7 +18,7 @@ This is the blended series of station MARIGNANE, FRANCE (STAID: 39)
 Blended and updated with sources:6702 907650 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     39,  6702,19210101,   66,    0
     39,  6702,19210102,  108,    0
     39,  6702,19210103,   78,    0

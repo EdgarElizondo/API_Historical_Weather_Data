@@ -18,7 +18,7 @@ This is the blended series of station XATANGA, RUSSIAN FEDERATION (STAID: 3194)
 Blended and updated with sources:16806 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3194, 16806,19280101,-9999,    9
   3194, 16806,19280102,-9999,    9
   3194, 16806,19280103,-9999,    9

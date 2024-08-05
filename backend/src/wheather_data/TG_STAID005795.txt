@@ -18,7 +18,7 @@ This is the blended series of station HEDNORET, SWEDEN (STAID: 5795)
 Blended and updated with sources:37205 37217 902171 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5795, 37217,19591001,-9999,    9
   5795, 37217,19591002,-9999,    9
   5795, 37217,19591003,-9999,    9

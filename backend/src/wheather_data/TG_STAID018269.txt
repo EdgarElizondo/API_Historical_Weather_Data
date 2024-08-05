@@ -18,7 +18,7 @@ This is the blended series of station LOEKVOLLEN, NORWAY (STAID: 18269)
 Blended and updated with sources:99300 99569 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18269, 99300,20150401,-9999,    9
  18269, 99300,20150402,-9999,    9
  18269, 99300,20150403,-9999,    9

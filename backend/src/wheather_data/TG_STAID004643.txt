@@ -18,7 +18,7 @@ This is the blended series of station SIGMARINGEN (FLUGPLATZ), GERMANY (STAID: 4
 Blended and updated with sources:28808 910828 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4643,910828,20000701,-9999,    9
   4643,910828,20000702,-9999,    9
   4643,910828,20000703,  211,    0

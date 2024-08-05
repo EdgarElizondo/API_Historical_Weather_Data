@@ -18,7 +18,7 @@ This is the blended series of station BUJNAKSK, RUSSIAN FEDERATION (STAID: 3833)
 Blended and updated with sources:52418 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3833, 52418,19360101,  -45,    0
   3833, 52418,19360102,  -24,    0
   3833, 52418,19360103,  -22,    0

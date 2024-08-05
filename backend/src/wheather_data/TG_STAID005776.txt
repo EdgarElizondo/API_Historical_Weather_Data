@@ -18,7 +18,7 @@ This is the blended series of station BURESJON_A, SWEDEN (STAID: 5776)
 Blended and updated with sources:37151 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5776, 37151,19951101,  -67,    0
   5776, 37151,19951102,  -65,    0
   5776, 37151,19951103,  -79,    0

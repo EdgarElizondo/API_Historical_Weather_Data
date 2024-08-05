@@ -18,7 +18,7 @@ This is the blended series of station LEKSAND, SWEDEN (STAID: 5567)
 Blended and updated with sources:36461 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5567, 36461,19630801,  198,    0
   5567, 36461,19630802,  182,    0
   5567, 36461,19630803,  175,    0

@@ -18,7 +18,7 @@ This is the blended series of station E136 TRESFJORDBRUA, NORWAY (STAID: 18329)
 Blended and updated with sources:99042 100823 100943 901215 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18329,100943,19730901,  103,    0
  18329,100943,19730902,  120,    0
  18329,100943,19730903,  113,    0

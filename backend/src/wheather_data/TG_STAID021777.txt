@@ -18,7 +18,7 @@ This is the blended series of station RV3 STABEKKEN, NORWAY (STAID: 21777)
 Blended and updated with sources:33316 118195 901385 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21777, 33316,20050101,-9999,    9
  21777, 33316,20050102,-9999,    9
  21777, 33316,20050103,-9999,    9

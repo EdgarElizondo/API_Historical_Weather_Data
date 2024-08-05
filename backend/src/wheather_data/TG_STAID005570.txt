@@ -18,7 +18,7 @@ This is the blended series of station VINTJARN, SWEDEN (STAID: 5570)
 Blended and updated with sources:36470 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5570, 36470,19820601,  178,    0
   5570, 36470,19820602,  198,    0
   5570, 36470,19820603,  210,    0

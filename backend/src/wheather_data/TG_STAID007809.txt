@@ -18,7 +18,7 @@ This is the blended series of station SODANKYLA AWS, FINLAND (STAID: 7809)
 Blended and updated with sources:92 6038 46296 902836 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7809,  6038,19080101, -274,    0
   7809,  6038,19080102, -234,    0
   7809,  6038,19080103, -232,    0

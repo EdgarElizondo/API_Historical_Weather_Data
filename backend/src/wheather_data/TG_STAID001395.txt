@@ -18,7 +18,7 @@ This is the blended series of station VIGO PEINADOR, SPAIN (STAID: 1395)
 Blended and updated with sources:20408 908045 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1395, 20408,19560501,-9999,    9
   1395, 20408,19560502,-9999,    9
   1395, 20408,19560503,-9999,    9

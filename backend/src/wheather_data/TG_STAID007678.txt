@@ -18,7 +18,7 @@ This is the blended series of station KEMI I MAJAKKA, FINLAND (STAID: 7678)
 Blended and updated with sources:45605 902863 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7678, 45605,19810101,  -89,    0
   7678, 45605,19810102,  -94,    0
   7678, 45605,19810103, -133,    0

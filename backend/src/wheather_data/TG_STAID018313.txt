@@ -18,7 +18,7 @@ This is the blended series of station SVELVIK - BOKEROEYA, NORWAY (STAID: 18313)
 Blended and updated with sources:99264 99447 99524 99702 100881 901485 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18313,100881,20020101,  -23,    0
  18313,100881,20020102, -113,    0
  18313,100881,20020103, -147,    0

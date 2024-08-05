@@ -18,7 +18,7 @@ This is the blended series of station WALDBILLIG, LUXEMBOURG (STAID: 22491)
 Blended and updated with sources:121121 121301 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22491,121301,20120201,-9999,    9
  22491,121301,20120202,-9999,    9
  22491,121301,20120203,-9999,    9

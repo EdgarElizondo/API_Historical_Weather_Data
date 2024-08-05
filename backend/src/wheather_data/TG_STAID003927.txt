@@ -18,7 +18,7 @@ This is the blended series of station CEUTA (MONTE HACHO), SPAIN (STAID: 3927)
 Blended and updated with sources:20021 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3927, 20021,19350101,  140,    0
   3927, 20021,19350102,  157,    0
   3927, 20021,19350103,  156,    0

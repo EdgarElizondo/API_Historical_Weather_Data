@@ -18,7 +18,7 @@ This is the blended series of station TAJGA, RUSSIAN FEDERATION (STAID: 8231)
 Blended and updated with sources:50313 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8231, 50313,19360101, -151,    0
   8231, 50313,19360102,  -98,    0
   8231, 50313,19360103, -118,    0

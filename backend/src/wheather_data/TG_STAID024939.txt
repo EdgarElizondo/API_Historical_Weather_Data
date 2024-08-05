@@ -18,7 +18,7 @@ This is the blended series of station BOLESLAWOW, POLAND (STAID: 24939)
 Blended and updated with sources:137718 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24939,137718,19890101,  -14,    0
  24939,137718,19890102,  -21,    0
  24939,137718,19890103,  -16,    0

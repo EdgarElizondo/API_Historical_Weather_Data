@@ -18,7 +18,7 @@ This is the blended series of station KANEVKA, RUSSIAN FEDERATION (STAID: 8061)
 Blended and updated with sources:48088 922249 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8061, 48088,19590101,-9999,    9
   8061, 48088,19590102,-9999,    9
   8061, 48088,19590103,-9999,    9

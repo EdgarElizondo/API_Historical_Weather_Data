@@ -18,7 +18,7 @@ This is the blended series of station PARTENEN, AUSTRIA (STAID: 24285)
 Blended and updated with sources:129314 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24285,129314,19631001,   97,    0
  24285,129314,19631002,   69,    0
  24285,129314,19631003,   70,    0

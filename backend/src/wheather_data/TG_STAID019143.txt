@@ -18,7 +18,7 @@ This is the blended series of station STEINKJER - FINNMARKA, NORWAY (STAID: 1914
 Blended and updated with sources:99699 100687 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19143, 99699,19911201,-9999,    9
  19143, 99699,19911202,-9999,    9
  19143, 99699,19911203,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station MUHLHAUSEN-GORMAR, GERMANY (STAID: 4864)
 Blended and updated with sources:31460 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4864, 31460,20041201,   33,    0
   4864, 31460,20041202,   27,    0
   4864, 31460,20041203,   13,    0

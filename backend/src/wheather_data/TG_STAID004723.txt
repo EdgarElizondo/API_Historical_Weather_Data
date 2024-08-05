@@ -18,7 +18,7 @@ This is the blended series of station WAIBLINGEN, GERMANY (STAID: 4723)
 Blended and updated with sources:29120 29768 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4723, 29120,19460101,   -8,    0
   4723, 29120,19460102,  -18,    0
   4723, 29120,19460103,  -40,    0

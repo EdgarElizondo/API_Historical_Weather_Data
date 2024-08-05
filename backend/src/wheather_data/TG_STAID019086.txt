@@ -18,7 +18,7 @@ This is the blended series of station YTRE RENDAL II, NORWAY (STAID: 19086)
 Blended and updated with sources:100976 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19086,100976,19460101, -230,    0
  19086,100976,19460102, -214,    0
  19086,100976,19460103, -213,    0

@@ -18,7 +18,7 @@ This is the blended series of station OUTOKUMPU KESKUSTA, FINLAND (STAID: 7518)
 Blended and updated with sources:44790 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7518, 44790,19590101,  -84,    0
   7518, 44790,19590102,  -98,    0
   7518, 44790,19590103,  -62,    0

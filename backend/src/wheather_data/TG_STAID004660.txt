@@ -18,7 +18,7 @@ This is the blended series of station BIEDENKOPF, GERMANY (STAID: 4660)
 Blended and updated with sources:29012 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4660, 29012,19450101,  -75,    0
   4660, 29012,19450102,  -75,    0
   4660, 29012,19450103,    4,    0

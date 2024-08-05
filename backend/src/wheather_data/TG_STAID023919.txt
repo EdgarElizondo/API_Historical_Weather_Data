@@ -18,7 +18,7 @@ This is the blended series of station SCHWARZENAU, AUSTRIA (STAID: 23919)
 Blended and updated with sources:124621 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23919,124621,19740801,  197,    0
  23919,124621,19740802,  195,    0
  23919,124621,19740803,  209,    0

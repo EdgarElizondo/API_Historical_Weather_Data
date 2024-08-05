@@ -18,7 +18,7 @@ This is the blended series of station VIZE, RUSSIAN FEDERATION (STAID: 8039)
 Blended and updated with sources:47923 920069 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8039, 47923,19450101,-9999,    9
   8039, 47923,19450102,-9999,    9
   8039, 47923,19450103,-9999,    9

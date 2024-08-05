@@ -18,7 +18,7 @@ This is the blended series of station WIESELBURG, AUSTRIA (STAID: 24009)
 Blended and updated with sources:125778 125791 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24009,125791,19460401,-9999,    9
  24009,125791,19460402,-9999,    9
  24009,125791,19460403,-9999,    9

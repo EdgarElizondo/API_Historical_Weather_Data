@@ -18,7 +18,7 @@ This is the blended series of station STEHAG, SWEDEN (STAID: 5188)
 Blended and updated with sources:35207 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5188, 35207,19610101,    6,    0
   5188, 35207,19610102,   20,    0
   5188, 35207,19610103,   26,    0

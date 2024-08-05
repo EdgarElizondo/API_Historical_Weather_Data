@@ -18,7 +18,7 @@ This is the blended series of station TERKA, POLAND (STAID: 24923)
 Blended and updated with sources:137526 140502 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24923,140502,19560101,   -6,    0
  24923,140502,19560102,    4,    0
  24923,140502,19560103,  -36,    0

@@ -18,7 +18,7 @@ This is the blended series of station STOCKACH, GERMANY (STAID: 4667)
 Blended and updated with sources:29096 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4667, 29096,19771001,  104,    0
   4667, 29096,19771002,   70,    0
   4667, 29096,19771003,   51,    0

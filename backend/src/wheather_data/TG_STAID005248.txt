@@ -18,7 +18,7 @@ This is the blended series of station HOBURG_A, SWEDEN (STAID: 5248)
 Blended and updated with sources:35399 902679 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5248, 35399,20090601,  177,    0
   5248, 35399,20090602,  143,    0
   5248, 35399,20090603,   95,    0

@@ -18,7 +18,7 @@ This is the blended series of station POTSDAM, GERMANY (STAID: 54)
 Blended and updated with sources:197 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     54,   197,18930101, -106,    0
     54,   197,18930102, -129,    0
     54,   197,18930103, -120,    0

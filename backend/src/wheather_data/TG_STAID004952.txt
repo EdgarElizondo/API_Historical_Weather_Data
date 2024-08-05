@@ -18,7 +18,7 @@ This is the blended series of station CELLE, GERMANY (STAID: 4952)
 Blended and updated with sources:32504 32516 910343 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4952, 32504,19400101, -105,    0
   4952, 32504,19400102, -131,    0
   4952, 32504,19400103, -100,    0

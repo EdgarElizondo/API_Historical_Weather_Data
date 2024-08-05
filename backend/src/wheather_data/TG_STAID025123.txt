@@ -18,7 +18,7 @@ This is the blended series of station GIZYCKO, POLAND (STAID: 25123)
 Blended and updated with sources:139926 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25123,139926,19610101,   -4,    0
  25123,139926,19610102,   -3,    0
  25123,139926,19610103,    2,    0

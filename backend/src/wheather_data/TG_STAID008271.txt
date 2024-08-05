@@ -18,7 +18,7 @@ This is the blended series of station VERXNYAYA GUTARA, RUSSIAN FEDERATION (STAI
 Blended and updated with sources:50513 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8271, 50513,19360101, -194,    0
   8271, 50513,19360102, -156,    0
   8271, 50513,19360103, -186,    0

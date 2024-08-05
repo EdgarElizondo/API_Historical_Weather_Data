@@ -18,7 +18,7 @@ This is the blended series of station NAR'YAN-MAR, RUSSIAN FEDERATION (STAID: 88
 Blended and updated with sources:341 923205 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     88,   341,19260101,-9999,    9
     88,   341,19260102,-9999,    9
     88,   341,19260103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station PAVILOSTA, LATVIA (STAID: 988)
 Blended and updated with sources:118910 926403 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    988,118910,19450701,  135,    0
    988,118910,19450702,  135,    0
    988,118910,19450703,  134,    0

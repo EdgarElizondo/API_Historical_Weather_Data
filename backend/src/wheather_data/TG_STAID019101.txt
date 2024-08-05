@@ -18,7 +18,7 @@ This is the blended series of station DOMBAS II, NORWAY (STAID: 19101)
 Blended and updated with sources:595 99380 100710 100799 100994 901233 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19101,100994,19000101,  -39,    1
  19101,100994,19000102,  -92,    0
  19101,100994,19000103,  -94,    0

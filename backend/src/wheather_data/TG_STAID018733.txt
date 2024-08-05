@@ -18,7 +18,7 @@ This is the blended series of station KONGSVOLL, NORWAY (STAID: 18733)
 Blended and updated with sources:100572 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18733,100572,19761101,  -53,    0
  18733,100572,19761102,  -35,    0
  18733,100572,19761103,  -23,    0

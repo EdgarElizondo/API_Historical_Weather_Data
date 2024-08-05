@@ -18,7 +18,7 @@ This is the blended series of station USTKA, POLAND (STAID: 25148)
 Blended and updated with sources:140226 912115 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25148,140226,19510101,  -63,    0
  25148,140226,19510102,  -28,    0
  25148,140226,19510103,   11,    0

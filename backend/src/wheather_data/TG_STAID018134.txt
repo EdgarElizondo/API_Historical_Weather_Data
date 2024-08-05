@@ -18,7 +18,7 @@ This is the blended series of station BLASJOE, NORWAY (STAID: 18134)
 Blended and updated with sources:99201 100648 100828 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18134,100828,19750901,-9999,    9
  18134,100828,19750902,-9999,    9
  18134,100828,19750903,-9999,    9

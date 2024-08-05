@@ -18,7 +18,7 @@ This is the blended series of station HYRYNSALMI KYTOMAKI, FINLAND (STAID: 7714)
 Blended and updated with sources:45790 45800 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7714, 45790,19910101, -140,    0
   7714, 45790,19910102, -203,    0
   7714, 45790,19910103, -133,    0

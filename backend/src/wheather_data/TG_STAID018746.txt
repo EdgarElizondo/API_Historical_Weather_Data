@@ -18,7 +18,7 @@ This is the blended series of station OERSTAVIK - VELLE, NORWAY (STAID: 18746)
 Blended and updated with sources:99715 100587 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18746,100587,19610101,   -2,    0
  18746,100587,19610102,  -12,    0
  18746,100587,19610103,  -17,    0

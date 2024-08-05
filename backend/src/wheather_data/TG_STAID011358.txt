@@ -18,7 +18,7 @@ This is the blended series of station LAANE-NIGULA, ESTONIA (STAID: 11358)
 Blended and updated with sources:75034 926124 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11358, 75034,19640101,   25,    0
  11358, 75034,19640102,    0,    0
  11358, 75034,19640103,  -11,    0

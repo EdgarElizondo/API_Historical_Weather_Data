@@ -18,7 +18,7 @@ This is the blended series of station SCHMITTENHOEHE, AUSTRIA (STAID: 24739)
 Blended and updated with sources:135203 911340 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24739,135203,18950701,-9999,    9
  24739,135203,18950702,-9999,    9
  24739,135203,18950703,-9999,    9

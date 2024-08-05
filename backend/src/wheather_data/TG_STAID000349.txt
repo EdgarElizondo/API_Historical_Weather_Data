@@ -18,7 +18,7 @@ This is the blended series of station STORNOWAY AIRPORT, UNITED KINGDOM (STAID: 
 Blended and updated with sources:6715 903026 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    349,  6715,20010101,   50,    0
    349,  6715,20010102,   72,    1
    349,  6715,20010103,   48,    0

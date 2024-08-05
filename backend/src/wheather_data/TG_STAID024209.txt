@@ -18,7 +18,7 @@ This is the blended series of station SECKAU, AUSTRIA (STAID: 24209)
 Blended and updated with sources:128339 134007 135632 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24209,128339,18950101,-9999,    9
  24209,128339,18950102,-9999,    9
  24209,128339,18950103,-9999,    9

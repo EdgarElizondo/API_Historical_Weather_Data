@@ -18,7 +18,7 @@ This is the blended series of station BANYOLES, SPAIN (STAID: 11013)
 Blended and updated with sources:55977 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11013, 55977,20080101,   50,    0
  11013, 55977,20080102,   58,    0
  11013, 55977,20080103,   66,    0

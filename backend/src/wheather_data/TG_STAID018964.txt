@@ -18,7 +18,7 @@ This is the blended series of station MANDAL II, NORWAY (STAID: 18964)
 Blended and updated with sources:100834 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18964,100834,19490601,  118,    1
  18964,100834,19490602,  117,    1
  18964,100834,19490603,  103,    1

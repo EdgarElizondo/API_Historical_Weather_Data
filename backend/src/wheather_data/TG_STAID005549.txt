@@ -18,7 +18,7 @@ This is the blended series of station STJARNSUND, SWEDEN (STAID: 5549)
 Blended and updated with sources:36401 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5549, 36401,19610101,  -10,    0
   5549, 36401,19610102,  -30,    0
   5549, 36401,19610103,   -7,    0

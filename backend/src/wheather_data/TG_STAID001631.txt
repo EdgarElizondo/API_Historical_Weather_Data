@@ -18,7 +18,7 @@ This is the blended series of station RINGWAY, UNITED KINGDOM (STAID: 1631)
 Blended and updated with sources:6934 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1631,  6934,20010101,   50,    0
   1631,  6934,20010102,   73,    0
   1631,  6934,20010103,   47,    0

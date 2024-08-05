@@ -18,7 +18,7 @@ This is the blended series of station GRIZEDALE, UNITED KINGDOM (STAID: 1805)
 Blended and updated with sources:6999 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1805,  6999,19600101,-9999,    9
   1805,  6999,19600102,-9999,    9
   1805,  6999,19600103,-9999,    9

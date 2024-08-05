@@ -18,7 +18,7 @@ This is the blended series of station SKEGNESS, UNITED KINGDOM (STAID: 1839)
 Blended and updated with sources:7033 903392 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1839,  7033,19040101,-9999,    9
   1839,  7033,19040102,   25,    0
   1839,  7033,19040103,   34,    0

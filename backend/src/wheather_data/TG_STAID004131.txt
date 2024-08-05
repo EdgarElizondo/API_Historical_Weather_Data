@@ -18,7 +18,7 @@ This is the blended series of station GARMISCH-PARTENKIRCHEN, GERMANY (STAID: 41
 Blended and updated with sources:22664 910963 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4131, 22664,19360101,   36,    0
   4131, 22664,19360102,   53,    0
   4131, 22664,19360103,   70,    0

@@ -18,7 +18,7 @@ This is the blended series of station RV13 EIANE, NORWAY (STAID: 19139)
 Blended and updated with sources:99227 100671 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19139, 99227,20130101,   29,    0
  19139, 99227,20130102,   17,    0
  19139, 99227,20130103,   63,    0

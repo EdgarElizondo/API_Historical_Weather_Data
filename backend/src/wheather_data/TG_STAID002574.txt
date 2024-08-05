@@ -18,7 +18,7 @@ This is the blended series of station FOKSTUGU, NORWAY (STAID: 2574)
 Blended and updated with sources:9443 9452 901238 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2574,  9443,19230201,  -66,    0
   2574,  9443,19230202,  -39,    0
   2574,  9443,19230203,  -68,    1

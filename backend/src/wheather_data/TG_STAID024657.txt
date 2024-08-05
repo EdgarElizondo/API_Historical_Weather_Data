@@ -18,7 +18,7 @@ This is the blended series of station DACHSTEIN-HUNERKOGEL, AUSTRIA (STAID: 2465
 Blended and updated with sources:134137 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24657,134137,20170529,-9999,    9
  24657,134137,20170530,    0,    0
  24657,134137,20170531,-9999,    9

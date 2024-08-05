@@ -18,7 +18,7 @@ This is the blended series of station HVALER - BREKKE, NORWAY (STAID: 18080)
 Blended and updated with sources:99052 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18080, 99052,20180601,  186,    0
  18080, 99052,20180602,  199,    0
  18080, 99052,20180603,  205,    0

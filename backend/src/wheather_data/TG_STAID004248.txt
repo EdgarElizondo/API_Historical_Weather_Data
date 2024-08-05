@@ -18,7 +18,7 @@ This is the blended series of station HORNISGRINDE, GERMANY (STAID: 4248)
 Blended and updated with sources:24068 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4248, 24068,19530101,  -41,    0
   4248, 24068,19530102,  -71,    0
   4248, 24068,19530103,  -76,    0

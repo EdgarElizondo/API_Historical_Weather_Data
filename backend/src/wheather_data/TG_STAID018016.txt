@@ -18,7 +18,7 @@ This is the blended series of station GAUPNE, NORWAY (STAID: 18016)
 Blended and updated with sources:100567 100666 100709 100919 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18016,100919,19800201,-9999,    9
  18016,100919,19800202,  -98,    0
  18016,100919,19800203,  -71,    0

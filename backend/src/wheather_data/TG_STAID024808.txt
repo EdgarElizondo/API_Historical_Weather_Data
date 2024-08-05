@@ -18,7 +18,7 @@ This is the blended series of station POTTSCHACH, AUSTRIA (STAID: 24808)
 Blended and updated with sources:136100 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24808,136100,19610401,   95,    0
  24808,136100,19610402,  121,    0
  24808,136100,19610403,  124,    0

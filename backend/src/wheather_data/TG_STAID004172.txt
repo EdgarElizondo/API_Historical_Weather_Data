@@ -18,7 +18,7 @@ This is the blended series of station ARNSBERG, GERMANY (STAID: 4172)
 Blended and updated with sources:23156 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4172, 23156,18800101,   85,    0
   4172, 23156,18800102,   70,    0
   4172, 23156,18800103,   42,    0

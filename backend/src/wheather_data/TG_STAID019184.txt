@@ -18,7 +18,7 @@ This is the blended series of station HOLLSTAD, NORWAY (STAID: 19184)
 Blended and updated with sources:100861 100955 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19184,100861,19691201,  -28,    0
  19184,100861,19691202,  -46,    0
  19184,100861,19691203,  -58,    0

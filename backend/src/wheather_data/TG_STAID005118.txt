@@ -18,7 +18,7 @@ This is the blended series of station SOGNDAL LUFTHAVN, NORWAY (STAID: 5118)
 Blended and updated with sources:34516 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5118, 34516,19970601,-9999,    9
   5118, 34516,19970602,-9999,    9
   5118, 34516,19970603,-9999,    9

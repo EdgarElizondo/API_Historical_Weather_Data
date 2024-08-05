@@ -18,7 +18,7 @@ This is the blended series of station CHORZELOW, POLAND (STAID: 24978)
 Blended and updated with sources:138186 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24978,138186,19610101,  -19,    0
  24978,138186,19610102,  -15,    0
  24978,138186,19610103,   26,    0

@@ -18,7 +18,7 @@ This is the blended series of station RUNKEL-ENNERICH, GERMANY (STAID: 4870)
 Blended and updated with sources:25364 29996 31532 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4870, 29996,19470101,  -14,    0
   4870, 29996,19470102,   -5,    0
   4870, 29996,19470103,   12,    0

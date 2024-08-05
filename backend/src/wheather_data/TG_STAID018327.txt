@@ -18,7 +18,7 @@ This is the blended series of station E134 DARBU, NORWAY (STAID: 18327)
 Blended and updated with sources:9545 9554 9563 99038 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18327,  9554,19540101,  -94,    0
  18327,  9554,19540102,   31,    0
  18327,  9554,19540103,    3,    0

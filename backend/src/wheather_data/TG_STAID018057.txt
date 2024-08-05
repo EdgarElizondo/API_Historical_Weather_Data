@@ -18,7 +18,7 @@ This is the blended series of station RAKKESTAD, NORWAY (STAID: 18057)
 Blended and updated with sources:99507 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18057, 99507,20090101,  -90,    0
  18057, 99507,20090102, -133,    0
  18057, 99507,20090103,  -63,    0

@@ -18,7 +18,7 @@ This is the blended series of station VINJEOERA III, NORWAY (STAID: 18880)
 Blended and updated with sources:100743 901232 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18880,100743,19821201,   46,    0
  18880,100743,19821202,   12,    0
  18880,100743,19821203,   -2,    0

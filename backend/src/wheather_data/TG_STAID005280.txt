@@ -18,7 +18,7 @@ This is the blended series of station VETLANDA, SWEDEN (STAID: 5280)
 Blended and updated with sources:35516 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5280, 35516,19630201, -104,    0
   5280, 35516,19630202,  -78,    0
   5280, 35516,19630203,  -47,    0

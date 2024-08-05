@@ -18,7 +18,7 @@ This is the blended series of station OSTENFELD (RENDSBURG), GERMANY (STAID: 483
 Blended and updated with sources:27716 31052 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4830, 27716,19731001,   90,    0
   4830, 27716,19731002,  126,    0
   4830, 27716,19731003,  130,    0

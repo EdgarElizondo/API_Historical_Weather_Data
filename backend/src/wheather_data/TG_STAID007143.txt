@@ -18,7 +18,7 @@ This is the blended series of station LAMMI EVO, FINLAND (STAID: 7143)
 Blended and updated with sources:42874 42919 42989 43009 43034 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7143, 42874,19590101,  -16,    0
   7143, 42874,19590102,  -22,    0
   7143, 42874,19590103,   -5,    0

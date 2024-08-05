@@ -18,7 +18,7 @@ This is the blended series of station HOLMON A, SWEDEN (STAID: 3532)
 Blended and updated with sources:36896 902287 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3532, 36896,20050501,   18,    0
   3532, 36896,20050502,   37,    0
   3532, 36896,20050503,   43,    0

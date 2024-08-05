@@ -18,7 +18,7 @@ This is the blended series of station FV63 TROLLSTIGEN, NORWAY (STAID: 21759)
 Blended and updated with sources:118111 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21759,118111,20200901,-9999,    9
  21759,118111,20200902,-9999,    9
  21759,118111,20200903,-9999,    9

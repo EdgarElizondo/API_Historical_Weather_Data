@@ -18,7 +18,7 @@ This is the blended series of station BASSUM (A), GERMANY (STAID: 4806)
 Blended and updated with sources:30764 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4806, 30764,19610101,   30,    0
   4806, 30764,19610102,   20,    0
   4806, 30764,19610103,   40,    0

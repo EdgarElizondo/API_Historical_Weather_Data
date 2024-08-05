@@ -18,7 +18,7 @@ This is the blended series of station SISIMIUT, GREENLAND [DENMARK] (STAID: 7982
 Blended and updated with sources:47037 47057 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7982, 47037,19610101, -126,    0
   7982, 47037,19610102,  -92,    0
   7982, 47037,19610103, -125,    0

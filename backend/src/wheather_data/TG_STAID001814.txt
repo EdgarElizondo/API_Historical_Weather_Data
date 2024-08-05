@@ -18,7 +18,7 @@ This is the blended series of station PLYMOUTH: MOUNTBATTEN, UNITED KINGDOM (STA
 Blended and updated with sources:7008 903827 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1814,  7008,19600101,  108,    0
   1814,  7008,19600102,  103,    0
   1814,  7008,19600103,  100,    0

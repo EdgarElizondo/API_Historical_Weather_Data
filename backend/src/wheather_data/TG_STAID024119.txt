@@ -18,7 +18,7 @@ This is the blended series of station MOENICHKIRCHEN, AUSTRIA (STAID: 24119)
 Blended and updated with sources:127169 127182 911185 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24119,127182,19540801,  126,    0
  24119,127182,19540802,  147,    0
  24119,127182,19540803,  179,    0

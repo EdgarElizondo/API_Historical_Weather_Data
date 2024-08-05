@@ -18,7 +18,7 @@ This is the blended series of station KOSZALIN, POLAND (STAID: 2022)
 Blended and updated with sources:6051 912105 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2022,  6051,19201201,    6,    1
   2022,  6051,19201202,    3,    1
   2022,  6051,19201203,   -5,    1

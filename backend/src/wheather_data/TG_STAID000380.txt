@@ -18,7 +18,7 @@ This is the blended series of station PADOVA, ITALY (STAID: 380)
 Blended and updated with sources:15587 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    380, 15587,19970101,    5,    0
    380, 15587,19970102,   15,    0
    380, 15587,19970103,   40,    0

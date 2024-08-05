@@ -18,7 +18,7 @@ This is the blended series of station ARSDORF_1, LUXEMBOURG (STAID: 280)
 Blended and updated with sources:121001 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    280,121001,20120201,-9999,    9
    280,121001,20120202,-9999,    9
    280,121001,20120203,-9999,    9

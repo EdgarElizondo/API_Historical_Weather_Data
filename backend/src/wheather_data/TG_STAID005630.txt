@@ -18,7 +18,7 @@ This is the blended series of station HEDEVIKEN, SWEDEN (STAID: 5630)
 Blended and updated with sources:36656 36659 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5630, 36656,19450101, -148,    0
   5630, 36656,19450102, -214,    0
   5630, 36656,19450103, -136,    0

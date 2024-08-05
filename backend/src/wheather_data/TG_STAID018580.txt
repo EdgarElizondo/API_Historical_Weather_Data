@@ -18,7 +18,7 @@ This is the blended series of station FV55 KONGSNES, NORWAY (STAID: 18580)
 Blended and updated with sources:99493 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18580, 99493,20141201,-9999,    9
  18580, 99493,20141202,-9999,    9
  18580, 99493,20141203,-9999,    9

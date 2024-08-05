@@ -18,7 +18,7 @@ This is the blended series of station TREPPIO, ITALY (STAID: 17832)
 Blended and updated with sources:97688 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17832, 97688,20051201,-9999,    9
  17832, 97688,20051202,-9999,    9
  17832, 97688,20051203,-9999,    9

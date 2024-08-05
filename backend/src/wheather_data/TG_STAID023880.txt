@@ -18,7 +18,7 @@ This is the blended series of station E16 DALSEID, NORWAY (STAID: 23880)
 Blended and updated with sources:99093 124187 901314 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23880, 99093,20120601,   80,    0
  23880, 99093,20120602,   80,    0
  23880, 99093,20120603,   90,    0

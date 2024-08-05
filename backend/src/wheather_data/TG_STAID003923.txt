@@ -18,7 +18,7 @@ This is the blended series of station SANTANDER/PARAYAS, SPAIN (STAID: 3923)
 Blended and updated with sources:19985 908021 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3923, 19985,19530901,-9999,    9
   3923, 19985,19530902,-9999,    9
   3923, 19985,19530903,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station FURTH/BAYERN (A), GERMANY (STAID: 4127)
 Blended and updated with sources:2382 22616 26828 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4127,  2382,18790101,   78,    0
   4127,  2382,18790102,   47,    0
   4127,  2382,18790103,   20,    0

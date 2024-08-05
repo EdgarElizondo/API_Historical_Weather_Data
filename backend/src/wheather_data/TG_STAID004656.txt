@@ -18,7 +18,7 @@ This is the blended series of station SONTRA, GERMANY (STAID: 4656)
 Blended and updated with sources:28964 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4656, 28964,19610101,   13,    0
   4656, 28964,19610102,   20,    0
   4656, 28964,19610103,   26,    0

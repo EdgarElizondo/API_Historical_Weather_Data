@@ -18,7 +18,7 @@ This is the blended series of station FOERDE - TEFRE, NORWAY (STAID: 19054)
 Blended and updated with sources:100589 100942 901322 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19054,100589,19650701,   84,    0
  19054,100589,19650702,  102,    0
  19054,100589,19650703,  108,    0

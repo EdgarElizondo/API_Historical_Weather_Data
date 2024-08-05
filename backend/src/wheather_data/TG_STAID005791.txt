@@ -18,7 +18,7 @@ This is the blended series of station BRANNBERGS FORSOKSGARD, SWEDEN (STAID: 579
 Blended and updated with sources:37199 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5791, 37199,19450101,  -86,    0
   5791, 37199,19450102,  -72,    0
   5791, 37199,19450103, -220,    0

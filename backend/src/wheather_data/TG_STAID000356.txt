@@ -18,7 +18,7 @@ This is the blended series of station AACHEN, GERMANY (STAID: 356)
 Blended and updated with sources:2318 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    356,  2318,18910101,  -36,    0
    356,  2318,18910102,  -28,    0
    356,  2318,18910103,   -2,    0

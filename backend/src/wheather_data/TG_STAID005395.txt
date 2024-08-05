@@ -18,7 +18,7 @@ This is the blended series of station KROPPEFJALL-GRANAN_A, SWEDEN (STAID: 5395)
 Blended and updated with sources:35897 902540 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5395, 35897,19950801,  216,    0
   5395, 35897,19950802,  223,    0
   5395, 35897,19950803,  180,    0

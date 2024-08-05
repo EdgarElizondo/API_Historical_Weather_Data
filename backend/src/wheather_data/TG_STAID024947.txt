@@ -18,7 +18,7 @@ This is the blended series of station GLUCHOLAZY, POLAND (STAID: 24947)
 Blended and updated with sources:137814 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24947,137814,19860101,  -69,    0
  24947,137814,19860102,  -38,    0
  24947,137814,19860103,   20,    0

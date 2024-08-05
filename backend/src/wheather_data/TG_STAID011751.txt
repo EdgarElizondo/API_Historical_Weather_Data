@@ -18,7 +18,7 @@ This is the blended series of station GROSSMEHRING-THEISSING, GERMANY (STAID: 11
 Blended and updated with sources:81053 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11751, 81053,19490101,   18,    0
  11751, 81053,19490102,   20,    0
  11751, 81053,19490103,   18,    0

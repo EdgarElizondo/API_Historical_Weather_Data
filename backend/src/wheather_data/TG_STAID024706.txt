@@ -18,7 +18,7 @@ This is the blended series of station LANDECK, AUSTRIA (STAID: 24706)
 Blended and updated with sources:134774 911112 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24706,134774,19460201,  -17,    0
  24706,134774,19460202,   10,    0
  24706,134774,19460203,   22,    0

@@ -18,7 +18,7 @@ This is the blended series of station PFORZHEIM-ISPRINGEN, GERMANY (STAID: 4518)
 Blended and updated with sources:27308 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4518, 27308,19890401,-9999,    9
   4518, 27308,19890402,-9999,    9
   4518, 27308,19890403,-9999,    9

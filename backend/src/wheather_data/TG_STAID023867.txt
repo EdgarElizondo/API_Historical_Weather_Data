@@ -18,7 +18,7 @@ This is the blended series of station VALE, NORWAY (STAID: 23867)
 Blended and updated with sources:99076 99395 124134 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23867, 99076,20150601,  108,    0
  23867, 99076,20150602,   87,    0
  23867, 99076,20150603,  128,    0

@@ -18,7 +18,7 @@ This is the blended series of station OEVRE JERVAN, NORWAY (STAID: 19020)
 Blended and updated with sources:100902 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19020,100902,19681201,  -31,    0
  19020,100902,19681202,   -1,    0
  19020,100902,19681203,   10,    0

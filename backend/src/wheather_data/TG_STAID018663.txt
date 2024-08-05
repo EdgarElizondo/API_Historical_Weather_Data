@@ -18,7 +18,7 @@ This is the blended series of station FV17 SJONFJELLET, NORWAY (STAID: 18663)
 Blended and updated with sources:99648 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18663, 99648,20151101,-9999,    9
  18663, 99648,20151102,-9999,    9
  18663, 99648,20151103,-9999,    9

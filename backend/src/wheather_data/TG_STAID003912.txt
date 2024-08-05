@@ -18,7 +18,7 @@ This is the blended series of station GIJON MUSEL, SPAIN (STAID: 3912)
 Blended and updated with sources:19796 19805 19814 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3912, 19805,19381001,  164,    0
   3912, 19805,19381002,  164,    0
   3912, 19805,19381003,  159,    0

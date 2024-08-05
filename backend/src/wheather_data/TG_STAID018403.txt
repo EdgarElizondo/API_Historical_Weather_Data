@@ -18,7 +18,7 @@ This is the blended series of station RV13 ARDAL, NORWAY (STAID: 18403)
 Blended and updated with sources:99160 100924 901422 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18403,100924,19540101,   27,    0
  18403,100924,19540102,   70,    0
  18403,100924,19540103,   41,    0

@@ -18,7 +18,7 @@ This is the blended series of station OBERVERMUNT, AUSTRIA (STAID: 24284)
 Blended and updated with sources:129301 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24284,129301,19631001,   53,    0
  24284,129301,19631002,   53,    0
  24284,129301,19631003,   40,    0

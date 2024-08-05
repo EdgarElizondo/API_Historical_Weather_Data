@@ -18,7 +18,7 @@ This is the blended series of station SULA, NORWAY (STAID: 5137)
 Blended and updated with sources:34744 34756 901228 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5137, 34756,19380101,-9999,    9
   5137, 34756,19380102,-9999,    9
   5137, 34756,19380103,-9999,    9

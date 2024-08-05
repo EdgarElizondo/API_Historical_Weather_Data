@@ -18,7 +18,7 @@ This is the blended series of station QAANAAQ, GREENLAND [DENMARK] (STAID: 7963)
 Blended and updated with sources:46827 46857 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7963, 46857,19640101,-9999,    9
   7963, 46857,19640102,-9999,    9
   7963, 46857,19640103,-9999,    9

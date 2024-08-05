@@ -18,7 +18,7 @@ This is the blended series of station WAREGEM_P, BELGIUM (STAID: 20764)
 Blended and updated with sources:118280 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20764,118280,20201001,  137,    0
  20764,118280,20201002,  118,    0
  20764,118280,20201003,  125,    0

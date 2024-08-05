@@ -18,7 +18,7 @@ This is the blended series of station FERLACH, AUSTRIA (STAID: 24348)
 Blended and updated with sources:130133 135580 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24348,135580,19530501,-9999,    9
  24348,135580,19530502,-9999,    9
  24348,135580,19530503,-9999,    9

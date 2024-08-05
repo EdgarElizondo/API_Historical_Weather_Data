@@ -18,7 +18,7 @@ This is the blended series of station SCHWARZAU/GEBIRGE, AUSTRIA (STAID: 24067)
 Blended and updated with sources:126506 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24067,126506,19360101,   28,    0
  24067,126506,19360102,   40,    0
  24067,126506,19360103,   56,    0

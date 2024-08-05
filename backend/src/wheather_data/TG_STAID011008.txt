@@ -18,7 +18,7 @@ This is the blended series of station ATHENRY, IRELAND (STAID: 11008)
 Blended and updated with sources:55921 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11008, 55921,20130101,   60,    0
  11008, 55921,20130102,   73,    0
  11008, 55921,20130103,  107,    0

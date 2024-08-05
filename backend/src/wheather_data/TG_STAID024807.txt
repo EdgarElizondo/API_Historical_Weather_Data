@@ -18,7 +18,7 @@ This is the blended series of station MUERZZUSCHLAG, AUSTRIA (STAID: 24807)
 Blended and updated with sources:136087 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24807,136087,19480101,  -45,    0
  24807,136087,19480102,  -45,    0
  24807,136087,19480103,   44,    0

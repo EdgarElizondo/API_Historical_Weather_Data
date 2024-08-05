@@ -18,7 +18,7 @@ This is the blended series of station SVALBARD AIRPORT, NORWAY (STAID: 186)
 Blended and updated with sources:580 99233 100882 901008 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    186,100882,19110801,-9999,    9
    186,100882,19110802,-9999,    9
    186,100882,19110803,-9999,    9

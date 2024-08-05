@@ -18,7 +18,7 @@ This is the blended series of station ANNABERG-BUCHHOLZ, GERMANY (STAID: 4153)
 Blended and updated with sources:22928 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4153, 22928,19470101,  -72,    0
   4153, 22928,19470102,  -23,    0
   4153, 22928,19470103,  -56,    0

@@ -18,7 +18,7 @@ This is the blended series of station VANGSO, SWEDEN (STAID: 11216)
 Blended and updated with sources:71413 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11216, 71413,19490101,   30,    1
  11216, 71413,19490102,   40,    1
  11216, 71413,19490103,   28,    1

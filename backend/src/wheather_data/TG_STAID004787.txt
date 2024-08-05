@@ -18,7 +18,7 @@ This is the blended series of station WORMS, GERMANY (STAID: 4787)
 Blended and updated with sources:30536 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4787, 30536,19360101,   68,    0
   4787, 30536,19360102,   66,    0
   4787, 30536,19360103,   86,    0

@@ -18,7 +18,7 @@ This is the blended series of station CASTEL_SAN_PIETRO_GAIANA, ITALY (STAID: 17
 Blended and updated with sources:94808 94816 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17581, 94808,20051201,-9999,    9
  17581, 94808,20051202,-9999,    9
  17581, 94808,20051203,-9999,    9

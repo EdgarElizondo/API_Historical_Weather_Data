@@ -18,7 +18,7 @@ This is the blended series of station TAIPALSAARI KYLANIEMI, FINLAND (STAID: 722
 Blended and updated with sources:43264 902728 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7221, 43264,19910501,-9999,    9
   7221, 43264,19910502,-9999,    9
   7221, 43264,19910503,-9999,    9

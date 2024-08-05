@@ -18,7 +18,7 @@ This is the blended series of station ALMAGRUNDET_A, SWEDEN (STAID: 5443)
 Blended and updated with sources:36050 902499 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5443, 36050,19611101,-9999,    9
   5443, 36050,19611102,-9999,    9
   5443, 36050,19611103,-9999,    9

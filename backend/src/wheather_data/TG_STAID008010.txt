@@ -18,7 +18,7 @@ This is the blended series of station NANORTALIK HELIPORT, GREENLAND [DENMARK] (
 Blended and updated with sources:47347 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8010, 47347,19610101,-9999,    9
   8010, 47347,19610102,-9999,    9
   8010, 47347,19610103,-9999,    9

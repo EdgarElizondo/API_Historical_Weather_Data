@@ -18,7 +18,7 @@ This is the blended series of station OLEN'YA RECHKA, RUSSIAN FEDERATION (STAID:
 Blended and updated with sources:50623 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8293, 50623,19260101,-9999,    9
   8293, 50623,19260102,-9999,    9
   8293, 50623,19260103,-9999,    9

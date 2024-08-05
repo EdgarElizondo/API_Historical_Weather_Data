@@ -18,7 +18,7 @@ This is the blended series of station NORRIAN, SWEDEN (STAID: 6842)
 Blended and updated with sources:70581 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6842, 70581,19680701,-9999,    9
   6842, 70581,19680702,-9999,    9
   6842, 70581,19680703,-9999,    9

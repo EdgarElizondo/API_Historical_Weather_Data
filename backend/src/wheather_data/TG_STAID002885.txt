@@ -18,7 +18,7 @@ This is the blended series of station ROCCA SAN CASCIANO, ITALY (STAID: 2885)
 Blended and updated with sources:96920 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2885, 96920,20180401,-9999,    9
   2885, 96920,20180402,-9999,    9
   2885, 96920,20180403,-9999,    9

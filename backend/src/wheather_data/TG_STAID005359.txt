@@ -18,7 +18,7 @@ This is the blended series of station HALLUM_A, SWEDEN (STAID: 5359)
 Blended and updated with sources:35774 35783 902542 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5359, 35783,19450101,  -52,    0
   5359, 35783,19450102,   40,    0
   5359, 35783,19450103,   23,    0

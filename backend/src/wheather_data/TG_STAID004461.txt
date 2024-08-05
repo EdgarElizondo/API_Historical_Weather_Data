@@ -18,7 +18,7 @@ This is the blended series of station NEUSTADT AM KULM-FILCHENDORF, GERMANY (STA
 Blended and updated with sources:21920 26624 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4461, 21920,19670101,   20,    0
   4461, 21920,19670102,   -4,    0
   4461, 21920,19670103,  -16,    0

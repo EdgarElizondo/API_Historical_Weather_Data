@@ -18,7 +18,7 @@ This is the blended series of station MATTIGHOFEN, AUSTRIA (STAID: 23978)
 Blended and updated with sources:125388 125401 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23978,125388,19360101,  -16,    0
  23978,125388,19360102,    9,    0
  23978,125388,19360103,   42,    0

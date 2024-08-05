@@ -18,7 +18,7 @@ This is the blended series of station SOERNESSET, NORWAY (STAID: 18871)
 Blended and updated with sources:100730 901379 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18871,100730,19540101,   -1,    0
  18871,100730,19540102,   38,    0
  18871,100730,19540103,  -55,    0

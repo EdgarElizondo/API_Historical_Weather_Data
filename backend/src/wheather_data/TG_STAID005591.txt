@@ -18,7 +18,7 @@ This is the blended series of station EDSBYN_A, SWEDEN (STAID: 5591)
 Blended and updated with sources:36536 36539 902338 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5591, 36539,19490101,    0,    0
   5591, 36539,19490102,   17,    1
   5591, 36539,19490103,    9,    1

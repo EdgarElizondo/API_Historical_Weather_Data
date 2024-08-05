@@ -18,7 +18,7 @@ This is the blended series of station VATS I VINDAFJORD, NORWAY (STAID: 18152)
 Blended and updated with sources:99251 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18152, 99251,20111001,  157,    0
  18152, 99251,20111002,  132,    0
  18152, 99251,20111003,  125,    0

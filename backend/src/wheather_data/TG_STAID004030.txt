@@ -18,7 +18,7 @@ This is the blended series of station DUISBURG-FRIEMERSHEIM, GERMANY (STAID: 403
 Blended and updated with sources:2270 21452 21464 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4030, 21464,19510101,   26,    0
   4030, 21464,19510102,   32,    0
   4030, 21464,19510103,   16,    0

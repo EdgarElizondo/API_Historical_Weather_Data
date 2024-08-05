@@ -18,7 +18,7 @@ This is the blended series of station VALSENIO, ITALY (STAID: 17837)
 Blended and updated with sources:97728 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17837, 97728,20110501,  150,    0
  17837, 97728,20110502,  154,    0
  17837, 97728,20110503,  160,    0

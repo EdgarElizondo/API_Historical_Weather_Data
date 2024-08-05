@@ -18,7 +18,7 @@ This is the blended series of station EAST BERGHOLT, UNITED KINGDOM (STAID: 1841
 Blended and updated with sources:7035 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1841,  7035,19600101,  100,    1
   1841,  7035,19600102,   47,    0
   1841,  7035,19600103,   58,    0

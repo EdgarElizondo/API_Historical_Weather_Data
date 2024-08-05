@@ -18,7 +18,7 @@ This is the blended series of station PUJALT, SPAIN (STAID: 16321)
 Blended and updated with sources:90636 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  16321, 90636,20180401,-9999,    9
  16321, 90636,20180402,-9999,    9
  16321, 90636,20180403,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station SOLBERGELVA - OLLEVEIEN, NORWAY (STAID: 19
 Blended and updated with sources:99239 118339 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19344, 99239,20130101,    1,    0
  19344, 99239,20130102,  -51,    0
  19344, 99239,20130103,    3,    0

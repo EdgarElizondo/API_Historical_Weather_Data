@@ -18,7 +18,7 @@ This is the blended series of station TARBES - OSSUN, FRANCE (STAID: 756)
 Blended and updated with sources:4117 907621 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    756,  4117,19460101,   42,    0
    756,  4117,19460102,   47,    0
    756,  4117,19460103,   39,    0

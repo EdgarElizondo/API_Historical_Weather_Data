@@ -18,7 +18,7 @@ This is the blended series of station RADZYN PODLASKI, POLAND (STAID: 25025)
 Blended and updated with sources:138750 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25025,138750,19610101,   -7,    0
  25025,138750,19610102,   -5,    0
  25025,138750,19610103,   15,    0

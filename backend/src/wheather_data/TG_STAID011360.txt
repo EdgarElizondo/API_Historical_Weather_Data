@@ -18,7 +18,7 @@ This is the blended series of station PAKRI, ESTONIA (STAID: 11360)
 Blended and updated with sources:75042 926029 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11360, 75042,19010101, -121,    1
  11360, 75042,19010102,  -34,    1
  11360, 75042,19010103,   -6,    1

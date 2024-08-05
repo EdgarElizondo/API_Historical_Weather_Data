@@ -18,7 +18,7 @@ This is the blended series of station HARSTAD STADION, NORWAY (STAID: 18295)
 Blended and updated with sources:99652 901180 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18295, 99652,20020801,-9999,    9
  18295, 99652,20020802,-9999,    9
  18295, 99652,20020803,-9999,    9

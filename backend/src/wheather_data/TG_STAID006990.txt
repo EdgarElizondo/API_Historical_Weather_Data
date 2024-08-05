@@ -18,7 +18,7 @@ This is the blended series of station RAASEPORI JUSSARO, FINLAND (STAID: 6990)
 Blended and updated with sources:42068 902757 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6990, 42068,19900901,-9999,    9
   6990, 42068,19900902,-9999,    9
   6990, 42068,19900903,-9999,    9

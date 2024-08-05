@@ -18,7 +18,7 @@ This is the blended series of station SCHMATZFELD, GERMANY (STAID: 4614)
 Blended and updated with sources:28460 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4614, 28460,19470101,  -61,    0
   4614, 28460,19470102,  -29,    0
   4614, 28460,19470103,  -40,    0

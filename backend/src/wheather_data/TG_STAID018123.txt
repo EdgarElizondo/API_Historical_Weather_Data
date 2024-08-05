@@ -18,7 +18,7 @@ This is the blended series of station TROMSDALEN, NORWAY (STAID: 18123)
 Blended and updated with sources:34900 99181 99703 100836 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18123,100836,19570101,  -44,    0
  18123,100836,19570102,  -11,    0
  18123,100836,19570103,    2,    0

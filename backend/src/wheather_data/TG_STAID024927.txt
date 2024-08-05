@@ -18,7 +18,7 @@ This is the blended series of station BRZEGI DOLNE, POLAND (STAID: 24927)
 Blended and updated with sources:137574 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24927,137574,19610101,    5,    0
  24927,137574,19610102,   -8,    0
  24927,137574,19610103,   63,    0

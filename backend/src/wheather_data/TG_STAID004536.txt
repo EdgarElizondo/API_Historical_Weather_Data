@@ -18,7 +18,7 @@ This is the blended series of station QUICKBORN (KURZER KAMP), GERMANY (STAID: 4
 Blended and updated with sources:11417 27524 27536 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4536, 11417,19360101,   73,    0
   4536, 11417,19360102,   67,    0
   4536, 11417,19360103,   44,    0

@@ -18,7 +18,7 @@ This is the blended series of station TIXVIN, RUSSIAN FEDERATION (STAID: 1143)
 Blended and updated with sources:48993 926094 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1143, 48993,19380101,-9999,    9
   1143, 48993,19380102,-9999,    9
   1143, 48993,19380103,-9999,    9

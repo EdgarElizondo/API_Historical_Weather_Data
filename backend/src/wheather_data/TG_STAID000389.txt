@@ -18,7 +18,7 @@ This is the blended series of station IZMAIL, UKRAINE (STAID: 389)
 Blended and updated with sources:17492 933889 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    389, 17492,18861001,  198,    1
    389, 17492,18861002,   86,    1
    389, 17492,18861003,  104,    1

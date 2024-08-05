@@ -18,7 +18,7 @@ This is the blended series of station PETRUN', RUSSIAN FEDERATION (STAID: 3065)
 Blended and updated with sources:48443 923324 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3065, 48443,19040101, -247,    0
   3065, 48443,19040102, -288,    0
   3065, 48443,19040103, -301,    0

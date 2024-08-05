@@ -18,7 +18,7 @@ This is the blended series of station BUCHEL (FLUGPLATZ), GERMANY (STAID: 4940)
 Blended and updated with sources:32372 910613 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4940, 32372,19650101,-9999,    9
   4940, 32372,19650102,-9999,    9
   4940, 32372,19650103,-9999,    9

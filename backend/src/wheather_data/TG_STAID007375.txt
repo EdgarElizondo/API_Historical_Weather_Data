@@ -18,7 +18,7 @@ This is the blended series of station JOROINEN VARKAUDEN LENTOASEMA, FINLAND (ST
 Blended and updated with sources:44050 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7375, 44050,19991201,-9999,    9
   7375, 44050,19991202,-9999,    9
   7375, 44050,19991203,-9999,    9

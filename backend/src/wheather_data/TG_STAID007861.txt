@@ -18,7 +18,7 @@ This is the blended series of station INARI SAARISELKA MATKAILUKESKUS, FINLAND (
 Blended and updated with sources:46546 46556 46561 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7861, 46546,19600401, -133,    0
   7861, 46546,19600402, -117,    0
   7861, 46546,19600403,  -83,    0

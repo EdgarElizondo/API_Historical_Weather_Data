@@ -18,7 +18,7 @@ This is the blended series of station AUSTEVOLL, NORWAY (STAID: 18141)
 Blended and updated with sources:99223 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18141, 99223,20120601,  121,    1
  18141, 99223,20120602,  125,    1
  18141, 99223,20120603,  133,    1

@@ -18,7 +18,7 @@ This is the blended series of station FINALE_EMILIA, ITALY (STAID: 17619)
 Blended and updated with sources:95288 97104 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17619, 97104,20051201,-9999,    9
  17619, 97104,20051202,-9999,    9
  17619, 97104,20051203,-9999,    9

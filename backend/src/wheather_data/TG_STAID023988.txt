@@ -18,7 +18,7 @@ This is the blended series of station KREMSMUENSTER, AUSTRIA (STAID: 23988)
 Blended and updated with sources:6022 125518 136490 911012 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23988,136490,18740101,-9999,    9
  23988,136490,18740102,-9999,    9
  23988,136490,18740103,-9999,    9

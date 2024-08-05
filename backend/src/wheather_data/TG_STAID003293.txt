@@ -18,7 +18,7 @@ This is the blended series of station KHUDJAND, TAJIKISTAN (STAID: 3293)
 Blended and updated with sources:17687 938599 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3293, 17687,19360101,  -51,    0
   3293, 17687,19360102,  -69,    0
   3293, 17687,19360103,  -48,    0

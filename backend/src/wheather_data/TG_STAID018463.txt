@@ -18,7 +18,7 @@ This is the blended series of station VESLEFRIKK A, NORWAY (STAID: 18463)
 Blended and updated with sources:99280 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18463, 99280,20170601,-9999,    9
  18463, 99280,20170602,-9999,    9
  18463, 99280,20170603,-9999,    9

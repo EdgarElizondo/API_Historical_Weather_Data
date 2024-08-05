@@ -18,7 +18,7 @@ This is the blended series of station ALVUNDFJORD, NORWAY (STAID: 5055)
 Blended and updated with sources:33760 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5055, 33760,19590601,-9999,    9
   5055, 33760,19590602,   95,    0
   5055, 33760,19590603,   87,    0

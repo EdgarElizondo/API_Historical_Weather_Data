@@ -18,7 +18,7 @@ This is the blended series of station VORONEZH, RUSSIAN FEDERATION (STAID: 1282)
 Blended and updated with sources:17332 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1282, 17332,19180101,-9999,    9
   1282, 17332,19180102,-9999,    9
   1282, 17332,19180103,-9999,    9

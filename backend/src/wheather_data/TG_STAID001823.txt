@@ -18,7 +18,7 @@ This is the blended series of station GUERNSEY: AIRPORT, UNITED KINGDOM (STAID: 
 Blended and updated with sources:7017 903894 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1823,  7017,19600101,-9999,    9
   1823,  7017,19600102,   97,    0
   1823,  7017,19600103,  106,    0

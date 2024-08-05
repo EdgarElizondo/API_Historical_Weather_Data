@@ -18,7 +18,7 @@ This is the blended series of station HORNSET, NORWAY (STAID: 18866)
 Blended and updated with sources:100725 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18866,100725,19650301, -155,    0
  18866,100725,19650302, -150,    0
  18866,100725,19650303, -137,    0

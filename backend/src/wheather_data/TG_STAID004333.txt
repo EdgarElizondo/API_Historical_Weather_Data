@@ -18,7 +18,7 @@ This is the blended series of station LAUDA-KONIGSHOFEN-GERLACHSHEIM, GERMANY (S
 Blended and updated with sources:25088 29180 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4333, 25088,19490101,   45,    0
   4333, 25088,19490102,   26,    0
   4333, 25088,19490103,   40,    0

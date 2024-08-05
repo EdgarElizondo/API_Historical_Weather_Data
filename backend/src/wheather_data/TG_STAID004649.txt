@@ -18,7 +18,7 @@ This is the blended series of station SINSHEIM, GERMANY (STAID: 4649)
 Blended and updated with sources:28880 910735 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4649, 28880,19980101,   56,    0
   4649, 28880,19980102,   85,    0
   4649, 28880,19980103,   82,    0

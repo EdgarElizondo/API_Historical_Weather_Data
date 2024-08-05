@@ -18,7 +18,7 @@ This is the blended series of station HAMBURG-SANKT PAULI, GERMANY (STAID: 4184)
 Blended and updated with sources:11417 23252 23300 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4184, 11417,19360101,   73,    0
   4184, 11417,19360102,   67,    0
   4184, 11417,19360103,   44,    0

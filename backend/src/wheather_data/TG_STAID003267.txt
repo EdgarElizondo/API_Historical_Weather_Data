@@ -18,7 +18,7 @@ This is the blended series of station TERNEJ, RUSSIAN FEDERATION (STAID: 3267)
 Blended and updated with sources:17286 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3267, 17286,19230101,-9999,    9
   3267, 17286,19230102,-9999,    9
   3267, 17286,19230103,-9999,    9

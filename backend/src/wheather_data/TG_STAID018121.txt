@@ -18,7 +18,7 @@ This is the blended series of station KOTSOEY, NORWAY (STAID: 18121)
 Blended and updated with sources:99176 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18121, 99176,20071101,   19,    0
  18121, 99176,20071102,   -4,    0
  18121, 99176,20071103,   23,    0

@@ -18,7 +18,7 @@ This is the blended series of station SCHMUCKE, GERMANY (STAID: 4617)
 Blended and updated with sources:28496 910552 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4617, 28496,19360101,   23,    0
   4617, 28496,19360102,    9,    0
   4617, 28496,19360103,   19,    0

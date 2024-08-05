@@ -18,7 +18,7 @@ This is the blended series of station NEUGLOBSOW (HM), GERMANY (STAID: 11776)
 Blended and updated with sources:81328 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11776, 81328,19670101,   40,    0
  11776, 81328,19670102,   18,    0
  11776, 81328,19670103,   18,    0

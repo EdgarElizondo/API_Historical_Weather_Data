@@ -18,7 +18,7 @@ This is the blended series of station AMGUE'MA, RUSSIAN FEDERATION (STAID: 8138)
 Blended and updated with sources:48848 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8138, 48848,19550101, -354,    0
   8138, 48848,19550102, -366,    0
   8138, 48848,19550103, -312,    0

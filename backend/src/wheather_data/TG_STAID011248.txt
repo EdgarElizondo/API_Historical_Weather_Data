@@ -18,7 +18,7 @@ This is the blended series of station CAP CEPET, FRANCE (STAID: 11248)
 Blended and updated with sources:71638 907661 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11248, 71638,19681001,  187,    0
  11248, 71638,19681002,  180,    0
  11248, 71638,19681003,  166,    0

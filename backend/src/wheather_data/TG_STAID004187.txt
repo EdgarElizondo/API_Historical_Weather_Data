@@ -18,7 +18,7 @@ This is the blended series of station HAMELN, GERMANY (STAID: 4187)
 Blended and updated with sources:22124 23336 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4187, 23336,19400101,  -70,    0
   4187, 23336,19400102, -136,    0
   4187, 23336,19400103, -103,    0

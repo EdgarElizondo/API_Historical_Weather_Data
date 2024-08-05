@@ -18,7 +18,7 @@ This is the blended series of station GURTEEN, IRELAND (STAID: 3548)
 Blended and updated with sources:448 16142 903965 903966 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3548,   448,19540101,-9999,    9
   3548,   448,19540102,-9999,    9
   3548,   448,19540103,-9999,    9

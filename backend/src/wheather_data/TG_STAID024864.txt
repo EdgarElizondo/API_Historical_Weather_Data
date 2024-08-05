@@ -18,7 +18,7 @@ This is the blended series of station ISTEBNA-KUBALONKA, POLAND (STAID: 24864)
 Blended and updated with sources:136818 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24864,136818,19810101,  -20,    0
  24864,136818,19810102,  -39,    0
  24864,136818,19810103,  -12,    0

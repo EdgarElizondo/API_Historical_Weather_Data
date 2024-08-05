@@ -18,7 +18,7 @@ This is the blended series of station MAUTH-FINSTERAU, GERMANY (STAID: 4394)
 Blended and updated with sources:25820 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4394, 25820,19420101,  -36,    0
   4394, 25820,19420102,  -30,    0
   4394, 25820,19420103,  -42,    0

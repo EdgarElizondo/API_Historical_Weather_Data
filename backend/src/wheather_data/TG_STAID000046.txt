@@ -18,7 +18,7 @@ This is the blended series of station HAMBURG BERGEDORF, GERMANY (STAID: 46)
 Blended and updated with sources:158 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     46,   158,19120101,   51,    0
     46,   158,19120102,   69,    0
     46,   158,19120103,   59,    0

@@ -18,7 +18,7 @@ This is the blended series of station OSLO - BESSERUD, NORWAY (STAID: 18164)
 Blended and updated with sources:99283 99580 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18164, 99283,20120201,  -94,    1
  18164, 99283,20120202,  -97,    1
  18164, 99283,20120203, -151,    1

@@ -18,7 +18,7 @@ This is the blended series of station NAMDALSEID - BOEGSET, NORWAY (STAID: 19012
 Blended and updated with sources:11095 100892 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19012, 11095,18950701,-9999,    9
  19012, 11095,18950702,-9999,    9
  19012, 11095,18950703,-9999,    9

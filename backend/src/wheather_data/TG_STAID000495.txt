@@ -18,7 +18,7 @@ This is the blended series of station KONSTANZ, GERMANY (STAID: 495)
 Blended and updated with sources:2406 25856 29540 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    495, 29540,19460101,  -34,    0
    495, 29540,19460102,  -40,    0
    495, 29540,19460103,  -48,    0

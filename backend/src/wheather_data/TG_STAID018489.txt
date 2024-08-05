@@ -18,7 +18,7 @@ This is the blended series of station FV155 RAKEN, NORWAY (STAID: 18489)
 Blended and updated with sources:99194 99323 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18489, 99323,20130201,-9999,    9
  18489, 99323,20130202,-9999,    9
  18489, 99323,20130203,-9999,    9

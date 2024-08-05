@@ -18,7 +18,7 @@ This is the blended series of station UFS DEUTSCHE BUCHT, GERMANY (STAID: 4016)
 Blended and updated with sources:21284 910007 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4016, 21284,19980101,   54,    0
   4016, 21284,19980102,   61,    0
   4016, 21284,19980103,   66,    0

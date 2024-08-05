@@ -18,7 +18,7 @@ This is the blended series of station ZELL AM ZILLER, AUSTRIA (STAID: 24592)
 Blended and updated with sources:133292 135515 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24592,133292,19550901,  122,    0
  24592,133292,19550902,  166,    0
  24592,133292,19550903,  156,    0

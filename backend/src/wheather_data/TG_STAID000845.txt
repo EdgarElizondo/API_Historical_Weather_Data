@@ -18,7 +18,7 @@ This is the blended series of station RHODOS, GREECE (STAID: 845)
 Blended and updated with sources:55907 916749 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    845,916749,19980101,  138,    0
    845, 55907,19980102,  114,    0
    845, 55907,19980103,  140,    0

@@ -18,7 +18,7 @@ This is the blended series of station ESPOO NUPURI, FINLAND (STAID: 7005)
 Blended and updated with sources:42149 42194 42229 902703 902985 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7005, 42149,19710101,-9999,    9
   7005, 42149,19710102,-9999,    9
   7005, 42149,19710103,-9999,    9

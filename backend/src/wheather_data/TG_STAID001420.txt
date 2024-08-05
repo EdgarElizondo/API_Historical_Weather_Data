@@ -18,7 +18,7 @@ This is the blended series of station HOBURG, SWEDEN (STAID: 1420)
 Blended and updated with sources:35402 902679 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1420, 35402,18791101,   63,    1
   1420, 35402,18791102,   25,    1
   1420, 35402,18791103,   20,    1

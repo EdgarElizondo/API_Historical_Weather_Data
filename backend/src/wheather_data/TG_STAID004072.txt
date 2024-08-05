@@ -18,7 +18,7 @@ This is the blended series of station ALTENTREPTOW, GERMANY (STAID: 4072)
 Blended and updated with sources:21956 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4072, 21956,19910101,   36,    0
   4072, 21956,19910102,   52,    0
   4072, 21956,19910103,   48,    0

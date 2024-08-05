@@ -18,7 +18,7 @@ This is the blended series of station LAA/TH.KLAERANLAGE, AUSTRIA (STAID: 23938)
 Blended and updated with sources:124868 135918 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23938,135918,19520101,   39,    0
  23938,135918,19520102,   21,    0
  23938,135918,19520103,   18,    0

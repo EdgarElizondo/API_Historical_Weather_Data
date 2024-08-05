@@ -18,7 +18,7 @@ This is the blended series of station BJURFORS, SWEDEN (STAID: 6402)
 Blended and updated with sources:66985 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6402, 66985,19610901,  159,    0
   6402, 66985,19610902,  168,    0
   6402, 66985,19610903,  164,    0

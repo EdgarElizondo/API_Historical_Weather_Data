@@ -18,7 +18,7 @@ This is the blended series of station LAZISKA, POLAND (STAID: 25016)
 Blended and updated with sources:138642 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25016,138642,19750101,   17,    0
  25016,138642,19750102,   19,    0
  25016,138642,19750103,   32,    0

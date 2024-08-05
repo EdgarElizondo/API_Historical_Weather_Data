@@ -18,7 +18,7 @@ This is the blended series of station FARO, SWEDEN (STAID: 5323)
 Blended and updated with sources:35660 35666 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5323, 35660,19410101,  -59,    1
   5323, 35660,19410102,  -71,    1
   5323, 35660,19410103,  -63,    1

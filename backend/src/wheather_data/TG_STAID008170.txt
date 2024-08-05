@@ -18,7 +18,7 @@ This is the blended series of station KUMENY', RUSSIAN FEDERATION (STAID: 8170)
 Blended and updated with sources:49268 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8170, 49268,19590101,-9999,    9
   8170, 49268,19590102,-9999,    9
   8170, 49268,19590103,-9999,    9

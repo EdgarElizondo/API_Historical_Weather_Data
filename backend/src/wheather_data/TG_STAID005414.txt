@@ -18,7 +18,7 @@ This is the blended series of station ALGARAS, SWEDEN (STAID: 5414)
 Blended and updated with sources:35957 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5414, 35957,19710601,  180,    0
   5414, 35957,19710602,  176,    0
   5414, 35957,19710603,  144,    0

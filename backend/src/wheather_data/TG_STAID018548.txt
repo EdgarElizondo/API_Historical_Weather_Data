@@ -18,7 +18,7 @@ This is the blended series of station FV24 STORSJOEEN, NORWAY (STAID: 18548)
 Blended and updated with sources:9694 99279 99441 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18548, 99441,20130101,-9999,    9
  18548, 99441,20130102,-9999,    9
  18548, 99441,20130103,-9999,    9

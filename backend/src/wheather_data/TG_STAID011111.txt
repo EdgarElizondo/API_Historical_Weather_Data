@@ -18,7 +18,7 @@ This is the blended series of station WIGHT ST CATHERINES POINT, UNITED KINGDOM 
 Blended and updated with sources:56879 903866 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11111, 56879,20140101,   85,    0
  11111, 56879,20140102,   99,    0
  11111, 56879,20140103,   94,    0

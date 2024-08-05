@@ -18,7 +18,7 @@ This is the blended series of station HOTING, SWEDEN (STAID: 5713)
 Blended and updated with sources:36938 36941 902242 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5713, 36941,19450101,-9999,    9
   5713, 36941,19450102,  -59,    0
   5713, 36941,19450103,  -98,    0

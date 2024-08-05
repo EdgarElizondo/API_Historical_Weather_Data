@@ -18,7 +18,7 @@ This is the blended series of station KAISERSLAUTERN, GERMANY (STAID: 50)
 Blended and updated with sources:177 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     50,   177,19010101,  -28,    0
     50,   177,19010102,  -61,    0
     50,   177,19010103,  -80,    0

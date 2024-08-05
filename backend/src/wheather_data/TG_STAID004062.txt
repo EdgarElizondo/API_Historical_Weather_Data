@@ -18,7 +18,7 @@ This is the blended series of station ALTENSTADT, GERMANY (STAID: 4062)
 Blended and updated with sources:21836 910954 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4062, 21836,19740301,-9999,    9
   4062, 21836,19740302,-9999,    9
   4062, 21836,19740303,-9999,    9

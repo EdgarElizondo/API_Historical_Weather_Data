@@ -18,7 +18,7 @@ This is the blended series of station FOLGEFONNA SKISENTER TOPP, NORWAY (STAID: 
 Blended and updated with sources:99185 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18125, 99185,20140901,-9999,    9
  18125, 99185,20140902,-9999,    9
  18125, 99185,20140903,-9999,    9

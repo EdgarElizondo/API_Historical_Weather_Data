@@ -18,7 +18,7 @@ This is the blended series of station VAASA KLEMETTILA, FINLAND (STAID: 7427)
 Blended and updated with sources:44210 44225 44300 44310 44315 902911 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7427, 44225,19590101,  -11,    0
   7427, 44225,19590102,  -37,    0
   7427, 44225,19590103,  -30,    1

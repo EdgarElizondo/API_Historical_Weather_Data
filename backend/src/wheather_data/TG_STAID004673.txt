@@ -18,7 +18,7 @@ This is the blended series of station TANN/RHON, GERMANY (STAID: 4673)
 Blended and updated with sources:29168 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4673, 29168,19860101,  -57,    0
   4673, 29168,19860102,   14,    0
   4673, 29168,19860103,   40,    0

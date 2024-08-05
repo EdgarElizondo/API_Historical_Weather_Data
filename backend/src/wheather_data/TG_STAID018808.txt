@@ -18,7 +18,7 @@ This is the blended series of station NORDLI - BRATTVOLD, NORWAY (STAID: 18808)
 Blended and updated with sources:100658 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18808,100658,19670701,   55,    0
  18808,100658,19670702,   72,    0
  18808,100658,19670703,  136,    0

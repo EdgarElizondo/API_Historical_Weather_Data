@@ -18,7 +18,7 @@ This is the blended series of station FV654 HEROEYBRUA , NORWAY (STAID: 21760)
 Blended and updated with sources:118112 118165 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21760,118112,20200901,-9999,    9
  21760,118112,20200902,-9999,    9
  21760,118112,20200903,-9999,    9

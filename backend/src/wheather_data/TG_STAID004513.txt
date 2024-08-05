@@ -18,7 +18,7 @@ This is the blended series of station PERL-NENNIG, GERMANY (STAID: 4513)
 Blended and updated with sources:27236 27248 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4513, 27236,19510101,   22,    0
   4513, 27236,19510102,   20,    0
   4513, 27236,19510103,   18,    0

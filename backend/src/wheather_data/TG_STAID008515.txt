@@ -18,7 +18,7 @@ This is the blended series of station OSTROV BERINGA, RUSSIAN FEDERATION (STAID:
 Blended and updated with sources:51733 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8515, 51733,18990101,   -5,    0
   8515, 51733,18990102,  -23,    0
   8515, 51733,18990103,  -51,    0

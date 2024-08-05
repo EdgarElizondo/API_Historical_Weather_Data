@@ -18,7 +18,7 @@ This is the blended series of station BRANDENBURG-GORDEN, GERMANY (STAID: 4877)
 Blended and updated with sources:31616 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4877, 31616,19480701,  133,    0
   4877, 31616,19480702,  151,    0
   4877, 31616,19480703,  139,    0

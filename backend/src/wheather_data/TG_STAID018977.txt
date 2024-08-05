@@ -18,7 +18,7 @@ This is the blended series of station KISTRAND, NORWAY (STAID: 18977)
 Blended and updated with sources:100704 100850 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18977,100850,19310101,  -52,    1
  18977,100850,19310102,  -92,    0
  18977,100850,19310103,  -63,    0

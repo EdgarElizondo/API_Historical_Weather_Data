@@ -18,7 +18,7 @@ This is the blended series of station SOJNA, RUSSIAN FEDERATION (STAID: 1079)
 Blended and updated with sources:48098 922271 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1079, 48098,19580101, -156,    0
   1079, 48098,19580102, -159,    0
   1079, 48098,19580103,-9999,    9

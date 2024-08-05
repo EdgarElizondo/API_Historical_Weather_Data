@@ -18,7 +18,7 @@ This is the blended series of station UGUT, RUSSIAN FEDERATION (STAID: 8087)
 Blended and updated with sources:48593 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8087, 48593,19430101,-9999,    9
   8087, 48593,19430102,-9999,    9
   8087, 48593,19430103,-9999,    9

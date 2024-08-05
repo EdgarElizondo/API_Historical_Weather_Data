@@ -18,7 +18,7 @@ This is the blended series of station WOLFSBURG (SUDWEST), GERMANY (STAID: 4785)
 Blended and updated with sources:30512 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4785, 30512,19810401,  128,    0
   4785, 30512,19810402,  124,    0
   4785, 30512,19810403,  105,    0

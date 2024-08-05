@@ -18,7 +18,7 @@ This is the blended series of station SLATTEROY FYR, NORWAY (STAID: 2685)
 Blended and updated with sources:10727 901406 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2685, 10727,19531201,-9999,    9
   2685, 10727,19531202,-9999,    9
   2685, 10727,19531203,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station NOWA WIES UJSKA, POLAND (STAID: 25076)
 Blended and updated with sources:139362 140345 912230 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25076,140345,19701001,-9999,    9
  25076,140345,19701002,-9999,    9
  25076,140345,19701003,-9999,    9

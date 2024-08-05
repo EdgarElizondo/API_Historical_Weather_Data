@@ -18,7 +18,7 @@ This is the blended series of station NARYN, KYRGYZSTAN (STAID: 3290)
 Blended and updated with sources:17627 936974 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3290, 17627,19130101,  -80,    0
   3290, 17627,19130102,  -74,    0
   3290, 17627,19130103,  -70,    0

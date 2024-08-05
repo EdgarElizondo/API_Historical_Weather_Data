@@ -18,7 +18,7 @@ This is the blended series of station FV86 ANDSVANNET, NORWAY (STAID: 18398)
 Blended and updated with sources:99154 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18398, 99154,20140101,  -48,    0
  18398, 99154,20140102,  -46,    0
  18398, 99154,20140103,  -11,    0

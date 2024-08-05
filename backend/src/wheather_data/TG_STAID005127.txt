@@ -18,7 +18,7 @@ This is the blended series of station KONGSVOLL FJELLSTUE, NORWAY (STAID: 5127)
 Blended and updated with sources:34624 99522 100600 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5127,100600,19000101,  -62,    0
   5127,100600,19000102,  -76,    0
   5127,100600,19000103,  -86,    0

@@ -18,7 +18,7 @@ This is the blended series of station NORRKOPING-SMHI, SWEDEN (STAID: 5390)
 Blended and updated with sources:35882 35885 35894 35900 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5390, 35894,19450101,  -38,    0
   5390, 35894,19450102,   39,    0
   5390, 35894,19450103,   19,    0

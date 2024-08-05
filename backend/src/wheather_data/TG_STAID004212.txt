@@ -18,7 +18,7 @@ This is the blended series of station HERLESHAUSEN, GERMANY (STAID: 4212)
 Blended and updated with sources:23636 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4212, 23636,19470101,  -30,    0
   4212, 23636,19470102,   -8,    0
   4212, 23636,19470103,  -18,    0

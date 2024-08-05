@@ -18,7 +18,7 @@ This is the blended series of station MYKLEMYR, NORWAY (STAID: 18789)
 Blended and updated with sources:100637 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18789,100637,19790901,   74,    0
  18789,100637,19790902,   98,    0
  18789,100637,19790903,  117,    0

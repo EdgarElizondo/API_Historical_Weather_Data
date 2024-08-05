@@ -18,7 +18,7 @@ This is the blended series of station VAJDA GUBA, RUSSIAN FEDERATION (STAID: 805
 Blended and updated with sources:48023 922003 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8056, 48023,18940101,  -62,    0
   8056, 48023,18940102,  -50,    0
   8056, 48023,18940103,    0,    0

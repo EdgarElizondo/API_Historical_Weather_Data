@@ -18,7 +18,7 @@ This is the blended series of station LENNARTSFORS, SWEDEN (STAID: 5459)
 Blended and updated with sources:36065 36095 36104 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5459, 36104,19490930,   96,    1
   5459, 36104,19491001,  106,    1
   5459, 36104,19491002,  113,    1

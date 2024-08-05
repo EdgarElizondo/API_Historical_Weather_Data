@@ -18,7 +18,7 @@ This is the blended series of station CONSTANTI, SPAIN (STAID: 11028)
 Blended and updated with sources:56112 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11028, 56112,20080101,   49,    0
  11028, 56112,20080102,   57,    0
  11028, 56112,20080103,   59,    0

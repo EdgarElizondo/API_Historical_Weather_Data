@@ -18,7 +18,7 @@ This is the blended series of station SCHOPPERNAU, AUSTRIA (STAID: 24146)
 Blended and updated with sources:127533 127559 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24146,127533,19480101,  -43,    0
  24146,127533,19480102,   -4,    0
  24146,127533,19480103,   23,    0

@@ -18,7 +18,7 @@ This is the blended series of station KUHMO KESKUSTA, FINLAND (STAID: 7660)
 Blended and updated with sources:45515 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7660, 45515,19590101, -100,    0
   7660, 45515,19590102, -120,    0
   7660, 45515,19590103, -109,    0

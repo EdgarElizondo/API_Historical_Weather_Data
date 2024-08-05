@@ -18,7 +18,7 @@ This is the blended series of station PRACKENBACH-NEUHAUSEL, GERMANY (STAID: 491
 Blended and updated with sources:32012 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4910, 32012,20060801,  177,    0
   4910, 32012,20060802,  152,    0
   4910, 32012,20060803,  127,    0

@@ -18,7 +18,7 @@ This is the blended series of station PERSHORE COLLEGE, UNITED KINGDOM (STAID: 1
 Blended and updated with sources:56871 903529 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11109, 56871,20130101,   51,    0
  11109, 56871,20130102,   65,    0
  11109, 56871,20130103,   88,    0

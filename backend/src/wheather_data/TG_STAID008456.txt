@@ -18,7 +18,7 @@ This is the blended series of station LERMONTOVKA, RUSSIAN FEDERATION (STAID: 84
 Blended and updated with sources:51438 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8456, 51438,19590101, -251,    0
   8456, 51438,19590102, -266,    0
   8456, 51438,19590103, -291,    0

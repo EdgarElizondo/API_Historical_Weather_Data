@@ -18,7 +18,7 @@ This is the blended series of station DYNOW, POLAND (STAID: 24918)
 Blended and updated with sources:137466 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24918,137466,19510101,   -6,    0
  24918,137466,19510102,   22,    0
  24918,137466,19510103,   -8,    0

@@ -18,7 +18,7 @@ This is the blended series of station AMOTSBRUK, SWEDEN (STAID: 5576)
 Blended and updated with sources:36488 36491 902440 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5576, 36491,19610101,  -21,    0
   5576, 36491,19610102,  -46,    0
   5576, 36491,19610103,  -18,    0

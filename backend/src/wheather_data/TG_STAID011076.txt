@@ -18,7 +18,7 @@ This is the blended series of station SANTUARI DE QUERALT, SPAIN (STAID: 11076)
 Blended and updated with sources:56544 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11076, 56544,20080101,   39,    0
  11076, 56544,20080102,    6,    0
  11076, 56544,20080103,   20,    0

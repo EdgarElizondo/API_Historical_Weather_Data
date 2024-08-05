@@ -18,7 +18,7 @@ This is the blended series of station STEINBERG, GERMANY (STAID: 4664)
 Blended and updated with sources:29060 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4664, 29060,19700101, -126,    0
   4664, 29060,19700102,  -71,    0
   4664, 29060,19700103,  -33,    0

@@ -18,7 +18,7 @@ This is the blended series of station VEIHOLMEN, NORWAY (STAID: 18183)
 Blended and updated with sources:99347 100968 901225 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18183,100968,19841101,  108,    0
  18183,100968,19841102,   84,    0
  18183,100968,19841103,   70,    0

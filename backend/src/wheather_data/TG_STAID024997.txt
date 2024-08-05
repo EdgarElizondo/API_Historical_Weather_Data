@@ -18,7 +18,7 @@ This is the blended series of station TOMASZOW BOLESLAWIECKI, POLAND (STAID: 249
 Blended and updated with sources:138414 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24997,138414,19890101,   33,    0
  24997,138414,19890102,   11,    0
  24997,138414,19890103,  -21,    0

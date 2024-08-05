@@ -18,7 +18,7 @@ This is the blended series of station OLBERSDORF, GERMANY (STAID: 11765)
 Blended and updated with sources:81207 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11765, 81207,19600601,  140,    0
  11765, 81207,19600602,  158,    0
  11765, 81207,19600603,  143,    0

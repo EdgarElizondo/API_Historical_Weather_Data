@@ -18,7 +18,7 @@ This is the blended series of station SAETER I KVIKNE, NORWAY (STAID: 18855)
 Blended and updated with sources:99672 100714 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18855,100714,19590101, -101,    0
  18855,100714,19590102,  -94,    0
  18855,100714,19590103,  -67,    0

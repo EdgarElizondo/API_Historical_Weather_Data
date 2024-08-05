@@ -18,7 +18,7 @@ This is the blended series of station HAWARDEN BRIDGE, UNITED KINGDOM (STAID: 18
 Blended and updated with sources:7001 903321 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1807,  7001,19210101,-9999,    9
   1807,  7001,19210102,   95,    0
   1807,  7001,19210103,   81,    0

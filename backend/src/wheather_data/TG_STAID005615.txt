@@ -18,7 +18,7 @@ This is the blended series of station IDRE_FJALL_A, SWEDEN (STAID: 5615)
 Blended and updated with sources:36611 902307 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5615, 36611,19850501,   -6,    0
   5615, 36611,19850502,    3,    0
   5615, 36611,19850503,  -11,    0

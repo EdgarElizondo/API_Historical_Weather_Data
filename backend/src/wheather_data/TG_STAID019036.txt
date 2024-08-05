@@ -18,7 +18,7 @@ This is the blended series of station GREEN HARBOUR, SVALBARD AND JAN MAYEN (STA
 Blended and updated with sources:100921 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19036,100921,19111201,  -94,    0
  19036,100921,19111202,   34,    0
  19036,100921,19111203,   22,    0

@@ -18,7 +18,7 @@ This is the blended series of station BRENNELV, NORWAY (STAID: 18754)
 Blended and updated with sources:100599 100755 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18754,100755,19580801,  179,    0
  18754,100755,19580802,  157,    0
  18754,100755,19580803,  119,    0

@@ -18,7 +18,7 @@ This is the blended series of station LETALISCE EDVARDA RUSJANA MARIBOR, SLOVENI
 Blended and updated with sources:15158 914026 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3331, 15158,19770101,   60,    0
   3331, 15158,19770102,   22,    0
   3331, 15158,19770103,    8,    0

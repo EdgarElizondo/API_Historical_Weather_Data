@@ -18,7 +18,7 @@ This is the blended series of station IRGIZ, KAZAKHSTAN (STAID: 3281)
 Blended and updated with sources:17572 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3281, 17572,19360101, -121,    0
   3281, 17572,19360102, -174,    0
   3281, 17572,19360103, -130,    0

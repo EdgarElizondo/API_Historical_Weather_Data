@@ -18,7 +18,7 @@ This is the blended series of station RINKABY, SWEDEN (STAID: 5192)
 Blended and updated with sources:35219 35228 62625 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5192, 35219,19521101,-9999,    9
   5192, 35219,19521102,   34,    0
   5192, 35219,19521103,   -1,    0

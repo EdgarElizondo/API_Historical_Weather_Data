@@ -18,7 +18,7 @@ This is the blended series of station TRZEBIEZ, POLAND (STAID: 25072)
 Blended and updated with sources:139314 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25072,139314,19510101,  -60,    0
  25072,139314,19510102,   -4,    0
  25072,139314,19510103,   -7,    0

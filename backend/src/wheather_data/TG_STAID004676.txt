@@ -18,7 +18,7 @@ This is the blended series of station TETEROW, GERMANY (STAID: 4676)
 Blended and updated with sources:29204 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4676, 29204,19470101,  -29,    0
   4676, 29204,19470102,  -37,    0
   4676, 29204,19470103,  -55,    0

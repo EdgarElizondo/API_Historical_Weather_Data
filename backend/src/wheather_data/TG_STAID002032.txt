@@ -18,7 +18,7 @@ This is the blended series of station KALISZ, POLAND (STAID: 2032)
 Blended and updated with sources:140519 912435 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2032,140519,19510101,  -35,    0
   2032,140519,19510102,   11,    0
   2032,140519,19510103,   21,    0

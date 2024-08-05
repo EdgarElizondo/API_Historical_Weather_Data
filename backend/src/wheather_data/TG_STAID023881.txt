@@ -18,7 +18,7 @@ This is the blended series of station E39 SOLAVAGEN FERGEKAI, NORWAY (STAID: 238
 Blended and updated with sources:99170 99616 100570 124188 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23881, 99170,20090601,-9999,    9
  23881, 99170,20090602,-9999,    9
  23881, 99170,20090603,-9999,    9

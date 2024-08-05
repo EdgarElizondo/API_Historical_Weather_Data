@@ -18,7 +18,7 @@ This is the blended series of station FV889 SELVIKHOEYDEN, NORWAY (STAID: 18473)
 Blended and updated with sources:99299 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18473, 99299,20151101,-9999,    9
  18473, 99299,20151102,-9999,    9
  18473, 99299,20151103,-9999,    9

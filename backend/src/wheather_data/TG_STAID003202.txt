@@ -18,7 +18,7 @@ This is the blended series of station ALEKSANDROVSKOE, RUSSIAN FEDERATION (STAID
 Blended and updated with sources:16887 923955 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3202, 16887,19360101, -104,    0
   3202, 16887,19360102, -154,    0
   3202, 16887,19360103, -171,    0

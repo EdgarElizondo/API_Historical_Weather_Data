@@ -18,7 +18,7 @@ This is the blended series of station EKATERINBURG, RUSSIAN FEDERATION (STAID: 4
 Blended and updated with sources:17055 928440 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    405, 17055,18810101, -116,    0
    405, 17055,18810102, -186,    0
    405, 17055,18810103, -152,    0

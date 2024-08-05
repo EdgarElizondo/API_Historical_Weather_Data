@@ -18,7 +18,7 @@ This is the blended series of station OY-MITTELBERG-PETERSTHAL, GERMANY (STAID: 
 Blended and updated with sources:27140 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4504, 27140,19931001,   99,    0
   4504, 27140,19931002,   65,    0
   4504, 27140,19931003,   78,    0

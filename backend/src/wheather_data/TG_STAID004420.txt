@@ -18,7 +18,7 @@ This is the blended series of station MODAUTAL-NEUNKIRCHEN, GERMANY (STAID: 4420
 Blended and updated with sources:26132 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4420, 26132,19360901,  144,    0
   4420, 26132,19360902,  145,    0
   4420, 26132,19360903,  212,    0

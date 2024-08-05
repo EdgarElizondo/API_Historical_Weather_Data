@@ -18,7 +18,7 @@ This is the blended series of station ORIMATTILA KAKELA, FINLAND (STAID: 7141)
 Blended and updated with sources:42864 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7141, 42864,19600101,  -42,    0
   7141, 42864,19600102,  -11,    0
   7141, 42864,19600103,  -13,    0

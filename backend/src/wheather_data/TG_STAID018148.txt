@@ -18,7 +18,7 @@ This is the blended series of station MALANGEN - PALFINNMOEN, NORWAY (STAID: 181
 Blended and updated with sources:99242 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18148, 99242,20150930,   52,    0
  18148, 99242,20151001,   43,    0
  18148, 99242,20151002,   44,    0

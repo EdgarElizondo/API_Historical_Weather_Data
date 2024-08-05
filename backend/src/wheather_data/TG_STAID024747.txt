@@ -18,7 +18,7 @@ This is the blended series of station ST.POELTEN/LANDHAUS, AUSTRIA (STAID: 24747
 Blended and updated with sources:135307 911389 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24747,135307,19470101,  -66,    0
  24747,135307,19470102,  -30,    0
  24747,135307,19470103,  -36,    0

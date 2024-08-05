@@ -18,7 +18,7 @@ This is the blended series of station MISTELBACH AN DER ZAYA, AUSTRIA (STAID: 23
 Blended and updated with sources:124894 124920 911032 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23940,124920,19651101,  107,    0
  23940,124920,19651102,  112,    0
  23940,124920,19651103,   75,    0

@@ -18,7 +18,7 @@ This is the blended series of station RAMNICU VALCEA, ROMANIA (STAID: 2060)
 Blended and updated with sources:7514 915346 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2060,  7514,19610101,   30,    0
   2060,  7514,19610102,   36,    0
   2060,  7514,19610103,   34,    0

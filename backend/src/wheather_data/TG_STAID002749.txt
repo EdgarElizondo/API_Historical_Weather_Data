@@ -18,7 +18,7 @@ This is the blended series of station STORSTEINNES I BALSFJORD, NORWAY (STAID: 2
 Blended and updated with sources:11311 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2749, 11311,19570101,-9999,    9
   2749, 11311,19570102,-9999,    9
   2749, 11311,19570103,-9999,    9

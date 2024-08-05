@@ -18,7 +18,7 @@ This is the blended series of station YEOVILTON, UNITED KINGDOM (STAID: 1812)
 Blended and updated with sources:7006 903853 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1812,  7006,19640901,-9999,    9
   1812,  7006,19640902,  172,    0
   1812,  7006,19640903,  154,    0

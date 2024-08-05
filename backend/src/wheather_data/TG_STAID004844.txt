@@ -18,7 +18,7 @@ This is the blended series of station NASTATTEN, GERMANY (STAID: 4844)
 Blended and updated with sources:31220 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4844, 31220,20000401,   53,    0
   4844, 31220,20000402,   88,    0
   4844, 31220,20000403,  102,    0

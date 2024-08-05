@@ -18,7 +18,7 @@ This is the blended series of station OULUNSALO PELLONPAA, FINLAND (STAID: 7689)
 Blended and updated with sources:45620 45635 45670 902875 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7689, 45620,19590101,  -73,    0
   7689, 45620,19590102,  -72,    0
   7689, 45620,19590103,  -91,    0

@@ -18,7 +18,7 @@ This is the blended series of station GRABOWIEC, POLAND (STAID: 25019)
 Blended and updated with sources:138678 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25019,138678,19860101,  -63,    0
  25019,138678,19860102,  -40,    0
  25019,138678,19860103,   -9,    0

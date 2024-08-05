@@ -18,7 +18,7 @@ This is the blended series of station FV615 HYEN, NORWAY (STAID: 18614)
 Blended and updated with sources:99560 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18614, 99560,20140101,   66,    0
  18614, 99560,20140102,-9999,    9
  18614, 99560,20140103,-9999,    9

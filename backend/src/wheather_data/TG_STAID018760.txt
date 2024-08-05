@@ -18,7 +18,7 @@ This is the blended series of station YTTEROEY, NORWAY (STAID: 18760)
 Blended and updated with sources:100605 100781 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18760,100605,19570101,  -68,    0
  18760,100605,19570102,  -85,    0
  18760,100605,19570103,  -95,    0

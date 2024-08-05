@@ -18,7 +18,7 @@ This is the blended series of station SCHMIRN, AUSTRIA (STAID: 24238)
 Blended and updated with sources:128664 128716 133422 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24238,133422,19480101,  -81,    0
  24238,133422,19480102,  -22,    0
  24238,133422,19480103,   28,    0

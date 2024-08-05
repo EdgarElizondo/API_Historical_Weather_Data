@@ -18,7 +18,7 @@ This is the blended series of station FV26 SKARVEN, NORWAY (STAID: 18681)
 Blended and updated with sources:99684 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18681, 99684,20130101,-9999,    9
  18681, 99684,20130102,-9999,    9
  18681, 99684,20130103,-9999,    9

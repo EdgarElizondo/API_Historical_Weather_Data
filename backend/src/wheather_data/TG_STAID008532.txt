@@ -18,7 +18,7 @@ This is the blended series of station ZMEINOGORSK, RUSSIAN FEDERATION (STAID: 85
 Blended and updated with sources:52198 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8532, 52198,19010101,-9999,    9
   8532, 52198,19010102,-9999,    9
   8532, 52198,19010103,-9999,    9

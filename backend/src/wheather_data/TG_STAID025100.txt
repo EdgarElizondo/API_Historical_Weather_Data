@@ -18,7 +18,7 @@ This is the blended series of station KRZYZEWO, POLAND (STAID: 25100)
 Blended and updated with sources:139650 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25100,139650,19860101, -131,    0
  25100,139650,19860102,  -63,    0
  25100,139650,19860103,  -34,    0

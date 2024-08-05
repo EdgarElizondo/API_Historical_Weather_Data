@@ -18,7 +18,7 @@ This is the blended series of station KIRCHBICHL, AUSTRIA (STAID: 24523)
 Blended and updated with sources:132408 132421 132434 136594 911130 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24523,132421,19050101,-9999,    9
  24523,132421,19050102,-9999,    9
  24523,132421,19050103,-9999,    9

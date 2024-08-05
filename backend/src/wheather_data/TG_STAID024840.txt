@@ -18,7 +18,7 @@ This is the blended series of station LOIBL/TUNNEL, AUSTRIA (STAID: 24840)
 Blended and updated with sources:136516 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24840,136516,19590101,    9,    0
  24840,136516,19590102,    9,    0
  24840,136516,19590103,   -7,    0

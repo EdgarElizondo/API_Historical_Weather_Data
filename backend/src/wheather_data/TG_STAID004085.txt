@@ -18,7 +18,7 @@ This is the blended series of station WAIBSTADT, GERMANY (STAID: 4085)
 Blended and updated with sources:22112 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4085, 22112,20070801,  159,    0
   4085, 22112,20070802,  168,    0
   4085, 22112,20070803,  169,    0

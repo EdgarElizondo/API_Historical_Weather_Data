@@ -18,7 +18,7 @@ This is the blended series of station LEBA, POLAND (STAID: 332)
 Blended and updated with sources:6052 912120 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    332,  6052,19510101,  -73,    0
    332,  6052,19510102,  -30,    0
    332,  6052,19510103,   10,    0

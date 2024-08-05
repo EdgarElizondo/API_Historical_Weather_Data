@@ -18,7 +18,7 @@ This is the blended series of station LOWESTOFT MONKTON AVENUE, UNITED KINGDOM (
 Blended and updated with sources:7037 15812 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3508,  7037,18890101,-9999,    9
   3508,  7037,18890102,-9999,    9
   3508,  7037,18890103,   44,    1

@@ -18,7 +18,7 @@ This is the blended series of station ASPANG, AUSTRIA (STAID: 24809)
 Blended and updated with sources:136113 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24809,136113,19480401,-9999,    9
  24809,136113,19480402,-9999,    9
  24809,136113,19480403,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station KOLARI RAUTUVAARA, FINLAND (STAID: 7782)
 Blended and updated with sources:46150 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7782, 46150,19760901,-9999,    9
   7782, 46150,19760902,-9999,    9
   7782, 46150,19760903,-9999,    9

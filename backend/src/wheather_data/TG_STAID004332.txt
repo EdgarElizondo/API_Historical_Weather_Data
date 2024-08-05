@@ -18,7 +18,7 @@ This is the blended series of station BAD LAUCHSTADT, GERMANY (STAID: 4332)
 Blended and updated with sources:25076 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4332, 25076,19470401,  100,    0
   4332, 25076,19470402,  100,    0
   4332, 25076,19470403,   54,    0

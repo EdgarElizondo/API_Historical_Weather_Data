@@ -18,7 +18,7 @@ This is the blended series of station FV770 ROERVIK, NORWAY (STAID: 18667)
 Blended and updated with sources:99659 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18667, 99659,20150901,-9999,    9
  18667, 99659,20150902,-9999,    9
  18667, 99659,20150903,-9999,    9

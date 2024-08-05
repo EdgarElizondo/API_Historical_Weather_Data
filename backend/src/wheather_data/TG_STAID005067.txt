@@ -18,7 +18,7 @@ This is the blended series of station MO I RANA III, NORWAY (STAID: 5067)
 Blended and updated with sources:33904 100644 100740 100833 100883 901149 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5067,100833,19411201,-9999,    9
   5067,100833,19411202,-9999,    9
   5067,100833,19411203,-9999,    9

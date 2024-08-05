@@ -18,7 +18,7 @@ This is the blended series of station CHIOS, GREECE (STAID: 789)
 Blended and updated with sources:16395 916706 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    789, 16395,20010101,  104,    0
    789, 16395,20010102,  130,    0
    789, 16395,20010103,  102,    0

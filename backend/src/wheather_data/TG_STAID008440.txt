@@ -18,7 +18,7 @@ This is the blended series of station KONSTANTINOVKA, RUSSIAN FEDERATION (STAID:
 Blended and updated with sources:51358 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8440, 51358,19590101, -308,    0
   8440, 51358,19590102,-9999,    9
   8440, 51358,19590103, -300,    0

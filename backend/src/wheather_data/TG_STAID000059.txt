@@ -18,7 +18,7 @@ This is the blended series of station CORFU, GREECE (STAID: 59)
 Blended and updated with sources:222 916641 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     59,   222,19550101,   77,    0
     59,   222,19550102,  106,    0
     59,   222,19550103,  143,    0

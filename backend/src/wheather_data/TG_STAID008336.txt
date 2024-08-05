@@ -18,7 +18,7 @@ This is the blended series of station BALAGANSK, RUSSIAN FEDERATION (STAID: 8336
 Blended and updated with sources:50838 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8336, 50838,19360101, -378,    0
   8336, 50838,19360102, -385,    0
   8336, 50838,19360103, -340,    0

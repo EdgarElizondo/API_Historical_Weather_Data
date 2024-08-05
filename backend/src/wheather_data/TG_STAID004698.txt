@@ -18,7 +18,7 @@ This is the blended series of station TROLLENHAGEN, GERMANY (STAID: 4698)
 Blended and updated with sources:26408 29468 910281 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4698, 26408,19760701,  183,    0
   4698, 26408,19760702,  186,    0
   4698, 26408,19760703,  209,    0

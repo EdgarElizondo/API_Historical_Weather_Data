@@ -18,7 +18,7 @@ This is the blended series of station MY'S KAMENNY'J, RUSSIAN FEDERATION (STAID:
 Blended and updated with sources:16836 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3197, 16836,19500101,-9999,    9
   3197, 16836,19500102,-9999,    9
   3197, 16836,19500103,-9999,    9

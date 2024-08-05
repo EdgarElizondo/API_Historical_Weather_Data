@@ -18,7 +18,7 @@ This is the blended series of station ZHARKENT, KAZAKHSTAN (STAID: 3288)
 Blended and updated with sources:17617 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3288, 17617,19170101,  -89,    0
   3288, 17617,19170102,  -93,    0
   3288, 17617,19170103,  -83,    0

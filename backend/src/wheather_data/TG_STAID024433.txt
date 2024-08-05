@@ -18,7 +18,7 @@ This is the blended series of station GRUENAU, AUSTRIA (STAID: 24433)
 Blended and updated with sources:131238 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24433,131238,19720501,  120,    0
  24433,131238,19720502,  132,    0
  24433,131238,19720503,   83,    0

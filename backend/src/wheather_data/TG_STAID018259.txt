@@ -18,7 +18,7 @@ This is the blended series of station NOETTEROEY - FOEYNLAND, NORWAY (STAID: 182
 Blended and updated with sources:35020 99248 99554 901481 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18259, 35020,19590101,-9999,    9
  18259, 35020,19590102,-9999,    9
  18259, 35020,19590103,-9999,    9

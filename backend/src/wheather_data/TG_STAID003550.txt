@@ -18,7 +18,7 @@ This is the blended series of station MACE HEAD, IRELAND (STAID: 3550)
 Blended and updated with sources:16144 903963 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3550, 16144,20070101,-9999,    9
   3550, 16144,20070102,-9999,    9
   3550, 16144,20070103,  102,    0

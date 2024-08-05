@@ -18,7 +18,7 @@ This is the blended series of station CHITA, RUSSIAN FEDERATION (STAID: 3246)
 Blended and updated with sources:17181 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3246, 17181,18900101,-9999,    9
   3246, 17181,18900102,-9999,    9
   3246, 17181,18900103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station FURUOGRUND, SWEDEN (STAID: 5744)
 Blended and updated with sources:37046 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5744, 37046,19691101,  -38,    0
   5744, 37046,19691102,  -70,    0
   5744, 37046,19691103, -122,    0

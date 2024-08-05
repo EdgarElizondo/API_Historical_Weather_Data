@@ -18,7 +18,7 @@ This is the blended series of station FV98 IFJORDFJELLET, NORWAY (STAID: 18376)
 Blended and updated with sources:99119 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18376, 99119,20161101,-9999,    9
  18376, 99119,20161102,-9999,    9
  18376, 99119,20161103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station VORHEGG, AUSTRIA (STAID: 24324)
 Blended and updated with sources:129821 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24324,129821,19901201,    0,    0
  24324,129821,19901202,    0,    0
  24324,129821,19901203,    0,    0

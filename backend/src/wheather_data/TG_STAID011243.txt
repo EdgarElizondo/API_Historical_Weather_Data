@@ -18,7 +18,7 @@ This is the blended series of station TROYES-BARBEREY, FRANCE (STAID: 11243)
 Blended and updated with sources:71617 907168 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11243, 71617,19750501,   82,    0
  11243, 71617,19750502,  101,    0
  11243, 71617,19750503,   96,    0

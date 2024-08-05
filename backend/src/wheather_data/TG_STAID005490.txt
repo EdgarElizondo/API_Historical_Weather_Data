@@ -18,7 +18,7 @@ This is the blended series of station STOCKHOLM-ARLANDA, SWEDEN (STAID: 5490)
 Blended and updated with sources:36215 36224 902460 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5490, 36224,19610101,   -4,    0
   5490, 36224,19610102,   -9,    0
   5490, 36224,19610103,    6,    0

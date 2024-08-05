@@ -18,7 +18,7 @@ This is the blended series of station EHNINGEN, GERMANY (STAID: 4039)
 Blended and updated with sources:21560 27728 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4039, 21560,19850701,  154,    0
   4039, 21560,19850702,  152,    0
   4039, 21560,19850703,  180,    0

@@ -18,7 +18,7 @@ This is the blended series of station SCHEMMERHOFEN-INGERKINGEN, GERMANY (STAID:
 Blended and updated with sources:25100 28304 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4601, 25100,19700101,-9999,    9
   4601, 25100,19700102,-9999,    9
   4601, 25100,19700103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station LEPPAVIRTA KK, FINLAND (STAID: 7371)
 Blended and updated with sources:44030 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7371, 44030,19911001,-9999,    9
   7371, 44030,19911002,-9999,    9
   7371, 44030,19911003,-9999,    9

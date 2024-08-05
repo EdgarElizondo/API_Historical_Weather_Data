@@ -18,7 +18,7 @@ This is the blended series of station RY'BINSK GMO, RUSSIAN FEDERATION (STAID: 1
 Blended and updated with sources:49228 927225 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1184, 49228,19490101,-9999,    9
   1184, 49228,19490102,-9999,    9
   1184, 49228,19490103,-9999,    9

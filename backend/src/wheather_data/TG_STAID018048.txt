@@ -18,7 +18,7 @@ This is the blended series of station REINHAUGEN, NORWAY (STAID: 18048)
 Blended and updated with sources:99406 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18048, 99406,20181013,   15,    0
  18048, 99406,20181014,   46,    0
  18048, 99406,20181015,   43,    0

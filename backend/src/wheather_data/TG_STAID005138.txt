@@ -18,7 +18,7 @@ This is the blended series of station SULA FYR, NORWAY (STAID: 5138)
 Blended and updated with sources:34744 34756 901228 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5138, 34756,19380101,-9999,    9
   5138, 34756,19380102,-9999,    9
   5138, 34756,19380103,-9999,    9

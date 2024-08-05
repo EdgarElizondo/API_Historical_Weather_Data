@@ -18,7 +18,7 @@ This is the blended series of station BOBROWNIKI, POLAND (STAID: 25043)
 Blended and updated with sources:138966 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25043,138966,19870101,    7,    0
  25043,138966,19870102,  -68,    0
  25043,138966,19870103,  -82,    0

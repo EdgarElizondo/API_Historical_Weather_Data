@@ -18,7 +18,7 @@ This is the blended series of station VARAZDIN, CROATIA (STAID: 10902)
 Blended and updated with sources:55174 914246 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  10902, 55174,19490101,   34,    0
  10902, 55174,19490102,   78,    0
  10902, 55174,19490103,   72,    0

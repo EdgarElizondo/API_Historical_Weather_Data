@@ -18,7 +18,7 @@ This is the blended series of station KLUXORSKIJ PEREVAL, RUSSIAN FEDERATION (ST
 Blended and updated with sources:52373 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8552, 52373,19590101,-9999,    9
   8552, 52373,19590102,-9999,    9
   8552, 52373,19590103,-9999,    9

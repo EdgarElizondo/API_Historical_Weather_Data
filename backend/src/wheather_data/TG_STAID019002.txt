@@ -18,7 +18,7 @@ This is the blended series of station SANDE - VALLE, NORWAY (STAID: 19002)
 Blended and updated with sources:99264 99690 100881 901485 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19002,100881,20020101,  -23,    0
  19002,100881,20020102, -113,    0
  19002,100881,20020103, -147,    0

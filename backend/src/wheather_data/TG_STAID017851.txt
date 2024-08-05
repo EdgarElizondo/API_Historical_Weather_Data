@@ -18,7 +18,7 @@ This is the blended series of station RIMINI_URBANA, ITALY (STAID: 17851)
 Blended and updated with sources:96896 97896 97904 916149 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17851,916149,20051201,   41,    0
  17851,916149,20051202,   53,    0
  17851,916149,20051203,  111,    0

@@ -18,7 +18,7 @@ This is the blended series of station HUVUDSKAR_OST_A, SWEDEN (STAID: 5427)
 Blended and updated with sources:35999 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5427, 35999,20040901,  162,    0
   5427, 35999,20040902,  159,    0
   5427, 35999,20040903,  153,    0

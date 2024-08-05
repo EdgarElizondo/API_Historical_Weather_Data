@@ -18,7 +18,7 @@ This is the blended series of station VILJANDI, ESTONIA (STAID: 11371)
 Blended and updated with sources:75086 926233 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11371, 75086,19370101,   31,    0
  11371, 75086,19370102,    8,    0
  11371, 75086,19370103,   14,    0

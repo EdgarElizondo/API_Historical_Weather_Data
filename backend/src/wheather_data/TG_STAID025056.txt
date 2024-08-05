@@ -18,7 +18,7 @@ This is the blended series of station BRWINOW, POLAND (STAID: 25056)
 Blended and updated with sources:139122 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25056,139122,19610101,    6,    0
  25056,139122,19610102,   -2,    0
  25056,139122,19610103,   16,    0

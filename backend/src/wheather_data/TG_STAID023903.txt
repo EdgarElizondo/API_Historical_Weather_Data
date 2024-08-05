@@ -18,7 +18,7 @@ This is the blended series of station RETZ, AUSTRIA (STAID: 23903)
 Blended and updated with sources:124413 124426 124452 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23903,124413,19460101,-9999,    9
  23903,124413,19460102,-9999,    9
  23903,124413,19460103,-9999,    9

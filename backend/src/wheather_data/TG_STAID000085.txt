@@ -18,7 +18,7 @@ This is the blended series of station SANKT-PETERBURG, RUSSIAN FEDERATION (STAID
 Blended and updated with sources:329 926063 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     85,   329,18810101,   -2,    0
     85,   329,18810102,  -11,    0
     85,   329,18810103,   11,    0

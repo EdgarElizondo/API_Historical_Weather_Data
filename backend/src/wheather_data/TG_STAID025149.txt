@@ -18,7 +18,7 @@ This is the blended series of station LEBORK, POLAND (STAID: 25149)
 Blended and updated with sources:140238 912125 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25149,140238,19510101,  -63,    0
  25149,140238,19510102,  -31,    0
  25149,140238,19510103,   16,    0

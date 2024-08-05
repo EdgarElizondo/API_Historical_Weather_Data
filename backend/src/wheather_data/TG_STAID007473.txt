@@ -18,7 +18,7 @@ This is the blended series of station VIITASAARI HAAPANIEMI, FINLAND (STAID: 747
 Blended and updated with sources:44555 902915 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7473, 44555,19700101,  -71,    0
   7473, 44555,19700102,  -87,    0
   7473, 44555,19700103,  -79,    0

@@ -18,7 +18,7 @@ This is the blended series of station FV7 KVAMSKOGEN, NORWAY (STAID: 18690)
 Blended and updated with sources:99215 99697 901327 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18690, 99215,20060802,  179,    0
  18690, 99215,20060803,  183,    0
  18690, 99215,20060804,  186,    0

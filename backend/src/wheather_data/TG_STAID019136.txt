@@ -18,7 +18,7 @@ This is the blended series of station MAZE - RUOGOROAVVI, NORWAY (STAID: 19136)
 Blended and updated with sources:100663 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19136,100663,19810801,-9999,    9
  19136,100663,19810802,-9999,    9
  19136,100663,19810803,-9999,    9

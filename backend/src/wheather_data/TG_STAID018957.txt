@@ -18,7 +18,7 @@ This is the blended series of station TINNOSDAMMEN, NORWAY (STAID: 18957)
 Blended and updated with sources:100826 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18957,100826,20140401,-9999,    9
  18957,100826,20140402,-9999,    9
  18957,100826,20140403,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station RASTATT, GERMANY (STAID: 4541)
 Blended and updated with sources:27584 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4541, 27584,19370101,   23,    0
   4541, 27584,19370102,   56,    0
   4541, 27584,19370103,   64,    0

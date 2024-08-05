@@ -18,7 +18,7 @@ This is the blended series of station CLEMENCY, LUXEMBOURG (STAID: 22467)
 Blended and updated with sources:121051 121161 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22467,121051,19790101, -140,    1
  22467,121051,19790102,  -69,    1
  22467,121051,19790103, -108,    1

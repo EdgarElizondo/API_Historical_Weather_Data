@@ -18,7 +18,7 @@ This is the blended series of station TAMOKDALEN, NORWAY (STAID: 18173)
 Blended and updated with sources:99312 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18173, 99312,20140901,   92,    0
  18173, 99312,20140902,  121,    0
  18173, 99312,20140903,  123,    0

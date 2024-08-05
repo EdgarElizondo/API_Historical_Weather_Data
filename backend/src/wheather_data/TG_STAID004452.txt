@@ -18,7 +18,7 @@ This is the blended series of station NEUHAUSEN OB ECK-UNTERSCHWANDORF, GERMANY 
 Blended and updated with sources:26516 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4452, 26516,19931201,  -29,    0
   4452, 26516,19931202,    4,    0
   4452, 26516,19931203,   26,    0

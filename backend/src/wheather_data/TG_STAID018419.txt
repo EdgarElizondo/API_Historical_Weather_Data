@@ -18,7 +18,7 @@ This is the blended series of station RV80 NORDVIKA, NORWAY (STAID: 18419)
 Blended and updated with sources:99198 99706 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18419, 99706,20140601,   90,    0
  18419, 99706,20140602,  132,    0
  18419, 99706,20140603,  174,    0

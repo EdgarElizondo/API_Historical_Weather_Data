@@ -18,7 +18,7 @@ This is the blended series of station KRISTINEHAMN, SWEDEN (STAID: 5461)
 Blended and updated with sources:36113 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5461, 36113,19610101,   -3,    0
   5461, 36113,19610102,   -4,    0
   5461, 36113,19610103,   12,    0

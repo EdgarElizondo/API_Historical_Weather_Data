@@ -18,7 +18,7 @@ This is the blended series of station STOLZALPE, AUSTRIA (STAID: 24749)
 Blended and updated with sources:135333 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24749,135333,19380101,  -88,    0
  24749,135333,19380102,  -80,    0
  24749,135333,19380103, -110,    0

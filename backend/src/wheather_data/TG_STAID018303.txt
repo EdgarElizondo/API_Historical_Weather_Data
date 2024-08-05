@@ -18,7 +18,7 @@ This is the blended series of station NOETTEROEY - TENVIK, NORWAY (STAID: 18303)
 Blended and updated with sources:99248 99669 99676 99679 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18303, 99248,20100401,-9999,    9
  18303, 99248,20100402,-9999,    9
  18303, 99248,20100403,-9999,    9

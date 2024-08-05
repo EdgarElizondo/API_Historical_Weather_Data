@@ -18,7 +18,7 @@ This is the blended series of station SCHWERIN, GERMANY (STAID: 55)
 Blended and updated with sources:202 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     55,   202,18900101,  -46,    0
     55,   202,18900102,  -50,    0
     55,   202,18900103,  -22,    0

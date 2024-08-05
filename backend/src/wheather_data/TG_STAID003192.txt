@@ -18,7 +18,7 @@ This is the blended series of station ROTTERDAM-GEULHAVEN , NETHERLANDS (STAID: 
 Blended and updated with sources:2428 13740 906344 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3192,  2428,19561001,-9999,    9
   3192,  2428,19561002,  154,    0
   3192,  2428,19561003,  129,    0

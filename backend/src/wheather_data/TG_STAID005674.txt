@@ -18,7 +18,7 @@ This is the blended series of station MORSIL, SWEDEN (STAID: 5674)
 Blended and updated with sources:36815 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5674, 36815,19710701,  133,    0
   5674, 36815,19710702,  155,    0
   5674, 36815,19710703,  179,    0

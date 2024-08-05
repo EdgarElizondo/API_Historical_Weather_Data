@@ -18,7 +18,7 @@ This is the blended series of station SANTAGATA_SUL_SANTERNO, ITALY (STAID: 1778
 Blended and updated with sources:97240 97304 97368 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17787, 97240,20051201,-9999,    9
  17787, 97240,20051202,-9999,    9
  17787, 97240,20051203,-9999,    9

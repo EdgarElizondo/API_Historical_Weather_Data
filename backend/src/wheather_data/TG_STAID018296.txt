@@ -18,7 +18,7 @@ This is the blended series of station GLOMFJORD - SKIHYTTA, NORWAY (STAID: 18296
 Blended and updated with sources:99654 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18296, 99654,20141127,   41,    0
  18296, 99654,20141128,   41,    0
  18296, 99654,20141129,   30,    0

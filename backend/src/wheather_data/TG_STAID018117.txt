@@ -18,7 +18,7 @@ This is the blended series of station HOEYDALSMO II, NORWAY (STAID: 18117)
 Blended and updated with sources:99169 901447 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18117, 99169,20060823,  135,    0
  18117, 99169,20060824,  135,    0
  18117, 99169,20060825,  141,    0

@@ -18,7 +18,7 @@ This is the blended series of station LANGENLEBARN, AUSTRIA (STAID: 24707)
 Blended and updated with sources:134787 911030 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24707,134787,19630101,  -77,    0
  24707,134787,19630102,  -55,    0
  24707,134787,19630103,   -4,    0

@@ -18,7 +18,7 @@ This is the blended series of station ELBLAG, POLAND (STAID: 396)
 Blended and updated with sources:6054 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    396,  6054,19510101,  -82,    0
    396,  6054,19510102,  -33,    0
    396,  6054,19510103,    5,    0

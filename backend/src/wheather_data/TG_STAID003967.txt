@@ -18,7 +18,7 @@ This is the blended series of station TOLEDO, SPAIN (STAID: 3967)
 Blended and updated with sources:20561 908272 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3967, 20561,19820201,   71,    0
   3967, 20561,19820202,   52,    0
   3967, 20561,19820203,   75,    0

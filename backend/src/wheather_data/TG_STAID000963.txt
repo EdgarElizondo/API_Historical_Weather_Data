@@ -18,7 +18,7 @@ This is the blended series of station BET DAGAN, ISRAEL (STAID: 963)
 Blended and updated with sources:6776 20639 940179 940180 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    963,  6776,19620601,  234,    0
    963,  6776,19620602,  238,    0
    963,  6776,19620603,  215,    0

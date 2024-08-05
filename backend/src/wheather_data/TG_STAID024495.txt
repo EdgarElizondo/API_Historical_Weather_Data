@@ -18,7 +18,7 @@ This is the blended series of station BADEN, AUSTRIA (STAID: 24495)
 Blended and updated with sources:130835 132044 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24495,132044,19540401,   73,    0
  24495,132044,19540402,   79,    0
  24495,132044,19540403,   90,    0

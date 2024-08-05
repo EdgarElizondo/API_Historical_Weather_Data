@@ -18,7 +18,7 @@ This is the blended series of station E16 KALPLASSEN, NORWAY (STAID: 18507)
 Blended and updated with sources:99358 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18507, 99358,20150901,-9999,    9
  18507, 99358,20150902,-9999,    9
  18507, 99358,20150903,-9999,    9

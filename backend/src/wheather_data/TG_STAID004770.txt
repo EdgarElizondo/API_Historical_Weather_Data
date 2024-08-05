@@ -18,7 +18,7 @@ This is the blended series of station NEUBULACH-OBERHAUGSTETT, GERMANY (STAID: 4
 Blended and updated with sources:30332 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4770, 30332,19950401,   77,    0
   4770, 30332,19950402,  115,    0
   4770, 30332,19950403,  129,    0

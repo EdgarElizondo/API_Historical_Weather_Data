@@ -18,7 +18,7 @@ This is the blended series of station BAD KOHLGRUB (A), GERMANY (STAID: 4812)
 Blended and updated with sources:30836 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4812, 30836,19510101,  -13,    0
   4812, 30836,19510102,   16,    0
   4812, 30836,19510103,  -22,    0

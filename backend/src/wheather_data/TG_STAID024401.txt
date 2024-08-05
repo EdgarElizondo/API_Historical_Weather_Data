@@ -18,7 +18,7 @@ This is the blended series of station BRUNN AM GEBIRGE, AUSTRIA (STAID: 24401)
 Blended and updated with sources:130822 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24401,130822,20080901,-9999,    9
  24401,130822,20080902,-9999,    9
  24401,130822,20080903,-9999,    9

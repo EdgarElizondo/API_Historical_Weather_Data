@@ -18,7 +18,7 @@ This is the blended series of station IDRE-STORBO_V, SWEDEN (STAID: 5611)
 Blended and updated with sources:36599 36605 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5611, 36605,19691201, -153,    0
   5611, 36605,19691202,  -84,    0
   5611, 36605,19691203, -134,    0

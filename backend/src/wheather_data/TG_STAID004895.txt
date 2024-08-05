@@ -18,7 +18,7 @@ This is the blended series of station BIELEFELD-DEPPENDORF, GERMANY (STAID: 4895
 Blended and updated with sources:31832 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4895, 31832,20060901,  184,    0
   4895, 31832,20060902,  190,    0
   4895, 31832,20060903,  190,    0

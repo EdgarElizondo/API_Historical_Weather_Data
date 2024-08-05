@@ -18,7 +18,7 @@ This is the blended series of station RUPPERTSECKEN, GERMANY (STAID: 4579)
 Blended and updated with sources:28040 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4579, 28040,19690101,  -34,    0
   4579, 28040,19690102,   10,    0
   4579, 28040,19690103,   -6,    0

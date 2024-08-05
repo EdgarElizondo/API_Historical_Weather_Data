@@ -18,7 +18,7 @@ This is the blended series of station SOSNOVO-OZERSKOE, RUSSIAN FEDERATION (STAI
 Blended and updated with sources:50963 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8361, 50963,19350101, -280,    0
   8361, 50963,19350102, -271,    0
   8361, 50963,19350103, -280,    0

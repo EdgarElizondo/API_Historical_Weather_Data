@@ -18,7 +18,7 @@ This is the blended series of station LEOBEN, AUSTRIA (STAID: 24643)
 Blended and updated with sources:133955 911274 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24643,133955,20121201,   16,    0
  24643,133955,20121202,    8,    0
  24643,133955,20121203,    4,    0

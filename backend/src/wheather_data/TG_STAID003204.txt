@@ -18,7 +18,7 @@ This is the blended series of station VERXOYANSK, RUSSIAN FEDERATION (STAID: 320
 Blended and updated with sources:16897 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3204, 16897,18850101, -470,    0
   3204, 16897,18850102, -479,    0
   3204, 16897,18850103, -526,    0

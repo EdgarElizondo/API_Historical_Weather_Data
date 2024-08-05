@@ -18,7 +18,7 @@ This is the blended series of station IL'INSKIJ, RUSSIAN FEDERATION (STAID: 8488
 Blended and updated with sources:51598 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8488, 51598,19420101,-9999,    9
   8488, 51598,19420102,-9999,    9
   8488, 51598,19420103,-9999,    9

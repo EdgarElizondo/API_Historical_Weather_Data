@@ -18,7 +18,7 @@ This is the blended series of station LUCHOW, GERMANY (STAID: 4374)
 Blended and updated with sources:25580 910253 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4374, 25580,19541201,   62,    0
   4374, 25580,19541202,   63,    0
   4374, 25580,19541203,   96,    0

@@ -18,7 +18,7 @@ This is the blended series of station VEILSDORF, GERMANY (STAID: 4934)
 Blended and updated with sources:32300 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4934, 32300,20070501,  100,    0
   4934, 32300,20070502,  110,    0
   4934, 32300,20070503,  127,    0

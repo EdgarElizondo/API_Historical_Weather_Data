@@ -18,7 +18,7 @@ This is the blended series of station BAR, MONTENEGRO (STAID: 11378)
 Blended and updated with sources:75535 913461 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11378, 75535,20160701,  247,    0
  11378, 75535,20160702,  252,    0
  11378, 75535,20160703,  261,    0

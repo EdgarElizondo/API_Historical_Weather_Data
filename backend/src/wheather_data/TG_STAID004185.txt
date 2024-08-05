@@ -18,7 +18,7 @@ This is the blended series of station ARTERN, GERMANY (STAID: 4185)
 Blended and updated with sources:23312 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4185, 23312,19540101,-9999,    9
   4185, 23312,19540102,-9999,    9
   4185, 23312,19540103,-9999,    9

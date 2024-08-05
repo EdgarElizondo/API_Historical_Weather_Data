@@ -18,7 +18,7 @@ This is the blended series of station BAD SCHWALBACH, GERMANY (STAID: 4629)
 Blended and updated with sources:28640 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4629, 28640,19910101,   26,    0
   4629, 28640,19910102,   69,    0
   4629, 28640,19910103,   86,    0

@@ -18,7 +18,7 @@ This is the blended series of station BJORNEGARDEN, SWEDEN (STAID: 5381)
 Blended and updated with sources:35846 35855 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5381, 35846,19450101,  -35,    0
   5381, 35846,19450102,   50,    0
   5381, 35846,19450103,   19,    0

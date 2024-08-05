@@ -18,7 +18,7 @@ This is the blended series of station XILOK, RUSSIAN FEDERATION (STAID: 8377)
 Blended and updated with sources:51043 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8377, 51043,19360101, -228,    0
   8377, 51043,19360102, -218,    0
   8377, 51043,19360103, -207,    0

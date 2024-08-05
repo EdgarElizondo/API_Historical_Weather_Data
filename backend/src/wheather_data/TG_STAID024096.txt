@@ -18,7 +18,7 @@ This is the blended series of station LOFERER ALM, AUSTRIA (STAID: 24096)
 Blended and updated with sources:126883 911337 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24096,126883,19941101,-9999,    9
  24096,126883,19941102,-9999,    9
  24096,126883,19941103,-9999,    9

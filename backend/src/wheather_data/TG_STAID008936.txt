@@ -18,7 +18,7 @@ This is the blended series of station ZARNOWIEC, POLAND (STAID: 8936)
 Blended and updated with sources:140377 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8936,140377,19860101,  -56,    0
   8936,140377,19860102,  -61,    0
   8936,140377,19860103,   10,    0

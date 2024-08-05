@@ -18,7 +18,7 @@ This is the blended series of station FLENSBURG-MURWIK, GERMANY (STAID: 4097)
 Blended and updated with sources:22244 22256 22856 910033 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4097, 22256,19410101,  -73,    0
   4097, 22256,19410102,  -69,    0
   4097, 22256,19410103,  -62,    0

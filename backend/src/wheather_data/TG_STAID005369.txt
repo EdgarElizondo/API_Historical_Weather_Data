@@ -18,7 +18,7 @@ This is the blended series of station HERRBERGA, SWEDEN (STAID: 5369)
 Blended and updated with sources:35801 35807 35840 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5369, 35801,19610101,  -16,    0
   5369, 35801,19610102,   -3,    0
   5369, 35801,19610103,    7,    0

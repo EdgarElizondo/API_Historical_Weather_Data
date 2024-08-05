@@ -18,7 +18,7 @@ This is the blended series of station KLEVE, GERMANY (STAID: 4293)
 Blended and updated with sources:24608 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4293, 24608,19041001,  115,    0
   4293, 24608,19041002,  115,    0
   4293, 24608,19041003,  122,    0

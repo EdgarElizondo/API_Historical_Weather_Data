@@ -18,7 +18,7 @@ This is the blended series of station PITE-RONNSKAR A, SWEDEN (STAID: 11210)
 Blended and updated with sources:71347 902176 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11210, 71347,19410101, -149,    1
  11210, 71347,19410102, -142,    1
  11210, 71347,19410103,  -28,    1

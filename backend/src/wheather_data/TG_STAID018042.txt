@@ -18,7 +18,7 @@ This is the blended series of station MIDTSTOVA, NORWAY (STAID: 18042)
 Blended and updated with sources:99350 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18042, 99350,20111124,  -11,    0
  18042, 99350,20111125,  -24,    0
  18042, 99350,20111126,  -22,    0

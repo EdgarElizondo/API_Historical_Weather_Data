@@ -18,7 +18,7 @@ This is the blended series of station FV64 ISFJORDEN, NORWAY (STAID: 18541)
 Blended and updated with sources:99434 99734 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18541, 99734,20120201,  -86,    0
  18541, 99734,20120202,  -61,    0
  18541, 99734,20120203,  -58,    0

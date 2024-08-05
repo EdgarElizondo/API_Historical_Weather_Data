@@ -18,7 +18,7 @@ This is the blended series of station SARPSBORG, NORWAY (STAID: 2590)
 Blended and updated with sources:9851 99092 100816 901493 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2590,100816,19570101,  -34,    0
   2590,100816,19570102,  -49,    0
   2590,100816,19570103,  -45,    0

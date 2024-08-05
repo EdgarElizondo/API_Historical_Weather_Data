@@ -18,7 +18,7 @@ This is the blended series of station TJOLLING, NORWAY (STAID: 18068)
 Blended and updated with sources:99174 99649 901478 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18068,901478,20090429,-9999,    9
  18068,901478,20090430,-9999,    9
  18068, 99174,20090501,  102,    0

@@ -18,7 +18,7 @@ This is the blended series of station LVIV, UKRAINE (STAID: 3276)
 Blended and updated with sources:17462 933393 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3276, 17462,19360101,   32,    0
   3276, 17462,19360102,   30,    0
   3276, 17462,19360103,   26,    0

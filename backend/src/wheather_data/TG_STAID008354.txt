@@ -18,7 +18,7 @@ This is the blended series of station XOMUTOVO, RUSSIAN FEDERATION (STAID: 8354)
 Blended and updated with sources:50928 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8354, 50928,19590101, -334,    0
   8354, 50928,19590102, -278,    0
   8354, 50928,19590103, -375,    0

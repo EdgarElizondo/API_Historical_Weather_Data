@@ -18,7 +18,7 @@ This is the blended series of station AACHEN-ORSBACH, GERMANY (STAID: 3989)
 Blended and updated with sources:20960 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3989, 20960,20110401,  133,    0
   3989, 20960,20110402,  168,    0
   3989, 20960,20110403,  108,    0

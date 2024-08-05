@@ -18,7 +18,7 @@ This is the blended series of station JUTERBOG, GERMANY (STAID: 4268)
 Blended and updated with sources:24308 25028 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4268, 24308,19670101,   40,    0
   4268, 24308,19670102,   23,    0
   4268, 24308,19670103,   19,    0

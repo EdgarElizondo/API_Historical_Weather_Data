@@ -18,7 +18,7 @@ This is the blended series of station RV2 UVESUND BRU, NORWAY (STAID: 18462)
 Blended and updated with sources:99279 99441 100983 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18462,100983,19710601,  195,    0
  18462,100983,19710602,  177,    0
  18462,100983,19710603,  160,    0

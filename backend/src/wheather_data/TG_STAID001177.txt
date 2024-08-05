@@ -18,7 +18,7 @@ This is the blended series of station NIKOL'SK, RUSSIAN FEDERATION (STAID: 1177)
 Blended and updated with sources:49183 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1177, 49183,19360101,  -39,    0
   1177, 49183,19360102,   -5,    0
   1177, 49183,19360103,    6,    0

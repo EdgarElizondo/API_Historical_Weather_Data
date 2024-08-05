@@ -18,7 +18,7 @@ This is the blended series of station KUNDA, ESTONIA (STAID: 11354)
 Blended and updated with sources:75018 926045 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11354, 75018,19450201,  -94,    0
  11354, 75018,19450202,  -32,    0
  11354, 75018,19450203,  -62,    0

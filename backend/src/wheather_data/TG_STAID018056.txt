@@ -18,7 +18,7 @@ This is the blended series of station ARNES, NORWAY (STAID: 18056)
 Blended and updated with sources:99490 100598 100777 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18056,100777,19540101,  -68,    0
  18056,100777,19540102,   17,    1
  18056,100777,19540103,  -13,    0

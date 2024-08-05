@@ -18,7 +18,7 @@ This is the blended series of station ROHRSPITZ, AUSTRIA (STAID: 24145)
 Blended and updated with sources:127429 127455 127520 911302 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24145,127429,19560401,   65,    0
  24145,127429,19560402,   59,    0
  24145,127429,19560403,   57,    0

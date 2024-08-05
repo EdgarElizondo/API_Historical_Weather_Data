@@ -18,7 +18,7 @@ This is the blended series of station BOGORODSKOE, RUSSIAN FEDERATION (STAID: 84
 Blended and updated with sources:51273 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8423, 51273,19360101, -294,    0
   8423, 51273,19360102, -299,    0
   8423, 51273,19360103, -346,    0

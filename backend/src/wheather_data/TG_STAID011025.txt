@@ -18,7 +18,7 @@ This is the blended series of station CASTELLNOU DE SEANA, SPAIN (STAID: 11025)
 Blended and updated with sources:56085 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11025, 56085,20150101,   12,    0
  11025, 56085,20150102,    7,    0
  11025, 56085,20150103,   16,    0

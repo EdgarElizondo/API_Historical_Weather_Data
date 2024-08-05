@@ -18,7 +18,7 @@ This is the blended series of station STIEGE, GERMANY (STAID: 4666)
 Blended and updated with sources:29084 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4666, 29084,19300101,-9999,    9
   4666, 29084,19300102,-9999,    9
   4666, 29084,19300103,-9999,    9

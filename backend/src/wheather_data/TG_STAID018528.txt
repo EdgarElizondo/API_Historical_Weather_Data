@@ -18,7 +18,7 @@ This is the blended series of station FV170 KOMPVEIEN, NORWAY (STAID: 18528)
 Blended and updated with sources:99402 99585 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18528, 99402,20130101,-9999,    9
  18528, 99402,20130102,-9999,    9
  18528, 99402,20130103,-9999,    9

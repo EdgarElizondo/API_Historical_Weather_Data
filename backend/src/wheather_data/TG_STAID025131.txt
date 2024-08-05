@@ -18,7 +18,7 @@ This is the blended series of station CZOSTOCHOWA, POLAND (STAID: 25131)
 Blended and updated with sources:140022 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25131,140022,19510101,  -47,    0
  25131,140022,19510102,   -1,    0
  25131,140022,19510103,   33,    0

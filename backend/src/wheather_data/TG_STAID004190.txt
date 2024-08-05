@@ -18,7 +18,7 @@ This is the blended series of station HANKENSBUTTEL, GERMANY (STAID: 4190)
 Blended and updated with sources:23372 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4190, 23372,19610101,   16,    0
   4190, 23372,19610102,    2,    0
   4190, 23372,19610103,   20,    0

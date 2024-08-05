@@ -18,7 +18,7 @@ This is the blended series of station SCHAUENBURG-ELGERSHAUSEN, GERMANY (STAID: 
 Blended and updated with sources:81361 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11779, 81361,20131101,   71,    0
  11779, 81361,20131102,  102,    0
  11779, 81361,20131103,   84,    0

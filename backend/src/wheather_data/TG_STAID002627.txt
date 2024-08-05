@@ -18,7 +18,7 @@ This is the blended series of station GULSVIK II, NORWAY (STAID: 2627)
 Blended and updated with sources:10184 901376 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2627, 10184,20071201,   33,    0
   2627, 10184,20071202,    9,    0
   2627, 10184,20071203,    4,    0

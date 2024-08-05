@@ -18,7 +18,7 @@ This is the blended series of station SEEFELD, AUSTRIA (STAID: 24741)
 Blended and updated with sources:135229 911119 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24741,135229,19480501,   55,    0
  24741,135229,19480502,   68,    0
  24741,135229,19480503,   81,    0

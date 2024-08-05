@@ -18,7 +18,7 @@ This is the blended series of station KOTLAS, RUSSIAN FEDERATION (STAID: 83)
 Blended and updated with sources:321 922887 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     83,   321,19360101,  -12,    0
     83,   321,19360102,  -11,    0
     83,   321,19360103,   10,    0

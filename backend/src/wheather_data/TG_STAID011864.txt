@@ -18,7 +18,7 @@ This is the blended series of station ALT RUPPIN, GERMANY (STAID: 11864)
 Blended and updated with sources:119403 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11864,119403,20200208,   45,    0
  11864,119403,20200209,   88,    0
  11864,119403,20200210,   65,    0

@@ -18,7 +18,7 @@ This is the blended series of station FV866 MAURSUND, NORWAY (STAID: 18654)
 Blended and updated with sources:99247 99633 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18654, 99633,20150401,-9999,    9
  18654, 99633,20150402,-9999,    9
  18654, 99633,20150403,-9999,    9

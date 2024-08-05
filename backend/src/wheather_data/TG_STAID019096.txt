@@ -18,7 +18,7 @@ This is the blended series of station SAELI III, NORWAY (STAID: 19096)
 Blended and updated with sources:100989 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19096,100989,19640901,  101,    1
  19096,100989,19640902,  103,    1
  19096,100989,19640903,  102,    1

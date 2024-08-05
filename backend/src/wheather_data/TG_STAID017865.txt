@@ -18,7 +18,7 @@ This is the blended series of station RAVENNA_URBANA, ITALY (STAID: 17865)
 Blended and updated with sources:95816 97216 98016 916145 916146 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17865,916145,20051201,   41,    0
  17865,916145,20051202,   41,    0
  17865,916145,20051203,  102,    0

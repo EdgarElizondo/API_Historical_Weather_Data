@@ -18,7 +18,7 @@ This is the blended series of station GYSHGY, TURKMENISTAN (STAID: 3299)
 Blended and updated with sources:17752 938987 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3299, 17752,19040101,-9999,    9
   3299, 17752,19040102,-9999,    9
   3299, 17752,19040103,-9999,    9

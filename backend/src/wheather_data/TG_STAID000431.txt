@@ -18,7 +18,7 @@ This is the blended series of station TORSHAVN, DENMARK (STAID: 431)
 Blended and updated with sources:71549 906011 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    431, 71549,20140101,   60,    0
    431, 71549,20140102,   67,    0
    431, 71549,20140103,   68,    0

@@ -18,7 +18,7 @@ This is the blended series of station MULLHEIM, GERMANY (STAID: 4286)
 Blended and updated with sources:24524 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4286, 24524,19470101,    0,    0
   4286, 24524,19470102,    8,    0
   4286, 24524,19470103,  -10,    0

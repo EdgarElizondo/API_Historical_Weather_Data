@@ -18,7 +18,7 @@ This is the blended series of station NOWY LUBLINIEC, POLAND (STAID: 24991)
 Blended and updated with sources:138342 138354 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24991,138342,19860101,  -62,    0
  24991,138342,19860102,  -39,    0
  24991,138342,19860103,  -21,    0

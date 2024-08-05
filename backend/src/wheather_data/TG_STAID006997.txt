@@ -18,7 +18,7 @@ This is the blended series of station HELSINGIN MLK TAMMISTO, FINLAND (STAID: 69
 Blended and updated with sources:84 42109 42224 42239 42249 42254 42319 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6997,    84,19510101,  -63,    0
   6997,    84,19510102,  -52,    0
   6997,    84,19510103,  -33,    0

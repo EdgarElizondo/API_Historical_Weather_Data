@@ -18,7 +18,7 @@ This is the blended series of station DE BILT, NETHERLANDS (STAID: 162)
 Blended and updated with sources:521 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    162,   521,19010101,  -49,    0
    162,   521,19010102,  -18,    0
    162,   521,19010103,  -26,    0

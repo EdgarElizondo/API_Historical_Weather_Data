@@ -18,7 +18,7 @@ This is the blended series of station BOBLINGEN, GERMANY (STAID: 4799)
 Blended and updated with sources:26864 30680 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4799, 26864,19480501,  101,    0
   4799, 26864,19480502,  126,    0
   4799, 26864,19480503,   86,    0

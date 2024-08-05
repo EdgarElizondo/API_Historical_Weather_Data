@@ -18,7 +18,7 @@ This is the blended series of station TEL AVIV SEDE DOV, ISRAEL (STAID: 124)
 Blended and updated with sources:847 848 849 940176 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    124,   849,19640101,-9999,    9
    124,   849,19640102,  131,    0
    124,   849,19640103,  113,    0

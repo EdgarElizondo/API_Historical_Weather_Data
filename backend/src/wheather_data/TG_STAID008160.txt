@@ -18,7 +18,7 @@ This is the blended series of station APUKA, RUSSIAN FEDERATION (STAID: 8160)
 Blended and updated with sources:48958 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8160, 48958,19360101, -166,    0
   8160, 48958,19360102, -155,    0
   8160, 48958,19360103, -168,    0

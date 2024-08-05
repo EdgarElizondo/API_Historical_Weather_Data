@@ -18,7 +18,7 @@ This is the blended series of station MY'S LOPATKA, RUSSIAN FEDERATION (STAID: 8
 Blended and updated with sources:51653 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8499, 51653,19660101,  -27,    0
   8499, 51653,19660102,  -36,    0
   8499, 51653,19660103,  -78,    0

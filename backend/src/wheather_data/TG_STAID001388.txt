@@ -18,7 +18,7 @@ This is the blended series of station IZANA, SPAIN (STAID: 1388)
 Blended and updated with sources:20435 960010 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1388, 20435,19200101,   74,    0
   1388, 20435,19200102,   58,    0
   1388, 20435,19200103,   60,    0

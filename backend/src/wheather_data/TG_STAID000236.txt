@@ -18,7 +18,7 @@ This is the blended series of station TORTOSA - OBSERVATORIO DEL EBRO, SPAIN (ST
 Blended and updated with sources:884 55249 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    236, 55249,19050101,  111,    0
    236, 55249,19050102,   46,    0
    236, 55249,19050103,   17,    0

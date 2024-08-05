@@ -18,7 +18,7 @@ This is the blended series of station TAMANRASSET, ALGERIA (STAID: 313)
 Blended and updated with sources:1059 960680 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    313,  1059,19400101,  120,    0
    313,  1059,19400102,  138,    0
    313,  1059,19400103,  147,    0

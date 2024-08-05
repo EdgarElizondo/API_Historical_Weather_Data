@@ -18,7 +18,7 @@ This is the blended series of station KONIGSTUHL, GERMANY (STAID: 4202)
 Blended and updated with sources:23516 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4202, 23516,19360101,   49,    0
   4202, 23516,19360102,   46,    0
   4202, 23516,19360103,   64,    0

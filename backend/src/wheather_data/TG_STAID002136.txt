@@ -18,7 +18,7 @@ This is the blended series of station CORK, IRELAND (STAID: 2136)
 Blended and updated with sources:7569 903955 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2136,  7569,19610101,   58,    0
   2136,  7569,19610102,   47,    0
   2136,  7569,19610103,   33,    0

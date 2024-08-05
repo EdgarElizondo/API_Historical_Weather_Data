@@ -18,7 +18,7 @@ This is the blended series of station WIEN-STREBERSDORF, AUSTRIA (STAID: 23975)
 Blended and updated with sources:125349 126090 130718 130887 130913 134189 911090 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23975,126090,17750401,-9999,    9
  23975,126090,17750402,-9999,    9
  23975,126090,17750403,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station BREMERVORDE-NIEDEROCHTENHAUSEN, GERMANY (S
 Blended and updated with sources:31736 31748 31760 910139 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4889, 31736,19370101,   51,    0
   4889, 31736,19370102,   54,    0
   4889, 31736,19370103,   83,    0

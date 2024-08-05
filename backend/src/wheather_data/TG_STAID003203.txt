@@ -18,7 +18,7 @@ This is the blended series of station OLENEK, RUSSIAN FEDERATION (STAID: 3203)
 Blended and updated with sources:16892 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3203, 16892,19360101, -389,    0
   3203, 16892,19360102, -399,    0
   3203, 16892,19360103, -467,    0

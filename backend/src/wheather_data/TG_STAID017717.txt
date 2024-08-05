@@ -18,7 +18,7 @@ This is the blended series of station PASSO_DELLE_RADICI, ITALY (STAID: 17717)
 Blended and updated with sources:96416 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17717, 96416,20051201,-9999,    9
  17717, 96416,20051202,-9999,    9
  17717, 96416,20051203,-9999,    9

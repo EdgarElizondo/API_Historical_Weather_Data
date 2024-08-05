@@ -18,7 +18,7 @@ This is the blended series of station MARKET/STORBY, FINLAND (STAID: 6941)
 Blended and updated with sources:36368 41818 41863 902993 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6941, 36368,19490101,   33,    1
   6941, 36368,19490102,   40,    1
   6941, 36368,19490103,   33,    1

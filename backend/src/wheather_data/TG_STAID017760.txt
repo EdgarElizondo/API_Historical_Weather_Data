@@ -18,7 +18,7 @@ This is the blended series of station RONCOVETRO, ITALY (STAID: 17760)
 Blended and updated with sources:96944 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17760, 96944,20051201,-9999,    9
  17760, 96944,20051202,-9999,    9
  17760, 96944,20051203,-9999,    9

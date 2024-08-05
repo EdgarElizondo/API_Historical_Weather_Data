@@ -18,7 +18,7 @@ This is the blended series of station JOSTEDALEN - BREHEIMSENTERET, NORWAY (STAI
 Blended and updated with sources:99432 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18219, 99432,20151001,-9999,    9
  18219, 99432,20151002,-9999,    9
  18219, 99432,20151003,-9999,    9

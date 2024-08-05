@@ -18,7 +18,7 @@ This is the blended series of station VOELKERMARKT, AUSTRIA (STAID: 24364)
 Blended and updated with sources:130341 130510 136321 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24364,130341,19501201,    5,    0
  24364,130341,19501202,  -17,    0
  24364,130341,19501203,   32,    0

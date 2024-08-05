@@ -18,7 +18,7 @@ This is the blended series of station ORBY, SWEDEN (STAID: 5285)
 Blended and updated with sources:35531 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5285, 35531,19610101,   -2,    0
   5285, 35531,19610102,   10,    0
   5285, 35531,19610103,   12,    0

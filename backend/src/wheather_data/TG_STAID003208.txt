@@ -18,7 +18,7 @@ This is the blended series of station OJMYAKON, RUSSIAN FEDERATION (STAID: 3208)
 Blended and updated with sources:16917 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3208, 16917,19430101, -382,    0
   3208, 16917,19430102, -346,    0
   3208, 16917,19430103, -279,    0

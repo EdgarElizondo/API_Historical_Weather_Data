@@ -18,7 +18,7 @@ This is the blended series of station LERWICK, UNITED KINGDOM (STAID: 348)
 Blended and updated with sources:6714 903005 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    348,  6714,20010101,   44,    0
    348,  6714,20010102,   61,    0
    348,  6714,20010103,   72,    0

@@ -18,7 +18,7 @@ This is the blended series of station JASTRZEBIE-ZDROJ, POLAND (STAID: 24865)
 Blended and updated with sources:136830 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24865,136830,19610101,  -15,    0
  24865,136830,19610102,   -9,    0
  24865,136830,19610103,  -12,    0

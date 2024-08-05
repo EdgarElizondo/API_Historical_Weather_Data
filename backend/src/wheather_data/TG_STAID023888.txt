@@ -18,7 +18,7 @@ This is the blended series of station KAPFENBERG-FLUGFELD, AUSTRIA (STAID: 23888
 Blended and updated with sources:124218 136646 911176 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23888,136646,19970301,   24,    0
  23888,136646,19970302,   66,    0
  23888,136646,19970303,   62,    0

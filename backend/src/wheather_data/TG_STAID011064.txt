@@ -18,7 +18,7 @@ This is the blended series of station PN DELS PORTS, SPAIN (STAID: 11064)
 Blended and updated with sources:56436 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11064, 56436,20080101,   44,    0
  11064, 56436,20080102,   29,    0
  11064, 56436,20080103,   36,    0

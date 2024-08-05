@@ -18,7 +18,7 @@ This is the blended series of station EASTBOURNE, UNITED KINGDOM (STAID: 1864)
 Blended and updated with sources:7058 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1864,  7058,19110101,-9999,    9
   1864,  7058,19110102,   19,    0
   1864,  7058,19110103,   23,    0

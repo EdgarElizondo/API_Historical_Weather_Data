@@ -18,7 +18,7 @@ This is the blended series of station PALERMO, ITALY (STAID: 381)
 Blended and updated with sources:15591 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    381, 15591,20030101,  142,    0
    381, 15591,20030102,  159,    0
    381, 15591,20030103,  194,    0

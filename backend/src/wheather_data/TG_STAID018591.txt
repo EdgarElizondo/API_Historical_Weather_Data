@@ -18,7 +18,7 @@ This is the blended series of station E6 NAMSSKOGAN, NORWAY (STAID: 18591)
 Blended and updated with sources:99512 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18591, 99512,20140101,    1,    0
  18591, 99512,20140102,-9999,    9
  18591, 99512,20140103,   22,    0

@@ -18,7 +18,7 @@ This is the blended series of station LYCKAS, SWEDEN (STAID: 5473)
 Blended and updated with sources:36110 36137 36161 902486 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5473, 36110,19450101,  -43,    0
   5473, 36110,19450102,   24,    0
   5473, 36110,19450103,   11,    0

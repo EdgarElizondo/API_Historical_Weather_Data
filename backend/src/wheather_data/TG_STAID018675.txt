@@ -18,7 +18,7 @@ This is the blended series of station E6 MINNESUND, NORWAY (STAID: 18675)
 Blended and updated with sources:99173 99674 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18675, 99173,20121201,  -66,    0
  18675, 99173,20121202, -116,    0
  18675, 99173,20121203, -150,    0

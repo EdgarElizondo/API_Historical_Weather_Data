@@ -18,7 +18,7 @@ This is the blended series of station LORCH/RHEIN, GERMANY (STAID: 4368)
 Blended and updated with sources:22700 25508 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4368, 22700,18840701,  207,    0
   4368, 22700,18840702,  232,    0
   4368, 22700,18840703,  239,    0

@@ -18,7 +18,7 @@ This is the blended series of station DANMARKSHAVN, GREENLAND [DENMARK] (STAID: 
 Blended and updated with sources:47437 904320 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2942, 47437,19580101, -300,    0
   2942, 47437,19580102, -257,    0
   2942, 47437,19580103, -249,    0

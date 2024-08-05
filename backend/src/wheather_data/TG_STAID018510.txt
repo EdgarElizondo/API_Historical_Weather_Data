@@ -18,7 +18,7 @@ This is the blended series of station BAKKO I HOL II, NORWAY (STAID: 18510)
 Blended and updated with sources:99366 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18510, 99366,20120101,-9999,    9
  18510, 99366,20120102,-9999,    9
  18510, 99366,20120103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station LOSISTUA, NORWAY (STAID: 18063)
 Blended and updated with sources:99588 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18063, 99588,20141001,   71,    0
  18063, 99588,20141002,   41,    0
  18063, 99588,20141003,   67,    0

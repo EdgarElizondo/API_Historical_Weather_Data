@@ -18,7 +18,7 @@ This is the blended series of station BONAIGUA, SPAIN (STAID: 11018)
 Blended and updated with sources:56022 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11018, 56022,20080101,   11,    0
  11018, 56022,20080102,  -15,    0
  11018, 56022,20080103,  -49,    0

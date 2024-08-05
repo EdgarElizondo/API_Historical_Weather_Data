@@ -18,7 +18,7 @@ This is the blended series of station JOHNSTOWN CASTLE, IRELAND (STAID: 1750)
 Blended and updated with sources:7570 903956 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1750,  7570,19610101,   72,    0
   1750,  7570,19610102,   72,    0
   1750,  7570,19610103,   56,    0

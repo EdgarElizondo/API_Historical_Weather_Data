@@ -18,7 +18,7 @@ This is the blended series of station KOLOBRZEG-DZWIRZYNO, POLAND (STAID: 25147)
 Blended and updated with sources:140214 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25147,140214,19510101,  -62,    0
  25147,140214,19510102,  -21,    0
  25147,140214,19510103,    2,    0

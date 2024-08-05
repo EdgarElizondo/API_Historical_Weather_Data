@@ -18,7 +18,7 @@ This is the blended series of station RUSSKIJ, RUSSIAN FEDERATION (STAID: 8041)
 Blended and updated with sources:47938 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8041, 47938,19360101, -282,    0
   8041, 47938,19360102, -266,    0
   8041, 47938,19360103, -284,    0

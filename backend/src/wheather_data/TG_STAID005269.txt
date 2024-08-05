@@ -18,7 +18,7 @@ This is the blended series of station MOSSEN, SWEDEN (STAID: 5269)
 Blended and updated with sources:35471 35489 35492 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5269, 35492,18791101,-9999,    9
   5269, 35492,18791102,   28,    1
   5269, 35492,18791103,   17,    1

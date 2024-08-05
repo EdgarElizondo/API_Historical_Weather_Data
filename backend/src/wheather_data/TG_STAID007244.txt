@@ -18,7 +18,7 @@ This is the blended series of station MOUHIJARVI SELKEE, FINLAND (STAID: 7244)
 Blended and updated with sources:43384 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7244, 43384,19590101,   -5,    0
   7244, 43384,19590102,  -16,    0
   7244, 43384,19590103,    0,    0

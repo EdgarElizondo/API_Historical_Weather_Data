@@ -18,7 +18,7 @@ This is the blended series of station LUND, SWEDEN (STAID: 463)
 Blended and updated with sources:35183 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    463, 35183,18630101,   40,    1
    463, 35183,18630102,   40,    1
    463, 35183,18630103,   36,    1

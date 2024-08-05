@@ -18,7 +18,7 @@ This is the blended series of station KAUFBEUREN, GERMANY (STAID: 4278)
 Blended and updated with sources:24428 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4278, 24428,19700501,   19,    0
   4278, 24428,19700502,   27,    0
   4278, 24428,19700503,   65,    0

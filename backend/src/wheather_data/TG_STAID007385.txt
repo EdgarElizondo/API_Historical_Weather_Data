@@ -18,7 +18,7 @@ This is the blended series of station SAVONLINNA LENTOASEMA, FINLAND (STAID: 738
 Blended and updated with sources:44100 902948 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7385, 44100,19741001,  111,    0
   7385, 44100,19741002,  123,    0
   7385, 44100,19741003,  104,    0

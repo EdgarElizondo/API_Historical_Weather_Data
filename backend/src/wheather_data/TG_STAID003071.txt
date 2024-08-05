@@ -18,7 +18,7 @@ This is the blended series of station BEREZOVO, RUSSIAN FEDERATION (STAID: 3071)
 Blended and updated with sources:16850 923631 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3071, 16850,19360101,  -90,    0
   3071, 16850,19360102, -122,    0
   3071, 16850,19360103,  -60,    0

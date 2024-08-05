@@ -18,7 +18,7 @@ This is the blended series of station KEMIONSAARI KEMIO KK, FINLAND (STAID: 6980
 Blended and updated with sources:41983 42013 902906 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6980, 41983,19840801,  191,    0
   6980, 41983,19840802,  196,    0
   6980, 41983,19840803,  192,    0

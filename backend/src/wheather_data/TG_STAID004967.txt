@@ -18,7 +18,7 @@ This is the blended series of station DEGGENHAUSERTAL-AZENWEILER, GERMANY (STAID
 Blended and updated with sources:32696 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4967, 32696,19890801,   90,    0
   4967, 32696,19890802,  106,    0
   4967, 32696,19890803,  137,    0

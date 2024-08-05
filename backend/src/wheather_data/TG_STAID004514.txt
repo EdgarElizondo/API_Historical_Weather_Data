@@ -18,7 +18,7 @@ This is the blended series of station BAD-STUNZEL BERLEBURG, GERMANY (STAID: 451
 Blended and updated with sources:27260 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4514, 27260,19861201,  -21,    0
   4514, 27260,19861202,   40,    0
   4514, 27260,19861203,   38,    0

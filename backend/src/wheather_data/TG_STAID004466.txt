@@ -18,7 +18,7 @@ This is the blended series of station NIDDERAU-WINDECKEN, GERMANY (STAID: 4466)
 Blended and updated with sources:26684 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4466, 26684,19610101,   22,    0
   4466, 26684,19610102,   26,    0
   4466, 26684,19610103,   40,    0

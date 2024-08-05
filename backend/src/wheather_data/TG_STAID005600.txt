@@ -18,7 +18,7 @@ This is the blended series of station HOLICK, SWEDEN (STAID: 5600)
 Blended and updated with sources:36557 36563 36581 902355 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5600, 36557,19490101,   18,    1
   5600, 36557,19490102,   22,    1
   5600, 36557,19490103,   20,    1

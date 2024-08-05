@@ -18,7 +18,7 @@ This is the blended series of station ERFDE, GERMANY (STAID: 4063)
 Blended and updated with sources:21848 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4063, 21848,19640501,   80,    0
   4063, 21848,19640502,   75,    0
   4063, 21848,19640503,   96,    0

@@ -18,7 +18,7 @@ This is the blended series of station SANOK-TREPCZA, POLAND (STAID: 24920)
 Blended and updated with sources:137490 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24920,137490,19510101,   -6,    0
  24920,137490,19510102,   22,    0
  24920,137490,19510103,   27,    0

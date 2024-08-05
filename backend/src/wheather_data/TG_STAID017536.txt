@@ -18,7 +18,7 @@ This is the blended series of station BOLOGNA_IDROGRAFICO, ITALY (STAID: 17536)
 Blended and updated with sources:94360 94384 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17536, 94384,20051201,-9999,    9
  17536, 94384,20051202,-9999,    9
  17536, 94384,20051203,-9999,    9

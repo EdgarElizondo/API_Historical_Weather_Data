@@ -18,7 +18,7 @@ This is the blended series of station NIEDERWORRESBACH, GERMANY (STAID: 4216)
 Blended and updated with sources:23684 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4216, 23684,19480101,    5,    0
   4216, 23684,19480102,   86,    0
   4216, 23684,19480103,  102,    0

@@ -18,7 +18,7 @@ This is the blended series of station KALVAERET, NORWAY (STAID: 18794)
 Blended and updated with sources:34684 100642 901259 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18794,100642,19630701,  105,    0
  18794,100642,19630702,  104,    0
  18794,100642,19630703,  104,    0

@@ -18,7 +18,7 @@ This is the blended series of station AXSTAL_MO, SWEDEN (STAID: 5387)
 Blended and updated with sources:35852 35873 902544 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5387, 35852,19510101,  -46,    0
   5387, 35852,19510102,  -11,    0
   5387, 35852,19510103,   -5,    0

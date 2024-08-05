@@ -18,7 +18,7 @@ This is the blended series of station OCHSENKOPF, GERMANY (STAID: 4491)
 Blended and updated with sources:26984 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4491, 26984,19590901,   78,    0
   4491, 26984,19590902,   87,    0
   4491, 26984,19590903,   96,    0

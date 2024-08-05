@@ -18,7 +18,7 @@ This is the blended series of station NAXOS, GREECE (STAID: 842)
 Blended and updated with sources:55886 916732 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    842,916732,19980101,-9999,    9
    842, 55886,19980102,  113,    0
    842, 55886,19980103,  129,    0

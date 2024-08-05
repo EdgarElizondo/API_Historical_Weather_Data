@@ -18,7 +18,7 @@ This is the blended series of station KAISERSBACH-CRONHUTTE, GERMANY (STAID: 427
 Blended and updated with sources:23168 24332 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4270, 23168,19510101,   12,    0
   4270, 23168,19510102,    7,    0
   4270, 23168,19510103,   -2,    0

@@ -18,7 +18,7 @@ This is the blended series of station STUTTGART/ECHTERDINGEN, GERMANY (STAID: 27
 Blended and updated with sources:11515 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2763, 11515,19530101,  -16,    0
   2763, 11515,19530102,  -21,    0
   2763, 11515,19530103,  -28,    0

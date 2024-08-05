@@ -18,7 +18,7 @@ This is the blended series of station DOELLACH/MOELLTAL, AUSTRIA (STAID: 24306)
 Blended and updated with sources:129587 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24306,129587,19260801,  155,    0
  24306,129587,19260802,  125,    0
  24306,129587,19260803,  142,    0

@@ -18,7 +18,7 @@ This is the blended series of station ENISEJSK, RUSSIAN FEDERATION (STAID: 3227)
 Blended and updated with sources:17086 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3227, 17086,18840101, -152,    0
   3227, 17086,18840102, -152,    0
   3227, 17086,18840103,  -85,    0

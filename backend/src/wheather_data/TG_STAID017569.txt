@@ -18,7 +18,7 @@ This is the blended series of station CASONI_DI_ROMAGNA, ITALY (STAID: 17569)
 Blended and updated with sources:94704 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17569, 94704,20051201,-9999,    9
  17569, 94704,20051202,-9999,    9
  17569, 94704,20051203,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station FV915 BOE, NORWAY (STAID: 18460)
 Blended and updated with sources:99276 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18460, 99276,20160401,-9999,    9
  18460, 99276,20160402,-9999,    9
  18460, 99276,20160403,-9999,    9

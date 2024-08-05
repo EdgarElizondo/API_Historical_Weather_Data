@@ -18,7 +18,7 @@ This is the blended series of station DOMITZ, GERMANY (STAID: 4019)
 Blended and updated with sources:21320 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4019, 21320,19471101,   42,    0
   4019, 21320,19471102,   60,    0
   4019, 21320,19471103,   74,    0

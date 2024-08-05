@@ -18,7 +18,7 @@ This is the blended series of station RAHDEN-VARL, GERMANY (STAID: 4539)
 Blended and updated with sources:27560 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4539, 27560,19510101,   -5,    0
   4539, 27560,19510102,   12,    0
   4539, 27560,19510103,    5,    0

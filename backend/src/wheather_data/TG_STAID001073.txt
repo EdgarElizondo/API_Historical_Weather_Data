@@ -18,7 +18,7 @@ This is the blended series of station SVYATOJ NOS, RUSSIAN FEDERATION (STAID: 10
 Blended and updated with sources:48063 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1073, 48063,18950101,  -46,    0
   1073, 48063,18950102,  -97,    0
   1073, 48063,18950103,  -90,    0

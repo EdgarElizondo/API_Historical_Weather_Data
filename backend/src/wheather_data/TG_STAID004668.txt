@@ -18,7 +18,7 @@ This is the blended series of station WAGERSROTT, GERMANY (STAID: 4668)
 Blended and updated with sources:29108 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4668, 29108,19741201,   54,    0
   4668, 29108,19741202,   89,    0
   4668, 29108,19741203,   64,    0

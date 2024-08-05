@@ -18,7 +18,7 @@ This is the blended series of station SOTKAMO KUOLANIEMI, FINLAND (STAID: 7657)
 Blended and updated with sources:45500 902739 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7657, 45500,19921001,-9999,    9
   7657, 45500,19921002,-9999,    9
   7657, 45500,19921003,-9999,    9

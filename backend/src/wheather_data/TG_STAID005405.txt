@@ -18,7 +18,7 @@ This is the blended series of station MARIESTAD, SWEDEN (STAID: 5405)
 Blended and updated with sources:35927 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5405, 35927,19580801,  151,    0
   5405, 35927,19580802,  131,    0
   5405, 35927,19580803,  140,    0

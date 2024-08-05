@@ -18,7 +18,7 @@ This is the blended series of station MITT. NARSARSUAQ, GREENLAND [DENMARK] (STA
 Blended and updated with sources:47277 57932 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8004, 47277,19610101,   26,    0
   8004, 47277,19610102,   33,    0
   8004, 47277,19610103,  -37,    0

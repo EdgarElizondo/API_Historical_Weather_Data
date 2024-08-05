@@ -18,7 +18,7 @@ This is the blended series of station PATSCHERKOFEL, AUSTRIA (STAID: 24236)
 Blended and updated with sources:128690 133357 136399 911126 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24236,136399,19400801,   88,    0
  24236,136399,19400802,   93,    0
  24236,136399,19400803,  110,    0

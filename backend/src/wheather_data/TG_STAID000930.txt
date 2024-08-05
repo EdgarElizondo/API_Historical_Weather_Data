@@ -18,7 +18,7 @@ This is the blended series of station BIELSKO-BIALA, POLAND (STAID: 930)
 Blended and updated with sources:6377 912600 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    930,  6377,19510101,  -21,    0
    930,  6377,19510102,   33,    0
    930,  6377,19510103,   74,    0

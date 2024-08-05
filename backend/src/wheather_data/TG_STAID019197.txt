@@ -18,7 +18,7 @@ This is the blended series of station RV92 SUOSSJAVRI, NORWAY (STAID: 19197)
 Blended and updated with sources:101007 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19197,101007,20151101,-9999,    9
  19197,101007,20151102,-9999,    9
  19197,101007,20151103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station KOLOGRIV, RUSSIAN FEDERATION (STAID: 1182)
 Blended and updated with sources:49213 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1182, 49213,19590101,  -83,    0
   1182, 49213,19590102,  -79,    0
   1182, 49213,19590103,   -3,    0

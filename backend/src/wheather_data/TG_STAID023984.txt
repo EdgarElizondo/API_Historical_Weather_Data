@@ -18,7 +18,7 @@ This is the blended series of station VOECKLABRUCK, AUSTRIA (STAID: 23984)
 Blended and updated with sources:125466 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23984,125466,20080901,-9999,    9
  23984,125466,20080902,-9999,    9
  23984,125466,20080903,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station DRAG - AJLUOKTA, NORWAY (STAID: 18739)
 Blended and updated with sources:100579 901143 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18739,100579,20070701,-9999,    9
  18739,100579,20070702,  191,    0
  18739,100579,20070703,  198,    0

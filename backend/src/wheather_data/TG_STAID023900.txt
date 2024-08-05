@@ -18,7 +18,7 @@ This is the blended series of station JAPONS, AUSTRIA (STAID: 23900)
 Blended and updated with sources:124374 131810 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23900,124374,19530901,-9999,    9
  23900,124374,19530902,-9999,    9
  23900,124374,19530903,-9999,    9

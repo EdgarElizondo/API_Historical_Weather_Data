@@ -18,7 +18,7 @@ This is the blended series of station SETTEFONTI, ITALY (STAID: 17813)
 Blended and updated with sources:97488 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17813, 97488,20060201,   83,    0
  17813, 97488,20060202,   92,    0
  17813, 97488,20060203,   53,    0

@@ -18,7 +18,7 @@ This is the blended series of station LIPNIK (LIPKI), POLAND (STAID: 25071)
 Blended and updated with sources:139302 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25071,139302,19610101,    0,    0
  25071,139302,19610102,    2,    0
  25071,139302,19610103,   14,    0

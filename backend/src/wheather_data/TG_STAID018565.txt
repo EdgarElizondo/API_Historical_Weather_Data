@@ -18,7 +18,7 @@ This is the blended series of station E39 SUVATNET, NORWAY (STAID: 18565)
 Blended and updated with sources:99471 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18565, 99471,20130101,-9999,    9
  18565, 99471,20130102,-9999,    9
  18565, 99471,20130103,-9999,    9

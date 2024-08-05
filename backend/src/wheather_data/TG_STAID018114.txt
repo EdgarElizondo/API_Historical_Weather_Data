@@ -18,7 +18,7 @@ This is the blended series of station VALLDAL - MURI, NORWAY (STAID: 18114)
 Blended and updated with sources:9748 56741 99163 901218 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18114,  9748,19300601,-9999,    9
  18114,  9748,19300602,-9999,    9
  18114,  9748,19300603,-9999,    9

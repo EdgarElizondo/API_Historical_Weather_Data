@@ -18,7 +18,7 @@ This is the blended series of station BERLIN-ADLERSHOF, GERMANY (STAID: 11736)
 Blended and updated with sources:80888 80932 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11736, 80888,19480701,  126,    0
  11736, 80888,19480702,  160,    0
  11736, 80888,19480703,  126,    0

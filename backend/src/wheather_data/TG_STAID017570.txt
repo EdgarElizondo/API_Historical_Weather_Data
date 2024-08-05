@@ -18,7 +18,7 @@ This is the blended series of station CASONI_DI_SANTA_MARIA_DI_TARO, ITALY (STAI
 Blended and updated with sources:94712 97584 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17570, 94712,20051201,-9999,    9
  17570, 94712,20051202,-9999,    9
  17570, 94712,20051203,-9999,    9

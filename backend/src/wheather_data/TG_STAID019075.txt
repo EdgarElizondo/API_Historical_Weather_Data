@@ -18,7 +18,7 @@ This is the blended series of station TYINKRYSSET, NORWAY (STAID: 19075)
 Blended and updated with sources:100965 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19075,100965,19870701,   78,    0
  19075,100965,19870702,   72,    0
  19075,100965,19870703,   77,    0

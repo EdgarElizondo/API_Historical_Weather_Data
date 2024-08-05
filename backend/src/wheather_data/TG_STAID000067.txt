@@ -18,7 +18,7 @@ This is the blended series of station STYKKISHOLMUR, ICELAND (STAID: 67)
 Blended and updated with sources:257 904013 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     67,   257,19490101,  -82,    0
     67,   257,19490102, -100,    0
     67,   257,19490103,  -88,    0

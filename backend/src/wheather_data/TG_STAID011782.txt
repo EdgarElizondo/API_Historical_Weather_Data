@@ -18,7 +18,7 @@ This is the blended series of station KAUFBEUREN-OBERBEUREN, GERMANY (STAID: 117
 Blended and updated with sources:81394 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11782, 81394,20160501,   56,    0
  11782, 81394,20160502,   81,    0
  11782, 81394,20160503,   73,    0

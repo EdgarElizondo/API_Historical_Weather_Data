@@ -18,7 +18,7 @@ This is the blended series of station JELOEY, NORWAY (STAID: 18901)
 Blended and updated with sources:99294 99566 100768 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18901,100768,19600801,  199,    0
  18901,100768,19600802,  203,    0
  18901,100768,19600803,  192,    0

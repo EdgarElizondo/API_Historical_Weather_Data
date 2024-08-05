@@ -18,7 +18,7 @@ This is the blended series of station SANTO_STEFANO_DAVETO, ITALY (STAID: 17796)
 Blended and updated with sources:97320 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17796, 97320,20051201,-9999,    9
  17796, 97320,20051202,-9999,    9
  17796, 97320,20051203,-9999,    9

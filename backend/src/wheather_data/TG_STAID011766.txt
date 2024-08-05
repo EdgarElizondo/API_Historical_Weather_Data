@@ -18,7 +18,7 @@ This is the blended series of station OSTERBURG, GERMANY (STAID: 11766)
 Blended and updated with sources:81218 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11766, 81218,19560101,   15,    0
  11766, 81218,19560102,   13,    0
  11766, 81218,19560103,  -17,    0

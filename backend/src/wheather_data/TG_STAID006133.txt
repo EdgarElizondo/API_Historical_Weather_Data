@@ -18,7 +18,7 @@ This is the blended series of station TYLLINGE_D, SWEDEN (STAID: 6133)
 Blended and updated with sources:64638 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6133, 64638,19610101,   -6,    0
   6133, 64638,19610102,    0,    0
   6133, 64638,19610103,    9,    0

@@ -18,7 +18,7 @@ This is the blended series of station GUESTROW-SCHABERNACK, GERMANY (STAID: 1175
 Blended and updated with sources:81075 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11753, 81075,19470101,  -23,    0
  11753, 81075,19470102,  -27,    0
  11753, 81075,19470103,  -49,    0

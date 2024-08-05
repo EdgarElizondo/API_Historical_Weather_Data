@@ -18,7 +18,7 @@ This is the blended series of station ZABKOWICE, POLAND (STAID: 24961)
 Blended and updated with sources:137982 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24961,137982,19610101,  -11,    0
  24961,137982,19610102,  -12,    0
  24961,137982,19610103,    5,    0

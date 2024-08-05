@@ -18,7 +18,7 @@ This is the blended series of station ORIS, SPAIN (STAID: 11062)
 Blended and updated with sources:56418 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11062, 56418,20080101,  -14,    0
  11062, 56418,20080102,   -3,    0
  11062, 56418,20080103,   31,    0

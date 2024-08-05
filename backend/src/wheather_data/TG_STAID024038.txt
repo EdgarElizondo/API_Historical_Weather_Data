@@ -18,7 +18,7 @@ This is the blended series of station MUENCHENDORF, AUSTRIA (STAID: 24038)
 Blended and updated with sources:126103 126142 126701 132174 135450 911387 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24038,126701,19610601,  175,    0
  24038,126701,19610602,  175,    0
  24038,126701,19610603,  140,    0

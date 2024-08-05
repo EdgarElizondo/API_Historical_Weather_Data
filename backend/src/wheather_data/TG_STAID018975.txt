@@ -18,7 +18,7 @@ This is the blended series of station MAJAVATN II, NORWAY (STAID: 18975)
 Blended and updated with sources:99400 100672 100849 901132 901134 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18975,100849,19620701,   98,    0
  18975,100849,19620702,  110,    0
  18975,100849,19620703,  121,    0

@@ -18,7 +18,7 @@ This is the blended series of station LIT, SWEDEN (STAID: 6638)
 Blended and updated with sources:68865 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6638, 68865,19520101,   22,    0
   6638, 68865,19520102,  -91,    0
   6638, 68865,19520103,  -29,    0

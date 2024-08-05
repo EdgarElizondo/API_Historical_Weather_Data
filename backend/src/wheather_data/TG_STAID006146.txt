@@ -18,7 +18,7 @@ This is the blended series of station KOBERG, SWEDEN (STAID: 6146)
 Blended and updated with sources:64757 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6146, 64757,19450101,  -50,    0
   6146, 64757,19450102,   45,    1
   6146, 64757,19450103,   25,    1

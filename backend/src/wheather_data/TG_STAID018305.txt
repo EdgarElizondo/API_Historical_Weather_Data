@@ -18,7 +18,7 @@ This is the blended series of station LILLEHAMMER - NORDSETERVEGEN HOEYDEBASSE, 
 Blended and updated with sources:99670 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18305, 99670,20180507,  110,    0
  18305, 99670,20180508,  130,    0
  18305, 99670,20180509,  147,    0

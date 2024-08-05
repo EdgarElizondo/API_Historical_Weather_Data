@@ -18,7 +18,7 @@ This is the blended series of station PALKEM_M, SWEDEN (STAID: 5814)
 Blended and updated with sources:37280 37283 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5814, 37283,19610101,  -71,    0
   5814, 37283,19610102,  -82,    0
   5814, 37283,19610103,  -79,    0

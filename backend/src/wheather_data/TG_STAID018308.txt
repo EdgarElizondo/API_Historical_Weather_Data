@@ -18,7 +18,7 @@ This is the blended series of station SKOTSELV, NORWAY (STAID: 18308)
 Blended and updated with sources:99647 99681 100657 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18308, 99647,20130101,  -25,    0
  18308, 99647,20130102,  -74,    0
  18308, 99647,20130103,  -20,    0

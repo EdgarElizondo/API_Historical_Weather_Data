@@ -18,7 +18,7 @@ This is the blended series of station BIRZAI, LITHUANIA (STAID: 1009)
 Blended and updated with sources:5274 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1009,  5274,19590101,   21,    1
   1009,  5274,19590102,   20,    1
   1009,  5274,19590103,   17,    1

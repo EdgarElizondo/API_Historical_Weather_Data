@@ -18,7 +18,7 @@ This is the blended series of station RV13 BOTNEN, NORWAY (STAID: 18450)
 Blended and updated with sources:99256 118194 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18450, 99256,20181201,-9999,    9
  18450, 99256,20181202,-9999,    9
  18450, 99256,20181203,-9999,    9

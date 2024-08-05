@@ -18,7 +18,7 @@ This is the blended series of station ESKILSTUNA, SWEDEN (STAID: 5471)
 Blended and updated with sources:36131 36155 902449 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5471, 36155,19610101,   -3,    0
   5471, 36155,19610102,   -1,    0
   5471, 36155,19610103,   13,    0

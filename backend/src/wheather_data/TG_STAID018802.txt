@@ -18,7 +18,7 @@ This is the blended series of station SANDNESSJOEEN - BJOERKLI, NORWAY (STAID: 1
 Blended and updated with sources:100651 100958 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18802,100958,19640701,   81,    0
  18802,100958,19640702,   96,    0
  18802,100958,19640703,   97,    0

@@ -18,7 +18,7 @@ This is the blended series of station GREIZ, GERMANY (STAID: 11749)
 Blended and updated with sources:81031 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11749, 81031,19470101,  -44,    0
  11749, 81031,19470102,  -16,    0
  11749, 81031,19470103,  -35,    0

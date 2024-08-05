@@ -18,7 +18,7 @@ This is the blended series of station EMMENDINGEN-MUNDINGEN, GERMANY (STAID: 405
 Blended and updated with sources:21752 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4055, 21752,19751101,  120,    0
   4055, 21752,19751102,   94,    0
   4055, 21752,19751103,   82,    0

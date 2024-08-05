@@ -18,7 +18,7 @@ This is the blended series of station RISSA III, NORWAY (STAID: 18067)
 Blended and updated with sources:99640 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18067, 99640,20130213,  -32,    0
  18067, 99640,20130214,  -12,    0
  18067, 99640,20130215,  -13,    0

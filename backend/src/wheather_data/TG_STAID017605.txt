@@ -18,7 +18,7 @@ This is the blended series of station CUSERCOLI, ITALY (STAID: 17605)
 Blended and updated with sources:95112 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17605, 95112,20051201,-9999,    9
  17605, 95112,20051202,-9999,    9
  17605, 95112,20051203,-9999,    9

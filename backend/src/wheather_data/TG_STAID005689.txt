@@ -18,7 +18,7 @@ This is the blended series of station SIKASKALEN, SWEDEN (STAID: 5689)
 Blended and updated with sources:36860 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5689, 36860,19610101,  -52,    0
   5689, 36860,19610102,  -57,    0
   5689, 36860,19610103,  -48,    0

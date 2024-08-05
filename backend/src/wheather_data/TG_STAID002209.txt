@@ -18,7 +18,7 @@ This is the blended series of station AJACCIO, FRANCE (STAID: 2209)
 Blended and updated with sources:7227 907761 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2209,  7227,19491001,  208,    0
   2209,  7227,19491002,  200,    0
   2209,  7227,19491003,  214,    0

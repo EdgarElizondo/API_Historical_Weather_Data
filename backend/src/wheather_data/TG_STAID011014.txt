@@ -18,7 +18,7 @@ This is the blended series of station BARCELONA-EL RAVAL, SPAIN (STAID: 11014)
 Blended and updated with sources:55986 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11014, 55986,20080101,   91,    0
  11014, 55986,20080102,   90,    0
  11014, 55986,20080103,   96,    0

@@ -18,7 +18,7 @@ This is the blended series of station STUTTGART-SCHNARRENBERG, GERMANY (STAID: 3
 Blended and updated with sources:15773 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3506, 15773,19580101,   40,    0
   3506, 15773,19580102,   13,    0
   3506, 15773,19580103,   -8,    0

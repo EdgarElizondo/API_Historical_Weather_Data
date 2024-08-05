@@ -18,7 +18,7 @@ This is the blended series of station E6 TUSSVIKA, NORWAY (STAID: 18700)
 Blended and updated with sources:99711 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18700, 99711,20150501,-9999,    9
  18700, 99711,20150502,-9999,    9
  18700, 99711,20150503,-9999,    9

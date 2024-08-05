@@ -18,7 +18,7 @@ This is the blended series of station REMNINGSTORP, SWEDEN (STAID: 5377)
 Blended and updated with sources:35813 35843 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5377, 35843,19610101,   -9,    0
   5377, 35843,19610102,    3,    0
   5377, 35843,19610103,    9,    0

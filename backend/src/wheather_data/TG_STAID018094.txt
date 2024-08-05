@@ -18,7 +18,7 @@ This is the blended series of station MJOELFJELL UH, NORWAY (STAID: 18094)
 Blended and updated with sources:99097 901344 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18094, 99097,19990601,   60,    0
  18094, 99097,19990602,   72,    0
  18094, 99097,19990603,   82,    0

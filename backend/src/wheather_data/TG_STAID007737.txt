@@ -18,7 +18,7 @@ This is the blended series of station ROVANIEMEN MLK PISAVAARA-1, FINLAND (STAID
 Blended and updated with sources:45915 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7737, 45915,19630701,  131,    0
   7737, 45915,19630702,  139,    0
   7737, 45915,19630703,  109,    0

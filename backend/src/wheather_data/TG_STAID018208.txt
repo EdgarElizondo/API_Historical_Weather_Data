@@ -18,7 +18,7 @@ This is the blended series of station GROTLI III, NORWAY (STAID: 18208)
 Blended and updated with sources:99415 901361 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18208, 99415,20081001,    7,    0
  18208, 99415,20081002,   -7,    0
  18208, 99415,20081003,   14,    0

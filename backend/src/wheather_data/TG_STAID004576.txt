@@ -18,7 +18,7 @@ This is the blended series of station ROTTWEIL, GERMANY (STAID: 4576)
 Blended and updated with sources:28004 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4576, 28004,19570201,   74,    0
   4576, 28004,19570202,   66,    0
   4576, 28004,19570203,   53,    0

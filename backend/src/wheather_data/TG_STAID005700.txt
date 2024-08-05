@@ -18,7 +18,7 @@ This is the blended series of station UMEA, SWEDEN (STAID: 5700)
 Blended and updated with sources:36893 36899 36902 902286 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5700, 36902,18581101,   40,    1
   5700, 36902,18581102,   53,    1
   5700, 36902,18581103,   48,    1

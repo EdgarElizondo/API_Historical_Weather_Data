@@ -18,7 +18,7 @@ This is the blended series of station RA-IZ, RUSSIAN FEDERATION (STAID: 8071)
 Blended and updated with sources:48453 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8071, 48453,19390101, -136,    0
   8071, 48453,19390102, -142,    0
   8071, 48453,19390103, -218,    0

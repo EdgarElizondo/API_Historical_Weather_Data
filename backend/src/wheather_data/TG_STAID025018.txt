@@ -18,7 +18,7 @@ This is the blended series of station JARCZEW, POLAND (STAID: 25018)
 Blended and updated with sources:138666 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25018,138666,19750101,   -7,    0
  25018,138666,19750102,   12,    0
  25018,138666,19750103,   24,    0

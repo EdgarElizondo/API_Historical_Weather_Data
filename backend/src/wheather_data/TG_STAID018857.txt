@@ -18,7 +18,7 @@ This is the blended series of station SELBU - BOGSTAD, NORWAY (STAID: 18857)
 Blended and updated with sources:99121 100715 100907 901273 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18857,100907,19570101, -102,    0
  18857,100907,19570102, -127,    0
  18857,100907,19570103, -140,    0

@@ -18,7 +18,7 @@ This is the blended series of station TIEFENORT, GERMANY (STAID: 4683)
 Blended and updated with sources:29288 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4683, 29288,19680301,   -5,    0
   4683, 29288,19680302,  -11,    0
   4683, 29288,19680303,  -34,    0

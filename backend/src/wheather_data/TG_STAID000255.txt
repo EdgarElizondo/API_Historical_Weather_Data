@@ -18,7 +18,7 @@ This is the blended series of station POLTAVA, UKRAINE (STAID: 255)
 Blended and updated with sources:801 933506 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    255,   801,19000101,  -79,    0
    255,   801,19000102,  -42,    0
    255,   801,19000103,   -9,    0

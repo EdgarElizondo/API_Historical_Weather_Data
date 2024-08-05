@@ -18,7 +18,7 @@ This is the blended series of station SAENTIS, SWITZERLAND (STAID: 243)
 Blended and updated with sources:753 906680 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    243,   753,19010101,  -96,    0
    243,   753,19010102, -129,    0
    243,   753,19010103, -195,    0

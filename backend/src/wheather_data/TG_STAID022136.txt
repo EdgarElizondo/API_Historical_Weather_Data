@@ -18,7 +18,7 @@ This is the blended series of station WACKEN, GERMANY (STAID: 22136)
 Blended and updated with sources:120204 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22136,120204,20200901,  146,    0
  22136,120204,20200902,  154,    0
  22136,120204,20200903,  139,    0

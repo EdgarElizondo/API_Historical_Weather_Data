@@ -18,7 +18,7 @@ This is the blended series of station STAVSJO, SWEDEN (STAID: 5408)
 Blended and updated with sources:35936 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5408, 35936,19930701,  180,    0
   5408, 35936,19930702,  165,    0
   5408, 35936,19930703,  158,    0

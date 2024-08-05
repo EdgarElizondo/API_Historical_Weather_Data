@@ -18,7 +18,7 @@ This is the blended series of station KLOTEN, SWEDEN (STAID: 5514)
 Blended and updated with sources:36290 36293 902431 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5514, 36290,19780601,  154,    0
   5514, 36290,19780602,  160,    0
   5514, 36290,19780603,  186,    0

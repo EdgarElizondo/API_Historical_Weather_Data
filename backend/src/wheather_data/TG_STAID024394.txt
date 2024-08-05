@@ -18,7 +18,7 @@ This is the blended series of station WOLKERSDORF, AUSTRIA (STAID: 24394)
 Blended and updated with sources:130731 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24394,130731,20080723,    0,    1
  24394,130731,20080724,  172,    0
  24394,130731,20080725,  206,    0

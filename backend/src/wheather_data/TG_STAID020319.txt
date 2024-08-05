@@ -18,7 +18,7 @@ This is the blended series of station SVARTTJOERNBEKKEN, NORWAY (STAID: 20319)
 Blended and updated with sources:108981 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20319,108981,20191024,   79,    0
  20319,108981,20191025,   27,    0
  20319,108981,20191026,  -26,    0

@@ -18,7 +18,7 @@ This is the blended series of station WEISEN BEI WITTENBERGE, GERMANY (STAID: 11
 Blended and updated with sources:81306 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11774, 81306,19470101,  -32,    0
  11774, 81306,19470102,  -32,    0
  11774, 81306,19470103,  -49,    0

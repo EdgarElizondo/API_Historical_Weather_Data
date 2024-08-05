@@ -18,7 +18,7 @@ This is the blended series of station WEIMAR, GERMANY (STAID: 4743)
 Blended and updated with sources:30008 910555 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4743, 30008,19500101,-9999,    9
   4743, 30008,19500102,-9999,    9
   4743, 30008,19500103,-9999,    9

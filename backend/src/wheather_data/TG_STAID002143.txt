@@ -18,7 +18,7 @@ This is the blended series of station BELMULLET, IRELAND (STAID: 2143)
 Blended and updated with sources:7543 903976 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2143,  7543,19560901,-9999,    9
   2143,  7543,19560902,-9999,    9
   2143,  7543,19560903,-9999,    9

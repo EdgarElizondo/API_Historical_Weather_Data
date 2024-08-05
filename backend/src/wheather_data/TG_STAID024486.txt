@@ -18,7 +18,7 @@ This is the blended series of station REICHENAU/MUEHLKREIS, AUSTRIA (STAID: 2448
 Blended and updated with sources:125089 131927 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24486,125089,19721001,   51,    0
  24486,125089,19721002,   54,    0
  24486,125089,19721003,   37,    0

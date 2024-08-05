@@ -18,7 +18,7 @@ This is the blended series of station GRAZ-MESSENDORFBERG, AUSTRIA (STAID: 24264
 Blended and updated with sources:129054 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24264,129054,19721201,   39,    0
  24264,129054,19721202,   51,    0
  24264,129054,19721203,   65,    0

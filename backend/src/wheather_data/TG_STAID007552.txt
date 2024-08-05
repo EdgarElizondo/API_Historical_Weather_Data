@@ -18,7 +18,7 @@ This is the blended series of station LIPERI LENTOASEMA VERTAILUMITTAUS, FINLAND
 Blended and updated with sources:44875 44960 902929 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7552, 44875,19590101, -101,    0
   7552, 44875,19590102, -107,    0
   7552, 44875,19590103,  -80,    0

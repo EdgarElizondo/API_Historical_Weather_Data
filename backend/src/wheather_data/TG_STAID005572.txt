@@ -18,7 +18,7 @@ This is the blended series of station SILJANSFORS, SWEDEN (STAID: 5572)
 Blended and updated with sources:36476 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5572, 36476,19211101,   38,    1
   5572, 36476,19211102,    2,    1
   5572, 36476,19211103,  -49,    1

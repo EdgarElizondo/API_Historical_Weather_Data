@@ -18,7 +18,7 @@ This is the blended series of station SKALAN, SWEDEN (STAID: 5642)
 Blended and updated with sources:36704 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5642, 36704,19621201,  -40,    0
   5642, 36704,19621202,   21,    0
   5642, 36704,19621203,   45,    0

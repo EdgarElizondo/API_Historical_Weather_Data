@@ -18,7 +18,7 @@ This is the blended series of station KASPARUS, POLAND (STAID: 25083)
 Blended and updated with sources:139446 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25083,139446,20080201,   32,    0
  25083,139446,20080202,   23,    0
  25083,139446,20080203,   -8,    0

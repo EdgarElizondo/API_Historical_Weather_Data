@@ -18,7 +18,7 @@ This is the blended series of station SVIYAGINO, RUSSIAN FEDERATION (STAID: 8469
 Blended and updated with sources:51503 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8469, 51503,19380101, -224,    0
   8469, 51503,19380102, -219,    0
   8469, 51503,19380103, -234,    0

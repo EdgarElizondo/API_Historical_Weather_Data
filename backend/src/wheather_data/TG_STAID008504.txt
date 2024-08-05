@@ -18,7 +18,7 @@ This is the blended series of station E'SSO, RUSSIAN FEDERATION (STAID: 8504)
 Blended and updated with sources:51678 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8504, 51678,19410101,-9999,    9
   8504, 51678,19410102,-9999,    9
   8504, 51678,19410103,-9999,    9

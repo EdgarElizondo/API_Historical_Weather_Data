@@ -18,7 +18,7 @@ This is the blended series of station FV472 SANDHORNOEYA, NORWAY (STAID: 18512)
 Blended and updated with sources:99371 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18512, 99371,20151101,-9999,    9
  18512, 99371,20151102,-9999,    9
  18512, 99371,20151103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station LEUSHI, RUSSIAN FEDERATION (STAID: 3081)
 Blended and updated with sources:17033 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3081, 17033,19360101,  -56,    0
   3081, 17033,19360102,  -50,    0
   3081, 17033,19360103,  -64,    0

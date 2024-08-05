@@ -18,7 +18,7 @@ This is the blended series of station DIGA_DI_BRASIMONE, ITALY (STAID: 17608)
 Blended and updated with sources:95152 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17608, 95152,20180401,-9999,    9
  17608, 95152,20180402,-9999,    9
  17608, 95152,20180403,-9999,    9

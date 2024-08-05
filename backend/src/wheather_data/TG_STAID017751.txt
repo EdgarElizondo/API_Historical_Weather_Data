@@ -18,7 +18,7 @@ This is the blended series of station RAVENNA_LE_BASSETTE, ITALY (STAID: 17751)
 Blended and updated with sources:95816 96632 96840 120992 916145 916146 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17751,916145,20051201,   41,    0
  17751,916145,20051202,   41,    0
  17751,916145,20051203,  102,    0

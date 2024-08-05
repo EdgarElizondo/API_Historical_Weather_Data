@@ -18,7 +18,7 @@ This is the blended series of station BLANKASTROM, SWEDEN (STAID: 5263)
 Blended and updated with sources:35450 35453 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5263, 35453,19450101,  -32,    0
   5263, 35453,19450102,   13,    0
   5263, 35453,19450103,   51,    0

@@ -18,7 +18,7 @@ This is the blended series of station STRAUMSNES, NORWAY (STAID: 18290)
 Blended and updated with sources:99636 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18290, 99636,20110101,   -6,    0
  18290, 99636,20110102,  -27,    0
  18290, 99636,20110103,  -86,    0

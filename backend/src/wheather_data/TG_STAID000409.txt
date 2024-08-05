@@ -18,7 +18,7 @@ This is the blended series of station URALSK, KAZAKHSTAN (STAID: 409)
 Blended and updated with sources:17537 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    409, 17537,19000101, -235,    0
    409, 17537,19000102, -231,    0
    409, 17537,19000103, -197,    0

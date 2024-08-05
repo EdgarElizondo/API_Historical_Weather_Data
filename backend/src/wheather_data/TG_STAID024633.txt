@@ -18,7 +18,7 @@ This is the blended series of station LUTZMANNSBURG, AUSTRIA (STAID: 24633)
 Blended and updated with sources:133825 134852 911393 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24633,134852,19950101,   10,    0
  24633,134852,19950102,   10,    0
  24633,134852,19950103,  -10,    0

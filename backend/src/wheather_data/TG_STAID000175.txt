@@ -18,7 +18,7 @@ This is the blended series of station CAGLIARI, ITALY (STAID: 175)
 Blended and updated with sources:859 916560 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    175,   859,19510101,   85,    0
    175,   859,19510102,  112,    0
    175,   859,19510103,  112,    0

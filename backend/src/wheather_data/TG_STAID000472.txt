@@ -18,7 +18,7 @@ This is the blended series of station ROSTOCK-WARNEMUNDE, GERMANY (STAID: 472)
 Blended and updated with sources:2214 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    472,  2214,19470101,  -21,    0
    472,  2214,19470102,  -27,    0
    472,  2214,19470103,  -48,    0

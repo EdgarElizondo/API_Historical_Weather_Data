@@ -18,7 +18,7 @@ This is the blended series of station MIKOLAJKI, POLAND (STAID: 25145)
 Blended and updated with sources:140190 912280 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25145,140190,19520101,   13,    0
  25145,140190,19520102,   21,    0
  25145,140190,19520103,   33,    0

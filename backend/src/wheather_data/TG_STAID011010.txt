@@ -18,7 +18,7 @@ This is the blended series of station ALGUAIRE, SPAIN (STAID: 11010)
 Blended and updated with sources:55950 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11010, 55950,20080101,  -25,    0
  11010, 55950,20080102,  -11,    0
  11010, 55950,20080103,   44,    0

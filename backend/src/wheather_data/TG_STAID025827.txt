@@ -18,7 +18,7 @@ This is the blended series of station KOMMAGDALEN, NORWAY (STAID: 25827)
 Blended and updated with sources:150185 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25827,150185,20220929,   52,    0
  25827,150185,20220930,   25,    0
  25827,150185,20221001,   34,    0

@@ -18,7 +18,7 @@ This is the blended series of station HOLJES, SWEDEN (STAID: 5573)
 Blended and updated with sources:36479 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5573, 36479,19600810,  143,    0
   5573, 36479,19600811,  121,    0
   5573, 36479,19600812,  120,    0

@@ -18,7 +18,7 @@ This is the blended series of station SAVE-SKALVISERED, SWEDEN (STAID: 5315)
 Blended and updated with sources:35624 35636 35639 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5315, 35624,19440101,   29,    0
   5315, 35624,19440102,   32,    0
   5315, 35624,19440103,   29,    0

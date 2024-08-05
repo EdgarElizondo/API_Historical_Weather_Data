@@ -18,7 +18,7 @@ This is the blended series of station KORSVATTNET_A, SWEDEN (STAID: 5701)
 Blended and updated with sources:36905 902221 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5701, 36905,19951101,  -31,    0
   5701, 36905,19951102,  -54,    0
   5701, 36905,19951103,  -83,    0

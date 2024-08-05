@@ -18,7 +18,7 @@ This is the blended series of station WAHLEN, GERMANY (STAID: 4720)
 Blended and updated with sources:29732 32228 910535 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4720, 29732,19980101,-9999,    9
   4720, 29732,19980102,-9999,    9
   4720, 29732,19980103,-9999,    9

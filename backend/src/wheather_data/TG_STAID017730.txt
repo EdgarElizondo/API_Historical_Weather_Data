@@ -18,7 +18,7 @@ This is the blended series of station POMPOSA-VOLANO, ITALY (STAID: 17730)
 Blended and updated with sources:96600 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17730, 96600,20130301,-9999,    9
  17730, 96600,20130302,-9999,    9
  17730, 96600,20130303,-9999,    9

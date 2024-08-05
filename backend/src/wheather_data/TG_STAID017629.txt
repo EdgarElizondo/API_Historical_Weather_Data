@@ -18,7 +18,7 @@ This is the blended series of station GALLO, ITALY (STAID: 17629)
 Blended and updated with sources:95416 96576 97056 97208 916138 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17629,916138,20051201,   52,    0
  17629,916138,20051202,   23,    0
  17629,916138,20051203,-9999,    9

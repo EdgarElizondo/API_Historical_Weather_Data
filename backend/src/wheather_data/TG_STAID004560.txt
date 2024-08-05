@@ -18,7 +18,7 @@ This is the blended series of station KREIS BIBERACH ALTHEIM, GERMANY (STAID: 45
 Blended and updated with sources:27812 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4560, 27812,20040801,  204,    0
   4560, 27812,20040802,  201,    0
   4560, 27812,20040803,  198,    0

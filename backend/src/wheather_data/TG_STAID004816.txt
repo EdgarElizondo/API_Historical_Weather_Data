@@ -18,7 +18,7 @@ This is the blended series of station NEUWIED, GERMANY (STAID: 4816)
 Blended and updated with sources:30884 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4816, 30884,19500101,  -18,    0
   4816, 30884,19500102,   15,    0
   4816, 30884,19500103,   52,    0

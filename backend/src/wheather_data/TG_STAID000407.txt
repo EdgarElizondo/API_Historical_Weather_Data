@@ -18,7 +18,7 @@ This is the blended series of station TURGAJ, KAZAKHSTAN (STAID: 407)
 Blended and updated with sources:17552 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    407, 17552,19000101,-9999,    9
    407, 17552,19000102,-9999,    9
    407, 17552,19000103,-9999,    9

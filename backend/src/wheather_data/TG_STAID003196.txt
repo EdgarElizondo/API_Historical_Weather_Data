@@ -18,7 +18,7 @@ This is the blended series of station OSTROV VRANGELYA, RUSSIAN FEDERATION (STAI
 Blended and updated with sources:16816 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3196, 16816,19260101,-9999,    9
   3196, 16816,19260102,-9999,    9
   3196, 16816,19260103,-9999,    9

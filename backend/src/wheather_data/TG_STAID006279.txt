@@ -18,7 +18,7 @@ This is the blended series of station SVARTSJO, SWEDEN (STAID: 6279)
 Blended and updated with sources:36110 36137 36149 36161 65926 902464 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6279, 36110,19450101,  -43,    0
   6279, 36110,19450102,   24,    0
   6279, 36110,19450103,   11,    0

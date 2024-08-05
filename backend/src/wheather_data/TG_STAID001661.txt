@@ -18,7 +18,7 @@ This is the blended series of station SION 1, SWITZERLAND (STAID: 1661)
 Blended and updated with sources:5088 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1661,  5088,19010101,   35,    0
   1661,  5088,19010102,   28,    0
   1661,  5088,19010103,   -1,    1

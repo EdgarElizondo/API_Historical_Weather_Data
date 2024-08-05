@@ -18,7 +18,7 @@ This is the blended series of station BAD BLEIBERG, AUSTRIA (STAID: 24668)
 Blended and updated with sources:134280 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24668,134280,18960101,-9999,    9
  24668,134280,18960102,-9999,    9
  24668,134280,18960103,-9999,    9

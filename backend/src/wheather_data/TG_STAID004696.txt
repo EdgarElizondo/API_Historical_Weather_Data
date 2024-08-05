@@ -18,7 +18,7 @@ This is the blended series of station TROCHTELFINGEN, GERMANY (STAID: 4696)
 Blended and updated with sources:29444 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4696, 29444,19470101,  -52,    0
   4696, 29444,19470102,  -74,    0
   4696, 29444,19470103,  -28,    0

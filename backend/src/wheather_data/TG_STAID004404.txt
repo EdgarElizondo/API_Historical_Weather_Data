@@ -18,7 +18,7 @@ This is the blended series of station MENDIG, GERMANY (STAID: 4404)
 Blended and updated with sources:25940 910514 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4404, 25940,19841101,-9999,    9
   4404, 25940,19841102,-9999,    9
   4404, 25940,19841103,-9999,    9

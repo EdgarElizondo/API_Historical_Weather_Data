@@ -18,7 +18,7 @@ This is the blended series of station ANGLES, SPAIN (STAID: 11012)
 Blended and updated with sources:20075 55968 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11012, 20075,19730101,   92,    0
  11012, 20075,19730102,   98,    0
  11012, 20075,19730103,   54,    0

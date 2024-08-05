@@ -18,7 +18,7 @@ This is the blended series of station HUNGE_A, SWEDEN (STAID: 5645)
 Blended and updated with sources:36710 36713 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5645, 36710,19610101,  -38,    0
   5645, 36710,19610102,  -46,    0
   5645, 36710,19610103,  -41,    0

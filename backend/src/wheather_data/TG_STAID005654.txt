@@ -18,7 +18,7 @@ This is the blended series of station BISPGARDEN 1, SWEDEN (STAID: 5654)
 Blended and updated with sources:36737 36740 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5654, 36740,19460401,   14,    0
   5654, 36740,19460402,   39,    0
   5654, 36740,19460403,   61,    0

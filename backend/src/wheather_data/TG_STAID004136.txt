@@ -18,7 +18,7 @@ This is the blended series of station TRAUNSTEIN-GEISSING, GERMANY (STAID: 4136)
 Blended and updated with sources:22724 29372 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4136, 29372,19360101,   31,    0
   4136, 29372,19360102,   36,    0
   4136, 29372,19360103,   62,    0

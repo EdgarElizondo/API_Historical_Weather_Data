@@ -18,7 +18,7 @@ This is the blended series of station NURIA, SPAIN (STAID: 11058)
 Blended and updated with sources:56382 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11058, 56382,20080101,   12,    0
  11058, 56382,20080102,   15,    0
  11058, 56382,20080103,  -24,    0

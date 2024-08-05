@@ -18,7 +18,7 @@ This is the blended series of station ESCHAU-HOBBACH, GERMANY (STAID: 4068)
 Blended and updated with sources:21908 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4068, 21908,19911201,   23,    0
   4068, 21908,19911202,  -10,    0
   4068, 21908,19911203,   -1,    0

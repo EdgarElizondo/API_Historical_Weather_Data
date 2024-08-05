@@ -18,7 +18,7 @@ This is the blended series of station LILLEHAMMER - VARSAETERGRENDA, NORWAY (STA
 Blended and updated with sources:99220 100869 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18138,100869,19931001,   31,    1
  18138,100869,19931002,   33,    1
  18138,100869,19931003,   37,    1

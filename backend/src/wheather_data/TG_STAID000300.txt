@@ -18,7 +18,7 @@ This is the blended series of station ILULISSAT (JAKOBSHAVN), GREENLAND [DENMARK
 Blended and updated with sources:6705 6707 47007 71544 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    300,  6707,18761201,-9999,    9
    300,  6707,18761202,-9999,    9
    300,  6707,18761203,-9999,    9

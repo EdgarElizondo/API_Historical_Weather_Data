@@ -18,7 +18,7 @@ This is the blended series of station TANDADALEN, SWEDEN (STAID: 5586)
 Blended and updated with sources:36512 36521 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5586, 36512,19650101,  -21,    0
   5586, 36512,19650102,  -43,    0
   5586, 36512,19650103,  -86,    0

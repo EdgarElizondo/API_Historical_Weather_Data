@@ -18,7 +18,7 @@ This is the blended series of station GUSTAF_DALEN_A, SWEDEN (STAID: 5392)
 Blended and updated with sources:35888 902583 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5392, 35888,19760201,-9999,    9
   5392, 35888,19760202,-9999,    9
   5392, 35888,19760203,-9999,    9

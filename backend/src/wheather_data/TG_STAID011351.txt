@@ -18,7 +18,7 @@ This is the blended series of station JOGEVA, ESTONIA (STAID: 11351)
 Blended and updated with sources:75006 926144 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11351, 75006,19220201, -136,    0
  11351, 75006,19220202, -133,    0
  11351, 75006,19220203, -167,    0

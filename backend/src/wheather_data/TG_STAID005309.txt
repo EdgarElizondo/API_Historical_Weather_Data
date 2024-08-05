@@ -18,7 +18,7 @@ This is the blended series of station PRASTKULLA, SWEDEN (STAID: 5309)
 Blended and updated with sources:35609 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5309, 35609,19450101,  -56,    0
   5309, 35609,19450102,   21,    0
   5309, 35609,19450103,   26,    0

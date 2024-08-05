@@ -18,7 +18,7 @@ This is the blended series of station VANTAA TIKKURILA, FINLAND (STAID: 7026)
 Blended and updated with sources:42109 42224 42239 42249 42254 42294 42319 902975 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7026, 42254,19590101,    3,    0
   7026, 42254,19590102,    5,    0
   7026, 42254,19590103,   12,    0

@@ -18,7 +18,7 @@ This is the blended series of station SANDVIG, DENMARK (STAID: 118)
 Blended and updated with sources:830 835 836 906193 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    118,   836,18740401,   52,    0
    118,   836,18740402,   57,    0
    118,   836,18740403,   86,    0

@@ -18,7 +18,7 @@ This is the blended series of station ASKER BRANNSTASJON, NORWAY (STAID: 19116)
 Blended and updated with sources:101019 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19116,101019,19781201,  -55,    0
  19116,101019,19781202,  -33,    0
  19116,101019,19781203,  -17,    0

@@ -18,7 +18,7 @@ This is the blended series of station BOL'SHOJ USHKANIJ OSTROV, RUSSIAN FEDERATI
 Blended and updated with sources:50853 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8339, 50853,19500101,-9999,    9
   8339, 50853,19500102,-9999,    9
   8339, 50853,19500103,-9999,    9

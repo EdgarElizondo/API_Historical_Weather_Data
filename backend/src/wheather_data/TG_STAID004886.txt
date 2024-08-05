@@ -18,7 +18,7 @@ This is the blended series of station BREMERHAVEN-SPECKENBUTTEL, GERMANY (STAID:
 Blended and updated with sources:31712 31724 910129 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4886, 31724,19480101,    2,    0
   4886, 31724,19480102,   71,    0
   4886, 31724,19480103,   78,    0

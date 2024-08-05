@@ -18,7 +18,7 @@ This is the blended series of station KEMIONSAARI LOVBOLE, FINLAND (STAID: 6974)
 Blended and updated with sources:41978 41983 42013 902906 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6974, 41978,19730101,   22,    0
   6974, 41978,19730102,   21,    1
   6974, 41978,19730103,   24,    0

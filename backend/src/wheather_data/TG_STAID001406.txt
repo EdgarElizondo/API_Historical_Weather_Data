@@ -18,7 +18,7 @@ This is the blended series of station TARIFA, SPAIN (STAID: 1406)
 Blended and updated with sources:19958 908458 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1406, 19958,19450501,  168,    0
   1406, 19958,19450502,  170,    0
   1406, 19958,19450503,  160,    0

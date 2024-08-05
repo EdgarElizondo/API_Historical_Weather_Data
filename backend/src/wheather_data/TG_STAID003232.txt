@@ -18,7 +18,7 @@ This is the blended series of station IRTYSHSK, KAZAKHSTAN (STAID: 3232)
 Blended and updated with sources:17437 929807 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3232, 17437,19360101, -114,    0
   3232, 17437,19360102,  -96,    0
   3232, 17437,19360103, -121,    0

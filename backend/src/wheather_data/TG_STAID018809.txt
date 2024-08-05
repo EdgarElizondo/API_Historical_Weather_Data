@@ -18,7 +18,7 @@ This is the blended series of station VIVASSDALEN , NORWAY (STAID: 18809)
 Blended and updated with sources:100659 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18809,100659,20121201,-9999,    9
  18809,100659,20121202,-9999,    9
  18809,100659,20121203,-9999,    9

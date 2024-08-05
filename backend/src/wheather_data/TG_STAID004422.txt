@@ -18,7 +18,7 @@ This is the blended series of station ROLLBACH, GERMANY (STAID: 4422)
 Blended and updated with sources:26156 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4422, 26156,20060901,  176,    0
   4422, 26156,20060902,  187,    0
   4422, 26156,20060903,  201,    0

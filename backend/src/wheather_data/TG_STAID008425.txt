@@ -18,7 +18,7 @@ This is the blended series of station MAZANOVO, RUSSIAN FEDERATION (STAID: 8425)
 Blended and updated with sources:51283 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8425, 51283,19330101,-9999,    9
   8425, 51283,19330102,-9999,    9
   8425, 51283,19330103,-9999,    9

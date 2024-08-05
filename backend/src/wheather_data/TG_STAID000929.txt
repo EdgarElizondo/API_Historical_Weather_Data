@@ -18,7 +18,7 @@ This is the blended series of station KRAKOW, POLAND (STAID: 929)
 Blended and updated with sources:8886 140046 912566 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    929,140046,19510101,  -51,    0
    929,140046,19510102,  -30,    0
    929,140046,19510103,   27,    0

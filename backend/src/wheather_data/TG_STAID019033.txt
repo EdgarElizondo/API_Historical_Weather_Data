@@ -18,7 +18,7 @@ This is the blended series of station GRIMSTAD, NORWAY (STAID: 19033)
 Blended and updated with sources:9664 33016 100917 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19033,  9664,19110101,   34,    0
  19033,  9664,19110102,  -12,    0
  19033,  9664,19110103,   -5,    0

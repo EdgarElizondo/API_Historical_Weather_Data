@@ -18,7 +18,7 @@ This is the blended series of station MEZZANO_NORD-OVEST, ITALY (STAID: 17678)
 Blended and updated with sources:94176 95848 95888 95928 96328 96992 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17678, 96328,20051201,-9999,    9
  17678, 96328,20051202,-9999,    9
  17678, 96328,20051203,-9999,    9

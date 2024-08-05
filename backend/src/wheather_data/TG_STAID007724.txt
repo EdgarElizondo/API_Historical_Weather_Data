@@ -18,7 +18,7 @@ This is the blended series of station KEMINMAA KEMI-TORNION LENTOASEMA, FINLAND 
 Blended and updated with sources:45850 45895 902864 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7724, 45850,19590101,  -79,    0
   7724, 45850,19590102,  -74,    0
   7724, 45850,19590103,  -88,    0

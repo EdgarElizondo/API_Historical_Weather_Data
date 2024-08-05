@@ -18,7 +18,7 @@ This is the blended series of station TOMPO, RUSSIAN FEDERATION (STAID: 8110)
 Blended and updated with sources:48708 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8110, 48708,19660101, -358,    0
   8110, 48708,19660102, -508,    0
   8110, 48708,19660103, -506,    0

@@ -18,7 +18,7 @@ This is the blended series of station SALETTO, ITALY (STAID: 17768)
 Blended and updated with sources:95936 97016 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17768, 95936,20051201,-9999,    9
  17768, 95936,20051202,-9999,    9
  17768, 95936,20051203,-9999,    9

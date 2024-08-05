@@ -18,7 +18,7 @@ This is the blended series of station ORNSKOLDSVIKS FLYGPLATS, SWEDEN (STAID: 56
 Blended and updated with sources:36839 902267 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5682, 36839,19620101,-9999,    9
   5682, 36839,19620102,  -91,    1
   5682, 36839,19620103,-9999,    9

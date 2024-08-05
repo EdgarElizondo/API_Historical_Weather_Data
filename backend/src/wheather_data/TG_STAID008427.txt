@@ -18,7 +18,7 @@ This is the blended series of station VERXNYAYA TOM', RUSSIAN FEDERATION (STAID:
 Blended and updated with sources:51293 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8427, 51293,19360101, -350,    0
   8427, 51293,19360102, -367,    0
   8427, 51293,19360103, -278,    0

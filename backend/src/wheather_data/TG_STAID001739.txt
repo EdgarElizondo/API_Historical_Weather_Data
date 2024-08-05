@@ -18,7 +18,7 @@ This is the blended series of station GLENTIES HATCHERY, IRELAND (STAID: 1739)
 Blended and updated with sources:7563 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1739,  7563,19610101,   56,    0
   1739,  7563,19610102,   43,    0
   1739,  7563,19610103,   24,    0

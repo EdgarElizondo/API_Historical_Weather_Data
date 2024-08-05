@@ -18,7 +18,7 @@ This is the blended series of station JAMSA HIMOS, FINLAND (STAID: 7329)
 Blended and updated with sources:43815 902729 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7329, 43815,19971101,-9999,    9
   7329, 43815,19971102,-9999,    9
   7329, 43815,19971103,-9999,    9

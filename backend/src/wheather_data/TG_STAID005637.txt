@@ -18,7 +18,7 @@ This is the blended series of station KLOVSJO, SWEDEN (STAID: 5637)
 Blended and updated with sources:36671 36686 902325 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5637, 36686,19771001,   13,    0
   5637, 36686,19771002,  -11,    0
   5637, 36686,19771003,  -28,    0

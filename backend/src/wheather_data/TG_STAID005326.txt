@@ -18,7 +18,7 @@ This is the blended series of station MOLLA, SWEDEN (STAID: 5326)
 Blended and updated with sources:35669 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5326, 35669,19790701,  128,    0
   5326, 35669,19790702,  121,    0
   5326, 35669,19790703,  140,    0

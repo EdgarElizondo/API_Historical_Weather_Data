@@ -18,7 +18,7 @@ This is the blended series of station NIS, SERBIA (STAID: 262)
 Blended and updated with sources:812 913388 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    262,   812,19410101,   62,    0
    262,   812,19410102,   75,    0
    262,   812,19410103,   34,    0

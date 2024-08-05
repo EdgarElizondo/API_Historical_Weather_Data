@@ -18,7 +18,7 @@ This is the blended series of station FICHTELBERG/OBERFRANKEN-HUTTSTADL, GERMANY
 Blended and updated with sources:22088 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4083, 22088,19480101,  -30,    0
   4083, 22088,19480102,   35,    0
   4083, 22088,19480103,   71,    0

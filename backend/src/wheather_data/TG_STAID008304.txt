@@ -18,7 +18,7 @@ This is the blended series of station MAKSIMOVO, RUSSIAN FEDERATION (STAID: 8304
 Blended and updated with sources:50678 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8304, 50678,19390101, -341,    0
   8304, 50678,19390102, -310,    0
   8304, 50678,19390103, -291,    0

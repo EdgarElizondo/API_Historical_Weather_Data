@@ -18,7 +18,7 @@ This is the blended series of station ASHGABAT, TURKMENISTAN (STAID: 3296)
 Blended and updated with sources:17722 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3296, 17722,19370101,-9999,    9
   3296, 17722,19370102,-9999,    9
   3296, 17722,19370103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station SIDOROVSK, RUSSIAN FEDERATION (STAID: 8073
 Blended and updated with sources:48463 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8073, 48463,19590101, -296,    0
   8073, 48463,19590102, -229,    0
   8073, 48463,19590103, -186,    0

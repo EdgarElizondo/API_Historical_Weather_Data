@@ -18,7 +18,7 @@ This is the blended series of station BAD LIPPSPRINGE, GERMANY (STAID: 3999)
 Blended and updated with sources:21080 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3999, 21080,19510101,    7,    0
   3999, 21080,19510102,   16,    0
   3999, 21080,19510103,    5,    0

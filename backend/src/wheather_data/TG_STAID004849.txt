@@ -18,7 +18,7 @@ This is the blended series of station AITERHOFEN, GERMANY (STAID: 4849)
 Blended and updated with sources:2390 31280 910788 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4849,  2390,19510101,  -63,    0
   4849,  2390,19510102,  -62,    0
   4849,  2390,19510103,  -34,    0

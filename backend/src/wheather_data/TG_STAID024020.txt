@@ -18,7 +18,7 @@ This is the blended series of station HAINFELD/KASBERG, AUSTRIA (STAID: 24020)
 Blended and updated with sources:125921 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24020,125921,19931201,  -29,    0
  24020,125921,19931202,  -27,    0
  24020,125921,19931203,   60,    0

@@ -18,7 +18,7 @@ This is the blended series of station TROLL A, NORWAY (STAID: 18243)
 Blended and updated with sources:99515 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18243, 99515,19980401,   54,    0
  18243, 99515,19980402,   40,    0
  18243, 99515,19980403,-9999,    9

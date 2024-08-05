@@ -18,7 +18,7 @@ This is the blended series of station SHAWBURY, UNITED KINGDOM (STAID: 1633)
 Blended and updated with sources:6936 903414 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1633,  6936,20010101,   46,    0
   1633,  6936,20010102,   73,    0
   1633,  6936,20010103,   46,    0

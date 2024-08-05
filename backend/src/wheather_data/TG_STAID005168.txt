@@ -18,7 +18,7 @@ This is the blended series of station YSTAD, SWEDEN (STAID: 5168)
 Blended and updated with sources:35141 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5168, 35141,19490101,   44,    1
   5168, 35141,19490102,   51,    1
   5168, 35141,19490103,   45,    1

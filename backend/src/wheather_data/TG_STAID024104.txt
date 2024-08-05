@@ -18,7 +18,7 @@ This is the blended series of station ADMONT/STIFT, AUSTRIA (STAID: 24104)
 Blended and updated with sources:126987 131628 131693 136074 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24104,126987,18950701,-9999,    9
  24104,126987,18950702,-9999,    9
  24104,126987,18950703,-9999,    9

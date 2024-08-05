@@ -18,7 +18,7 @@ This is the blended series of station HALLE (STADT), GERMANY (STAID: 11754)
 Blended and updated with sources:81086 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11754, 81086,18510101,   75,    0
  11754, 81086,18510102,   62,    0
  11754, 81086,18510103,   40,    0

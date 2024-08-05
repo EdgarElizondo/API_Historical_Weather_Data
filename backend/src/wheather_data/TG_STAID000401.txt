@@ -18,7 +18,7 @@ This is the blended series of station OKTYABR'SKIJ GORODOK, RUSSIAN FEDERATION (
 Blended and updated with sources:17342 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    401, 17342,18810101,    2,    0
    401, 17342,18810102,  -32,    0
    401, 17342,18810103,  -57,    0

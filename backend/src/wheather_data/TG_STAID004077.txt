@@ -18,7 +18,7 @@ This is the blended series of station EUTIN, GERMANY (STAID: 4077)
 Blended and updated with sources:22016 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4077, 22016,19360101,   70,    0
   4077, 22016,19360102,   52,    0
   4077, 22016,19360103,   46,    0

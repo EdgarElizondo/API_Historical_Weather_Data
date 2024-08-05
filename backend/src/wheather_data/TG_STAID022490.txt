@@ -18,7 +18,7 @@ This is the blended series of station USELDANGE, LUXEMBOURG (STAID: 22490)
 Blended and updated with sources:121151 121291 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22490,121151,20050101,-9999,    9
  22490,121151,20050102,   37,    0
  22490,121151,20050103,   31,    0

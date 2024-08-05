@@ -18,7 +18,7 @@ This is the blended series of station HERMAGOR, AUSTRIA (STAID: 24329)
 Blended and updated with sources:129886 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24329,129886,20080701,-9999,    9
  24329,129886,20080702,-9999,    9
  24329,129886,20080703,-9999,    9

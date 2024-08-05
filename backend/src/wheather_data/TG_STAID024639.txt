@@ -18,7 +18,7 @@ This is the blended series of station HARTBERG, AUSTRIA (STAID: 24639)
 Blended and updated with sources:133903 911390 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24639,133903,19940801,  226,    0
  24639,133903,19940802,  244,    0
  24639,133903,19940803,  237,    0

@@ -18,7 +18,7 @@ This is the blended series of station BAD RADKERSBURG, AUSTRIA (STAID: 24516)
 Blended and updated with sources:130419 132317 134319 911248 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24516,134319,19720401,  119,    0
  24516,134319,19720402,   86,    0
  24516,134319,19720403,  113,    0

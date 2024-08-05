@@ -18,7 +18,7 @@ This is the blended series of station CIECHOCINEK, POLAND (STAID: 25047)
 Blended and updated with sources:139014 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25047,139014,19601201,   60,    0
  25047,139014,19601202,   34,    0
  25047,139014,19601203,   52,    0

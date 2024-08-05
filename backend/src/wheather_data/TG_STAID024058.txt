@@ -18,7 +18,7 @@ This is the blended series of station LUNZ, AUSTRIA (STAID: 24058)
 Blended and updated with sources:126389 126415 911170 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24058,126389,19270101,   21,    0
  24058,126389,19270102,   -3,    0
  24058,126389,19270103,  -42,    0

@@ -18,7 +18,7 @@ This is the blended series of station ICHA, RUSSIAN FEDERATION (STAID: 3274)
 Blended and updated with sources:17321 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3274, 17321,19360101,  -61,    0
   3274, 17321,19360102,  -79,    0
   3274, 17321,19360103,  -56,    0

@@ -18,7 +18,7 @@ This is the blended series of station WALTERSHAUSEN, GERMANY (STAID: 4731)
 Blended and updated with sources:23660 29864 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4731, 29864,19450101,  -64,    0
   4731, 29864,19450102,  -46,    0
   4731, 29864,19450103,   -7,    0

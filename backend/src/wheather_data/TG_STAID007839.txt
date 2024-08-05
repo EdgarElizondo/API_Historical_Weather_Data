@@ -18,7 +18,7 @@ This is the blended series of station KITTILA PALLASJARVI-1, FINLAND (STAID: 783
 Blended and updated with sources:46451 46476 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7839, 46451,19590101,  -89,    0
   7839, 46451,19590102, -102,    1
   7839, 46451,19590103, -122,    0

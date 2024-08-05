@@ -18,7 +18,7 @@ This is the blended series of station WALDSASSEN, GERMANY (STAID: 4729)
 Blended and updated with sources:29840 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4729, 29840,19490101,   -2,    0
   4729, 29840,19490102,  -21,    0
   4729, 29840,19490103,    9,    0

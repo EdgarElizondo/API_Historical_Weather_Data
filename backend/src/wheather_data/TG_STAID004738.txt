@@ -18,7 +18,7 @@ This is the blended series of station WATZMANNHAUS, GERMANY (STAID: 4738)
 Blended and updated with sources:29948 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4738, 29948,19480101,  -87,    0
   4738, 29948,19480102,   -8,    0
   4738, 29948,19480103,   17,    0

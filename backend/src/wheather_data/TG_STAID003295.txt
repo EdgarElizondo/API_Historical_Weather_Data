@@ -18,7 +18,7 @@ This is the blended series of station ESENGYLY, TURKMENISTAN (STAID: 3295)
 Blended and updated with sources:17707 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3295, 17707,19260101,-9999,    9
   3295, 17707,19260102,-9999,    9
   3295, 17707,19260103,-9999,    9

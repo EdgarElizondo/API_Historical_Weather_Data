@@ -18,7 +18,7 @@ This is the blended series of station GOURDON, FRANCE (STAID: 2199)
 Blended and updated with sources:7219 907535 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2199,  7219,19610201,   76,    0
   2199,  7219,19610202,   78,    0
   2199,  7219,19610203,   68,    0

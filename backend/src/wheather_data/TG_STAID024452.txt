@@ -18,7 +18,7 @@ This is the blended series of station GMUEND, AUSTRIA (STAID: 24452)
 Blended and updated with sources:131485 131524 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24452,131524,19721101,   67,    0
  24452,131524,19721102,   71,    0
  24452,131524,19721103,   79,    0

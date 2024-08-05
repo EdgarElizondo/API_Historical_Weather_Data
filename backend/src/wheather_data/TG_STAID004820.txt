@@ -18,7 +18,7 @@ This is the blended series of station BOLTENHAGEN, GERMANY (STAID: 4820)
 Blended and updated with sources:30932 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4820, 30932,19470101,  -15,    0
   4820, 30932,19470102,  -18,    0
   4820, 30932,19470103,  -44,    0

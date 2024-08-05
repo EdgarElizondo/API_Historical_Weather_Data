@@ -18,7 +18,7 @@ This is the blended series of station LINGEN, GERMANY (STAID: 4360)
 Blended and updated with sources:25412 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4360, 25412,19510101,   17,    0
   4360, 25412,19510102,   18,    0
   4360, 25412,19510103,   13,    0

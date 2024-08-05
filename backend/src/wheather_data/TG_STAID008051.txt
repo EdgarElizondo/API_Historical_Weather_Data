@@ -18,7 +18,7 @@ This is the blended series of station SASKY'LAX, RUSSIAN FEDERATION (STAID: 8051
 Blended and updated with sources:47998 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8051, 47998,19360101, -339,    0
   8051, 47998,19360102, -385,    0
   8051, 47998,19360103, -363,    0

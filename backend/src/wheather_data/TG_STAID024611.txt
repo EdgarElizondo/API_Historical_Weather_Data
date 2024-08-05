@@ -18,7 +18,7 @@ This is the blended series of station PRUTZ, AUSTRIA (STAID: 24611)
 Blended and updated with sources:133539 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24611,133539,19670701,    0,    0
  24611,133539,19670702,    0,    0
  24611,133539,19670703,  160,    0

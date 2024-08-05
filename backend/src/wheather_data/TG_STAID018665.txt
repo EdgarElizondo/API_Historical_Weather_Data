@@ -18,7 +18,7 @@ This is the blended series of station MJOENDALEN - ASEN, NORWAY (STAID: 18665)
 Blended and updated with sources:99653 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18665, 99653,20171101,-9999,    9
  18665, 99653,20171102,   60,    1
  18665, 99653,20171103,   30,    1

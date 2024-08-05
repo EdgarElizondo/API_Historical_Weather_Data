@@ -18,7 +18,7 @@ This is the blended series of station OVIEDO, SPAIN (STAID: 3913)
 Blended and updated with sources:19823 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3913, 19823,19721201,   84,    0
   3913, 19823,19721202,   83,    0
   3913, 19823,19721203,   84,    0

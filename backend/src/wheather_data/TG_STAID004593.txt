@@ -18,7 +18,7 @@ This is the blended series of station SANDBERG, GERMANY (STAID: 4593)
 Blended and updated with sources:28208 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4593, 28208,19650101,   22,    0
   4593, 28208,19650102,    2,    0
   4593, 28208,19650103,   -8,    0

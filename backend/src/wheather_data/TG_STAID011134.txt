@@ -18,7 +18,7 @@ This is the blended series of station NARVIK II, NORWAY (STAID: 11134)
 Blended and updated with sources:33940 57134 99345 99398 100805 901193 901194 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11134, 57134,19530101,-9999,    9
  11134, 57134,19530102,-9999,    9
  11134, 57134,19530103,-9999,    9

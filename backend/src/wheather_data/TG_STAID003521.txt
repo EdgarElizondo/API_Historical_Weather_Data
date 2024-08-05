@@ -18,7 +18,7 @@ This is the blended series of station AMOT A, SWEDEN (STAID: 3521)
 Blended and updated with sources:36488 36491 902440 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3521, 36491,19610101,  -21,    0
   3521, 36491,19610102,  -46,    0
   3521, 36491,19610103,  -18,    0

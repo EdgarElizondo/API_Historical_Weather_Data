@@ -18,7 +18,7 @@ This is the blended series of station RANSHOFEN, AUSTRIA (STAID: 24399)
 Blended and updated with sources:28856 125362 130796 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24399,130796,19610101,  -10,    0
  24399,130796,19610102,   -3,    0
  24399,130796,19610103,  -26,    0

@@ -18,7 +18,7 @@ This is the blended series of station GLOMFJORD, NORWAY (STAID: 188)
 Blended and updated with sources:586 901113 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    188,   586,19160501,   20,    0
    188,   586,19160502,   15,    0
    188,   586,19160503,   11,    0

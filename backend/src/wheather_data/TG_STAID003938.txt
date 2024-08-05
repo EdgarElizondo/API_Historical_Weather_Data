@@ -18,7 +18,7 @@ This is the blended series of station JAEN, SPAIN (STAID: 3938)
 Blended and updated with sources:20165 908417 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3938,908417,19830401,-9999,    9
   3938,908417,19830402,-9999,    9
   3938,908417,19830403,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station REUTTE, AUSTRIA (STAID: 24161)
 Blended and updated with sources:126805 127728 135086 911314 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24161,135086,19360101,   53,    0
  24161,135086,19360102,   24,    0
  24161,135086,19360103,   47,    0

@@ -18,7 +18,7 @@ This is the blended series of station RV15 TOTLAND, NORWAY (STAID: 18629)
 Blended and updated with sources:99594 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18629, 99594,20170701,-9999,    9
  18629, 99594,20170702,-9999,    9
  18629, 99594,20170703,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station DESSAU, GERMANY (STAID: 4969)
 Blended and updated with sources:32720 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4969, 32720,19470101,  -36,    0
   4969, 32720,19470102,  -36,    0
   4969, 32720,19470103,  -27,    0

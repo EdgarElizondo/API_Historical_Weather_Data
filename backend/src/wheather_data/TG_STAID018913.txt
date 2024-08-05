@@ -18,7 +18,7 @@ This is the blended series of station ALTA AERADIO, NORWAY (STAID: 18913)
 Blended and updated with sources:100778 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18913,100778,19400901,-9999,    9
  18913,100778,19400902,-9999,    9
  18913,100778,19400903,-9999,    9

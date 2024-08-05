@@ -18,7 +18,7 @@ This is the blended series of station WALDHAUSER (NATIONAL PARK), GERMANY (STAID
 Blended and updated with sources:29828 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4728, 29828,19711201,  -28,    0
   4728, 29828,19711202,  -24,    0
   4728, 29828,19711203,    1,    0

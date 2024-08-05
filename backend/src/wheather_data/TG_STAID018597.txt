@@ -18,7 +18,7 @@ This is the blended series of station FV580 HAUKELAND, NORWAY (STAID: 18597)
 Blended and updated with sources:99230 99528 99551 100722 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18597, 99528,20140101,-9999,    9
  18597, 99528,20140102,-9999,    9
  18597, 99528,20140103,-9999,    9

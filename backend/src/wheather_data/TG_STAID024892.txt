@@ -18,7 +18,7 @@ This is the blended series of station LOPUSZNA, POLAND (STAID: 24892)
 Blended and updated with sources:137154 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24892,137154,19880101,   -2,    0
  24892,137154,19880102,   16,    0
  24892,137154,19880103,   28,    0

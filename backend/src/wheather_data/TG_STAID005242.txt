@@ -18,7 +18,7 @@ This is the blended series of station KOSTA_MO, SWEDEN (STAID: 5242)
 Blended and updated with sources:35378 902661 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5242, 35378,19960501,   29,    0
   5242, 35378,19960502,   62,    0
   5242, 35378,19960503,   93,    0

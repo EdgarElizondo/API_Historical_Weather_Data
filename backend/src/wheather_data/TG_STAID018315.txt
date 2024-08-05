@@ -18,7 +18,7 @@ This is the blended series of station FOLLDAL - FREDHEIM, NORWAY (STAID: 18315)
 Blended and updated with sources:99721 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18315, 99721,20100629,  128,    1
  18315, 99721,20100630,   94,    0
  18315, 99721,20100701,  121,    0

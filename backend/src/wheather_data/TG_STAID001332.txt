@@ -18,7 +18,7 @@ This is the blended series of station Ð¡ELINA, RUSSIAN FEDERATION (STAID: 1332
 Blended and updated with sources:17359 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1332, 17359,19360101,  -22,    0
   1332, 17359,19360102,   -6,    0
   1332, 17359,19360103,   -6,    0

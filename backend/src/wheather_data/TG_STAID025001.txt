@@ -18,7 +18,7 @@ This is the blended series of station POLKOWICE DOLNE, POLAND (STAID: 25001)
 Blended and updated with sources:138462 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25001,138462,19860101,  -87,    0
  25001,138462,19860102,  -51,    0
  25001,138462,19860103,   16,    0

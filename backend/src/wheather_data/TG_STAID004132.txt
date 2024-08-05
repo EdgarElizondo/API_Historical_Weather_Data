@@ -18,7 +18,7 @@ This is the blended series of station GARTZ/ODER, GERMANY (STAID: 4132)
 Blended and updated with sources:22676 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4132, 22676,19951101,   64,    0
   4132, 22676,19951102,   36,    0
   4132, 22676,19951103,   18,    0

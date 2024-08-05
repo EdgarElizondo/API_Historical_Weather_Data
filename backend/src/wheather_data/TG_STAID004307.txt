@@ -18,7 +18,7 @@ This is the blended series of station BAD KOHLGRUB (ROSSHOF), GERMANY (STAID: 43
 Blended and updated with sources:24776 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4307, 24776,19910801,  129,    0
   4307, 24776,19910802,  135,    0
   4307, 24776,19910803,  148,    0

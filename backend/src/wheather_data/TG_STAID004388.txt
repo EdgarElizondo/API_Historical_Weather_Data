@@ -18,7 +18,7 @@ This is the blended series of station KR. MARBURG-BIEDENKOPF COLBE, GERMANY (STA
 Blended and updated with sources:25748 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4388, 25748,19460101,  -40,    0
   4388, 25748,19460102,  -57,    0
   4388, 25748,19460103,  -48,    0

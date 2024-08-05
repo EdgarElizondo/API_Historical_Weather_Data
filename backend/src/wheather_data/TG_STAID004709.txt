@@ -18,7 +18,7 @@ This is the blended series of station UMMENDORF, GERMANY (STAID: 4709)
 Blended and updated with sources:23600 29600 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4709, 23600,19470301,  -48,    0
   4709, 23600,19470302,  -49,    0
   4709, 23600,19470303,  -48,    0

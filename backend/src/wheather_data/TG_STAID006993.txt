@@ -18,7 +18,7 @@ This is the blended series of station INKOO BAGASKAR, FINLAND (STAID: 6993)
 Blended and updated with sources:42083 902984 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6993, 42083,19620901,  110,    0
   6993, 42083,19620902,  110,    0
   6993, 42083,19620903,  115,    0

@@ -18,7 +18,7 @@ This is the blended series of station DAUGAVPILS, LATVIA (STAID: 21956)
 Blended and updated with sources:118806 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21956,118806,20090101,  -43,    0
  21956,118806,20090102,  -90,    0
  21956,118806,20090103,  -72,    0

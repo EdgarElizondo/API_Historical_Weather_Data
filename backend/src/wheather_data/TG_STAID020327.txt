@@ -18,7 +18,7 @@ This is the blended series of station OEVERBYGD II, NORWAY (STAID: 20327)
 Blended and updated with sources:100845 108989 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20327,100845,19640901,   54,    0
  20327,100845,19640902,   47,    0
  20327,100845,19640903,   74,    0

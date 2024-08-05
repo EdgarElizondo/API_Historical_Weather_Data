@@ -18,7 +18,7 @@ This is the blended series of station ROED I RADE, NORWAY (STAID: 18878)
 Blended and updated with sources:9824 99092 99277 100741 100816 901494 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18878,  9824,19570101,  -33,    0
  18878,  9824,19570102,  -50,    0
  18878,  9824,19570103,  -47,    0

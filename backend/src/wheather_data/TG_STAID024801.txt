@@ -18,7 +18,7 @@ This is the blended series of station WAIZENKIRCHEN, AUSTRIA (STAID: 24801)
 Blended and updated with sources:136009 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24801,136009,19480101,  -35,    0
  24801,136009,19480102,    5,    0
  24801,136009,19480103,   55,    0

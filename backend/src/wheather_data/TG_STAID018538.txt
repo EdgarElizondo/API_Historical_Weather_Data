@@ -18,7 +18,7 @@ This is the blended series of station E134 GROENLIHEIA, NORWAY (STAID: 18538)
 Blended and updated with sources:99427 100566 901446 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18538,100566,19921001,   44,    0
  18538,100566,19921002,   34,    0
  18538,100566,19921003,   48,    0

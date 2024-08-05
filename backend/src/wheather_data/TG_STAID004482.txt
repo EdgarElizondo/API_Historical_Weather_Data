@@ -18,7 +18,7 @@ This is the blended series of station KIEFERSFELDEN-GACH, GERMANY (STAID: 4482)
 Blended and updated with sources:26876 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4482, 26876,19470101,  -51,    0
   4482, 26876,19470102,  -44,    0
   4482, 26876,19470103,  -37,    0

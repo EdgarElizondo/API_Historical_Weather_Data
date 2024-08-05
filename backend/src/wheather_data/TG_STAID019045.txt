@@ -18,7 +18,7 @@ This is the blended series of station SALTDAL, NORWAY (STAID: 19045)
 Blended and updated with sources:100931 901169 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19045,100931,19820601,  118,    0
  19045,100931,19820602,  134,    0
  19045,100931,19820603,  141,    0

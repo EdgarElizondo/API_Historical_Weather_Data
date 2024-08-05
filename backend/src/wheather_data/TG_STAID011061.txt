@@ -18,7 +18,7 @@ This is the blended series of station ORGANYA, SPAIN (STAID: 11061)
 Blended and updated with sources:56409 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11061, 56409,20080101,  -14,    0
  11061, 56409,20080102,   -8,    0
  11061, 56409,20080103,   14,    0

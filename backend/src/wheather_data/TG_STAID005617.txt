@@ -18,7 +18,7 @@ This is the blended series of station FINNEBY, SWEDEN (STAID: 5617)
 Blended and updated with sources:36620 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5617, 36620,19761201,  -71,    0
   5617, 36620,19761202,  -31,    0
   5617, 36620,19761203, -114,    0

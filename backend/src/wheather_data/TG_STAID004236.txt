@@ -18,7 +18,7 @@ This is the blended series of station HOHN, GERMANY (STAID: 4236)
 Blended and updated with sources:23924 27716 910038 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4236, 23924,19690101,-9999,    9
   4236, 23924,19690102,-9999,    9
   4236, 23924,19690103,-9999,    9

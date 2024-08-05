@@ -18,7 +18,7 @@ This is the blended series of station DIVIDALEN II, NORWAY (STAID: 18251)
 Blended and updated with sources:11275 99536 901198 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18251, 11275,19210601,   88,    1
  18251, 11275,19210602,   76,    1
  18251, 11275,19210603,   65,    1

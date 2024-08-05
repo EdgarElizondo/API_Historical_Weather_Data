@@ -18,7 +18,7 @@ This is the blended series of station PLATEROW, POLAND (STAID: 25065)
 Blended and updated with sources:139230 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25065,139230,19860101, -107,    0
  25065,139230,19860102,  -58,    0
  25065,139230,19860103,  -33,    0

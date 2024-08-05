@@ -18,7 +18,7 @@ This is the blended series of station PIEKSAMAKI NIKKARILA, FINLAND (STAID: 7357
 Blended and updated with sources:43955 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7357, 43955,19600201, -136,    0
   7357, 43955,19600202, -195,    0
   7357, 43955,19600203, -189,    0

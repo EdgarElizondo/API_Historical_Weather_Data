@@ -18,7 +18,7 @@ This is the blended series of station FRANSTA_11, SWEDEN (STAID: 5635)
 Blended and updated with sources:36668 36674 36677 902343 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5635, 36674,19450101, -106,    0
   5635, 36674,19450102, -106,    0
   5635, 36674,19450103, -120,    0

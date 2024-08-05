@@ -18,7 +18,7 @@ This is the blended series of station FORSE, SWEDEN (STAID: 1426)
 Blended and updated with sources:36764 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1426, 36764,19010701,  122,    1
   1426, 36764,19010702,  150,    1
   1426, 36764,19010703,  180,    1

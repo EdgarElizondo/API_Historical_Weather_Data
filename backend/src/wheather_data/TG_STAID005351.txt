@@ -18,7 +18,7 @@ This is the blended series of station LANGJUM, SWEDEN (STAID: 5351)
 Blended and updated with sources:35747 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5351, 35747,19610101,   -3,    0
   5351, 35747,19610102,    5,    0
   5351, 35747,19610103,    9,    0

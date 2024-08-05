@@ -18,7 +18,7 @@ This is the blended series of station SKODJE, NORWAY (STAID: 18953)
 Blended and updated with sources:10943 99685 100821 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18953,100821,19610101,   18,    0
  18953,100821,19610102,   14,    0
  18953,100821,19610103,   23,    0

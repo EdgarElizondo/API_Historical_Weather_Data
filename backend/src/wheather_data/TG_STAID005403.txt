@@ -18,7 +18,7 @@ This is the blended series of station KOLMARDEN-STROMSFORS, SWEDEN (STAID: 5403)
 Blended and updated with sources:35921 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5403, 35921,19951201,-9999,    9
   5403, 35921,19951202,-9999,    9
   5403, 35921,19951203,-9999,    9

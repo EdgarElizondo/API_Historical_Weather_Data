@@ -18,7 +18,7 @@ This is the blended series of station TRONDHEIM - VOLL PLU, NORWAY (STAID: 18180
 Blended and updated with sources:11042 99335 100661 100797 901257 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18180, 11042,19230101,   -6,    0
  18180, 11042,19230102,   -3,    0
  18180, 11042,19230103,   52,    1

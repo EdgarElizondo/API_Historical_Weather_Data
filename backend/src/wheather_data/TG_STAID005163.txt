@@ -18,7 +18,7 @@ This is the blended series of station SMYGEHUK, SWEDEN (STAID: 5163)
 Blended and updated with sources:35123 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5163, 35123,19410101,  -90,    1
   5163, 35123,19410102, -108,    1
   5163, 35123,19410103,  -68,    1

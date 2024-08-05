@@ -18,7 +18,7 @@ This is the blended series of station GOGLAND, RUSSIAN FEDERATION (STAID: 1128)
 Blended and updated with sources:48338 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1128, 48338,18810101,   -2,    0
   1128, 48338,18810102,   -4,    0
   1128, 48338,18810103,    7,    0

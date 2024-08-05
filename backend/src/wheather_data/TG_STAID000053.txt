@@ -18,7 +18,7 @@ This is the blended series of station MUENSTER, GERMANY (STAID: 53)
 Blended and updated with sources:26336 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     53, 26336,18910101,  -94,    0
     53, 26336,18910102,  -74,    0
     53, 26336,18910103,  -73,    0

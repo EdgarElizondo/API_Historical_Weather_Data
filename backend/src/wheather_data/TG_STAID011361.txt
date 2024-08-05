@@ -18,7 +18,7 @@ This is the blended series of station RUHNU, ESTONIA (STAID: 11361)
 Blended and updated with sources:75046 926227 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11361, 75046,19310101,  -59,    0
  11361, 75046,19310102,  -65,    0
  11361, 75046,19310103,  -30,    0

@@ -18,7 +18,7 @@ This is the blended series of station BANAK, NORWAY (STAID: 18242)
 Blended and updated with sources:99513 100755 901059 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18242, 99513,19570101,  -41,    0
  18242, 99513,19570102, -138,    0
  18242, 99513,19570103,  -55,    0

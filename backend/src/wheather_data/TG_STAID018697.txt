@@ -18,7 +18,7 @@ This is the blended series of station KVITEBJOERNFELTET, NORWAY (STAID: 18697)
 Blended and updated with sources:99707 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18697, 99707,20170701,-9999,    9
  18697, 99707,20170702,  112,    0
  18697, 99707,20170703,-9999,    9

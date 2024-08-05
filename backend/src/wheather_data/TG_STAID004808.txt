@@ -18,7 +18,7 @@ This is the blended series of station BERGE, GERMANY (STAID: 4808)
 Blended and updated with sources:30788 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4808, 30788,19530701,  252,    0
   4808, 30788,19530702,  253,    0
   4808, 30788,19530703,  244,    0

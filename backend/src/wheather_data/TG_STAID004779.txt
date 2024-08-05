@@ -18,7 +18,7 @@ This is the blended series of station WITTSTOCK-ROTE MUHLE, GERMANY (STAID: 4779
 Blended and updated with sources:30440 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4779, 30440,19940301,   -4,    0
   4779, 30440,19940302,    8,    0
   4779, 30440,19940303,   36,    0

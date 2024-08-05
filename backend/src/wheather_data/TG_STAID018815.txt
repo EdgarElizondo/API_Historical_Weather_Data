@@ -18,7 +18,7 @@ This is the blended series of station DOENSKI, NORWAY (STAID: 18815)
 Blended and updated with sources:99234 100667 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18815,100667,19700201, -105,    0
  18815,100667,19700202,  -95,    0
  18815,100667,19700203, -113,    0

@@ -18,7 +18,7 @@ This is the blended series of station SNAVLUNDA, SWEDEN (STAID: 5429)
 Blended and updated with sources:36005 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5429, 36005,19441001,-9999,    9
   5429, 36005,19441002,-9999,    9
   5429, 36005,19441003,-9999,    9

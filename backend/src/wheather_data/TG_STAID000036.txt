@@ -18,7 +18,7 @@ This is the blended series of station PERPIGNAN, FRANCE (STAID: 36)
 Blended and updated with sources:843 907747 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     36,   843,19241101,-9999,    9
     36,   843,19241102,-9999,    9
     36,   843,19241103,-9999,    9

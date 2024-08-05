@@ -18,7 +18,7 @@ This is the blended series of station HERFORD, GERMANY (STAID: 4211)
 Blended and updated with sources:23624 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4211, 23624,19360101,   88,    0
   4211, 23624,19360102,   80,    0
   4211, 23624,19360103,   56,    0

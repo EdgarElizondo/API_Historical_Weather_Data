@@ -18,7 +18,7 @@ This is the blended series of station KEMI AJOS, FINLAND (STAID: 7730)
 Blended and updated with sources:45880 902862 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7730, 45880,19840101,-9999,    9
   7730, 45880,19840102,-9999,    9
   7730, 45880,19840103,  -71,    0

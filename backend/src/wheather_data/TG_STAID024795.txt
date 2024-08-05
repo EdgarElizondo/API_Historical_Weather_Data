@@ -18,7 +18,7 @@ This is the blended series of station PRAEBICHL, AUSTRIA (STAID: 24795)
 Blended and updated with sources:135931 911161 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24795,135931,19360101,-9999,    9
  24795,135931,19360102,-9999,    9
  24795,135931,19360103,-9999,    9

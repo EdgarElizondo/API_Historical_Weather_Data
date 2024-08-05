@@ -18,7 +18,7 @@ This is the blended series of station SUDDESJAUR, SWEDEN (STAID: 5800)
 Blended and updated with sources:37232 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5800, 37232,19490101,  -16,    1
   5800, 37232,19490102,   -4,    1
   5800, 37232,19490103,    0,    0

@@ -18,7 +18,7 @@ This is the blended series of station PONTEVEDRA, SPAIN (STAID: 3954)
 Blended and updated with sources:20390 908044 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3954, 20390,19851001,  195,    0
   3954, 20390,19851002,  180,    0
   3954, 20390,19851003,  183,    0

@@ -18,7 +18,7 @@ This is the blended series of station LUBINICKO-SWIEBODZIN, POLAND (STAID: 25032
 Blended and updated with sources:138834 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25032,138834,19810101,   32,    0
  25032,138834,19810102,   20,    0
  25032,138834,19810103,   50,    0

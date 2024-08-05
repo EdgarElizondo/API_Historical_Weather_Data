@@ -18,7 +18,7 @@ This is the blended series of station ZIELONA GORA, POLAND (STAID: 2031)
 Blended and updated with sources:6237 912400 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2031,  6237,19510101,  -72,    0
   2031,  6237,19510102,    0,    0
   2031,  6237,19510103,    6,    0

@@ -18,7 +18,7 @@ This is the blended series of station KIRKENES LUFTHAVN, NORWAY (STAID: 18201)
 Blended and updated with sources:99394 901089 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18201, 99394,19570101,  -59,    0
  18201, 99394,19570102, -120,    0
  18201, 99394,19570103,  -62,    0

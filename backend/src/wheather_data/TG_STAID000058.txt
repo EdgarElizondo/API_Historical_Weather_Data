@@ -18,7 +18,7 @@ This is the blended series of station ZUGSPITZE, GERMANY (STAID: 58)
 Blended and updated with sources:217 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     58,   217,19000801,   36,    0
     58,   217,19000802,   52,    0
     58,   217,19000803,   37,    0

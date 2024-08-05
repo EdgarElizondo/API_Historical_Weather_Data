@@ -18,7 +18,7 @@ This is the blended series of station LINDENBERG, GERMANY (STAID: 324)
 Blended and updated with sources:2262 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    324,  2262,19060401,   31,    0
    324,  2262,19060402,   44,    0
    324,  2262,19060403,   43,    0

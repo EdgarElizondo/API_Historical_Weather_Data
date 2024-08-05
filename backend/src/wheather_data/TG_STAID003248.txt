@@ -18,7 +18,7 @@ This is the blended series of station ULAN-UDE', RUSSIAN FEDERATION (STAID: 3248
 Blended and updated with sources:17191 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3248, 17191,18860101,-9999,    9
   3248, 17191,18860102,-9999,    9
   3248, 17191,18860103,-9999,    9

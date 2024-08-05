@@ -18,7 +18,7 @@ This is the blended series of station SIDSJO, SWEDEN (STAID: 5627)
 Blended and updated with sources:36650 36662 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5627, 36650,19610101,  -16,    0
   5627, 36650,19610102,  -52,    0
   5627, 36650,19610103,  -29,    0

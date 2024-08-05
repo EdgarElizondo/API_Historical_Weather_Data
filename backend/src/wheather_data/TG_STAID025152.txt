@@ -18,7 +18,7 @@ This is the blended series of station WARSZAWA-OBSERWATORIUM II, POLAND (STAID: 
 Blended and updated with sources:657 139098 140274 912375 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25152,   657,19510101,  -40,    0
  25152,   657,19510102,  -15,    0
  25152,   657,19510103,   16,    0

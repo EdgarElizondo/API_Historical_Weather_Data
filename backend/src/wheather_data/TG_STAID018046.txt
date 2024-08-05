@@ -18,7 +18,7 @@ This is the blended series of station MYKEN, NORWAY (STAID: 18046)
 Blended and updated with sources:57014 99396 901115 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18046, 57014,19310101,-9999,    9
  18046, 57014,19310102,-9999,    9
  18046, 57014,19310103,-9999,    9

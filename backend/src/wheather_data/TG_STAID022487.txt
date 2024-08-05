@@ -18,7 +18,7 @@ This is the blended series of station STADTBREDIMUS, LUXEMBOURG (STAID: 22487)
 Blended and updated with sources:121211 121261 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22487,121211,19790101, -136,    1
  22487,121211,19790102,  -89,    1
  22487,121211,19790103, -119,    1

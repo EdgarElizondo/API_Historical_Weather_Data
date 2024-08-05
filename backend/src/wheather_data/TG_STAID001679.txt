@@ -18,7 +18,7 @@ This is the blended series of station SHKODRA, ALBANIA (STAID: 1679)
 Blended and updated with sources:4985 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1679,  4985,19510101,   55,    0
   1679,  4985,19510102,   42,    0
   1679,  4985,19510103,   66,    0

@@ -18,7 +18,7 @@ This is the blended series of station KOMANCZA, POLAND (STAID: 24922)
 Blended and updated with sources:137514 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24922,137514,19560101,  -20,    0
  24922,137514,19560102,   -9,    0
  24922,137514,19560103,  -38,    0

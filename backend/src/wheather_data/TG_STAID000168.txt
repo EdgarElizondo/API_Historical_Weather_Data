@@ -18,7 +18,7 @@ This is the blended series of station MAASTRICHT, NETHERLANDS (STAID: 168)
 Blended and updated with sources:545 906380 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    168,   545,19060101,  -23,    0
    168,   545,19060102,  -21,    0
    168,   545,19060103,   21,    0

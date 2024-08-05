@@ -18,7 +18,7 @@ This is the blended series of station MITT. NUUK, GREENLAND [DENMARK] (STAID: 79
 Blended and updated with sources:47157 47217 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7998, 47157,19580101,  -72,    0
   7998, 47157,19580102,  -47,    0
   7998, 47157,19580103,  -40,    0

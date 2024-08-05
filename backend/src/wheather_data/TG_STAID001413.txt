@@ -18,7 +18,7 @@ This is the blended series of station HARSFJARDEN, SWEDEN (STAID: 1413)
 Blended and updated with sources:36032 902489 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1413, 36032,19521101,   34,    1
   1413, 36032,19521102,    1,    1
   1413, 36032,19521103,  -17,    1

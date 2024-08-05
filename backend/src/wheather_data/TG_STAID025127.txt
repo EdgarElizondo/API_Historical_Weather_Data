@@ -18,7 +18,7 @@ This is the blended series of station PRZEMYSL, POLAND (STAID: 25127)
 Blended and updated with sources:139974 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25127,139974,19540101,  -88,    0
  25127,139974,19540102, -129,    0
  25127,139974,19540103,  -87,    0

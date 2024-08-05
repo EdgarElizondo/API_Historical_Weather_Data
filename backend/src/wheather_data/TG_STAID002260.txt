@@ -18,7 +18,7 @@ This is the blended series of station GUNNARN, SWEDEN (STAID: 2260)
 Blended and updated with sources:37055 902126 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2260, 37055,19440915,   71,    1
   2260, 37055,19440916,   73,    1
   2260, 37055,19440917,   99,    1

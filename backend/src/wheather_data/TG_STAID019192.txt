@@ -18,7 +18,7 @@ This is the blended series of station TROMSOE PLU, NORWAY (STAID: 19192)
 Blended and updated with sources:9405 100995 901026 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19192,  9405,19200701,  119,    0
  19192,  9405,19200702,  114,    0
  19192,  9405,19200703,  118,    0

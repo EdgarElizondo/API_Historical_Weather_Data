@@ -18,7 +18,7 @@ This is the blended series of station HAMAR - STAVSBERG, NORWAY (STAID: 5018)
 Blended and updated with sources:33316 100990 901385 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5018,100990,19910501,   87,    0
   5018,100990,19910502,   66,    0
   5018,100990,19910503,   68,    0

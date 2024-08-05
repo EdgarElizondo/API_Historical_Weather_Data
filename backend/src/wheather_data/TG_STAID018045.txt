@@ -18,7 +18,7 @@ This is the blended series of station ALVDAL, NORWAY (STAID: 18045)
 Blended and updated with sources:99382 99546 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18045, 99382,20130101,  -40,    0
  18045, 99382,20130102,  -68,    0
  18045, 99382,20130103,  -57,    0

@@ -18,7 +18,7 @@ This is the blended series of station MARRA CENTRALE, ITALY (STAID: 2832)
 Blended and updated with sources:95832 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2832, 95832,20051201,-9999,    9
   2832, 95832,20051202,-9999,    9
   2832, 95832,20051203,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station BORAS, SWEDEN (STAID: 1422)
 Blended and updated with sources:35615 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1422, 35615,18840101,  -15,    0
   1422, 35615,18840102,  -65,    0
   1422, 35615,18840103,  -20,    0

@@ -18,7 +18,7 @@ This is the blended series of station ALTENBERG/HARTBERG, AUSTRIA (STAID: 24640)
 Blended and updated with sources:133916 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24640,133916,19800401,   86,    0
  24640,133916,19800402,  113,    0
  24640,133916,19800403,   69,    0

@@ -18,7 +18,7 @@ This is the blended series of station RV36 SELJORD, NORWAY (STAID: 18627)
 Blended and updated with sources:99591 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18627, 99591,20150601,-9999,    9
  18627, 99591,20150602,-9999,    9
  18627, 99591,20150603,   98,    0

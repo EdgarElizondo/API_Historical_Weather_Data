@@ -18,7 +18,7 @@ This is the blended series of station LEZAJSK, POLAND (STAID: 24987)
 Blended and updated with sources:138294 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24987,138294,19610101,  -37,    0
  24987,138294,19610102,  -12,    0
  24987,138294,19610103,   50,    0

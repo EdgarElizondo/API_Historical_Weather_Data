@@ -18,7 +18,7 @@ This is the blended series of station GRAMBEK, GERMANY (STAID: 4157)
 Blended and updated with sources:22976 26144 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4157, 22976,19510101,  -26,    0
   4157, 22976,19510102,  -10,    0
   4157, 22976,19510103,  -18,    0

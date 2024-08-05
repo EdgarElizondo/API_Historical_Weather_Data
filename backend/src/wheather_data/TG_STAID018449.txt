@@ -18,7 +18,7 @@ This is the blended series of station E39 OERSKOGFJELL, NORWAY (STAID: 18449)
 Blended and updated with sources:99255 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18449, 99255,20140101,   33,    0
  18449, 99255,20140102,-9999,    9
  18449, 99255,20140103,   59,    0

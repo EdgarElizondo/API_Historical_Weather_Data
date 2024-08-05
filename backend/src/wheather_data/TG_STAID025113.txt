@@ -18,7 +18,7 @@ This is the blended series of station ROZEWIE, POLAND (STAID: 25113)
 Blended and updated with sources:139806 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25113,139806,19510101,  -58,    0
  25113,139806,19510102,  -30,    0
  25113,139806,19510103,   11,    0

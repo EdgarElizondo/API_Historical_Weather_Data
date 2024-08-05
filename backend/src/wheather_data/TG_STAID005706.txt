@@ -18,7 +18,7 @@ This is the blended series of station STORA_STENSJON, SWEDEN (STAID: 5706)
 Blended and updated with sources:36920 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5706, 36920,19810801,   83,    0
   5706, 36920,19810802,   73,    0
   5706, 36920,19810803,   83,    0

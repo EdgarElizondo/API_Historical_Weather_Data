@@ -18,7 +18,7 @@ This is the blended series of station AIZPUTE, LATVIA (STAID: 8859)
 Blended and updated with sources:118722 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8859,118722,19631101,   19,    1
   8859,118722,19631102,   14,    1
   8859,118722,19631103,   46,    1

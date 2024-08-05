@@ -18,7 +18,7 @@ This is the blended series of station SUTUR, RUSSIAN FEDERATION (STAID: 8437)
 Blended and updated with sources:51343 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8437, 51343,19390101,-9999,    9
   8437, 51343,19390102,-9999,    9
   8437, 51343,19390103,-9999,    9

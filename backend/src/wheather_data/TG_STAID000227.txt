@@ -18,7 +18,7 @@ This is the blended series of station HURBANOVO, SLOVAKIA (STAID: 227)
 Blended and updated with sources:703 911858 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    227,   703,19480101,  -35,    0
    227,   703,19480102,  -19,    0
    227,   703,19480103,    4,    0

@@ -18,7 +18,7 @@ This is the blended series of station FV169 ASERUD, NORWAY (STAID: 18661)
 Blended and updated with sources:99645 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18661, 99645,20150901,-9999,    9
  18661, 99645,20150902,-9999,    9
  18661, 99645,20150903,-9999,    9

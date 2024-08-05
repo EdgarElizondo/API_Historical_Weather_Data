@@ -18,7 +18,7 @@ This is the blended series of station OBERSIEBENBRUNN, AUSTRIA (STAID: 16324)
 Blended and updated with sources:126129 126168 130640 130770 131953 135762 911037 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  16324,126129,19360101,   69,    0
  16324,126129,19360102,   52,    0
  16324,126129,19360103,   58,    0

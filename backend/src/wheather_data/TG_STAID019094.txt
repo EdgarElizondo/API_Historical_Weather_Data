@@ -18,7 +18,7 @@ This is the blended series of station JARLSBERG FLYPLASS, NORWAY (STAID: 19094)
 Blended and updated with sources:35020 99140 99184 99248 99313 100987 901481 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19094, 35020,19590101,-9999,    9
  19094, 35020,19590102,-9999,    9
  19094, 35020,19590103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station BAMBERG (STERNWARTE), GERMANY (STAID: 4327
 Blended and updated with sources:25016 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4327, 25016,18790101,   72,    0
   4327, 25016,18790102,   49,    0
   4327, 25016,18790103,   10,    0

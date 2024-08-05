@@ -18,7 +18,7 @@ This is the blended series of station SONGLI, NORWAY (STAID: 2719)
 Blended and updated with sources:11033 99499 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2719, 11033,19570101,-9999,    9
   2719, 11033,19570102,-9999,    9
   2719, 11033,19570103,-9999,    9

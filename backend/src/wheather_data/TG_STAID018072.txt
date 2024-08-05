@@ -18,7 +18,7 @@ This is the blended series of station VALNESFJORD, NORWAY (STAID: 18072)
 Blended and updated with sources:99198 99706 100682 100970 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18072,100970,19570101,  -94,    0
  18072,100970,19570102,  -83,    0
  18072,100970,19570103, -109,    0

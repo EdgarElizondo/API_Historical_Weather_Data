@@ -18,7 +18,7 @@ This is the blended series of station GRAZ-UNIVERSITAET, AUSTRIA (STAID: 24688)
 Blended and updated with sources:134540 911290 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24688,134540,18940101,  -60,    0
  24688,134540,18940102,  -54,    0
  24688,134540,18940103,  -93,    0

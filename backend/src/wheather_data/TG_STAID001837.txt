@@ -18,7 +18,7 @@ This is the blended series of station MORPETH: COCKLE PARK, UNITED KINGDOM (STAI
 Blended and updated with sources:7031 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1837,  7031,19600101,   67,    1
   1837,  7031,19600102,   36,    0
   1837,  7031,19600103,   56,    0

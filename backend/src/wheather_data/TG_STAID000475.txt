@@ -18,7 +18,7 @@ This is the blended series of station NEURUPPIN, GERMANY (STAID: 475)
 Blended and updated with sources:2238 30608 910270 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    475, 30608,19520401,  -18,    0
    475, 30608,19520402,   -5,    0
    475, 30608,19520403,   34,    0

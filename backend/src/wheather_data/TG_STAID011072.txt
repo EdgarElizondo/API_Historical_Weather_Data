@@ -18,7 +18,7 @@ This is the blended series of station SANT PAU DE SEGURIES, SPAIN (STAID: 11072)
 Blended and updated with sources:56508 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11072, 56508,20080101,  -23,    0
  11072, 56508,20080102,  -13,    0
  11072, 56508,20080103,   15,    0

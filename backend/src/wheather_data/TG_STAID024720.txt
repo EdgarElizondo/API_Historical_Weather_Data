@@ -18,7 +18,7 @@ This is the blended series of station OBERGURGL, AUSTRIA (STAID: 24720)
 Blended and updated with sources:134956 911127 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24720,134956,19530101,-9999,    9
  24720,134956,19530102,-9999,    9
  24720,134956,19530103,-9999,    9

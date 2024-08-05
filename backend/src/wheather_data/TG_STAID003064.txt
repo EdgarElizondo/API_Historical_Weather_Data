@@ -18,7 +18,7 @@ This is the blended series of station NOVY'J PORT, RUSSIAN FEDERATION (STAID: 30
 Blended and updated with sources:48423 923242 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3064, 48423,19360101, -200,    0
   3064, 48423,19360102, -220,    0
   3064, 48423,19360103, -134,    0

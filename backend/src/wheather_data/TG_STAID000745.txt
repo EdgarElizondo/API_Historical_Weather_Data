@@ -18,7 +18,7 @@ This is the blended series of station DIJON-LONGVIC, FRANCE (STAID: 745)
 Blended and updated with sources:4073 907280 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    745,  4073,19210501,-9999,    9
    745,  4073,19210502,-9999,    9
    745,  4073,19210503,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station KLEINZICKEN, AUSTRIA (STAID: 24282)
 Blended and updated with sources:129275 134761 911192 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24282,134761,19780101,  -33,    0
  24282,134761,19780102,  -34,    0
  24282,134761,19780103,  -16,    0

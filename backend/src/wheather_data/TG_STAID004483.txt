@@ -18,7 +18,7 @@ This is the blended series of station BERGEN, GERMANY (STAID: 4483)
 Blended and updated with sources:26888 910238 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4483, 26888,19730101,-9999,    9
   4483, 26888,19730102,-9999,    9
   4483, 26888,19730103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station ARENDAL LUFTHAVN, NORWAY (STAID: 18293)
 Blended and updated with sources:99642 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18293, 99642,20161208,   99,    0
  18293, 99642,20161209,   62,    0
  18293, 99642,20161210,   57,    0

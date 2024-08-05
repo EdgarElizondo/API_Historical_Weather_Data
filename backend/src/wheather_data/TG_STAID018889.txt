@@ -18,7 +18,7 @@ This is the blended series of station STABBURSDALEN, NORWAY (STAID: 18889)
 Blended and updated with sources:99513 100599 100755 901059 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18889, 99513,19570101,  -41,    0
  18889, 99513,19570102, -138,    0
  18889, 99513,19570103,  -55,    0

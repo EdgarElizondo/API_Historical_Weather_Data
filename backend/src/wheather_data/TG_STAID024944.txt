@@ -18,7 +18,7 @@ This is the blended series of station KORFANTOW, POLAND (STAID: 24944)
 Blended and updated with sources:137778 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24944,137778,19890101,   22,    0
  24944,137778,19890102,   -7,    0
  24944,137778,19890103,  -20,    0

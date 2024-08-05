@@ -18,7 +18,7 @@ This is the blended series of station VOGTSBURG-OBERROTWEIL, GERMANY (STAID: 471
 Blended and updated with sources:29672 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4715, 29672,19360101,   63,    0
   4715, 29672,19360102,   85,    0
   4715, 29672,19360103,  116,    0

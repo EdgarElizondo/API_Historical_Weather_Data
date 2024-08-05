@@ -18,7 +18,7 @@ This is the blended series of station VADEROBOD, SWEDEN (STAID: 5384)
 Blended and updated with sources:35864 35876 902501 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5384, 35864,19490101,   45,    1
   5384, 35864,19490102,   59,    1
   5384, 35864,19490103,   50,    1

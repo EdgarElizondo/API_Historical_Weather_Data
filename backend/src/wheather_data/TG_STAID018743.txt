@@ -18,7 +18,7 @@ This is the blended series of station OTEREN, NORWAY (STAID: 18743)
 Blended and updated with sources:100583 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18743,100583,19900801,  145,    0
  18743,100583,19900802,  161,    0
  18743,100583,19900803,  150,    0

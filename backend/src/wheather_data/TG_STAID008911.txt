@@ -18,7 +18,7 @@ This is the blended series of station VENTSPILS, LATVIA (STAID: 8911)
 Blended and updated with sources:119054 926314 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8911,119054,18910201,    0,    0
   8911,119054,18910202,   13,    1
   8911,119054,18910203,   18,    1

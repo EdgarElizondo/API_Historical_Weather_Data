@@ -18,7 +18,7 @@ This is the blended series of station CARPINETI, ITALY (STAID: 17561)
 Blended and updated with sources:94632 96944 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17561, 94632,20051201,-9999,    9
  17561, 94632,20051202,-9999,    9
  17561, 94632,20051203,-9999,    9

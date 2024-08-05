@@ -18,7 +18,7 @@ This is the blended series of station MONKS WOOD, UNITED KINGDOM (STAID: 11107)
 Blended and updated with sources:56863 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11107, 56863,20130101,   48,    0
  11107, 56863,20130102,   66,    0
  11107, 56863,20130103,   81,    0

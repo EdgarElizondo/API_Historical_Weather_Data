@@ -18,7 +18,7 @@ This is the blended series of station GREVENMACHER, LUXEMBOURG (STAID: 22475)
 Blended and updated with sources:121131 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22475,121131,19790101, -153,    1
  22475,121131,19790102,  -78,    1
  22475,121131,19790103, -130,    1

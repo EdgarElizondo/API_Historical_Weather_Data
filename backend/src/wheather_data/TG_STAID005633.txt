@@ -18,7 +18,7 @@ This is the blended series of station KLOVSJOHOJDEN_A, SWEDEN (STAID: 5633)
 Blended and updated with sources:36671 36686 902325 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5633, 36686,19771001,   13,    0
   5633, 36686,19771002,  -11,    0
   5633, 36686,19771003,  -28,    0

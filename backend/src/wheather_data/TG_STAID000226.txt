@@ -18,7 +18,7 @@ This is the blended series of station VARFU OMUL, ROMANIA (STAID: 226)
 Blended and updated with sources:7491 915280 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    226,  7491,19610101,  -91,    0
    226,  7491,19610102,  -62,    0
    226,  7491,19610103,  -44,    0

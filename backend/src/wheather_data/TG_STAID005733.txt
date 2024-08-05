@@ -18,7 +18,7 @@ This is the blended series of station SKELLEFTEA_FLYGPLATS, SWEDEN (STAID: 5733)
 Blended and updated with sources:37013 902293 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5733, 37013,19700501,   33,    0
   5733, 37013,19700502,   14,    0
   5733, 37013,19700503,   32,    0

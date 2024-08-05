@@ -18,7 +18,7 @@ This is the blended series of station LELYSTAD, NETHERLANDS (STAID: 597)
 Blended and updated with sources:2418 906269 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    597,  2418,19900101,-9999,    9
    597,  2418,19900102,-9999,    9
    597,  2418,19900103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station TURNU MAGURELE, ROMANIA (STAID: 225)
 Blended and updated with sources:877 915490 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    225,   877,18960101,  -31,    0
    225,   877,18960102,  -54,    0
    225,   877,18960103,  -68,    0

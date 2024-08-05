@@ -18,7 +18,7 @@ This is the blended series of station FV24 RASAN , NORWAY (STAID: 21761)
 Blended and updated with sources:118113 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21761,118113,20200901,-9999,    9
  21761,118113,20200902,-9999,    9
  21761,118113,20200903,-9999,    9

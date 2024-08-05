@@ -18,7 +18,7 @@ This is the blended series of station PUCHBERG/SCHNEEBERG, AUSTRIA (STAID: 24503
 Blended and updated with sources:126519 126532 132148 135034 911382 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24503,126532,19490601,-9999,    9
  24503,126532,19490602,-9999,    9
  24503,126532,19490603,-9999,    9

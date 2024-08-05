@@ -18,7 +18,7 @@ This is the blended series of station ROUEN - BOOS, FRANCE (STAID: 2184)
 Blended and updated with sources:7207 907037 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2184,  7207,19680301,    7,    0
   2184,  7207,19680302,   -3,    0
   2184,  7207,19680303,   27,    0

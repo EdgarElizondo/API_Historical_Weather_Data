@@ -18,7 +18,7 @@ This is the blended series of station HEINERSREUTH-VOLLHOF, GERMANY (STAID: 4393
 Blended and updated with sources:25808 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4393, 25808,18790101,   75,    0
   4393, 25808,18790102,   33,    0
   4393, 25808,18790103,    3,    0

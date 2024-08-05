@@ -18,7 +18,7 @@ This is the blended series of station PIRMASENS (KLAERANLAGE), GERMANY (STAID: 1
 Blended and updated with sources:81416 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11784, 81416,19760401,   88,    0
  11784, 81416,19760402,  122,    0
  11784, 81416,19760403,   56,    0

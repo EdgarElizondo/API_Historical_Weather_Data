@@ -18,7 +18,7 @@ This is the blended series of station VARPNAS, SWEDEN (STAID: 6292)
 Blended and updated with sources:36143 36152 66036 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6292, 36152,18600101,    9,    1
   6292, 36152,18600102,   35,    1
   6292, 36152,18600103,   15,    1

@@ -18,7 +18,7 @@ This is the blended series of station DUBLIN (MERRION SQUARE), IRELAND (STAID: 1
 Blended and updated with sources:7548 7562 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1715,  7548,19610101,   66,    0
   1715,  7548,19610102,   57,    0
   1715,  7548,19610103,   30,    0

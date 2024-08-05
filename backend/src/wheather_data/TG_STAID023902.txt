@@ -18,7 +18,7 @@ This is the blended series of station RAABS/THAYA, AUSTRIA (STAID: 23902)
 Blended and updated with sources:124400 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23902,124400,20080625,    0,    1
  23902,124400,20080626,  217,    0
  23902,124400,20080627,  207,    0

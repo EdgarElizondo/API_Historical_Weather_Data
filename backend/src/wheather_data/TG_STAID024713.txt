@@ -18,7 +18,7 @@ This is the blended series of station MARIAZELL/ST.SEBASTIAN-FLUGFELD, AUSTRIA (
 Blended and updated with sources:134865 911171 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24713,134865,19480101,  -45,    0
  24713,134865,19480102,  -30,    0
  24713,134865,19480103,   15,    0

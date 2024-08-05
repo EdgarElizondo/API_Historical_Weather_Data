@@ -18,7 +18,7 @@ This is the blended series of station IMOLA_MARIO_NERI, ITALY (STAID: 17642)
 Blended and updated with sources:95544 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17642, 95544,20051201,-9999,    9
  17642, 95544,20051202,-9999,    9
  17642, 95544,20051203,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station ROZNOW, POLAND (STAID: 24910)
 Blended and updated with sources:137358 137370 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24910,137370,19610101,   10,    0
  24910,137370,19610102,   -6,    0
  24910,137370,19610103,   48,    0

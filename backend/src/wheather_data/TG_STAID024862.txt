@@ -18,7 +18,7 @@ This is the blended series of station BRENNA, POLAND (STAID: 24862)
 Blended and updated with sources:136794 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24862,136794,19850101,  -68,    0
  24862,136794,19850102,  -56,    0
  24862,136794,19850103,  -78,    0

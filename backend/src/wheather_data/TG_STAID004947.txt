@@ -18,7 +18,7 @@ This is the blended series of station SCHLUSSELFELD (KLARANLAGE), GERMANY (STAID
 Blended and updated with sources:32456 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4947, 32456,19410101,  -62,    0
   4947, 32456,19410102, -113,    0
   4947, 32456,19410103, -118,    0

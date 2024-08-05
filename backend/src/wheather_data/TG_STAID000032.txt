@@ -18,7 +18,7 @@ This is the blended series of station BOURGES, FRANCE (STAID: 32)
 Blended and updated with sources:839 907255 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     32,   839,19450301,   75,    0
     32,   839,19450302,   58,    0
     32,   839,19450303,   21,    0

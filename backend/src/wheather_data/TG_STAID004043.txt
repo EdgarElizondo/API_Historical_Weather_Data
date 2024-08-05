@@ -18,7 +18,7 @@ This is the blended series of station EINBECK, GERMANY (STAID: 4043)
 Blended and updated with sources:21608 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4043, 21608,19510101,   -2,    0
   4043, 21608,19510102,    3,    0
   4043, 21608,19510103,   11,    0

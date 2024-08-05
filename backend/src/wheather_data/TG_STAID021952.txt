@@ -18,7 +18,7 @@ This is the blended series of station KLAUVA, SVALBARD AND JAN MAYEN (STAID: 219
 Blended and updated with sources:120888 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21952,120888,20210514,  -62,    0
  21952,120888,20210515,  -90,    0
  21952,120888,20210516,  -91,    0

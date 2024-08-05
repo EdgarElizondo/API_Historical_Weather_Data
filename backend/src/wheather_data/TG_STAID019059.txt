@@ -18,7 +18,7 @@ This is the blended series of station AUST-TORPA II, NORWAY (STAID: 19059)
 Blended and updated with sources:100948 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19059,100948,19631001,   46,    0
  19059,100948,19631002,   35,    0
  19059,100948,19631003,   32,    0

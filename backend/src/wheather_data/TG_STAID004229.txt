@@ -18,7 +18,7 @@ This is the blended series of station AUE, GERMANY (STAID: 4229)
 Blended and updated with sources:23840 910575 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4229, 23840,19770101,   10,    0
   4229, 23840,19770102,   10,    0
   4229, 23840,19770103,    9,    0

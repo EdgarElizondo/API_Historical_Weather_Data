@@ -18,7 +18,7 @@ This is the blended series of station KISLOKAN, RUSSIAN FEDERATION (STAID: 8104)
 Blended and updated with sources:48678 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8104, 48678,19510101,-9999,    9
   8104, 48678,19510102,-9999,    9
   8104, 48678,19510103,-9999,    9

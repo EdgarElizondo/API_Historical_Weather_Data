@@ -18,7 +18,7 @@ This is the blended series of station E14 MEADAL, NORWAY (STAID: 18714)
 Blended and updated with sources:99729 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18714, 99729,20140101,-9999,    9
  18714, 99729,20140102,-9999,    9
  18714, 99729,20140103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station SALZHEMMENDORF-LAUENSTEIN, GERMANY (STAID:
 Blended and updated with sources:28172 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4590, 28172,19920401,   47,    0
   4590, 28172,19920402,   72,    0
   4590, 28172,19920403,   69,    0

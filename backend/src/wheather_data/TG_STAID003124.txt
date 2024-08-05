@@ -18,7 +18,7 @@ This is the blended series of station STERLITAMAK, RUSSIAN FEDERATION (STAID: 31
 Blended and updated with sources:50118 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3124, 50118,19360101, -160,    0
   3124, 50118,19360102, -137,    0
   3124, 50118,19360103,  -74,    0

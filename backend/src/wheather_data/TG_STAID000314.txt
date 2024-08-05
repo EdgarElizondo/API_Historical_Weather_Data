@@ -18,7 +18,7 @@ This is the blended series of station MERSA MATRUH, EGYPT (STAID: 314)
 Blended and updated with sources:1064 962306 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    314,  1064,19940101,  148,    0
    314,  1064,19940102,  142,    0
    314,  1064,19940103,  132,    0

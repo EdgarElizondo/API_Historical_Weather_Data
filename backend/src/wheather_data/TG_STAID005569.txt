@@ -18,7 +18,7 @@ This is the blended series of station UTVALNAS, SWEDEN (STAID: 5569)
 Blended and updated with sources:36458 36464 36467 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5569, 36464,19410101,  -88,    1
   5569, 36464,19410102, -111,    1
   5569, 36464,19410103, -136,    1

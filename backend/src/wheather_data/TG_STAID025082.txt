@@ -18,7 +18,7 @@ This is the blended series of station GRUDZIADZ, POLAND (STAID: 25082)
 Blended and updated with sources:139434 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25082,139434,19860101, -103,    0
  25082,139434,19860102,  -61,    0
  25082,139434,19860103,    3,    0

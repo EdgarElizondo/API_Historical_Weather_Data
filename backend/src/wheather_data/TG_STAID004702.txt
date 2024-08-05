@@ -18,7 +18,7 @@ This is the blended series of station TUTTLINGEN-MOHRINGEN, GERMANY (STAID: 4702
 Blended and updated with sources:22712 29516 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4702, 29516,19790601,-9999,    9
   4702, 29516,19790602,-9999,    9
   4702, 29516,19790603,-9999,    9

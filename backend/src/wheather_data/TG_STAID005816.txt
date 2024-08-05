@@ -18,7 +18,7 @@ This is the blended series of station MURJEK, SWEDEN (STAID: 5816)
 Blended and updated with sources:37286 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5816, 37286,19480801,  121,    0
   5816, 37286,19480802,  110,    0
   5816, 37286,19480803,   76,    0

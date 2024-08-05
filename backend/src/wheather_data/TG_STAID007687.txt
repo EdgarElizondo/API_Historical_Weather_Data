@@ -18,7 +18,7 @@ This is the blended series of station TYRNAVA LEPPIOJA, FINLAND (STAID: 7687)
 Blended and updated with sources:45655 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7687, 45655,19921001,-9999,    9
   7687, 45655,19921002,-9999,    9
   7687, 45655,19921003,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station ODESA, UKRAINE (STAID: 400)
 Blended and updated with sources:17487 933837 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    400, 17487,18940101,   -5,    0
    400, 17487,18940102,  -31,    0
    400, 17487,18940103, -127,    0

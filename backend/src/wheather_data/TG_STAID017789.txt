@@ -18,7 +18,7 @@ This is the blended series of station SANTA_MARIA_CODIFIUME, ITALY (STAID: 17789
 Blended and updated with sources:96320 97208 97256 97416 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17789, 97208,20051201,-9999,    9
  17789, 97208,20051202,-9999,    9
  17789, 97208,20051203,-9999,    9

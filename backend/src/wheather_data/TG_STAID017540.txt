@@ -18,7 +18,7 @@ This is the blended series of station BONDENO, ITALY (STAID: 17540)
 Blended and updated with sources:94400 95288 95952 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17540, 95952,20051201,-9999,    9
  17540, 95952,20051202,-9999,    9
  17540, 95952,20051203,-9999,    9

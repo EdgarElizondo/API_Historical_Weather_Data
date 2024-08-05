@@ -18,7 +18,7 @@ This is the blended series of station SCHIERKE, GERMANY (STAID: 4605)
 Blended and updated with sources:28352 31640 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4605, 28352,19021201,  -65,    0
   4605, 28352,19021202, -123,    0
   4605, 28352,19021203, -139,    0

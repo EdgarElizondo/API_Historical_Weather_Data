@@ -18,7 +18,7 @@ This is the blended series of station ASSWAN, EGYPT (STAID: 315)
 Blended and updated with sources:1069 962414 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    315,  1069,19940101,  235,    0
    315,  1069,19940102,  175,    0
    315,  1069,19940103,  156,    0

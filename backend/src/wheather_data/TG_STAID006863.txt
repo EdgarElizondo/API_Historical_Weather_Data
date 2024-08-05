@@ -18,7 +18,7 @@ This is the blended series of station SARKAVARE, SWEDEN (STAID: 6863)
 Blended and updated with sources:70762 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6863, 70762,19610101,  -34,    0
   6863, 70762,19610102,  -42,    0
   6863, 70762,19610103,  -99,    0

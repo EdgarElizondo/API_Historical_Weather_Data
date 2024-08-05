@@ -18,7 +18,7 @@ This is the blended series of station ERFURT-BINDERSLEBEN, GERMANY (STAID: 487)
 Blended and updated with sources:2342 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    487,  2342,19510101,    5,    0
    487,  2342,19510102,   11,    0
    487,  2342,19510103,    9,    0

@@ -18,7 +18,7 @@ This is the blended series of station PORTO, PORTUGAL (STAID: 215)
 Blended and updated with sources:867 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    215,   867,19410101,  118,    1
    215,   867,19410102,   73,    0
    215,   867,19410103,   42,    0

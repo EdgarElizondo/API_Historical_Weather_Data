@@ -18,7 +18,7 @@ This is the blended series of station LUND_LTH, SWEDEN (STAID: 5182)
 Blended and updated with sources:35183 35189 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5182, 35183,18630101,   40,    1
   5182, 35183,18630102,   40,    1
   5182, 35183,18630103,   36,    1

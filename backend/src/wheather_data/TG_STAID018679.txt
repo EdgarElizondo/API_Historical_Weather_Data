@@ -18,7 +18,7 @@ This is the blended series of station FV53 BRENNBORG, NORWAY (STAID: 18679)
 Blended and updated with sources:99613 99682 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18679, 99682,20140101,-9999,    9
  18679, 99682,20140102,-9999,    9
  18679, 99682,20140103,-9999,    9

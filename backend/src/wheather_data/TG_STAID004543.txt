@@ -18,7 +18,7 @@ This is the blended series of station RAUSCHBERG BEI RUHPOLDING, GERMANY (STAID:
 Blended and updated with sources:27608 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4543, 27608,19620701,   37,    0
   4543, 27608,19620702,   38,    0
   4543, 27608,19620703,   43,    0

@@ -18,7 +18,7 @@ This is the blended series of station ONA II, NORWAY (STAID: 329)
 Blended and updated with sources:9721 9730 9739 901212 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    329,  9721,19110101,   28,    1
    329,  9721,19110102,   22,    1
    329,  9721,19110103,   26,    1

@@ -18,7 +18,7 @@ This is the blended series of station JARNASKLUBB_A, SWEDEN (STAID: 5684)
 Blended and updated with sources:36845 902284 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5684, 36845,19940101,  -27,    0
   5684, 36845,19940102,  -82,    0
   5684, 36845,19940103, -108,    0

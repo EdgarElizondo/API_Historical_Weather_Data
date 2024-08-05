@@ -18,7 +18,7 @@ This is the blended series of station LEUNAWERKE, GERMANY (STAID: 11760)
 Blended and updated with sources:81152 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11760, 81152,19460101,  -33,    0
  11760, 81152,19460102,  -41,    0
  11760, 81152,19460103,  -18,    0

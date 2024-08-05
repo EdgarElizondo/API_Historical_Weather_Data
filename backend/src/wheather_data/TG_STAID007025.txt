@@ -18,7 +18,7 @@ This is the blended series of station HELSINKI VIIKIN KOETILA, FINLAND (STAID: 7
 Blended and updated with sources:84 42224 42239 42244 42249 42254 42294 42319 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7025,    84,19510101,  -63,    0
   7025,    84,19510102,  -52,    0
   7025,    84,19510103,  -33,    0

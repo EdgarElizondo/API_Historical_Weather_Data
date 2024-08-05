@@ -18,7 +18,7 @@ This is the blended series of station DOBROGOSZCZ, POLAND (STAID: 24942)
 Blended and updated with sources:137754 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24942,137754,19560101,   13,    0
  24942,137754,19560102,   24,    0
  24942,137754,19560103,  -21,    0

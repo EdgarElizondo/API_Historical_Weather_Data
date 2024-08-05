@@ -18,7 +18,7 @@ This is the blended series of station JANSSONHAUGEN VEST, NORWAY (STAID: 20059)
 Blended and updated with sources:105989 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20059,105989,20190927,  -23,    1
  20059,105989,20190928,  -58,    1
  20059,105989,20190929,  -38,    0

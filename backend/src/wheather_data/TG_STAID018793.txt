@@ -18,7 +18,7 @@ This is the blended series of station STARHEIM, NORWAY (STAID: 18793)
 Blended and updated with sources:100641 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18793,100641,19570601,   88,    0
  18793,100641,19570602,   97,    0
  18793,100641,19570603,   74,    0

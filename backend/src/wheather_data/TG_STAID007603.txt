@@ -18,7 +18,7 @@ This is the blended series of station TOHOLAMPI LAITALA, FINLAND (STAID: 7603)
 Blended and updated with sources:45220 902737 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7603, 45220,19921001,-9999,    9
   7603, 45220,19921002,-9999,    9
   7603, 45220,19921003,-9999,    9

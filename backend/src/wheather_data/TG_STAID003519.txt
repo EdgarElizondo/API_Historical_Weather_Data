@@ -18,7 +18,7 @@ This is the blended series of station STOCKHOLM-BROMMA, SWEDEN (STAID: 3519)
 Blended and updated with sources:36134 36167 902464 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3519, 36134,19490101,   34,    1
   3519, 36134,19490102,   45,    1
   3519, 36134,19490103,   34,    1

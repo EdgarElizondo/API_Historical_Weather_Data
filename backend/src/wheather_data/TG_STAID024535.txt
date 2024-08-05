@@ -18,7 +18,7 @@ This is the blended series of station SCHOENBERGALM, AUSTRIA (STAID: 24535)
 Blended and updated with sources:132564 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24535,132564,19570101,    8,    0
  24535,132564,19570102,    2,    0
  24535,132564,19570103,  -22,    0

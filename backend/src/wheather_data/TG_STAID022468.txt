@@ -18,7 +18,7 @@ This is the blended series of station DAHL, LUXEMBOURG (STAID: 22468)
 Blended and updated with sources:121061 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22468,121061,19910601,  116,    1
  22468,121061,19910602,  135,    1
  22468,121061,19910603,   69,    1

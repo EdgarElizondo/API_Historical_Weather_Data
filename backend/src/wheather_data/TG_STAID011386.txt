@@ -18,7 +18,7 @@ This is the blended series of station MASSOTERES, SPAIN (STAID: 11386)
 Blended and updated with sources:75685 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11386, 75685,20170501,-9999,    9
  11386, 75685,20170502,-9999,    9
  11386, 75685,20170503,-9999,    9

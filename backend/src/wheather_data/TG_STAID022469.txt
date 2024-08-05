@@ -18,7 +18,7 @@ This is the blended series of station ECHTERNACH, LUXEMBOURG (STAID: 22469)
 Blended and updated with sources:121071 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22469,121071,19490101,   69,    1
  22469,121071,19490102,   29,    1
  22469,121071,19490103,   23,    1

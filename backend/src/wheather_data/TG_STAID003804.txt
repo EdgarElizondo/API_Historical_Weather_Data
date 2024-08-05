@@ -18,7 +18,7 @@ This is the blended series of station ZLATOUST, RUSSIAN FEDERATION (STAID: 3804)
 Blended and updated with sources:49983 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3804, 49983,19360101, -107,    0
   3804, 49983,19360102,  -89,    0
   3804, 49983,19360103,  -55,    0

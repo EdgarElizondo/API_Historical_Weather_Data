@@ -18,7 +18,7 @@ This is the blended series of station STORFJALLET-SALEN, SWEDEN (STAID: 5583)
 Blended and updated with sources:36512 36521 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5583, 36512,19650101,  -21,    0
   5583, 36512,19650102,  -43,    0
   5583, 36512,19650103,  -86,    0

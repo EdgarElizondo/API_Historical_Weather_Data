@@ -18,7 +18,7 @@ This is the blended series of station OLEKMINSK, RUSSIAN FEDERATION (STAID: 3212
 Blended and updated with sources:16937 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3212, 16937,18820101,-9999,    9
   3212, 16937,18820102,-9999,    9
   3212, 16937,18820103,-9999,    9

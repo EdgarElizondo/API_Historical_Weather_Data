@@ -18,7 +18,7 @@ This is the blended series of station E14 TEVELDAL, NORWAY (STAID: 18598)
 Blended and updated with sources:99529 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18598, 99529,20140101,   17,    0
  18598, 99529,20140102,   12,    0
  18598, 99529,20140103,-9999,    9

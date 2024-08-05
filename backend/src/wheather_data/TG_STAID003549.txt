@@ -18,7 +18,7 @@ This is the blended series of station MT DILLON, IRELAND (STAID: 3549)
 Blended and updated with sources:16143 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3549, 16143,20061201,-9999,    9
   3549, 16143,20061202,-9999,    9
   3549, 16143,20061203,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station REISACH, AUSTRIA (STAID: 24327)
 Blended and updated with sources:129860 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24327,129860,19610101,  -40,    0
  24327,129860,19610102,  -41,    0
  24327,129860,19610103,  -37,    0

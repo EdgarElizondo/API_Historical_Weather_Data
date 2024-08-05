@@ -18,7 +18,7 @@ This is the blended series of station HELSINKI HELSINGIN MAJAKKA, FINLAND (STAID
 Blended and updated with sources:42219 902989 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7019, 42219,20030701,-9999,    9
   7019, 42219,20030702,-9999,    9
   7019, 42219,20030703,-9999,    9

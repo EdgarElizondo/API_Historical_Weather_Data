@@ -18,7 +18,7 @@ This is the blended series of station PTASZKOWA, POLAND (STAID: 24890)
 Blended and updated with sources:137130 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24890,137130,19860101,  -72,    0
  24890,137130,19860102,  -46,    0
  24890,137130,19860103,  -25,    0

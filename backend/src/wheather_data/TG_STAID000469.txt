@@ -18,7 +18,7 @@ This is the blended series of station LIST/SYLT, GERMANY (STAID: 469)
 Blended and updated with sources:2187 910020 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    469,  2187,19370101,   53,    0
    469,  2187,19370102,   58,    0
    469,  2187,19370103,   72,    0

@@ -18,7 +18,7 @@ This is the blended series of station FLAHULT, SWEDEN (STAID: 5303)
 Blended and updated with sources:35588 35612 902550 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5303, 35588,19020101,   28,    0
   5303, 35588,19020102,   11,    0
   5303, 35588,19020103,  -20,    0

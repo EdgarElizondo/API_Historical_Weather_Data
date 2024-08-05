@@ -18,7 +18,7 @@ This is the blended series of station PAFOS, CYPRUS (STAID: 384)
 Blended and updated with sources:15582 917600 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    384, 15582,19850101,  116,    0
    384, 15582,19850102,  122,    0
    384, 15582,19850103,  150,    0

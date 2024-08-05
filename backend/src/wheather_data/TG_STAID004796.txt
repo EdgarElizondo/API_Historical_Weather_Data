@@ -18,7 +18,7 @@ This is the blended series of station ZEHDENICK, GERMANY (STAID: 4796)
 Blended and updated with sources:30644 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4796, 30644,19480701,  132,    0
   4796, 30644,19480702,  161,    0
   4796, 30644,19480703,  123,    0

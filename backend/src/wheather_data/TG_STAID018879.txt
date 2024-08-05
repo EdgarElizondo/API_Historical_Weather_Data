@@ -18,7 +18,7 @@ This is the blended series of station BRATA, NORWAY (STAID: 18879)
 Blended and updated with sources:100742 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18879,100742,19651001,   45,    0
  18879,100742,19651002,   56,    0
  18879,100742,19651003,   47,    0

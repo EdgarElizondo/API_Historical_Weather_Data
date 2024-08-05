@@ -18,7 +18,7 @@ This is the blended series of station LIENZ, AUSTRIA (STAID: 24709)
 Blended and updated with sources:134813 911204 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24709,134813,18800101,-9999,    9
  24709,134813,18800102,-9999,    9
  24709,134813,18800103,-9999,    9

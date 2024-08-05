@@ -18,7 +18,7 @@ This is the blended series of station BEZEK, POLAND (STAID: 25026)
 Blended and updated with sources:138762 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25026,138762,19860101,  -67,    0
  25026,138762,19860102,  -55,    0
  25026,138762,19860103,  -17,    0

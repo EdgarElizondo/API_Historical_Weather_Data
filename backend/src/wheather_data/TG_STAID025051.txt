@@ -18,7 +18,7 @@ This is the blended series of station POSWIETNE, POLAND (STAID: 25051)
 Blended and updated with sources:139062 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25051,139062,19510101,  -52,    0
  25051,139062,19510102,  -27,    0
  25051,139062,19510103,   15,    0

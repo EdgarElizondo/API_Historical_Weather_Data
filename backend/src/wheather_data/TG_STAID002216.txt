@@ -18,7 +18,7 @@ This is the blended series of station SLETTNES FYR, NORWAY (STAID: 2216)
 Blended and updated with sources:9779 901078 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2216,  9779,19560801,-9999,    9
   2216,  9779,19560802,-9999,    9
   2216,  9779,19560803,-9999,    9

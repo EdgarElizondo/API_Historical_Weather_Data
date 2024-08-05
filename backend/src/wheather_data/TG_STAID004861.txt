@@ -18,7 +18,7 @@ This is the blended series of station DEMKER, GERMANY (STAID: 4861)
 Blended and updated with sources:29156 31424 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4861, 29156,19930101,  -55,    0
   4861, 29156,19930102,  -97,    0
   4861, 29156,19930103, -119,    0

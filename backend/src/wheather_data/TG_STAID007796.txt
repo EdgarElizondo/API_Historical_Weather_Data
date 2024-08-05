@@ -18,7 +18,7 @@ This is the blended series of station ROVANIEMI MLK. MARRASJARVI, FINLAND (STAID
 Blended and updated with sources:46225 46230 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7796, 46225,19830101,    0,    1
   7796, 46225,19830102,   -4,    0
   7796, 46225,19830103,  -42,    0

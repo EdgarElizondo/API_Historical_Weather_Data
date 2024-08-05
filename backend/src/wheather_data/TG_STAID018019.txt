@@ -18,7 +18,7 @@ This is the blended series of station SAERHEIM, NORWAY (STAID: 18019)
 Blended and updated with sources:99688 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18019, 99688,19870401,-9999,    9
  18019, 99688,19870402,   39,    0
  18019, 99688,19870403,   59,    0

@@ -18,7 +18,7 @@ This is the blended series of station SIMLANGSDALEN, SWEDEN (STAID: 5236)
 Blended and updated with sources:35360 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5236, 35360,19610101,    0,    0
   5236, 35360,19610102,   11,    0
   5236, 35360,19610103,   18,    0

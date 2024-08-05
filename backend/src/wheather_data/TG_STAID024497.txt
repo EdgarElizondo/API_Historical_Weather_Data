@@ -18,7 +18,7 @@ This is the blended series of station BRUCKNEUDORF/HEIDEHOF, AUSTRIA (STAID: 244
 Blended and updated with sources:126181 132070 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24497,132070,19390101,-9999,    9
  24497,132070,19390102,-9999,    9
  24497,132070,19390103,-9999,    9

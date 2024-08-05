@@ -18,7 +18,7 @@ This is the blended series of station AMI, NORWAY (STAID: 18924)
 Blended and updated with sources:100788 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18924,100788,19760901,-9999,    9
  18924,100788,19760902,-9999,    9
  18924,100788,19760903,-9999,    9

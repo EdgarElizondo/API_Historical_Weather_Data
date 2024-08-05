@@ -18,7 +18,7 @@ This is the blended series of station SKJOMEN - SLETTJORD, NORWAY (STAID: 18766)
 Blended and updated with sources:99742 100611 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18766,100611,19711001,   73,    0
  18766,100611,19711002,   43,    0
  18766,100611,19711003,   41,    0

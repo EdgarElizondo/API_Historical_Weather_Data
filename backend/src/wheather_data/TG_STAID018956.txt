@@ -18,7 +18,7 @@ This is the blended series of station GJEILO I SKJAK, NORWAY (STAID: 18956)
 Blended and updated with sources:99360 100825 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18956,100825,19700101,  -28,    0
  18956,100825,19700102,  -92,    0
  18956,100825,19700103,  -73,    0

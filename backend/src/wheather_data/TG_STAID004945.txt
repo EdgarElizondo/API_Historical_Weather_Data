@@ -18,7 +18,7 @@ This is the blended series of station ALFHAUSEN, GERMANY (STAID: 4945)
 Blended and updated with sources:31592 32432 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4945, 31592,19470101,   -2,    0
   4945, 31592,19470102,   11,    0
   4945, 31592,19470103,  -10,    0

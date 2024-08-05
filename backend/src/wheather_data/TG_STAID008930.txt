@@ -18,7 +18,7 @@ This is the blended series of station AINAZI, LATVIA (STAID: 8930)
 Blended and updated with sources:118710 926229 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8930,118710,19270101,  -95,    0
   8930,118710,19270102, -141,    0
   8930,118710,19270103,  -49,    0

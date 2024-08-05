@@ -18,7 +18,7 @@ This is the blended series of station REICHENAU/RAX, AUSTRIA (STAID: 24734)
 Blended and updated with sources:135138 911380 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24734,135138,18950101,-9999,    9
  24734,135138,18950102,-9999,    9
  24734,135138,18950103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station KONNERUD, NORWAY (STAID: 18137)
 Blended and updated with sources:99213 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18137, 99213,20100320,   20,    0
  18137, 99213,20100321,    0,    0
  18137, 99213,20100322,    9,    0

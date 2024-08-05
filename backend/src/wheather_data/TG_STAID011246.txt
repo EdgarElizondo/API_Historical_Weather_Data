@@ -18,7 +18,7 @@ This is the blended series of station NANCY-OCHEY, FRANCE (STAID: 11246)
 Blended and updated with sources:71630 907181 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11246, 71630,19630101,-9999,    9
  11246, 71630,19630102,-9999,    9
  11246, 71630,19630103,-9999,    9

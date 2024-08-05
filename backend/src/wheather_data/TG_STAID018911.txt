@@ -18,7 +18,7 @@ This is the blended series of station TENNEVOLL, NORWAY (STAID: 18911)
 Blended and updated with sources:100776 901196 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18911,100776,19641101,   67,    0
  18911,100776,19641102,   48,    0
  18911,100776,19641103,  -19,    0

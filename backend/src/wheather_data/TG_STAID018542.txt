@@ -18,7 +18,7 @@ This is the blended series of station RV15 MARKANE, NORWAY (STAID: 18542)
 Blended and updated with sources:99435 99740 901321 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18542,901321,19931101,-9999,    9
  18542,901321,19931102,-9999,    9
  18542,901321,19931103,-9999,    9

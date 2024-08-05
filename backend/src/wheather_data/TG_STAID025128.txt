@@ -18,7 +18,7 @@ This is the blended series of station JELENIA GORA, POLAND (STAID: 25128)
 Blended and updated with sources:139986 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25128,139986,19510101,  -80,    0
  25128,139986,19510102,   20,    0
  25128,139986,19510103,   28,    0

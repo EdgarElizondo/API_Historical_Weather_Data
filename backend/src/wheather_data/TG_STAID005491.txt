@@ -18,7 +18,7 @@ This is the blended series of station GRONBO, SWEDEN (STAID: 5491)
 Blended and updated with sources:36191 36218 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5491, 36191,19520601,  130,    0
   5491, 36191,19520602,  117,    0
   5491, 36191,19520603,  107,    0

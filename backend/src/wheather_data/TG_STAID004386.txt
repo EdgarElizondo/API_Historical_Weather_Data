@@ -18,7 +18,7 @@ This is the blended series of station MANSCHNOW, GERMANY (STAID: 4386)
 Blended and updated with sources:25724 910396 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4386, 25724,19850101,  -50,    0
   4386, 25724,19850102,  -49,    0
   4386, 25724,19850103,  -69,    0

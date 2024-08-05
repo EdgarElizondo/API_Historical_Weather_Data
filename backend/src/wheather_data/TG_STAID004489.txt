@@ -18,7 +18,7 @@ This is the blended series of station OBERWESER-GIESELWERDER, GERMANY (STAID: 44
 Blended and updated with sources:26960 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4489, 26960,19711201,   38,    0
   4489, 26960,19711202,   28,    0
   4489, 26960,19711203,   34,    0

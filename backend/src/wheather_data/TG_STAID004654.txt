@@ -18,7 +18,7 @@ This is the blended series of station WARTHAUSEN-BIRKENHARD, GERMANY (STAID: 465
 Blended and updated with sources:28940 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4654, 28940,19590101,   28,    0
   4654, 28940,19590102,   21,    0
   4654, 28940,19590103,    0,    0

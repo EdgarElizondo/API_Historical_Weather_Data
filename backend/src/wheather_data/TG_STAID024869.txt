@@ -18,7 +18,7 @@ This is the blended series of station LESKOWIEC, POLAND (STAID: 24869)
 Blended and updated with sources:136854 136878 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24869,136854,19870101,   29,    0
  24869,136854,19870102,  -62,    0
  24869,136854,19870103, -133,    0

@@ -18,7 +18,7 @@ This is the blended series of station MUSTASAARI VALASSAARET, FINLAND (STAID: 74
 Blended and updated with sources:44220 902910 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7408, 44220,19590101,  -10,    0
   7408, 44220,19590102,  -33,    0
   7408, 44220,19590103,  -30,    0

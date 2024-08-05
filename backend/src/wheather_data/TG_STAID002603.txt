@@ -18,7 +18,7 @@ This is the blended series of station DREVSJO, NORWAY (STAID: 2603)
 Blended and updated with sources:9968 901393 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2603,  9968,19570101,  -96,    0
   2603,  9968,19570102, -177,    0
   2603,  9968,19570103, -208,    0

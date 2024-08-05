@@ -18,7 +18,7 @@ This is the blended series of station RAAHE NAHKIAINEN, FINLAND (STAID: 7671)
 Blended and updated with sources:45570 902800 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7671, 45570,19971001,-9999,    9
   7671, 45570,19971002,   71,    0
   7671, 45570,19971003,   68,    0

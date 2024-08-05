@@ -18,7 +18,7 @@ This is the blended series of station RV36 ULEFOSS, NORWAY (STAID: 18405)
 Blended and updated with sources:99167 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18405, 99167,20140101,-9999,    9
  18405, 99167,20140102,-9999,    9
  18405, 99167,20140103,-9999,    9

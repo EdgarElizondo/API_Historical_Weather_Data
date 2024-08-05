@@ -18,7 +18,7 @@ This is the blended series of station VALLADOLID (VILLANUBLA), SPAIN (STAID: 397
 Blended and updated with sources:20597 908140 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3970, 20597,19361101,-9999,    9
   3970, 20597,19361102,-9999,    9
   3970, 20597,19361103,-9999,    9

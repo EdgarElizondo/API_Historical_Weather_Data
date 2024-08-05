@@ -18,7 +18,7 @@ This is the blended series of station KOVDOR, RUSSIAN FEDERATION (STAID: 8060)
 Blended and updated with sources:48073 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8060, 48073,19590101, -126,    0
   8060, 48073,19590102, -130,    0
   8060, 48073,19590103, -176,    0

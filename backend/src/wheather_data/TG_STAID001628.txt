@@ -18,7 +18,7 @@ This is the blended series of station KINLOSS, UNITED KINGDOM (STAID: 1628)
 Blended and updated with sources:6931 903066 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1628,  6931,20010101,   36,    0
   1628,  6931,20010102,   54,    0
   1628,  6931,20010103,   31,    0

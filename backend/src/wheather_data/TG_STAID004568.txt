@@ -18,7 +18,7 @@ This is the blended series of station ROTENBURG (WUMME), GERMANY (STAID: 4568)
 Blended and updated with sources:27908 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4568, 27908,19460101,  -27,    0
   4568, 27908,19460102,  -26,    0
   4568, 27908,19460103,  -28,    0

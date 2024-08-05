@@ -18,7 +18,7 @@ This is the blended series of station WEINSBERG, GERMANY (STAID: 4746)
 Blended and updated with sources:26924 30044 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4746, 30044,19530101,  -10,    0
   4746, 30044,19530102,   -9,    0
   4746, 30044,19530103,  -17,    0

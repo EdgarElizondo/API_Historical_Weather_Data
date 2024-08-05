@@ -18,7 +18,7 @@ This is the blended series of station MOSKVA VDNX, RUSSIAN FEDERATION (STAID: 87
 Blended and updated with sources:337 927612 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     87,   337,19480101,-9999,    9
     87,   337,19480102,-9999,    9
     87,   337,19480103,-9999,    9

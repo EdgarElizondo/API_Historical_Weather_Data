@@ -18,7 +18,7 @@ This is the blended series of station FEISTRITZ/ROSENTAL, AUSTRIA (STAID: 24355)
 Blended and updated with sources:130107 130224 134176 136425 911278 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24355,130107,19530501,-9999,    9
  24355,130107,19530502,-9999,    9
  24355,130107,19530503,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station SODERTALJE, SWEDEN (STAID: 5444)
 Blended and updated with sources:36056 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5444, 36056,19610101,    0,    0
   5444, 36056,19610102,    3,    0
   5444, 36056,19610103,   19,    0

@@ -18,7 +18,7 @@ This is the blended series of station AMSTETTEN, AUSTRIA (STAID: 23998)
 Blended and updated with sources:125622 125635 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23998,125635,19360101,   20,    0
  23998,125635,19360102,   14,    0
  23998,125635,19360103,   23,    0

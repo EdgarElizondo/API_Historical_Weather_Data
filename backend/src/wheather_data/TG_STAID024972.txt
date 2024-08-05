@@ -18,7 +18,7 @@ This is the blended series of station BORUSOWA, POLAND (STAID: 24972)
 Blended and updated with sources:138114 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24972,138114,19610101,  -24,    0
  24972,138114,19610102,   -7,    0
  24972,138114,19610103,   -1,    0

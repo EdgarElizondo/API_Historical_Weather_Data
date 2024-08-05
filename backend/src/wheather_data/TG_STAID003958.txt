@@ -18,7 +18,7 @@ This is the blended series of station LA PALMA/AEROPUERTO, SPAIN (STAID: 3958)
 Blended and updated with sources:20444 960005 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3958, 20444,19700401,  170,    0
   3958, 20444,19700402,  142,    0
   3958, 20444,19700403,  140,    0

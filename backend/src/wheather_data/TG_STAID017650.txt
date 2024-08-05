@@ -18,7 +18,7 @@ This is the blended series of station LAGO_SCAFFAIOLO, ITALY (STAID: 17650)
 Blended and updated with sources:95624 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17650, 95624,20100801,-9999,    9
  17650, 95624,20100802,-9999,    9
  17650, 95624,20100803,-9999,    9

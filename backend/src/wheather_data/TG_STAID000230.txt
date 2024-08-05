@@ -18,7 +18,7 @@ This is the blended series of station MADRID - RETIRO, SPAIN (STAID: 230)
 Blended and updated with sources:1000 20282 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    230,  1000,19200101,  104,    0
    230,  1000,19200102,   68,    0
    230,  1000,19200103,   55,    0

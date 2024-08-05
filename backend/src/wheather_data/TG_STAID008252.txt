@@ -18,7 +18,7 @@ This is the blended series of station OGURÑOVO, RUSSIAN FEDERATION (STAID: 82
 Blended and updated with sources:50418 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8252, 50418,19580101,  -64,    0
   8252, 50418,19580102, -100,    0
   8252, 50418,19580103, -119,    0

@@ -18,7 +18,7 @@ This is the blended series of station VERXNEE DUBROVO, RUSSIAN FEDERATION (STAID
 Blended and updated with sources:49838 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8183, 49838,19590101, -184,    0
   8183, 49838,19590102, -195,    0
   8183, 49838,19590103, -225,    0

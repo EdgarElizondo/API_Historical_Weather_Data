@@ -18,7 +18,7 @@ This is the blended series of station CUENCA, SPAIN (STAID: 3929)
 Blended and updated with sources:20057 908231 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3929, 20057,19510101,-9999,    9
   3929, 20057,19510102,-9999,    9
   3929, 20057,19510103,-9999,    9

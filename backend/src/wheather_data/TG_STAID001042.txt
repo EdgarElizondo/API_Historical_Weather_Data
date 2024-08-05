@@ -18,7 +18,7 @@ This is the blended series of station LYNGOR FYR, NORWAY (STAID: 1042)
 Blended and updated with sources:9655 901467 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1042,  9655,19560101,  -41,    0
   1042,  9655,19560102,  -39,    0
   1042,  9655,19560103,   41,    0

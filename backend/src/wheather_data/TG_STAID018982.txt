@@ -18,7 +18,7 @@ This is the blended series of station EVENSTAD - SVEA, NORWAY (STAID: 18982)
 Blended and updated with sources:99075 100758 100856 901383 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18982,100856,19710701,  141,    0
  18982,100856,19710702,  189,    0
  18982,100856,19710703,  201,    0

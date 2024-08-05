@@ -18,7 +18,7 @@ This is the blended series of station DALSJOFORS, SWEDEN (STAID: 5308)
 Blended and updated with sources:35606 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5308, 35606,19590501,  123,    0
   5308, 35606,19590502,   76,    0
   5308, 35606,19590503,   67,    0

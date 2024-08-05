@@ -18,7 +18,7 @@ This is the blended series of station SUSUMAN, RUSSIAN FEDERATION (STAID: 8117)
 Blended and updated with sources:48743 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8117, 48743,19370101, -542,    0
   8117, 48743,19370102, -550,    0
   8117, 48743,19370103, -522,    0

@@ -18,7 +18,7 @@ This is the blended series of station E39 EIKJE, NORWAY (STAID: 19175)
 Blended and updated with sources:100894 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19175,100894,20131001,-9999,    9
  19175,100894,20131002,-9999,    9
  19175,100894,20131003,-9999,    9

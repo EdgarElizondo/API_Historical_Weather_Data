@@ -18,7 +18,7 @@ This is the blended series of station OLANDS SODRA UDDE A, SWEDEN (STAID: 5205)
 Blended and updated with sources:35258 35261 902644 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5205, 35258,19370401,   23,    1
   5205, 35258,19370402,   31,    1
   5205, 35258,19370403,   32,    1

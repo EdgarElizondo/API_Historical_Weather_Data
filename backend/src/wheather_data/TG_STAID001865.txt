@@ -18,7 +18,7 @@ This is the blended series of station HASTINGS, UNITED KINGDOM (STAID: 1865)
 Blended and updated with sources:7059 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1865,  7059,19600101,   97,    1
   1865,  7059,19600102,   83,    0
   1865,  7059,19600103,   86,    0

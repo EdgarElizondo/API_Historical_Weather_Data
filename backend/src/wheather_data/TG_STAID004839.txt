@@ -18,7 +18,7 @@ This is the blended series of station DORNICK, GERMANY (STAID: 4839)
 Blended and updated with sources:27368 31160 910150 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4839, 27368,19500101,   -6,    0
   4839, 27368,19500102,   48,    0
   4839, 27368,19500103,   32,    0

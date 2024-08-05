@@ -18,7 +18,7 @@ This is the blended series of station FV50 VESTREDALEN, NORWAY (STAID: 18590)
 Blended and updated with sources:99511 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18590, 99511,20140101,-9999,    9
  18590, 99511,20140102,-9999,    9
  18590, 99511,20140103,  -26,    0

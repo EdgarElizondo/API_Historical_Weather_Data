@@ -18,7 +18,7 @@ This is the blended series of station ASTRAXAN', RUSSIAN FEDERATION (STAID: 73)
 Blended and updated with sources:281 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     73,   281,18810101,    7,    0
     73,   281,18810102,    8,    0
     73,   281,18810103,   -7,    0

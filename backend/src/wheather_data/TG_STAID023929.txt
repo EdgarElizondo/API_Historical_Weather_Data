@@ -18,7 +18,7 @@ This is the blended series of station GARS/KAMP, AUSTRIA (STAID: 23929)
 Blended and updated with sources:124751 130965 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23929,124751,19990301,-9999,    9
  23929,124751,19990302,-9999,    9
  23929,124751,19990303,-9999,    9

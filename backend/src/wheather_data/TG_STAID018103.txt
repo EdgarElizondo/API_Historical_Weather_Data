@@ -18,7 +18,7 @@ This is the blended series of station HORNSUND, NORWAY (STAID: 18103)
 Blended and updated with sources:99124 901003 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18103, 99124,20050701,   44,    0
  18103, 99124,20050702,   50,    0
  18103, 99124,20050703,   39,    0

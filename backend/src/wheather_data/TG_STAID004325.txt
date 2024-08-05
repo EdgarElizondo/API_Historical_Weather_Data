@@ -18,7 +18,7 @@ This is the blended series of station BAMBERG-ALTENBURG, GERMANY (STAID: 4325)
 Blended and updated with sources:24992 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4325, 24992,19480101,  -14,    0
   4325, 24992,19480102,   54,    0
   4325, 24992,19480103,   96,    0

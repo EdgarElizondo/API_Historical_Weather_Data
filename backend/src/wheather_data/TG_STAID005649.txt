@@ -18,7 +18,7 @@ This is the blended series of station STORSJO_KAPELL, SWEDEN (STAID: 5649)
 Blended and updated with sources:36725 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5649, 36725,19550101,  -10,    0
   5649, 36725,19550102, -176,    0
   5649, 36725,19550103, -279,    0

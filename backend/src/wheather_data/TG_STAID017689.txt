@@ -18,7 +18,7 @@ This is the blended series of station MONTEFIORINO, ITALY (STAID: 17689)
 Blended and updated with sources:96096 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17689, 96096,20051201,-9999,    9
  17689, 96096,20051202,-9999,    9
  17689, 96096,20051203,-9999,    9

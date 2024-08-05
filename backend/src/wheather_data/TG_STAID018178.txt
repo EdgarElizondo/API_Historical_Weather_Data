@@ -18,7 +18,7 @@ This is the blended series of station INNERDALEN, NORWAY (STAID: 18178)
 Blended and updated with sources:99332 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18178, 99332,20141001,  139,    0
  18178, 99332,20141002,   82,    0
  18178, 99332,20141003,  149,    0

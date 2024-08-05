@@ -18,7 +18,7 @@ This is the blended series of station ST.LEONHARD/PITZTAL, AUSTRIA (STAID: 24605
 Blended and updated with sources:133461 136568 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24605,136568,19670101,   19,    0
  24605,136568,19670102,   -6,    0
  24605,136568,19670103,  -81,    0

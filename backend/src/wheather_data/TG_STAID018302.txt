@@ -18,7 +18,7 @@ This is the blended series of station OSLO - HOVIN, NORWAY (STAID: 18302)
 Blended and updated with sources:601 99668 100647 901492 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18302,   601,19370201,  -65,    0
  18302,   601,19370202,  -49,    0
  18302,   601,19370203,  -61,    0

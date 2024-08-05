@@ -18,7 +18,7 @@ This is the blended series of station KAISHEIM-NEUHOF, GERMANY (STAID: 4271)
 Blended and updated with sources:23384 24344 910850 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4271, 24344,19460101,  -46,    0
   4271, 24344,19460102,  -54,    0
   4271, 24344,19460103,  -84,    0

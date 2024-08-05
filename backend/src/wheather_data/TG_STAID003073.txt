@@ -18,7 +18,7 @@ This is the blended series of station OKTYABR'SKOE, RUSSIAN FEDERATION (STAID: 3
 Blended and updated with sources:48553 923734 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3073, 48553,19360101,  -70,    0
   3073, 48553,19360102, -163,    0
   3073, 48553,19360103,  -77,    0

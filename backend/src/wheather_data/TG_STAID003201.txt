@@ -18,7 +18,7 @@ This is the blended series of station IVDEL', RUSSIAN FEDERATION (STAID: 3201)
 Blended and updated with sources:16877 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3201, 16877,19340101,-9999,    9
   3201, 16877,19340102,-9999,    9
   3201, 16877,19340103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station KR.ANSBACH WEIDENBACH, GERMANY (STAID: 473
 Blended and updated with sources:23024 29960 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4739, 29960,19480101,   -7,    0
   4739, 29960,19480102,   54,    0
   4739, 29960,19480103,   98,    0

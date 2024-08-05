@@ -18,7 +18,7 @@ This is the blended series of station COLORNO, ITALY (STAID: 17597)
 Blended and updated with sources:95016 95408 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17597, 95016,20051201,-9999,    9
  17597, 95016,20051202,-9999,    9
  17597, 95016,20051203,-9999,    9

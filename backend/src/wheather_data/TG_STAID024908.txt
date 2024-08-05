@@ -18,7 +18,7 @@ This is the blended series of station MSZANA DOLNA, POLAND (STAID: 24908)
 Blended and updated with sources:137298 137346 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24908,137346,19610101,    9,    0
  24908,137346,19610102,  -34,    0
  24908,137346,19610103,   28,    0

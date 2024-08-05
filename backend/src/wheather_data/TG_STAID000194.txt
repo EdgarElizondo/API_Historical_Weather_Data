@@ -18,7 +18,7 @@ This is the blended series of station UTSIRA FYR, NORWAY (STAID: 194)
 Blended and updated with sources:604 901403 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    194,   604,19000101,   58,    1
    194,   604,19000102,   35,    1
    194,   604,19000103,   25,    1

@@ -18,7 +18,7 @@ This is the blended series of station EBELEBEN, GERMANY (STAID: 4032)
 Blended and updated with sources:21476 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4032, 21476,19910101,   30,    0
   4032, 21476,19910102,   60,    0
   4032, 21476,19910103,   62,    0

@@ -18,7 +18,7 @@ This is the blended series of station POLIS, CYPRUS (STAID: 26)
 Blended and updated with sources:15583 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     26, 15583,19731101,-9999,    9
     26, 15583,19731102,-9999,    9
     26, 15583,19731103,  140,    1

@@ -18,7 +18,7 @@ This is the blended series of station JAKUSZYCE, POLAND (STAID: 24931)
 Blended and updated with sources:137622 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24931,137622,19940101,   -8,    0
  24931,137622,19940102,  -22,    0
  24931,137622,19940103,   -4,    0

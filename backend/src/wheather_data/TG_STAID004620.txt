@@ -18,7 +18,7 @@ This is the blended series of station SELB/OBERFRANKEN-LAUTERBACH, GERMANY (STAI
 Blended and updated with sources:28532 28784 31232 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4620, 28784,19410101,  -86,    0
   4620, 28784,19410102, -127,    0
   4620, 28784,19410103, -131,    0

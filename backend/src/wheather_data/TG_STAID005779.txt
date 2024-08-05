@@ -18,7 +18,7 @@ This is the blended series of station LULEA, SWEDEN (STAID: 5779)
 Blended and updated with sources:37148 37154 37160 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5779, 37160,19300101,  -13,    0
   5779, 37160,19300102,  -30,    0
   5779, 37160,19300103,   15,    0

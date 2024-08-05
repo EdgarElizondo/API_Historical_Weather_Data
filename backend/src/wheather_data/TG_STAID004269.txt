@@ -18,7 +18,7 @@ This is the blended series of station KAHL/MAIN, GERMANY (STAID: 4269)
 Blended and updated with sources:24320 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4269, 24320,19470101,  -14,    0
   4269, 24320,19470102,    0,    0
   4269, 24320,19470103,    7,    0

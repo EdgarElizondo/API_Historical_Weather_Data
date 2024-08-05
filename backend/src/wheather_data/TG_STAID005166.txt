@@ -18,7 +18,7 @@ This is the blended series of station SANDHAMMAREN, SWEDEN (STAID: 5166)
 Blended and updated with sources:35135 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5166, 35135,19660801,  146,    0
   5166, 35135,19660802,  156,    0
   5166, 35135,19660803,  149,    0

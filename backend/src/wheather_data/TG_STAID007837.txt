@@ -18,7 +18,7 @@ This is the blended series of station ENONTEKIO HETTA LENTOASEMA, FINLAND (STAID
 Blended and updated with sources:46441 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7837, 46441,19991001,-9999,    9
   7837, 46441,19991002,-9999,    9
   7837, 46441,19991003,-9999,    9

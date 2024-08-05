@@ -18,7 +18,7 @@ This is the blended series of station KALAJOKI RAHJA, FINLAND (STAID: 7589)
 Blended and updated with sources:45145 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7589, 45145,19780101, -103,    0
   7589, 45145,19780102,  -75,    0
   7589, 45145,19780103, -102,    0

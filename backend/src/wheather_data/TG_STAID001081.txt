@@ -18,7 +18,7 @@ This is the blended series of station INDIGA, RUSSIAN FEDERATION (STAID: 1081)
 Blended and updated with sources:48108 922292 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1081, 48108,19230101,-9999,    9
   1081, 48108,19230102,-9999,    9
   1081, 48108,19230103,-9999,    9

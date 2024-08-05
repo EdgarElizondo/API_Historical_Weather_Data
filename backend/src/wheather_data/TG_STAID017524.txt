@@ -18,7 +18,7 @@ This is the blended series of station BARDI, ITALY (STAID: 17524)
 Blended and updated with sources:94224 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17524, 94224,20051201,-9999,    9
  17524, 94224,20051202,-9999,    9
  17524, 94224,20051203,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station FRAXERN, AUSTRIA (STAID: 24781)
 Blended and updated with sources:135749 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24781,135749,19841201,   84,    0
  24781,135749,19841202,   85,    0
  24781,135749,19841203,   50,    0

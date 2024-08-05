@@ -18,7 +18,7 @@ This is the blended series of station SKANES_FAGERHULT, SWEDEN (STAID: 5212)
 Blended and updated with sources:35288 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5212, 35288,19650101,   25,    0
   5212, 35288,19650102,   14,    0
   5212, 35288,19650103,  -41,    0

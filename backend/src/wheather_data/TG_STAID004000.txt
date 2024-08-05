@@ -18,7 +18,7 @@ This is the blended series of station MARNITZ, GERMANY (STAID: 4000)
 Blended and updated with sources:21092 910264 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4000, 21092,19020101,   61,    0
   4000, 21092,19020102,   62,    0
   4000, 21092,19020103,   40,    0

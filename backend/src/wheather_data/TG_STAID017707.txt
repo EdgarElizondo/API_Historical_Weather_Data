@@ -18,7 +18,7 @@ This is the blended series of station OSPITALMONACALE, ITALY (STAID: 17707)
 Blended and updated with sources:95824 96320 96992 97208 97256 97272 97416 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17707, 97208,20051201,-9999,    9
  17707, 97208,20051202,-9999,    9
  17707, 97208,20051203,-9999,    9

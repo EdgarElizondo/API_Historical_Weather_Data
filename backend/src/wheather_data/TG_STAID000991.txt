@@ -18,7 +18,7 @@ This is the blended series of station AUCE, LATVIA (STAID: 991)
 Blended and updated with sources:118734 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    991,118734,19240401,    0,    0
    991,118734,19240402,  -23,    0
    991,118734,19240403,  -25,    0

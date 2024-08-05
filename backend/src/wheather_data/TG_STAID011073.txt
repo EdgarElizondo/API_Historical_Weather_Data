@@ -18,7 +18,7 @@ This is the blended series of station SANT PERE PESCADOR, SPAIN (STAID: 11073)
 Blended and updated with sources:56517 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11073, 56517,20080101,   38,    0
  11073, 56517,20080102,   63,    0
  11073, 56517,20080103,   81,    0

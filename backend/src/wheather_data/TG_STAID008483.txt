@@ -18,7 +18,7 @@ This is the blended series of station TIMOVSKOE, RUSSIAN FEDERATION (STAID: 8483
 Blended and updated with sources:51573 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8483, 51573,19000101, -249,    0
   8483, 51573,19000102, -249,    0
   8483, 51573,19000103, -215,    0

@@ -18,7 +18,7 @@ This is the blended series of station SCHONUNGEN-MAINBERG, GERMANY (STAID: 4872)
 Blended and updated with sources:31556 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4872, 31556,20050301,  -91,    0
   4872, 31556,20050302,  -83,    0
   4872, 31556,20050303,  -42,    0

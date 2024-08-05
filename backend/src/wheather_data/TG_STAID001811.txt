@@ -18,7 +18,7 @@ This is the blended series of station GOGERDDAN, UNITED KINGDOM (STAID: 1811)
 Blended and updated with sources:7005 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1811,  7005,19600101,   92,    0
   1811,  7005,19600102,   66,    0
   1811,  7005,19600103,   94,    0

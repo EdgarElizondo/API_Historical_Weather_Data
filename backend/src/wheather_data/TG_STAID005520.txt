@@ -18,7 +18,7 @@ This is the blended series of station STALLDALEN, SWEDEN (STAID: 5520)
 Blended and updated with sources:36308 36314 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5520, 36314,19610101,  -26,    0
   5520, 36314,19610102,  -30,    0
   5520, 36314,19610103,  -10,    0

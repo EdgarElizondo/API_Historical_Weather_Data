@@ -18,7 +18,7 @@ This is the blended series of station RAMNES - KILE VESTRE, NORWAY (STAID: 18032
 Blended and updated with sources:99045 99184 99238 99313 99440 99622 100987 124137 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18032,100987,20030201,-9999,    9
  18032,100987,20030202,-9999,    9
  18032,100987,20030203,-9999,    9

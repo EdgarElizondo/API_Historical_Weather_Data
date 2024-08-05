@@ -18,7 +18,7 @@ This is the blended series of station FAGERNES LUFTHAMN, NORWAY (STAID: 18090)
 Blended and updated with sources:99085 901368 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18090, 99085,20070530,  103,    0
  18090, 99085,20070531,   98,    0
  18090, 99085,20070601,   64,    0

@@ -18,7 +18,7 @@ This is the blended series of station KYTHIRA, GREECE (STAID: 844)
 Blended and updated with sources:55900 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    844, 55900,19980101,-9999,    9
    844, 55900,19980102,  118,    0
    844, 55900,19980103,  126,    0

@@ -18,7 +18,7 @@ This is the blended series of station MAR - SYNKEN, NORWAY (STAID: 19922)
 Blended and updated with sources:118343 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19922,118343,20210301,-9999,    9
  19922,118343,20210302,-9999,    9
  19922,118343,20210303,-9999,    9

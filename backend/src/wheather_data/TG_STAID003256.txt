@@ -18,7 +18,7 @@ This is the blended series of station E'KIMCHAN, RUSSIAN FEDERATION (STAID: 3256
 Blended and updated with sources:17231 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3256, 17231,19140101,-9999,    9
   3256, 17231,19140102,-9999,    9
   3256, 17231,19140103,-9999,    9

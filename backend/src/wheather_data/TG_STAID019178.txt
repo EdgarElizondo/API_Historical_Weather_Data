@@ -18,7 +18,7 @@ This is the blended series of station RAKE, NORWAY (STAID: 19178)
 Blended and updated with sources:100862 100906 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19178,100862,19710401,    9,    0
  19178,100862,19710402,   33,    0
  19178,100862,19710403,   54,    0

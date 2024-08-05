@@ -18,7 +18,7 @@ This is the blended series of station SULITJELMA GRUBER, NORWAY (STAID: 19087)
 Blended and updated with sources:100978 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19087,100978,19750101,   -7,    0
  19087,100978,19750102,   36,    0
  19087,100978,19750103,   23,    0

@@ -18,7 +18,7 @@ This is the blended series of station TARNABY, SWEDEN (STAID: 5786)
 Blended and updated with sources:37181 37202 902101 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5786, 37181,18930301,-9999,    9
   5786, 37181,18930302,-9999,    9
   5786, 37181,18930303,-9999,    9

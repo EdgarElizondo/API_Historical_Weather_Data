@@ -18,7 +18,7 @@ This is the blended series of station KRONACH, GERMANY (STAID: 4310)
 Blended and updated with sources:24812 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4310, 24812,19490101,   32,    0
   4310, 24812,19490102,   22,    0
   4310, 24812,19490103,   20,    0

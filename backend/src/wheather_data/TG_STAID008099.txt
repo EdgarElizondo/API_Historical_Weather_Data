@@ -18,7 +18,7 @@ This is the blended series of station UST'-CHARKY', RUSSIAN FEDERATION (STAID: 8
 Blended and updated with sources:48653 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8099, 48653,19660101, -313,    0
   8099, 48653,19660102, -493,    0
   8099, 48653,19660103, -460,    0

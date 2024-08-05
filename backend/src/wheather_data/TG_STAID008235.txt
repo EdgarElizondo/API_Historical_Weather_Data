@@ -18,7 +18,7 @@ This is the blended series of station TISUL', RUSSIAN FEDERATION (STAID: 8235)
 Blended and updated with sources:50333 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8235, 50333,19360101, -137,    0
   8235, 50333,19360102, -102,    0
   8235, 50333,19360103, -109,    0

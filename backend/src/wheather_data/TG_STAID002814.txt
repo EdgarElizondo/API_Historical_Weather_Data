@@ -18,7 +18,7 @@ This is the blended series of station FIORENZUOLA D'ARDA, ITALY (STAID: 2814)
 Blended and updated with sources:95296 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2814, 95296,20051201,-9999,    9
   2814, 95296,20051202,-9999,    9
   2814, 95296,20051203,-9999,    9

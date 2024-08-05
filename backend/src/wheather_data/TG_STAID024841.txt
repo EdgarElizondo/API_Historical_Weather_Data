@@ -18,7 +18,7 @@ This is the blended series of station REISSECK, AUSTRIA (STAID: 24841)
 Blended and updated with sources:136529 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24841,136529,19530601,   17,    0
  24841,136529,19530602,  -13,    0
  24841,136529,19530603,  -35,    0

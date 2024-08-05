@@ -18,7 +18,7 @@ This is the blended series of station MESPELBRUNN, GERMANY (STAID: 11762)
 Blended and updated with sources:81174 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11762, 81174,19530101,  -20,    0
  11762, 81174,19530102,  -10,    0
  11762, 81174,19530103,  -36,    0

@@ -18,7 +18,7 @@ This is the blended series of station ASBRACKA-TORPABRON_V, SWEDEN (STAID: 5347)
 Blended and updated with sources:35735 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5347, 35735,19960301,   21,    0
   5347, 35735,19960302,   -6,    0
   5347, 35735,19960303,  -32,    0

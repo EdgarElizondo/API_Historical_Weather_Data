@@ -18,7 +18,7 @@ This is the blended series of station SCHLESWIG-JAGEL, GERMANY (STAID: 4262)
 Blended and updated with sources:2195 24236 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4262,  2195,19470101,  -21,    0
   4262,  2195,19470102,  -20,    0
   4262,  2195,19470103,  -24,    0

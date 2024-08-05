@@ -18,7 +18,7 @@ This is the blended series of station STAMMBACH-QUERENBACH, GERMANY (STAID: 4661
 Blended and updated with sources:24056 29024 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4661, 24056,19430101,  -13,    0
   4661, 24056,19430102,  -11,    0
   4661, 24056,19430103,  -26,    0

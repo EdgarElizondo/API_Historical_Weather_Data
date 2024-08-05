@@ -18,7 +18,7 @@ This is the blended series of station ISTJOERNDALEN, SVALBARD AND JAN MAYEN (STA
 Blended and updated with sources:118163 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21771,118163,20200924,  -20,    1
  21771,118163,20200925,  -27,    1
  21771,118163,20200926,  -34,    0

@@ -18,7 +18,7 @@ This is the blended series of station RV555 SOTRABRUA VIND, NORWAY (STAID: 18382
 Blended and updated with sources:10655 99072 99130 99412 100691 100866 901317 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18382,100866,19040101,  -23,    0
  18382,100866,19040102,  -22,    0
  18382,100866,19040103,   32,    0

@@ -18,7 +18,7 @@ This is the blended series of station HONNEGRASNUTEN, NORWAY (STAID: 18102)
 Blended and updated with sources:99123 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18102, 99123,20161001,-9999,    9
  18102, 99123,20161002,-9999,    9
  18102, 99123,20161003,-9999,    9

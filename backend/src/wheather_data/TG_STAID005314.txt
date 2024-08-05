@@ -18,7 +18,7 @@ This is the blended series of station ANEBY, SWEDEN (STAID: 5314)
 Blended and updated with sources:35633 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5314, 35633,20010401,   64,    0
   5314, 35633,20010402,   56,    0
   5314, 35633,20010403,   77,    0

@@ -18,7 +18,7 @@ This is the blended series of station KVALNES I LOFOTEN, NORWAY (STAID: 11138)
 Blended and updated with sources:57182 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11138, 57182,19570101,   -7,    0
  11138, 57182,19570102,   14,    0
  11138, 57182,19570103,    4,    0

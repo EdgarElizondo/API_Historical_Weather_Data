@@ -18,7 +18,7 @@ This is the blended series of station E18 LIERSKOGEN, NORWAY (STAID: 18370)
 Blended and updated with sources:99112 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18370, 99112,20130201,-9999,    9
  18370, 99112,20130202,-9999,    9
  18370, 99112,20130203,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station MONTEACUTO_DELLALPI, ITALY (STAID: 17684)
 Blended and updated with sources:96024 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17684, 96024,20051201,-9999,    9
  17684, 96024,20051202,-9999,    9
  17684, 96024,20051203,-9999,    9

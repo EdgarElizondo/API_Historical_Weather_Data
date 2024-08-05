@@ -18,7 +18,7 @@ This is the blended series of station E10 AKKARVIKA, NORWAY (STAID: 18695)
 Blended and updated with sources:57158 99704 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18695, 57158,19570101,   -7,    0
  18695, 57158,19570102,    7,    0
  18695, 57158,19570103,    1,    0

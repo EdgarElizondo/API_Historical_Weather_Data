@@ -18,7 +18,7 @@ This is the blended series of station KITTILBU, NORWAY (STAID: 18772)
 Blended and updated with sources:100617 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18772,100617,19740501,   60,    0
  18772,100617,19740502,   52,    0
  18772,100617,19740503,   43,    0

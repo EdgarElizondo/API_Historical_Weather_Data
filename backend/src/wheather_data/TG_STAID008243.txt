@@ -18,7 +18,7 @@ This is the blended series of station TAJSHET, RUSSIAN FEDERATION (STAID: 8243)
 Blended and updated with sources:50373 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8243, 50373,19250101, -109,    0
   8243, 50373,19250102,  -90,    0
   8243, 50373,19250103, -113,    0

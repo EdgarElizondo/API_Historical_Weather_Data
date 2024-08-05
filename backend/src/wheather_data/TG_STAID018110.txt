@@ -18,7 +18,7 @@ This is the blended series of station SANDHORNOEYA - VATVIKFJELLET, NORWAY (STAI
 Blended and updated with sources:99148 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18110, 99148,20150901,   47,    0
  18110, 99148,20150902,   71,    0
  18110, 99148,20150903,   56,    0

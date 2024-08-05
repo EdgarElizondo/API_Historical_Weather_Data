@@ -18,7 +18,7 @@ This is the blended series of station JUUPAJOKI HYYTIALA, FINLAND (STAID: 7285)
 Blended and updated with sources:43594 902770 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7285, 43594,19590101,  -22,    0
   7285, 43594,19590102,  -35,    0
   7285, 43594,19590103,  -14,    0

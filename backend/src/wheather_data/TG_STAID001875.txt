@@ -18,7 +18,7 @@ This is the blended series of station BUTE: ROTHESAY, UNITED KINGDOM (STAID: 187
 Blended and updated with sources:7069 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1875,  7069,19600101,   66,    1
   1875,  7069,19600102,   36,    0
   1875,  7069,19600103,   58,    0

@@ -18,7 +18,7 @@ This is the blended series of station ALESUND IV, NORWAY (STAID: 18118)
 Blended and updated with sources:33748 99170 99314 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18118, 33748,19580101,-9999,    9
  18118, 33748,19580102,-9999,    9
  18118, 33748,19580103,-9999,    9

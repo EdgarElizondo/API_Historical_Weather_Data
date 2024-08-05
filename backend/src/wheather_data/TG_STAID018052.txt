@@ -18,7 +18,7 @@ This is the blended series of station TRYSIL - NORDRE KANKEN, NORWAY (STAID: 180
 Blended and updated with sources:99463 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18052, 99463,20181012,   56,    0
  18052, 99463,20181013,  100,    0
  18052, 99463,20181014,   97,    0

@@ -18,7 +18,7 @@ This is the blended series of station TENERIFE/LOS RODEOS, SPAIN (STAID: 455)
 Blended and updated with sources:20462 960015 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    455, 20462,19410801,  172,    0
    455, 20462,19410802,  182,    0
    455, 20462,19410803,  192,    0

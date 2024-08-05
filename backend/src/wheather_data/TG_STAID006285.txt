@@ -18,7 +18,7 @@ This is the blended series of station ARJANG, SWEDEN (STAID: 6285)
 Blended and updated with sources:65972 65981 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6285, 65972,19450101,  -10,    0
   6285, 65972,19450102,   35,    0
   6285, 65972,19450103,   -6,    0

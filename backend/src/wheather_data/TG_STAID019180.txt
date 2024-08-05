@@ -18,7 +18,7 @@ This is the blended series of station E18 VESTMARKA, NORWAY (STAID: 19180)
 Blended and updated with sources:99142 99178 100930 101023 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19180,100930,20130101,-9999,    9
  19180,100930,20130102,-9999,    9
  19180,100930,20130103,-9999,    9

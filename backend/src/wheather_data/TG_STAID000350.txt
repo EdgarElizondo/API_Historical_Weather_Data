@@ -18,7 +18,7 @@ This is the blended series of station VALLEY, UNITED KINGDOM (STAID: 350)
 Blended and updated with sources:6716 903302 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    350,  6716,20010101,   72,    0
    350,  6716,20010102,   81,    0
    350,  6716,20010103,   71,    0

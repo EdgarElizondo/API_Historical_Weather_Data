@@ -18,7 +18,7 @@ This is the blended series of station MANDAL, NORWAY (STAID: 19038)
 Blended and updated with sources:99161 100923 101001 901430 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19038,100923,19310101,   16,    0
  19038,100923,19310102,   16,    0
  19038,100923,19310103,   28,    0

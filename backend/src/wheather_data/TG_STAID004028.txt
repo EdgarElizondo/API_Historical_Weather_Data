@@ -18,7 +18,7 @@ This is the blended series of station BAD DURRENBERG, GERMANY (STAID: 4028)
 Blended and updated with sources:21428 30104 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4028, 21428,19470401,   97,    0
   4028, 21428,19470402,   97,    0
   4028, 21428,19470403,   69,    0

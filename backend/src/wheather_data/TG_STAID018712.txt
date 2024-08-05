@@ -18,7 +18,7 @@ This is the blended series of station FV714 HITRA, NORWAY (STAID: 18712)
 Blended and updated with sources:99727 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18712, 99727,20150901,-9999,    9
  18712, 99727,20150902,-9999,    9
  18712, 99727,20150903,-9999,    9

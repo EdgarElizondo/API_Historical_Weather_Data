@@ -18,7 +18,7 @@ This is the blended series of station UUNARTEQ, GREENLAND [DENMARK] (STAID: 8021
 Blended and updated with sources:47487 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8021, 47487,19580101, -232,    0
   8021, 47487,19580102, -212,    0
   8021, 47487,19580103, -202,    0

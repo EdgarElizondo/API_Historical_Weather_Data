@@ -18,7 +18,7 @@ This is the blended series of station KEMIJARVI JUMISKO, FINLAND (STAID: 7811)
 Blended and updated with sources:46306 46326 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7811, 46306,19590101,  -93,    0
   7811, 46306,19590102, -125,    0
   7811, 46306,19590103, -115,    0

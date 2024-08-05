@@ -18,7 +18,7 @@ This is the blended series of station VERGATO, ITALY (STAID: 2916)
 Blended and updated with sources:97776 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2916, 97776,20110701,  206,    0
   2916, 97776,20110702,  184,    0
   2916, 97776,20110703,  195,    0

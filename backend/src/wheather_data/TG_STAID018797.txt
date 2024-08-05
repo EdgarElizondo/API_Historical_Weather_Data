@@ -18,7 +18,7 @@ This is the blended series of station NERDAL I RANA, NORWAY (STAID: 18797)
 Blended and updated with sources:33904 99067 100644 100740 100833 100883 100903 901149 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18797,100903,19350601,-9999,    9
  18797,100903,19350602,-9999,    9
  18797,100903,19350603,-9999,    9

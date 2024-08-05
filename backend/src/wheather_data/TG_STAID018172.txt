@@ -18,7 +18,7 @@ This is the blended series of station JOMFRULAND, NORWAY (STAID: 18172)
 Blended and updated with sources:99310 100937 901476 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18172,100937,19540101,  -13,    0
  18172,100937,19540102,   32,    0
  18172,100937,19540103,   25,    0

@@ -18,7 +18,7 @@ This is the blended series of station KLODZKO, POLAND (STAID: 2036)
 Blended and updated with sources:6334 912520 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2036,  6334,19510101,  -24,    0
   2036,  6334,19510102,   26,    0
   2036,  6334,19510103,   33,    0

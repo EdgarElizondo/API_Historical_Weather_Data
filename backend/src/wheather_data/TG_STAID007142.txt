@@ -18,7 +18,7 @@ This is the blended series of station HAMEENLINNA LAMMI PAPPILA, FINLAND (STAID:
 Blended and updated with sources:42869 42914 902767 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7142, 42869,19630701,  153,    0
   7142, 42869,19630702,  152,    0
   7142, 42869,19630703,  164,    0

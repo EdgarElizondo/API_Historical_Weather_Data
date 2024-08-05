@@ -18,7 +18,7 @@ This is the blended series of station PLOUMANAC'H, FRANCE (STAID: 11245)
 Blended and updated with sources:71625 907117 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11245, 71625,19470801,-9999,    9
  11245, 71625,19470802,-9999,    9
  11245, 71625,19470803,-9999,    9

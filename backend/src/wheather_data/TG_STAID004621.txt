@@ -18,7 +18,7 @@ This is the blended series of station SCHOPFHEIM-EICHEN, GERMANY (STAID: 4621)
 Blended and updated with sources:28544 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4621, 28544,19530101,  -24,    0
   4621, 28544,19530102,   -9,    0
   4621, 28544,19530103,  -22,    0

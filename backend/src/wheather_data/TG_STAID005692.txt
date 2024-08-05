@@ -18,7 +18,7 @@ This is the blended series of station FOLLINGE_A, SWEDEN (STAID: 5692)
 Blended and updated with sources:36869 902231 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5692, 36869,19951201,   11,    0
   5692, 36869,19951202,  -31,    0
   5692, 36869,19951203,  -40,    0

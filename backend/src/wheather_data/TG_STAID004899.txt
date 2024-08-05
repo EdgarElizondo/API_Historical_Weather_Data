@@ -18,7 +18,7 @@ This is the blended series of station ALBSTADT-BADKAP, GERMANY (STAID: 4899)
 Blended and updated with sources:31880 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4899, 31880,19861101,   87,    0
   4899, 31880,19861102,   40,    0
   4899, 31880,19861103,  -14,    0

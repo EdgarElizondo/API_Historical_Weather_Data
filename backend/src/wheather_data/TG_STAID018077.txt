@@ -18,7 +18,7 @@ This is the blended series of station MYKLEBUSTFJELLET, NORWAY (STAID: 18077)
 Blended and updated with sources:99041 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18077, 99041,20141101,   80,    0
  18077, 99041,20141102,   55,    0
  18077, 99041,20141103,   29,    0

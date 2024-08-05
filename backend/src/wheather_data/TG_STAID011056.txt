@@ -18,7 +18,7 @@ This is the blended series of station MONTSERRAT-SANT DIMES, SPAIN (STAID: 11056
 Blended and updated with sources:56364 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11056, 56364,20080101,   48,    0
  11056, 56364,20080102,   36,    0
  11056, 56364,20080103,   45,    0

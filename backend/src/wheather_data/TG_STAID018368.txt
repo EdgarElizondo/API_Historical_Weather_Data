@@ -18,7 +18,7 @@ This is the blended series of station E16 HONING BRU, NORWAY (STAID: 18368)
 Blended and updated with sources:99110 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18368, 99110,20141201,-9999,    9
  18368, 99110,20141202,-9999,    9
  18368, 99110,20141203,-9999,    9

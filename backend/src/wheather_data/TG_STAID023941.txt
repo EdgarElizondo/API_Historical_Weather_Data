@@ -18,7 +18,7 @@ This is the blended series of station MISTELBACH, AUSTRIA (STAID: 23941)
 Blended and updated with sources:124907 124920 124946 124959 135008 911032 911332 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23941,124959,19360101,   57,    0
  23941,124959,19360102,   46,    0
  23941,124959,19360103,   44,    0

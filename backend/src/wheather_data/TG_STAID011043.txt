@@ -18,7 +18,7 @@ This is the blended series of station ILLA DE BUDA, SPAIN (STAID: 11043)
 Blended and updated with sources:56247 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11043, 56247,20080101,   55,    0
  11043, 56247,20080102,   68,    0
  11043, 56247,20080103,   66,    0

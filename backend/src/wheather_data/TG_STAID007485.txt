@@ -18,7 +18,7 @@ This is the blended series of station MULTIA SAHRAJARVI LINJALA, FINLAND (STAID:
 Blended and updated with sources:44615 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7485, 44615,19821001,-9999,    9
   7485, 44615,19821002,-9999,    9
   7485, 44615,19821003,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station VAGSLI, NORWAY (STAID: 18230)
 Blended and updated with sources:99469 901434 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18230, 99469,19941101,    3,    1
  18230, 99469,19941102,  -19,    1
  18230, 99469,19941103,  -37,    1

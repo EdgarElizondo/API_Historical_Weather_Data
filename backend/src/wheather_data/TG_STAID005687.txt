@@ -18,7 +18,7 @@ This is the blended series of station HOLMOGADD A, SWEDEN (STAID: 5687)
 Blended and updated with sources:36854 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5687, 36854,18531001,   80,    1
   5687, 36854,18531002,   80,    1
   5687, 36854,18531003,   70,    1

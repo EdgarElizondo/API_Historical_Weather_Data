@@ -18,7 +18,7 @@ This is the blended series of station KLAGENFURT-FLUGHAFEN, AUSTRIA (STAID: 2435
 Blended and updated with sources:130198 134748 911331 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24353,134748,19500401,   61,    0
  24353,134748,19500402,   70,    0
  24353,134748,19500403,   70,    0

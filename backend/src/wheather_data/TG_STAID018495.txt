@@ -18,7 +18,7 @@ This is the blended series of station BERGEN - SANDSLI, NORWAY (STAID: 18495)
 Blended and updated with sources:10655 99337 100576 100866 901311 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18495,100576,19000101,   32,    1
  18495,100576,19000102,   27,    1
  18495,100576,19000103,   27,    1

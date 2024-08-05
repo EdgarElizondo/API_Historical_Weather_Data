@@ -18,7 +18,7 @@ This is the blended series of station SLOSZOW, POLAND (STAID: 24937)
 Blended and updated with sources:137694 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24937,137694,19750101,   10,    0
  24937,137694,19750102,   24,    0
  24937,137694,19750103,   16,    0

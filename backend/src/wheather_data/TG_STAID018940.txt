@@ -18,7 +18,7 @@ This is the blended series of station MAGNOR, NORWAY (STAID: 18940)
 Blended and updated with sources:100678 100807 901498 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18940,100678,19570101,  -53,    0
  18940,100678,19570102,  -54,    0
  18940,100678,19570103,  -71,    0

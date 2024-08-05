@@ -18,7 +18,7 @@ This is the blended series of station BAGDARIN, RUSSIAN FEDERATION (STAID: 8331)
 Blended and updated with sources:50813 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8331, 50813,19360101,-9999,    9
   8331, 50813,19360102,-9999,    9
   8331, 50813,19360103,-9999,    9

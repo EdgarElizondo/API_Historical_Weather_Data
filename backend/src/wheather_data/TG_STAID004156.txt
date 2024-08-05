@@ -18,7 +18,7 @@ This is the blended series of station GRAINET-REHBERG, GERMANY (STAID: 4156)
 Blended and updated with sources:22964 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4156, 22964,19570501,   60,    0
   4156, 22964,19570502,   68,    0
   4156, 22964,19570503,   80,    0

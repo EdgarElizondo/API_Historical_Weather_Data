@@ -18,7 +18,7 @@ This is the blended series of station GISLAVED, SWEDEN (STAID: 5270)
 Blended and updated with sources:35474 63891 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5270, 63891,19610101,   -6,    0
   5270, 63891,19610102,    3,    0
   5270, 63891,19610103,    6,    0

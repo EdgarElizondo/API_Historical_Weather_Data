@@ -18,7 +18,7 @@ This is the blended series of station BRAKE-SUDERFELD, GERMANY (STAID: 4874)
 Blended and updated with sources:21692 31568 31580 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4874, 21692,19490101,   59,    0
   4874, 21692,19490102,   48,    0
   4874, 21692,19490103,   24,    0

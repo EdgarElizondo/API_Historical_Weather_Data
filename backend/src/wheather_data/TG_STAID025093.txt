@@ -18,7 +18,7 @@ This is the blended series of station SWIETAJNO, POLAND (STAID: 25093)
 Blended and updated with sources:139566 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25093,139566,20181001,   59,    0
  25093,139566,20181002,   80,    0
  25093,139566,20181003,   86,    0

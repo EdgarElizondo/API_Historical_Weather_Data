@@ -18,7 +18,7 @@ This is the blended series of station LISCA, SLOVENIA (STAID: 3334)
 Blended and updated with sources:15188 914024 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3334, 15188,19850101,  -94,    0
   3334, 15188,19850102,  -67,    0
   3334, 15188,19850103, -100,    0

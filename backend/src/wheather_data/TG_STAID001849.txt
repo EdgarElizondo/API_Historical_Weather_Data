@@ -18,7 +18,7 @@ This is the blended series of station BUXTON, UNITED KINGDOM (STAID: 1849)
 Blended and updated with sources:7043 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1849,  7043,18750101,-9999,    9
   1849,  7043,18750102,    5,    0
   1849,  7043,18750103,   42,    0

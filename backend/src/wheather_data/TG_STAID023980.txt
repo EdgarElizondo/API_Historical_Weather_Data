@@ -18,7 +18,7 @@ This is the blended series of station RIED IM INNKREIS, AUSTRIA (STAID: 23980)
 Blended and updated with sources:125414 131966 135814 911053 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23980,135814,19360101,   -1,    0
  23980,135814,19360102,    2,    0
  23980,135814,19360103,   34,    0

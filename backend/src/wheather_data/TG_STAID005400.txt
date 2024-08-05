@@ -18,7 +18,7 @@ This is the blended series of station FAGRE, SWEDEN (STAID: 5400)
 Blended and updated with sources:35879 35912 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5400, 35879,19490930,  107,    1
   5400, 35879,19491001,   97,    1
   5400, 35879,19491002,   87,    1

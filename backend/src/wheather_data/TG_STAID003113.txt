@@ -18,7 +18,7 @@ This is the blended series of station MAKUSHINO, RUSSIAN FEDERATION (STAID: 3113
 Blended and updated with sources:50013 928666 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3113, 50013,19360101,  -97,    0
   3113, 50013,19360102,  -94,    0
   3113, 50013,19360103, -134,    0

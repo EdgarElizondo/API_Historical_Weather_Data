@@ -18,7 +18,7 @@ This is the blended series of station GLEISDORF, AUSTRIA (STAID: 24835)
 Blended and updated with sources:136451 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24835,136451,19610101,  -36,    0
  24835,136451,19610102,   -1,    0
  24835,136451,19610103,  -11,    0

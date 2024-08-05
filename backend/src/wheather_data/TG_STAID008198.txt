@@ -18,7 +18,7 @@ This is the blended series of station TUKAN, RUSSIAN FEDERATION (STAID: 8198)
 Blended and updated with sources:50113 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8198, 50113,19590101, -142,    0
   8198, 50113,19590102, -180,    0
   8198, 50113,19590103, -162,    0

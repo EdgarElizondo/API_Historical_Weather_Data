@@ -18,7 +18,7 @@ This is the blended series of station SIEGEN (KLARANLAGE), GERMANY (STAID: 4642)
 Blended and updated with sources:28796 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4642, 28796,19370101,   51,    0
   4642, 28796,19370102,   42,    0
   4642, 28796,19370103,   81,    0

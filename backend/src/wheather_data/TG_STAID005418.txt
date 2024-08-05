@@ -18,7 +18,7 @@ This is the blended series of station URSHOLMEN, SWEDEN (STAID: 5418)
 Blended and updated with sources:35969 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5418, 35969,19300101,   42,    0
   5418, 35969,19300102,   25,    0
   5418, 35969,19300103,   54,    0

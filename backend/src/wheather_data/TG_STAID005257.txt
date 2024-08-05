@@ -18,7 +18,7 @@ This is the blended series of station BERG, SWEDEN (STAID: 5257)
 Blended and updated with sources:35435 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5257, 35435,19690701,  144,    0
   5257, 35435,19690702,  135,    0
   5257, 35435,19690703,  147,    0

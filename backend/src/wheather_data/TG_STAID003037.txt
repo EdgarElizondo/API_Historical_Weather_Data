@@ -18,7 +18,7 @@ This is the blended series of station ARALSKOE MORE, KAZAKHSTAN (STAID: 3037)
 Blended and updated with sources:17592 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3037, 17592,19050101,-9999,    9
   3037, 17592,19050102,-9999,    9
   3037, 17592,19050103,-9999,    9

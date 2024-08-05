@@ -18,7 +18,7 @@ This is the blended series of station SCHLEIZ, GERMANY (STAID: 4607)
 Blended and updated with sources:28376 910564 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4607, 28376,19510401,   50,    0
   4607, 28376,19510402,   64,    0
   4607, 28376,19510403,   37,    0

@@ -18,7 +18,7 @@ This is the blended series of station SODERARM, SWEDEN (STAID: 5504)
 Blended and updated with sources:36257 902493 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5504, 36257,19410101, -128,    1
   5504, 36257,19410102, -110,    1
   5504, 36257,19410103, -102,    1

@@ -18,7 +18,7 @@ This is the blended series of station COTTBUS (FLUGPLATZ), GERMANY (STAID: 4959)
 Blended and updated with sources:21260 32600 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4959, 21260,18870101,-9999,    9
   4959, 21260,18870102,-9999,    9
   4959, 21260,18870103,-9999,    9

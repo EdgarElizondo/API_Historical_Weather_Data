@@ -18,7 +18,7 @@ This is the blended series of station LOEN - RAUDI, NORWAY (STAID: 19082)
 Blended and updated with sources:100862 100973 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19082,100862,19710401,    9,    1
  19082,100862,19710402,   33,    1
  19082,100862,19710403,   54,    1

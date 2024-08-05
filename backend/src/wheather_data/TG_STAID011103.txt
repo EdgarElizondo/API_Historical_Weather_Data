@@ -18,7 +18,7 @@ This is the blended series of station CAWOOD, UNITED KINGDOM (STAID: 11103)
 Blended and updated with sources:56843 903355 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11103, 56843,20130101,   53,    0
  11103, 56843,20130102,   82,    0
  11103, 56843,20130103,   91,    0

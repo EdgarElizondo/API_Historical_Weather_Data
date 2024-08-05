@@ -18,7 +18,7 @@ This is the blended series of station PRUDNIK, POLAND (STAID: 24946)
 Blended and updated with sources:137802 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24946,137802,19560101,   10,    1
  24946,137802,19560102,   12,    1
  24946,137802,19560103,  -32,    1

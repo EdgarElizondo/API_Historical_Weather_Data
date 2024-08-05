@@ -18,7 +18,7 @@ This is the blended series of station VASTMARKUM_A, SWEDEN (STAID: 5660)
 Blended and updated with sources:36758 902260 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5660, 36758,19951201,-9999,    9
   5660, 36758,19951202,-9999,    9
   5660, 36758,19951203,-9999,    9

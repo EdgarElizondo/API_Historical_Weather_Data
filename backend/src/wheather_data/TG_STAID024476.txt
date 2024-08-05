@@ -18,7 +18,7 @@ This is the blended series of station GOLLING, AUSTRIA (STAID: 24476)
 Blended and updated with sources:131797 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24476,131797,20081001,  133,    0
  24476,131797,20081002,  117,    0
  24476,131797,20081003,   78,    0

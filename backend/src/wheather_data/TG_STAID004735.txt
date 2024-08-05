@@ -18,7 +18,7 @@ This is the blended series of station BLANKENRATH, GERMANY (STAID: 4735)
 Blended and updated with sources:29912 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4735, 29912,19470101,    6,    0
   4735, 29912,19470102,  -12,    0
   4735, 29912,19470103,  -30,    0

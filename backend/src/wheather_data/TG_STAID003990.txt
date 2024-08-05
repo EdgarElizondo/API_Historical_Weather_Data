@@ -18,7 +18,7 @@ This is the blended series of station GERA-LEUMNITZ, GERMANY (STAID: 3990)
 Blended and updated with sources:20972 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3990, 20972,19520101,   20,    0
   3990, 20972,19520102,   46,    0
   3990, 20972,19520103,   22,    0

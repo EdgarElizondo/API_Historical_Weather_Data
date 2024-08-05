@@ -18,7 +18,7 @@ This is the blended series of station LEGIONOWO, POLAND (STAID: 25052)
 Blended and updated with sources:139074 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25052,139074,19510201,-9999,    9
  25052,139074,19510202,-9999,    9
  25052,139074,19510203,-9999,    9

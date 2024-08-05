@@ -18,7 +18,7 @@ This is the blended series of station KIRKWALL, UNITED KINGDOM (STAID: 1627)
 Blended and updated with sources:6930 903017 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1627,  6930,20010101,   46,    0
   1627,  6930,20010102,   58,    0
   1627,  6930,20010103,   54,    0

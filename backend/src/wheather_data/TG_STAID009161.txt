@@ -18,7 +18,7 @@ This is the blended series of station KROSCIENKO, POLAND (STAID: 9161)
 Blended and updated with sources:140499 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   9161,140499,19570101,   13,    1
   9161,140499,19570102,   27,    1
   9161,140499,19570103,   -3,    1

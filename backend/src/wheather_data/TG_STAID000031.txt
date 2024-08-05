@@ -18,7 +18,7 @@ This is the blended series of station MARSEILLE OBS. PALAIS-LONCHAMP, FRANCE (ST
 Blended and updated with sources:838 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     31,   838,19000101,  139,    0
     31,   838,19000102,  156,    0
     31,   838,19000103,  173,    0

@@ -18,7 +18,7 @@ This is the blended series of station KOLGUEV SEVERNY'J, RUSSIAN FEDERATION (STA
 Blended and updated with sources:48038 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8058, 48038,19330101,-9999,    9
   8058, 48038,19330102,-9999,    9
   8058, 48038,19330103,-9999,    9

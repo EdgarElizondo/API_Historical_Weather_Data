@@ -18,7 +18,7 @@ This is the blended series of station TINGVOLL, NORWAY (STAID: 18008)
 Blended and updated with sources:99089 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18008, 99089,20130101,   40,    0
  18008, 99089,20130102,   36,    0
  18008, 99089,20130103,   53,    0

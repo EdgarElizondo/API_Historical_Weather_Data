@@ -18,7 +18,7 @@ This is the blended series of station MATTMAR_V, SWEDEN (STAID: 5675)
 Blended and updated with sources:36818 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5675, 36818,19960301,  -17,    0
   5675, 36818,19960302,  -36,    0
   5675, 36818,19960303,   -6,    0

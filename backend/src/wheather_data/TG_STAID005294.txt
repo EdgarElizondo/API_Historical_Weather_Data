@@ -18,7 +18,7 @@ This is the blended series of station HASSLEBY, SWEDEN (STAID: 5294)
 Blended and updated with sources:35558 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5294, 35558,19480801,  234,    0
   5294, 35558,19480802,  220,    0
   5294, 35558,19480803,  157,    0

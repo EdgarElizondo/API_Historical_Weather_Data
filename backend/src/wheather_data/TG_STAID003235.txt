@@ -18,7 +18,7 @@ This is the blended series of station VITIM, RUSSIAN FEDERATION (STAID: 3235)
 Blended and updated with sources:17126 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3235, 17126,19280101,-9999,    9
   3235, 17126,19280102,-9999,    9
   3235, 17126,19280103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station VLIELAND, NETHERLANDS (STAID: 601)
 Blended and updated with sources:2446 906242 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    601,906242,19950901,-9999,    9
    601,906242,19950902,  168,    0
    601,906242,19950903,  159,    0

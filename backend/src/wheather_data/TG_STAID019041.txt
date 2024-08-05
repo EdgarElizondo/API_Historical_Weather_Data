@@ -18,7 +18,7 @@ This is the blended series of station SKUDENES III, NORWAY (STAID: 19041)
 Blended and updated with sources:100645 100794 100925 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19041,100794,19000101,   57,    1
  19041,100794,19000102,   29,    1
  19041,100794,19000103,   31,    1

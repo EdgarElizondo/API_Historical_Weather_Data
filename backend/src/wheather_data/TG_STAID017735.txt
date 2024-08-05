@@ -18,7 +18,7 @@ This is the blended series of station PONTELAGOSCURO, ITALY (STAID: 17735)
 Blended and updated with sources:95792 96640 97960 916133 916138 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17735,916133,20051201,   55,    0
  17735,916133,20051202,   23,    0
  17735,916133,20051203,   76,    0

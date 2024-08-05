@@ -18,7 +18,7 @@ This is the blended series of station LIBERTOW, POLAND (STAID: 24866)
 Blended and updated with sources:136842 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24866,136842,19910101,   27,    0
  24866,136842,19910102,   35,    0
  24866,136842,19910103,   78,    0

@@ -18,7 +18,7 @@ This is the blended series of station ANDAU, AUSTRIA (STAID: 24518)
 Blended and updated with sources:124296 126779 132343 911395 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24518,132343,19480101,-9999,    9
  24518,132343,19480102,  -34,    0
  24518,132343,19480103,   40,    0

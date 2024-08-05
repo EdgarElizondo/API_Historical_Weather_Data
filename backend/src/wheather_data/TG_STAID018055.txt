@@ -18,7 +18,7 @@ This is the blended series of station GRAN, NORWAY (STAID: 18055)
 Blended and updated with sources:99476 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18055, 99476,20130101,   -2,    0
  18055, 99476,20130102,  -75,    0
  18055, 99476,20130103,  -48,    0

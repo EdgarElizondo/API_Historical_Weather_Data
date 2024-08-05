@@ -18,7 +18,7 @@ This is the blended series of station FELDKIRCHEN/MATTIGHOFEN, AUSTRIA (STAID: 2
 Blended and updated with sources:130809 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24400,130809,19770601,   93,    0
  24400,130809,19770602,  101,    0
  24400,130809,19770603,  116,    0

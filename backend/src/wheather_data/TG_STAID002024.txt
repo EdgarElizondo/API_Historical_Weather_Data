@@ -18,7 +18,7 @@ This is the blended series of station SUWALKI, POLAND (STAID: 2024)
 Blended and updated with sources:6073 912195 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2024,  6073,19610101,  -13,    0
   2024,  6073,19610102,   -7,    0
   2024,  6073,19610103,   -8,    0

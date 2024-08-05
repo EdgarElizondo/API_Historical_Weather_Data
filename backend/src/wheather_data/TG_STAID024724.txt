@@ -18,7 +18,7 @@ This is the blended series of station POYSDORF-OST, AUSTRIA (STAID: 24724)
 Blended and updated with sources:124959 135008 911032 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24724,124959,19360101,   57,    0
  24724,124959,19360102,   46,    0
  24724,124959,19360103,   44,    0

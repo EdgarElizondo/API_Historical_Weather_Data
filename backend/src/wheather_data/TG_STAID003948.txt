@@ -18,7 +18,7 @@ This is the blended series of station MADRID/GETAFE, SPAIN (STAID: 3948)
 Blended and updated with sources:20291 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3948, 20291,19510101,   41,    0
   3948, 20291,19510102,   64,    0
   3948, 20291,19510103,   41,    0

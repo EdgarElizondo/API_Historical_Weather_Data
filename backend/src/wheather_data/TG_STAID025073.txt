@@ -18,7 +18,7 @@ This is the blended series of station PRZELEWICE, POLAND (STAID: 25073)
 Blended and updated with sources:139326 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25073,139326,19560101,   10,    1
  25073,139326,19560102,   11,    1
  25073,139326,19560103,  -16,    0

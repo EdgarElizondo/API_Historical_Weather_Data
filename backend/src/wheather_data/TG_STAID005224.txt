@@ -18,7 +18,7 @@ This is the blended series of station GENEVAD, SWEDEN (STAID: 5224)
 Blended and updated with sources:35324 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5224, 35324,19450101,  -29,    0
   5224, 35324,19450102,   32,    0
   5224, 35324,19450103,   40,    0

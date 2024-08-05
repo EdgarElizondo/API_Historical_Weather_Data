@@ -18,7 +18,7 @@ This is the blended series of station GERNSHEIM-ALLMENDFELD, GERMANY (STAID: 414
 Blended and updated with sources:22808 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4143, 22808,19560101,   30,    0
   4143, 22808,19560102,   45,    0
   4143, 22808,19560103,   12,    0

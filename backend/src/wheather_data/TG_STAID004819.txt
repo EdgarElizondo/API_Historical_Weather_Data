@@ -18,7 +18,7 @@ This is the blended series of station REIT IM WINKL, GERMANY (STAID: 4819)
 Blended and updated with sources:30920 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4819, 30920,19450101,  -65,    0
   4819, 30920,19450102,  -96,    0
   4819, 30920,19450103,  -92,    0

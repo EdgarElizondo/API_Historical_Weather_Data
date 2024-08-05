@@ -18,7 +18,7 @@ This is the blended series of station ALUKSNE, LATVIA (STAID: 986)
 Blended and updated with sources:5295 926346 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    986,  5295,19450601,  195,    0
    986,  5295,19450602,  189,    0
    986,  5295,19450603,  122,    0

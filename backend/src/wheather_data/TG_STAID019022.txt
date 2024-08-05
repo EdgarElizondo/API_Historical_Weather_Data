@@ -18,7 +18,7 @@ This is the blended series of station OESTFOLDTOPPEN, NORWAY (STAID: 19022)
 Blended and updated with sources:100904 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19022,100904,19570501,   31,    0
  19022,100904,19570502,   62,    0
  19022,100904,19570503,   59,    0

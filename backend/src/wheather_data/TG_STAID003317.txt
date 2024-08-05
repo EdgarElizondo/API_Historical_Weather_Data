@@ -18,7 +18,7 @@ This is the blended series of station VOJSKO, SLOVENIA (STAID: 3317)
 Blended and updated with sources:15018 914009 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3317, 15018,19610101,  -35,    0
   3317, 15018,19610102,    3,    0
   3317, 15018,19610103,   11,    0

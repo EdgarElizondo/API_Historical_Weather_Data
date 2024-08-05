@@ -18,7 +18,7 @@ This is the blended series of station SCHORNDORF-KNOBLING, GERMANY (STAID: 4622)
 Blended and updated with sources:28556 32528 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4622, 32528,19480201,   56,    0
   4622, 32528,19480202,   52,    0
   4622, 32528,19480203,   89,    0

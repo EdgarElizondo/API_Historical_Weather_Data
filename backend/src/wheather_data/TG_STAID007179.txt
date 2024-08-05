@@ -18,7 +18,7 @@ This is the blended series of station KOUVOLA ANJALA, FINLAND (STAID: 7179)
 Blended and updated with sources:43054 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7179, 43054,19590101,   -5,    0
   7179, 43054,19590102,   -5,    0
   7179, 43054,19590103,    4,    0

@@ -18,7 +18,7 @@ This is the blended series of station BREST, BELARUS (STAID: 653)
 Blended and updated with sources:6222 17442 933008 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    653, 17442,19440101,-9999,    9
    653, 17442,19440102,-9999,    9
    653, 17442,19440103,-9999,    9

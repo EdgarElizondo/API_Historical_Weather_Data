@@ -18,7 +18,7 @@ This is the blended series of station LUBNY, UKRAINE (STAID: 1482)
 Blended and updated with sources:5515 933377 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1482,  5515,19360101,    8,    0
   1482,  5515,19360102,  -10,    0
   1482,  5515,19360103,  -34,    0

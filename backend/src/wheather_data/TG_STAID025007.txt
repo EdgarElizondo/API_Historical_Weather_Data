@@ -18,7 +18,7 @@ This is the blended series of station SMOLICE, POLAND (STAID: 25007)
 Blended and updated with sources:138534 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25007,138534,19610101,    2,    0
  25007,138534,19610102,   -1,    0
  25007,138534,19610103,   20,    0

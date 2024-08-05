@@ -18,7 +18,7 @@ This is the blended series of station WAGHAUSEL-KIRRLACH, GERMANY (STAID: 4719)
 Blended and updated with sources:27332 29720 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4719, 27332,19480101,   24,    0
   4719, 27332,19480102,   93,    0
   4719, 27332,19480103,  118,    0

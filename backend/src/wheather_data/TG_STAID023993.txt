@@ -18,7 +18,7 @@ This is the blended series of station WACHTBERG/STEYR, AUSTRIA (STAID: 23993)
 Blended and updated with sources:125570 125583 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23993,125570,19850401,  110,    0
  23993,125570,19850402,   94,    0
  23993,125570,19850403,   96,    0

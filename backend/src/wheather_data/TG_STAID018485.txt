@@ -18,7 +18,7 @@ This is the blended series of station SNORRE A, NORWAY (STAID: 18485)
 Blended and updated with sources:99064 99317 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18485, 99317,20140801,-9999,    9
  18485, 99317,20140802,-9999,    9
  18485, 99317,20140803,-9999,    9

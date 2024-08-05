@@ -18,7 +18,7 @@ This is the blended series of station RIOLA_DI_VERGATO, ITALY (STAID: 17867)
 Blended and updated with sources:98032 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17867, 98032,20190401,-9999,    9
  17867, 98032,20190402,-9999,    9
  17867, 98032,20190403,-9999,    9

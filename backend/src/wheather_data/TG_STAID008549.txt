@@ -18,7 +18,7 @@ This is the blended series of station KRASNAYA POLYANA, RUSSIAN FEDERATION (STAI
 Blended and updated with sources:52333 937107 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8549, 52333,19360101,   10,    0
   8549, 52333,19360102,   10,    0
   8549, 52333,19360103,   16,    0

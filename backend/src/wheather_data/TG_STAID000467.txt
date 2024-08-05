@@ -18,7 +18,7 @@ This is the blended series of station UFS TW EMS, GERMANY (STAID: 467)
 Blended and updated with sources:2171 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    467,  2171,20000701,  133,    0
    467,  2171,20000702,  144,    0
    467,  2171,20000703,  158,    0

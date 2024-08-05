@@ -18,7 +18,7 @@ This is the blended series of station MEHAMN LUFTHAVN, NORWAY (STAID: 5004)
 Blended and updated with sources:33148 901074 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5004, 33148,19970601,-9999,    9
   5004, 33148,19970602,-9999,    9
   5004, 33148,19970603,-9999,    9

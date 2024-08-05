@@ -18,7 +18,7 @@ This is the blended series of station STEINHAGEN-NEGAST, GERMANY (STAID: 4847)
 Blended and updated with sources:31088 31256 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4847, 31088,19981001,   89,    0
   4847, 31088,19981002,   83,    0
   4847, 31088,19981003,   55,    0

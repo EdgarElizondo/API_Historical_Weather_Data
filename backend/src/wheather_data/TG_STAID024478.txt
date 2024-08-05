@@ -18,7 +18,7 @@ This is the blended series of station KOLLERSCHLAG, AUSTRIA (STAID: 24478)
 Blended and updated with sources:124478 131823 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24478,124478,18950701,-9999,    9
  24478,124478,18950702,-9999,    9
  24478,124478,18950703,-9999,    9

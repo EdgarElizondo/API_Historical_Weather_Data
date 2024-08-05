@@ -18,7 +18,7 @@ This is the blended series of station BRAND, AUSTRIA (STAID: 24626)
 Blended and updated with sources:133734 911304 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24626,133734,20010601,-9999,    9
  24626,133734,20010602,-9999,    9
  24626,133734,20010603,-9999,    9

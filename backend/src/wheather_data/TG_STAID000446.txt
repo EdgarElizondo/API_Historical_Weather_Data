@@ -18,7 +18,7 @@ This is the blended series of station RIGA, LATVIA (STAID: 446)
 Blended and updated with sources:5287 118958 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    446,  5287,19230101,   38,    0
    446,  5287,19230102,   24,    0
    446,  5287,19230103,    4,    0

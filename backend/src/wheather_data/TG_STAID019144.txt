@@ -18,7 +18,7 @@ This is the blended series of station RV555 SOTRABRUA, NORWAY (STAID: 19144)
 Blended and updated with sources:5463 10655 99130 99724 100576 100691 100866 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19144,100576,19000101,   32,    0
  19144,100576,19000102,   27,    0
  19144,100576,19000103,   27,    0

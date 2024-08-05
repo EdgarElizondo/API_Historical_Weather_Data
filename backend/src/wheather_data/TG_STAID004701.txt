@@ -18,7 +18,7 @@ This is the blended series of station TUTTLINGEN, GERMANY (STAID: 4701)
 Blended and updated with sources:29504 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4701, 29504,19910201,  -64,    0
   4701, 29504,19910202,  -72,    0
   4701, 29504,19910203,  -52,    0

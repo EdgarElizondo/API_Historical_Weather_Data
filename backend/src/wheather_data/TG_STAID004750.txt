@@ -18,7 +18,7 @@ This is the blended series of station WEISSENBURG, GERMANY (STAID: 4750)
 Blended and updated with sources:30092 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4750, 30092,18790101,   73,    0
   4750, 30092,18790102,   38,    0
   4750, 30092,18790103,   25,    0

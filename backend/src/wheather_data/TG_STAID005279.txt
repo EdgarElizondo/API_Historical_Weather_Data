@@ -18,7 +18,7 @@ This is the blended series of station AMBJORNARP, SWEDEN (STAID: 5279)
 Blended and updated with sources:35513 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5279, 35513,19490101,   12,    1
   5279, 35513,19490102,   24,    1
   5279, 35513,19490103,   18,    1

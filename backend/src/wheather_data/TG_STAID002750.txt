@@ -18,7 +18,7 @@ This is the blended series of station TORSVAG FYR, NORWAY (STAID: 2750)
 Blended and updated with sources:11320 901033 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2750, 11320,19531201,-9999,    9
   2750, 11320,19531202,-9999,    9
   2750, 11320,19531203,-9999,    9

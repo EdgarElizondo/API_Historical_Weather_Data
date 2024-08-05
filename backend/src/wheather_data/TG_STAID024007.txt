@@ -18,7 +18,7 @@ This is the blended series of station OBERNDORF/MELK, AUSTRIA (STAID: 24007)
 Blended and updated with sources:125739 125752 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24007,125739,19771101,   79,    0
  24007,125739,19771102,   78,    0
  24007,125739,19771103,  121,    0

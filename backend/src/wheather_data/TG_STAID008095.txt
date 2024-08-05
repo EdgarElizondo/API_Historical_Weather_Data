@@ -18,7 +18,7 @@ This is the blended series of station ESSEJ, RUSSIAN FEDERATION (STAID: 8095)
 Blended and updated with sources:48633 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8095, 48633,19370101,-9999,    9
   8095, 48633,19370102, -307,    0
   8095, 48633,19370103, -370,    0

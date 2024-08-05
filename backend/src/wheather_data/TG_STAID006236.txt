@@ -18,7 +18,7 @@ This is the blended series of station OREBRO_FLYGPLATS, SWEDEN (STAID: 6236)
 Blended and updated with sources:65552 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6236, 65552,19881201, -160,    0
   6236, 65552,19881202, -102,    0
   6236, 65552,19881203,-9999,    9

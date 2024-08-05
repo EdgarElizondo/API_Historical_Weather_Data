@@ -18,7 +18,7 @@ This is the blended series of station REYKJAVIK, ICELAND (STAID: 66)
 Blended and updated with sources:253 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     66,   253,19490101,  -73,    0
     66,   253,19490102, -103,    0
     66,   253,19490103,  -90,    0

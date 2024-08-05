@@ -18,7 +18,7 @@ This is the blended series of station RANDEGG, AUSTRIA (STAID: 24728)
 Blended and updated with sources:135060 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24728,135060,19770501,-9999,    9
  24728,135060,19770502,-9999,    9
  24728,135060,19770503,-9999,    9

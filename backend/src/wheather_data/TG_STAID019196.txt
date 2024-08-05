@@ -18,7 +18,7 @@ This is the blended series of station E6 AKERSVIKA, NORWAY (STAID: 19196)
 Blended and updated with sources:33304 101002 901386 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19196, 33304,19680601,-9999,    9
  19196, 33304,19680602,-9999,    9
  19196, 33304,19680603,-9999,    9

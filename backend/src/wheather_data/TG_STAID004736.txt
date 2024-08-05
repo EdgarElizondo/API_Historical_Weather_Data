@@ -18,7 +18,7 @@ This is the blended series of station WARTENBERG-ANGERSBACH, GERMANY (STAID: 473
 Blended and updated with sources:29924 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4736, 29924,19490101,   42,    0
   4736, 29924,19490102,   27,    0
   4736, 29924,19490103,   21,    0

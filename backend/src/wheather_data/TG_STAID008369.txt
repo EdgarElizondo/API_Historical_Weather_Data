@@ -18,7 +18,7 @@ This is the blended series of station TUNKA, RUSSIAN FEDERATION (STAID: 8369)
 Blended and updated with sources:51003 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8369, 51003,19320101, -175,    0
   8369, 51003,19320102, -169,    0
   8369, 51003,19320103, -147,    0

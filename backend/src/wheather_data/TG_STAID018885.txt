@@ -18,7 +18,7 @@ This is the blended series of station SIKKILSDAL, NORWAY (STAID: 18885)
 Blended and updated with sources:100750 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18885,100750,19570301,  -90,    0
  18885,100750,19570302,  -66,    0
  18885,100750,19570303,  -41,    0

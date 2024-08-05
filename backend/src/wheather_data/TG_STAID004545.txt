@@ -18,7 +18,7 @@ This is the blended series of station RECKLINGHAUSEN, GERMANY (STAID: 4545)
 Blended and updated with sources:27632 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4545, 27632,19540101,  -28,    0
   4545, 27632,19540102,  -42,    0
   4545, 27632,19540103,   -3,    0

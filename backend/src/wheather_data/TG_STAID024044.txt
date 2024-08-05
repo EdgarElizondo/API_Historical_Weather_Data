@@ -18,7 +18,7 @@ This is the blended series of station IRRSDORF, AUSTRIA (STAID: 24044)
 Blended and updated with sources:126207 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24044,126207,19740601,  117,    0
  24044,126207,19740602,  119,    0
  24044,126207,19740603,  151,    0

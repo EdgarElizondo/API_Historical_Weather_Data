@@ -18,7 +18,7 @@ This is the blended series of station CASTELNOVO NE'MONTI, ITALY (STAID: 2793)
 Blended and updated with sources:94792 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2793, 94792,20051201,-9999,    9
   2793, 94792,20051202,-9999,    9
   2793, 94792,20051203,-9999,    9

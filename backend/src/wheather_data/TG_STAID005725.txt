@@ -18,7 +18,7 @@ This is the blended series of station IDVATTNET, SWEDEN (STAID: 5725)
 Blended and updated with sources:36977 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5725, 36977,19821001,   82,    0
   5725, 36977,19821002,   85,    0
   5725, 36977,19821003,   77,    0

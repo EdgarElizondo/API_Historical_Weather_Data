@@ -18,7 +18,7 @@ This is the blended series of station KREDARICA, SLOVENIA (STAID: 1752)
 Blended and updated with sources:5936 914008 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1752,  5936,19550101, -182,    0
   1752,  5936,19550102, -180,    0
   1752,  5936,19550103,  -80,    0

@@ -18,7 +18,7 @@ This is the blended series of station HEMSEDAL - HOLLEKOLTEN, NORWAY (STAID: 183
 Blended and updated with sources:99744 901357 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18322, 99744,20130920,   53,    0
  18322, 99744,20130921,   54,    0
  18322, 99744,20130922,   68,    0

@@ -18,7 +18,7 @@ This is the blended series of station TJOTTA, NORWAY (STAID: 18018)
 Blended and updated with sources:56894 99556 901117 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18018, 56894,19530101,-9999,    9
  18018, 56894,19530102,-9999,    9
  18018, 56894,19530103,-9999,    9

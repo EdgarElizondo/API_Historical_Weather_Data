@@ -18,7 +18,7 @@ This is the blended series of station BADAJOZ/TALAVERA LA REAL, SPAIN (STAID: 22
 Blended and updated with sources:879 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    229,   879,19550101,   89,    0
    229,   879,19550102,   78,    0
    229,   879,19550103,  103,    0

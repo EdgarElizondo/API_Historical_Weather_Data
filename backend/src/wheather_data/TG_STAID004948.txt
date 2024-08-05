@@ -18,7 +18,7 @@ This is the blended series of station BURGWALD-BOTTENDORF, GERMANY (STAID: 4948)
 Blended and updated with sources:32468 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4948, 32468,19521001,  107,    0
   4948, 32468,19521002,   86,    0
   4948, 32468,19521003,   74,    0

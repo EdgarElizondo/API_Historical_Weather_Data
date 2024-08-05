@@ -18,7 +18,7 @@ This is the blended series of station FILEFJELL - GROVSTOELEN, NORWAY (STAID: 18
 Blended and updated with sources:99510 100713 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18854,100713,19971001,   19,    0
  18854,100713,19971002,   26,    0
  18854,100713,19971003,   24,    0

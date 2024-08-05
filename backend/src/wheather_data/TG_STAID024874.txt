@@ -18,7 +18,7 @@ This is the blended series of station LALIKI, POLAND (STAID: 24874)
 Blended and updated with sources:136938 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24874,136938,19860101,  -91,    0
  24874,136938,19860102,  -75,    0
  24874,136938,19860103,  -39,    0

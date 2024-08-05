@@ -18,7 +18,7 @@ This is the blended series of station KUUSANKOSKI KESKUSTA, FINLAND (STAID: 7180
 Blended and updated with sources:43059 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7180, 43059,19590101,  -21,    0
   7180, 43059,19590102,  -15,    0
   7180, 43059,19590103,   -6,    0

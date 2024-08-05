@@ -18,7 +18,7 @@ This is the blended series of station HJERKINN II, NORWAY (STAID: 18255)
 Blended and updated with sources:99543 100746 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18255,100746,19410501,   13,    1
  18255,100746,19410502,    2,    1
  18255,100746,19410503,   19,    1

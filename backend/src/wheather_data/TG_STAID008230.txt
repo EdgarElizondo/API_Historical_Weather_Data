@@ -18,7 +18,7 @@ This is the blended series of station BOLOTNOE, RUSSIAN FEDERATION (STAID: 8230)
 Blended and updated with sources:50308 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8230, 50308,19360101, -144,    0
   8230, 50308,19360102,  -94,    0
   8230, 50308,19360103, -106,    0

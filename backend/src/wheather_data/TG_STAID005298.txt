@@ -18,7 +18,7 @@ This is the blended series of station FAGERHULT, SWEDEN (STAID: 5298)
 Blended and updated with sources:35573 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5298, 35573,20010701,  157,    0
   5298, 35573,20010702,  165,    0
   5298, 35573,20010703,  168,    0

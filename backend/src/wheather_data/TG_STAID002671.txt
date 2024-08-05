@@ -18,7 +18,7 @@ This is the blended series of station STAVANGER - VALAND, NORWAY (STAID: 2671)
 Blended and updated with sources:10592 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2671, 10592,19430101,   -6,    0
   2671, 10592,19430102,  -15,    0
   2671, 10592,19430103,  -20,    0

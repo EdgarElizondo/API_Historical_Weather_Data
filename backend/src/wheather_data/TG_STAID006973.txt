@@ -18,7 +18,7 @@ This is the blended series of station DRAGSFJARD SKINNARVIK, FINLAND (STAID: 697
 Blended and updated with sources:41978 41983 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6973, 41978,19730101,   22,    0
   6973, 41978,19730102,   21,    1
   6973, 41978,19730103,   24,    0

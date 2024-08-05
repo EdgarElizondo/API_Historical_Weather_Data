@@ -18,7 +18,7 @@ This is the blended series of station SKABU, NORWAY (STAID: 18324)
 Blended and updated with sources:99745 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18324, 99745,20110601,   66,    0
  18324, 99745,20110602,   95,    0
  18324, 99745,20110603,  126,    0

@@ -18,7 +18,7 @@ This is the blended series of station KARLSHAMMAR, SWEDEN (STAID: 6036)
 Blended and updated with sources:63755 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6036, 63755,19450101,  -53,    0
   6036, 63755,19450102,   25,    0
   6036, 63755,19450103,   30,    0

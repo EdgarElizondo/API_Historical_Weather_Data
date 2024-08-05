@@ -18,7 +18,7 @@ This is the blended series of station SASSEUVA, SPAIN (STAID: 11077)
 Blended and updated with sources:56553 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11077, 56553,20080101,   27,    0
  11077, 56553,20080102,   -5,    0
  11077, 56553,20080103,  -41,    0

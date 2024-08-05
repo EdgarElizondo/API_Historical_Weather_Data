@@ -18,7 +18,7 @@ This is the blended series of station MITILINI, GREECE (STAID: 837)
 Blended and updated with sources:55851 916667 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    837,916667,19980101,   95,    0
    837, 55851,19980102,   97,    0
    837, 55851,19980103,  114,    0

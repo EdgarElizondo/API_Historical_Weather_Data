@@ -18,7 +18,7 @@ This is the blended series of station IOANNINA, GREECE (STAID: 836)
 Blended and updated with sources:55844 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    836, 55844,19980101,-9999,    9
    836, 55844,19980102,   51,    0
    836, 55844,19980103,   72,    0

@@ -18,7 +18,7 @@ This is the blended series of station FLAM - JOASETBERGI, NORWAY (STAID: 18471)
 Blended and updated with sources:99297 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18471, 99297,20180801,-9999,    9
  18471, 99297,20180802,-9999,    9
  18471, 99297,20180803,-9999,    9

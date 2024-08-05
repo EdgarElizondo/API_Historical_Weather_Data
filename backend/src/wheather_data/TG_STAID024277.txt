@@ -18,7 +18,7 @@ This is the blended series of station GUESSING, AUSTRIA (STAID: 24277)
 Blended and updated with sources:129210 129236 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24277,129210,19480101,  -66,    0
  24277,129210,19480102,  -48,    0
  24277,129210,19480103,  -15,    0

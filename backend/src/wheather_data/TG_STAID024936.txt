@@ -18,7 +18,7 @@ This is the blended series of station TARNOW, POLAND (STAID: 24936)
 Blended and updated with sources:137682 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24936,137682,19880101,   59,    0
  24936,137682,19880102,   76,    0
  24936,137682,19880103,   81,    0

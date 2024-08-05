@@ -18,7 +18,7 @@ This is the blended series of station TROLLENAS, SWEDEN (STAID: 5185)
 Blended and updated with sources:35198 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5185, 35198,19710801,  194,    0
   5185, 35198,19710802,  187,    0
   5185, 35198,19710803,  206,    0

@@ -18,7 +18,7 @@ This is the blended series of station KITTILA KAUKONEN, FINLAND (STAID: 7789)
 Blended and updated with sources:46190 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7789, 46190,19731001,   32,    0
   7789, 46190,19731002,   16,    0
   7789, 46190,19731003,   32,    0

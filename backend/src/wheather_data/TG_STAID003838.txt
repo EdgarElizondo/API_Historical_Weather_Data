@@ -18,7 +18,7 @@ This is the blended series of station ROTA, SPAIN (STAID: 3838)
 Blended and updated with sources:19949 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3838, 19949,19880901,  199,    0
   3838, 19949,19880902,  221,    0
   3838, 19949,19880903,  229,    0

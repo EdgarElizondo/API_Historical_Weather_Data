@@ -18,7 +18,7 @@ This is the blended series of station PUDINO, RUSSIAN FEDERATION (STAID: 8212)
 Blended and updated with sources:50218 929313 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8212, 50218,19270101,-9999,    9
   8212, 50218,19270102,-9999,    9
   8212, 50218,19270103,-9999,    9

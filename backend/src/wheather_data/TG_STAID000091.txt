@@ -18,7 +18,7 @@ This is the blended series of station ORENBURG, RUSSIAN FEDERATION (STAID: 91)
 Blended and updated with sources:353 935121 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     91,   353,18860101,-9999,    9
     91,   353,18860102,-9999,    9
     91,   353,18860103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station MONTABAUR, GERMANY (STAID: 4424)
 Blended and updated with sources:26180 26708 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4424, 26180,19380101,  -19,    0
   4424, 26180,19380102,  -35,    0
   4424, 26180,19380103,  -60,    0

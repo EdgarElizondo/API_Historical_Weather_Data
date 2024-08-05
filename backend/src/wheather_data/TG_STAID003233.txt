@@ -18,7 +18,7 @@ This is the blended series of station BARNAUL, RUSSIAN FEDERATION (STAID: 3233)
 Blended and updated with sources:17116 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3233, 17116,19590101, -314,    0
   3233, 17116,19590102, -300,    0
   3233, 17116,19590103, -232,    0

@@ -18,7 +18,7 @@ This is the blended series of station BOVERDAL, NORWAY (STAID: 2612)
 Blended and updated with sources:10049 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2612, 10049,20180901,-9999,    9
   2612, 10049,20180902,-9999,    9
   2612, 10049,20180903,-9999,    9

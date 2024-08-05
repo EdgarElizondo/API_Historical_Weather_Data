@@ -18,7 +18,7 @@ This is the blended series of station MITT. AASIAAT, GREENLAND [DENMARK] (STAID:
 Blended and updated with sources:46997 47017 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7980, 46997,19580101, -201,    0
   7980, 46997,19580102, -215,    0
   7980, 46997,19580103, -151,    0

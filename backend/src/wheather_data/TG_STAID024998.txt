@@ -18,7 +18,7 @@ This is the blended series of station ZGORZELEC, POLAND (STAID: 24998)
 Blended and updated with sources:138426 140094 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24998,138426,19510101,  -33,    0
  24998,138426,19510102,  -19,    0
  24998,138426,19510103,   12,    0

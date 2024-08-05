@@ -18,7 +18,7 @@ This is the blended series of station FROMBORK, POLAND (STAID: 25119)
 Blended and updated with sources:139878 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25119,139878,19860101, -109,    0
  25119,139878,19860102, -111,    0
  25119,139878,19860103,  -39,    0

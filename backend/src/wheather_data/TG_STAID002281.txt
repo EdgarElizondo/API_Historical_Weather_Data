@@ -18,7 +18,7 @@ This is the blended series of station KRASNODAR KRUGLIK, RUSSIAN FEDERATION (STA
 Blended and updated with sources:52088 934929 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2281, 52088,19380101,    5,    0
   2281, 52088,19380102,   18,    0
   2281, 52088,19380103,   27,    0

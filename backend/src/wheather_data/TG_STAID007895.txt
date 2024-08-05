@@ -18,7 +18,7 @@ This is the blended series of station IVALO LENTOASEMA, FINLAND (STAID: 7895)
 Blended and updated with sources:46686 46736 902807 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7895, 46686,19590101,  -87,    0
   7895, 46686,19590102,  -93,    0
   7895, 46686,19590103, -171,    0

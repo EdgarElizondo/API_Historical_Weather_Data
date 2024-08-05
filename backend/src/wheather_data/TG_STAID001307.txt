@@ -18,7 +18,7 @@ This is the blended series of station CHERTKOVO, RUSSIAN FEDERATION (STAID: 1307
 Blended and updated with sources:51933 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1307, 51933,19410101, -161,    0
   1307, 51933,19410102, -134,    0
   1307, 51933,19410103, -208,    0

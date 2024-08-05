@@ -18,7 +18,7 @@ This is the blended series of station HELSINGBORG_A, SWEDEN (STAID: 5196)
 Blended and updated with sources:35231 35237 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5196, 35237,19450101,   -9,    0
   5196, 35237,19450102,   42,    0
   5196, 35237,19450103,   49,    0

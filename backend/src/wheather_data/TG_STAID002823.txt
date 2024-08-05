@@ -18,7 +18,7 @@ This is the blended series of station ISOLA DI PALANZANO CENTRALE, ITALY (STAID:
 Blended and updated with sources:95560 95832 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2823, 95560,20051201,-9999,    9
   2823, 95560,20051202,-9999,    9
   2823, 95560,20051203,-9999,    9

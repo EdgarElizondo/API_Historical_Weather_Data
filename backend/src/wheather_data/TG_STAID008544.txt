@@ -18,7 +18,7 @@ This is the blended series of station MUGUR-AKSY', RUSSIAN FEDERATION (STAID: 85
 Blended and updated with sources:52258 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8544, 52258,19620101,-9999,    9
   8544, 52258,19620102,-9999,    9
   8544, 52258,19620103,-9999,    9

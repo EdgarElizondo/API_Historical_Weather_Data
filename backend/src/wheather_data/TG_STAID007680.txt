@@ -18,7 +18,7 @@ This is the blended series of station RAAHE LAPALUOTO, FINLAND (STAID: 7680)
 Blended and updated with sources:45615 902872 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7680, 45615,19901001,-9999,    9
   7680, 45615,19901002,-9999,    9
   7680, 45615,19901003,-9999,    9

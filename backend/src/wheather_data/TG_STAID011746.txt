@@ -18,7 +18,7 @@ This is the blended series of station GEISINGBERG, GERMANY (STAID: 11746)
 Blended and updated with sources:80998 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11746, 80998,19470101,-9999,    9
  11746, 80998,19470102,-9999,    9
  11746, 80998,19470103,-9999,    9

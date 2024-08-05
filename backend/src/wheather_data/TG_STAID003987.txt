@@ -18,7 +18,7 @@ This is the blended series of station FELDBERG/SCHWARZWALD, GERMANY (STAID: 3987
 Blended and updated with sources:20936 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3987, 20936,19450101, -131,    0
   3987, 20936,19450102, -100,    0
   3987, 20936,19450103,  -58,    0

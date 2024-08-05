@@ -18,7 +18,7 @@ This is the blended series of station MY'S SHMIDTA, RUSSIAN FEDERATION (STAID: 3
 Blended and updated with sources:16957 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3216, 16957,19360101, -268,    0
   3216, 16957,19360102, -310,    0
   3216, 16957,19360103, -314,    0

@@ -18,7 +18,7 @@ This is the blended series of station HOSINGEN, LUXEMBOURG (STAID: 22476)
 Blended and updated with sources:121141 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22476,121141,20121101,-9999,    9
  22476,121141,20121102,-9999,    9
  22476,121141,20121103,-9999,    9

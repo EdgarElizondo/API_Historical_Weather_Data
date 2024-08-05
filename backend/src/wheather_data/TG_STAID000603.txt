@@ -18,7 +18,7 @@ This is the blended series of station LEEUWARDEN, NETHERLANDS (STAID: 603)
 Blended and updated with sources:2458 906270 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    603,  2458,19510101,-9999,    9
    603,  2458,19510102,    9,    0
    603,  2458,19510103,    5,    0

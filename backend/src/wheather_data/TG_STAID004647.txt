@@ -18,7 +18,7 @@ This is the blended series of station SIMBACH/INN, GERMANY (STAID: 4647)
 Blended and updated with sources:21860 28856 125362 135073 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4647,135073,19610101,  -10,    0
   4647,135073,19610102,   -3,    0
   4647,135073,19610103,  -26,    0

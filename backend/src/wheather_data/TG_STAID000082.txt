@@ -18,7 +18,7 @@ This is the blended series of station KOSTROMA, RUSSIAN FEDERATION (STAID: 82)
 Blended and updated with sources:317 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     82,   317,19250101, -131,    0
     82,   317,19250102,  -71,    0
     82,   317,19250103,  -15,    0

@@ -18,7 +18,7 @@ This is the blended series of station DOBELE, LATVIA (STAID: 993)
 Blended and updated with sources:118818 926424 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    993,118818,19491001,  116,    0
    993,118818,19491002,  103,    0
    993,118818,19491003,  123,    0

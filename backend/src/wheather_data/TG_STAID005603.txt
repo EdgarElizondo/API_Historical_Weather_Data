@@ -18,7 +18,7 @@ This is the blended series of station SARNA, SWEDEN (STAID: 5603)
 Blended and updated with sources:36572 36575 902316 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5603, 36572,18850201,   13,    1
   5603, 36572,18850202,   17,    1
   5603, 36572,18850203,   27,    1

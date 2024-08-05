@@ -18,7 +18,7 @@ This is the blended series of station LOUGH NAVAR FOREST, UNITED KINGDOM (STAID:
 Blended and updated with sources:7016 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1822,  7016,19610901,  134,    0
   1822,  7016,19610902,  156,    0
   1822,  7016,19610903,  153,    0

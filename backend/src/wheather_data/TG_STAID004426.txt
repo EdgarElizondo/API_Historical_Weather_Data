@@ -18,7 +18,7 @@ This is the blended series of station BEHRENSDORF, GERMANY (STAID: 4426)
 Blended and updated with sources:23936 26204 26540 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4426, 26540,19510101,  -29,    0
   4426, 26540,19510102,   -6,    0
   4426, 26540,19510103,    5,    0

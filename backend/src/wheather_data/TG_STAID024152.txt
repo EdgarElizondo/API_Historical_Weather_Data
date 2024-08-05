@@ -18,7 +18,7 @@ This is the blended series of station WARTH, AUSTRIA (STAID: 24152)
 Blended and updated with sources:127611 911308 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24152,127611,19841201,   50,    0
  24152,127611,19841202,   49,    0
  24152,127611,19841203,   28,    0

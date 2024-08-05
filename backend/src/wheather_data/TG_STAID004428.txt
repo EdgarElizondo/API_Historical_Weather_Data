@@ -18,7 +18,7 @@ This is the blended series of station MUHLDORF, GERMANY (STAID: 4428)
 Blended and updated with sources:26228 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4428, 26228,19530101,  -18,    0
   4428, 26228,19530102,   -8,    0
   4428, 26228,19530103,  -20,    0

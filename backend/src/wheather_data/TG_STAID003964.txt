@@ -18,7 +18,7 @@ This is the blended series of station CALAMOCHA, SPAIN (STAID: 3964)
 Blended and updated with sources:20534 908233 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3964, 20534,19920801,  242,    0
   3964, 20534,19920802,  240,    0
   3964, 20534,19920803,  235,    0

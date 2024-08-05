@@ -18,7 +18,7 @@ This is the blended series of station VALGA, ESTONIA (STAID: 11372)
 Blended and updated with sources:75090 926247 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11372, 75090,19410301,  -15,    0
  11372, 75090,19410302,    9,    0
  11372, 75090,19410303,   21,    0

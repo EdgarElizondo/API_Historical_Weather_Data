@@ -18,7 +18,7 @@ This is the blended series of station JYVASKYLAN MLK TIKKAKOSKI, FINLAND (STAID:
 Blended and updated with sources:88 43795 902935 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7325,    88,19510101, -265,    0
   7325,    88,19510102, -156,    0
   7325,    88,19510103, -133,    0

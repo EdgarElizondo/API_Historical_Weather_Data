@@ -18,7 +18,7 @@ This is the blended series of station HANKO RUSSARO, FINLAND (STAID: 6962)
 Blended and updated with sources:41923 41993 902982 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6962, 41923,19590101,   19,    0
   6962, 41923,19590102,   11,    0
   6962, 41923,19590103,   20,    0

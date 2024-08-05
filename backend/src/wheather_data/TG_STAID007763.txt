@@ -18,7 +18,7 @@ This is the blended series of station TAIVALKOSKI MUSTAVAARA, FINLAND (STAID: 77
 Blended and updated with sources:46050 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7763, 46050,19770101,  -86,    0
   7763, 46050,19770102,  -53,    0
   7763, 46050,19770103,  -69,    0

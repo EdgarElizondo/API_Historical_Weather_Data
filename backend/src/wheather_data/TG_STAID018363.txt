@@ -18,7 +18,7 @@ This is the blended series of station E18 SVARTSKOG, NORWAY (STAID: 18363)
 Blended and updated with sources:99099 99194 99592 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18363, 99592,20120201,  -88,    0
  18363, 99592,20120202, -103,    0
  18363, 99592,20120203, -145,    0

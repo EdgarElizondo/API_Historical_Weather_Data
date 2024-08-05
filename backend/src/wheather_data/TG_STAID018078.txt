@@ -18,7 +18,7 @@ This is the blended series of station VALLE, NORWAY (STAID: 18078)
 Blended and updated with sources:99043 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18078, 99043,20110901,  108,    0
  18078, 99043,20110902,   96,    0
  18078, 99043,20110903,  108,    0

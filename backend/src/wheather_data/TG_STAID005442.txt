@@ -18,7 +18,7 @@ This is the blended series of station DUNKER, SWEDEN (STAID: 5442)
 Blended and updated with sources:36047 36074 36080 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5442, 36080,19610101,   -6,    0
   5442, 36080,19610102,   -2,    0
   5442, 36080,19610103,   13,    0

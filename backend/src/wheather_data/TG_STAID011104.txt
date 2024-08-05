@@ -18,7 +18,7 @@ This is the blended series of station CRANWELL, UNITED KINGDOM (STAID: 11104)
 Blended and updated with sources:56847 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11104, 56847,20130101,   44,    0
  11104, 56847,20130102,   63,    0
  11104, 56847,20130103,   81,    0

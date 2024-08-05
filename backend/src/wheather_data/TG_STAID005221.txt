@@ -18,7 +18,7 @@ This is the blended series of station MORBYLANGA, SWEDEN (STAID: 5221)
 Blended and updated with sources:35315 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5221, 35315,19450101,  -21,    0
   5221, 35315,19450102,   30,    0
   5221, 35315,19450103,   26,    0

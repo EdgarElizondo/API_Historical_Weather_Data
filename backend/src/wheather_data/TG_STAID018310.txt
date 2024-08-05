@@ -18,7 +18,7 @@ This is the blended series of station TYSSEDAL V, NORWAY (STAID: 18310)
 Blended and updated with sources:99694 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18310, 99694,20181001,-9999,    9
  18310, 99694,20181002,-9999,    9
  18310, 99694,20181003,-9999,    9

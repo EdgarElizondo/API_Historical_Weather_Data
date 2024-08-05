@@ -18,7 +18,7 @@ This is the blended series of station BAD EISENKAPPEL, AUSTRIA (STAID: 24680)
 Blended and updated with sources:134436 911234 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24680,134436,19670301,   67,    0
  24680,134436,19670302,   39,    0
  24680,134436,19670303,   56,    0

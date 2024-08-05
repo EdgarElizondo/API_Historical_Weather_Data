@@ -18,7 +18,7 @@ This is the blended series of station SVENNINGDAL, NORWAY (STAID: 19027)
 Blended and updated with sources:100911 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19027,100911,19740901,  118,    0
  19027,100911,19740902,  139,    0
  19027,100911,19740903,  161,    0

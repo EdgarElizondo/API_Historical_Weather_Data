@@ -18,7 +18,7 @@ This is the blended series of station KARL XII-OEYA, NORWAY (STAID: 18258)
 Blended and updated with sources:99550 901009 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18258, 99550,20060301,-9999,    9
  18258, 99550,20060302, -165,    0
  18258, 99550,20060303, -215,    1

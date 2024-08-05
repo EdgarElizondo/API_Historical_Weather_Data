@@ -18,7 +18,7 @@ This is the blended series of station AASEN, NORWAY (STAID: 18834)
 Blended and updated with sources:100693 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18834,100693,19601101,  -43,    0
  18834,100693,19601102,  -27,    0
  18834,100693,19601103,    1,    0

@@ -18,7 +18,7 @@ This is the blended series of station KIRCHDORF/TIROL, AUSTRIA (STAID: 24470)
 Blended and updated with sources:131719 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24470,131719,20060615,  190,    0
  24470,131719,20060616,  203,    0
  24470,131719,20060617,  195,    0

@@ -18,7 +18,7 @@ This is the blended series of station LUXEMBOURG AIRPORT, LUXEMBOURG (STAID: 203
 Blended and updated with sources:633 906590 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    203,   633,19470101,    2,    0
    203,   633,19470102,   -8,    0
    203,   633,19470103,   -9,    0

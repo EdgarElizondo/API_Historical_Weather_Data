@@ -18,7 +18,7 @@ This is the blended series of station HANKO TVARMINNE, FINLAND (STAID: 6982)
 Blended and updated with sources:42023 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6982, 42023,19630101,  -42,    0
   6982, 42023,19630102,  -45,    0
   6982, 42023,19630103,  -67,    0

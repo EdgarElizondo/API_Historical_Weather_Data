@@ -18,7 +18,7 @@ This is the blended series of station DRAUGEN, NORWAY (STAID: 18264)
 Blended and updated with sources:99563 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18264, 99563,19931001,-9999,    9
  18264, 99563,19931002,  102,    0
  18264, 99563,19931003,  107,    0

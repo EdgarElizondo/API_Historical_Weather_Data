@@ -18,7 +18,7 @@ This is the blended series of station MORON DE LA FRONTERA, SPAIN (STAID: 3963)
 Blended and updated with sources:20498 908397 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3963, 20498,19460201,-9999,    9
   3963, 20498,19460202,-9999,    9
   3963, 20498,19460203,-9999,    9

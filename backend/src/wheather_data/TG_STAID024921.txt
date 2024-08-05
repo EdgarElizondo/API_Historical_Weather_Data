@@ -18,7 +18,7 @@ This is the blended series of station SOLINA-JAWOR, POLAND (STAID: 24921)
 Blended and updated with sources:6405 137502 912690 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24921,  6405,19540617,  190,    0
  24921,  6405,19540618,  185,    0
  24921,  6405,19540619,  213,    0

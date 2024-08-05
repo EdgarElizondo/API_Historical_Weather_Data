@@ -18,7 +18,7 @@ This is the blended series of station GRANAROLO_FAENTINO, ITALY (STAID: 17633)
 Blended and updated with sources:95448 96848 97240 97304 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17633, 95448,20051201,-9999,    9
  17633, 95448,20051202,-9999,    9
  17633, 95448,20051203,-9999,    9

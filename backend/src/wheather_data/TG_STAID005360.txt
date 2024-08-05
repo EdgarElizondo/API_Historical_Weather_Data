@@ -18,7 +18,7 @@ This is the blended series of station HALLO, SWEDEN (STAID: 5360)
 Blended and updated with sources:35777 35792 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5360, 35777,19610101,    8,    0
   5360, 35777,19610102,   19,    0
   5360, 35777,19610103,   13,    0

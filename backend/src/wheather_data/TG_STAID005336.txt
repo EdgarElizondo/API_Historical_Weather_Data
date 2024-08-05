@@ -18,7 +18,7 @@ This is the blended series of station GARN, SWEDEN (STAID: 5336)
 Blended and updated with sources:35675 35699 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5336, 35675,19610101,    5,    0
   5336, 35675,19610102,   22,    0
   5336, 35675,19610103,   18,    0

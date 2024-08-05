@@ -18,7 +18,7 @@ This is the blended series of station TAIPAK, KAZAKHSTAN (STAID: 3280)
 Blended and updated with sources:14436 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3280, 14436,19250101,  -98,    0
   3280, 14436,19250102, -128,    0
   3280, 14436,19250103, -130,    0

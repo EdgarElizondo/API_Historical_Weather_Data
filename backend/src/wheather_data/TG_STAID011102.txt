@@ -18,7 +18,7 @@ This is the blended series of station BLACKPOOL SQUIRES GATE, UNITED KINGDOM (ST
 Blended and updated with sources:56831 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11102, 56831,20130101,   66,    0
  11102, 56831,20130102,   79,    0
  11102, 56831,20130103,   78,    0

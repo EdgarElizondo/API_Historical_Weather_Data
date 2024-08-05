@@ -18,7 +18,7 @@ This is the blended series of station SLAGENTANGEN, NORWAY (STAID: 19048)
 Blended and updated with sources:99140 99184 99313 99440 100935 100987 111247 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19048,100935,19610701,  178,    0
  19048,100935,19610702,  182,    0
  19048,100935,19610703,  172,    0

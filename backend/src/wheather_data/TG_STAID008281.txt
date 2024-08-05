@@ -18,7 +18,7 @@ This is the blended series of station ABAKAN, RUSSIAN FEDERATION (STAID: 8281)
 Blended and updated with sources:50563 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8281, 50563,19590101, -263,    0
   8281, 50563,19590102, -286,    0
   8281, 50563,19590103, -328,    0

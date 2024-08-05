@@ -18,7 +18,7 @@ This is the blended series of station NUVSVAG, NORWAY (STAID: 18188)
 Blended and updated with sources:99362 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18188, 99362,20150923,  108,    0
  18188, 99362,20150924,   99,    0
  18188, 99362,20150925,   93,    0

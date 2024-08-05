@@ -18,7 +18,7 @@ This is the blended series of station SNOHEIM, NORWAY (STAID: 18040)
 Blended and updated with sources:99334 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18040, 99334,20141009,  -16,    0
  18040, 99334,20141010,    4,    0
  18040, 99334,20141011,    6,    0

@@ -18,7 +18,7 @@ This is the blended series of station BASEL-MULHOUSE, FRANCE (STAID: 2192)
 Blended and updated with sources:7213 907299 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2192,  7213,19470101,    6,    0
   2192,  7213,19470102,    2,    0
   2192,  7213,19470103,   10,    0

@@ -18,7 +18,7 @@ This is the blended series of station GARIGA, ITALY (STAID: 17630)
 Blended and updated with sources:95424 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17630, 95424,20070701,-9999,    9
  17630, 95424,20070702,-9999,    9
  17630, 95424,20070703,-9999,    9

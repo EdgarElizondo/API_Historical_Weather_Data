@@ -18,7 +18,7 @@ This is the blended series of station GRIDINO, RUSSIAN FEDERATION (STAID: 1089)
 Blended and updated with sources:48153 922422 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1089, 48153,19360101,   -7,    0
   1089, 48153,19360102,    7,    0
   1089, 48153,19360103,  -39,    0

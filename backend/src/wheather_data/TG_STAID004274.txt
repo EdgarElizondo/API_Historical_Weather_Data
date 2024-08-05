@@ -18,7 +18,7 @@ This is the blended series of station HEILIGENSTADT-KALTENEBER, GERMANY (STAID: 
 Blended and updated with sources:24380 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4274, 24380,19510201,  -13,    0
   4274, 24380,19510202,  -26,    0
   4274, 24380,19510203,  -59,    0

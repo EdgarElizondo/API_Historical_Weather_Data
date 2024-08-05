@@ -18,7 +18,7 @@ This is the blended series of station KAPPFJELLET, NORWAY (STAID: 18261)
 Blended and updated with sources:99558 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18261, 99558,20171020,  -24,    0
  18261, 99558,20171021,  -27,    0
  18261, 99558,20171022,  -29,    0

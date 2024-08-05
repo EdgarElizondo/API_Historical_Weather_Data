@@ -18,7 +18,7 @@ This is the blended series of station SORTAVALA, RUSSIAN FEDERATION (STAID: 98)
 Blended and updated with sources:381 922802 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     98,   381,19450101,  -66,    0
     98,   381,19450102,  -53,    0
     98,   381,19450103,  -19,    0

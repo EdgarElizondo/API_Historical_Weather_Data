@@ -18,7 +18,7 @@ This is the blended series of station LUBLIN-RADAWIEC, POLAND (STAID: 25139)
 Blended and updated with sources:140118 912495 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25139,140118,19510101,  -20,    0
  25139,140118,19510102,    0,    0
  25139,140118,19510103,   -2,    0

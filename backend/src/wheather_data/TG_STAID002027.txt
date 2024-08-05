@@ -18,7 +18,7 @@ This is the blended series of station TORUN, POLAND (STAID: 2027)
 Blended and updated with sources:6111 912250 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2027,  6111,19510101,  -47,    0
   2027,  6111,19510102,  -30,    0
   2027,  6111,19510103,   17,    0

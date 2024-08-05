@@ -18,7 +18,7 @@ This is the blended series of station SANDSJOBACKA, SWEDEN (STAID: 5290)
 Blended and updated with sources:35546 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5290, 35546,19781201,  -23,    0
   5290, 35546,19781202,   10,    0
   5290, 35546,19781203,   -3,    0

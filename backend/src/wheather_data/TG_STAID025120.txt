@@ -18,7 +18,7 @@ This is the blended series of station KMIECIN, POLAND (STAID: 25120)
 Blended and updated with sources:139890 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25120,139890,19620701,  137,    0
  25120,139890,19620702,  142,    0
  25120,139890,19620703,  109,    0

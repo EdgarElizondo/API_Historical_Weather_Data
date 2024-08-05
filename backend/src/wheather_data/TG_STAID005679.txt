@@ -18,7 +18,7 @@ This is the blended series of station SYDOSTBROTTEN, SWEDEN (STAID: 5679)
 Blended and updated with sources:36830 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5679, 36830,19640401,-9999,    9
   5679, 36830,19640402,-9999,    9
   5679, 36830,19640403,-9999,    9

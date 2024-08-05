@@ -18,7 +18,7 @@ This is the blended series of station SOSNOVKA KAMCHATKA, RUSSIAN FEDERATION (ST
 Blended and updated with sources:52233 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8539, 52233,19630101,-9999,    9
   8539, 52233,19630102,-9999,    9
   8539, 52233,19630103,-9999,    9

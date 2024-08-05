@@ -18,7 +18,7 @@ This is the blended series of station CASTELLON DE LA PLANA, SPAIN (STAID: 3925)
 Blended and updated with sources:19994 20003 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3925, 20003,19200101,  158,    0
   3925, 20003,19200102,  127,    0
   3925, 20003,19200103,  129,    0

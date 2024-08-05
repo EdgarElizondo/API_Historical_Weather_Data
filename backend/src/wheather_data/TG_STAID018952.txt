@@ -18,7 +18,7 @@ This is the blended series of station SKAFSA, NORWAY (STAID: 18952)
 Blended and updated with sources:100820 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18952,100820,19791201,    6,    0
  18952,100820,19791202,   26,    0
  18952,100820,19791203,   -2,    0

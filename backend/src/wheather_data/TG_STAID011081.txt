@@ -18,7 +18,7 @@ This is the blended series of station TORREDEMBARRA, SPAIN (STAID: 11081)
 Blended and updated with sources:56589 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11081, 56589,20080101,   64,    0
  11081, 56589,20080102,   54,    0
  11081, 56589,20080103,   47,    0

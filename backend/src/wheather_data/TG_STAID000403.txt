@@ -18,7 +18,7 @@ This is the blended series of station ROSTOV-NA-DONU, RUSSIAN FEDERATION (STAID:
 Blended and updated with sources:17354 934730 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    403, 17354,19190101,-9999,    9
    403, 17354,19190102,-9999,    9
    403, 17354,19190103,-9999,    9

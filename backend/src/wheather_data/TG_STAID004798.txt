@@ -18,7 +18,7 @@ This is the blended series of station ZERBST, GERMANY (STAID: 4798)
 Blended and updated with sources:30668 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4798, 30668,19031101,-9999,    9
   4798, 30668,19031102,-9999,    9
   4798, 30668,19031103,-9999,    9

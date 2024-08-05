@@ -18,7 +18,7 @@ This is the blended series of station PENNABILLI, ITALY (STAID: 2862)
 Blended and updated with sources:96456 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2862, 96456,20070501,-9999,    9
   2862, 96456,20070502,-9999,    9
   2862, 96456,20070503,-9999,    9

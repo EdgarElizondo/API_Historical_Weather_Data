@@ -18,7 +18,7 @@ This is the blended series of station PELLO KK MUSEOTIE, FINLAND (STAID: 2269)
 Blended and updated with sources:46185 902844 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2269, 46185,19700801,-9999,    9
   2269, 46185,19700802,-9999,    9
   2269, 46185,19700803,-9999,    9

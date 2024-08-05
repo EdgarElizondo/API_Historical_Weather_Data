@@ -18,7 +18,7 @@ This is the blended series of station K14-FA-1C           , NETHERLANDS (STAID: 
 Blended and updated with sources:13674 906204 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3168, 13674,20061207,-9999,    9
   3168, 13674,20061208,-9999,    9
   3168, 13674,20061209,-9999,    9

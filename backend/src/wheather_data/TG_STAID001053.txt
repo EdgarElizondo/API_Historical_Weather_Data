@@ -18,7 +18,7 @@ This is the blended series of station RENA - HAUGEDALEN, NORWAY (STAID: 1053)
 Blended and updated with sources:9703 9712 99444 99462 901389 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1053,  9712,19000101,    0,    0
   1053,  9712,19000102,  -79,    0
   1053,  9712,19000103,  -76,    0

@@ -18,7 +18,7 @@ This is the blended series of station KREIPITZSCH BEI BAD KOSEN, GERMANY (STAID:
 Blended and updated with sources:32264 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4931, 32264,20070401,   92,    0
   4931, 32264,20070402,  104,    0
   4931, 32264,20070403,   57,    0

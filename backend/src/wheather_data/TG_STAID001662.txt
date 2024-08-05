@@ -18,7 +18,7 @@ This is the blended series of station SION 2, SWITZERLAND (STAID: 1662)
 Blended and updated with sources:5094 906720 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1662,  5094,19780101,   -5,    0
   1662,  5094,19780102,   -3,    0
   1662,  5094,19780103,   31,    0

@@ -18,7 +18,7 @@ This is the blended series of station LECHFELD, GERMANY (STAID: 4336)
 Blended and updated with sources:25124 910856 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4336, 25124,19690101,-9999,    9
   4336, 25124,19690102,-9999,    9
   4336, 25124,19690103,-9999,    9

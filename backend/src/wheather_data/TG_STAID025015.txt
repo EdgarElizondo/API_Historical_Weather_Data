@@ -18,7 +18,7 @@ This is the blended series of station SKIERNIEWICE, POLAND (STAID: 25015)
 Blended and updated with sources:138630 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25015,138630,19510101,  -36,    0
  25015,138630,19510102,    2,    0
  25015,138630,19510103,  -12,    0

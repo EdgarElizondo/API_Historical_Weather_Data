@@ -18,7 +18,7 @@ This is the blended series of station PABSTORF, GERMANY (STAID: 4859)
 Blended and updated with sources:31400 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4859, 31400,20040901,  141,    0
   4859, 31400,20040902,  152,    0
   4859, 31400,20040903,  178,    0

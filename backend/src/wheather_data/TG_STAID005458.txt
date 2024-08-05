@@ -18,7 +18,7 @@ This is the blended series of station STAVSNAS_A, SWEDEN (STAID: 5458)
 Blended and updated with sources:36098 36101 65825 902487 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5458, 65825,19450101,  -42,    0
   5458, 65825,19450102,   22,    0
   5458, 65825,19450103,   15,    0

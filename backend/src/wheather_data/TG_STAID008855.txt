@@ -18,7 +18,7 @@ This is the blended series of station SKRIVERI, LATVIA (STAID: 8855)
 Blended and updated with sources:119018 926435 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8855,119018,19410101, -182,    0
   8855,119018,19410102, -290,    0
   8855,119018,19410103, -320,    0

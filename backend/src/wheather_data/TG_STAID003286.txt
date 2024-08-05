@@ -18,7 +18,7 @@ This is the blended series of station ZAJSAN, KAZAKHSTAN (STAID: 3286)
 Blended and updated with sources:17607 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3286, 17607,19360101, -224,    0
   3286, 17607,19360102, -247,    0
   3286, 17607,19360103, -229,    0

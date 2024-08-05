@@ -18,7 +18,7 @@ This is the blended series of station VILSANDI, ESTONIA (STAID: 269)
 Blended and updated with sources:912 926214 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    269,   912,18650801,-9999,    9
    269,   912,18650802,-9999,    9
    269,   912,18650803,-9999,    9

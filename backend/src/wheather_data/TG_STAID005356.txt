@@ -18,7 +18,7 @@ This is the blended series of station HARSNAS, SWEDEN (STAID: 5356)
 Blended and updated with sources:35765 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5356, 35765,20070601,   93,    0
   5356, 35765,20070602,  126,    0
   5356, 35765,20070603,  122,    0

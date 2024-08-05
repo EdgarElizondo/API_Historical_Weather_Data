@@ -18,7 +18,7 @@ This is the blended series of station INVERNESS, UNITED KINGDOM (STAID: 1809)
 Blended and updated with sources:7003 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1809,  7003,19600101,   39,    0
   1809,  7003,19600102,   11,    0
   1809,  7003,19600103,   34,    0

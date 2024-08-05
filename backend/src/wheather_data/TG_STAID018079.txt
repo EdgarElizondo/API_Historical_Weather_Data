@@ -18,7 +18,7 @@ This is the blended series of station REIPA, NORWAY (STAID: 18079)
 Blended and updated with sources:99050 99311 901114 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18079, 99050,20090701,  136,    0
  18079, 99050,20090702,  141,    0
  18079, 99050,20090703,  145,    0

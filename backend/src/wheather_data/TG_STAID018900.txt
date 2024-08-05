@@ -18,7 +18,7 @@ This is the blended series of station BUGOEYFJORD KRO, NORWAY (STAID: 18900)
 Blended and updated with sources:100568 100767 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18900,100568,19640901,   67,    0
  18900,100568,19640902,   68,    0
  18900,100568,19640903,   69,    0

@@ -18,7 +18,7 @@ This is the blended series of station TORSLANDA, SWEDEN (STAID: 5305)
 Blended and updated with sources:35597 35624 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5305, 35624,19440101,   29,    0
   5305, 35624,19440102,   32,    0
   5305, 35624,19440103,   29,    0

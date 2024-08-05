@@ -18,7 +18,7 @@ This is the blended series of station BELLE ILE - LE TALUT, FRANCE (STAID: 11247
 Blended and updated with sources:71634 907207 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11247, 71634,19300401,  120,    0
  11247, 71634,19300402,  118,    0
  11247, 71634,19300403,  116,    0

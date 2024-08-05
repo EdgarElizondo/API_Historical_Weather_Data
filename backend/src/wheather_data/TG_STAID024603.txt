@@ -18,7 +18,7 @@ This is the blended series of station NEUSTIFT/MILDERS, AUSTRIA (STAID: 24603)
 Blended and updated with sources:133435 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24603,133435,20041101,-9999,    9
  24603,133435,20041102,-9999,    9
  24603,133435,20041103,-9999,    9

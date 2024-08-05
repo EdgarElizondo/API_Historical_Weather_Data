@@ -18,7 +18,7 @@ This is the blended series of station GJEMNES - REINSFJELLET, NORWAY (STAID: 182
 Blended and updated with sources:99538 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18252, 99538,20150902,   61,    0
  18252, 99538,20150903,   85,    0
  18252, 99538,20150904,   53,    0

@@ -18,7 +18,7 @@ This is the blended series of station PLAUEN, GERMANY (STAID: 4522)
 Blended and updated with sources:27356 910569 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4522, 27356,18820101,  -37,    0
   4522, 27356,18820102,   11,    0
   4522, 27356,18820103,   63,    0

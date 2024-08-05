@@ -18,7 +18,7 @@ This is the blended series of station MITTELBERG, AUSTRIA (STAID: 24155)
 Blended and updated with sources:127650 136165 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24155,136165,19940601,  163,    0
  24155,136165,19940602,  210,    0
  24155,136165,19940603,  135,    0

@@ -18,7 +18,7 @@ This is the blended series of station CIMBAJ, UZBEKISTAN (STAID: 2977)
 Blended and updated with sources:17662 938262 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2977, 17662,19370101, -128,    0
   2977, 17662,19370102, -146,    0
   2977, 17662,19370103,  -56,    0

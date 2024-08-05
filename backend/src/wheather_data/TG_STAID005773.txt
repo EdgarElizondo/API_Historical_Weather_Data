@@ -18,7 +18,7 @@ This is the blended series of station ABELVATTNET, SWEDEN (STAID: 5773)
 Blended and updated with sources:37139 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5773, 37139,19850501,  -47,    0
   5773, 37139,19850502,  -16,    0
   5773, 37139,19850503,  -31,    0

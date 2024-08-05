@@ -18,7 +18,7 @@ This is the blended series of station HAYLING ISLAND, UNITED KINGDOM (STAID: 187
 Blended and updated with sources:7064 903872 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1870,  7064,19600101,  106,    1
   1870,  7064,19600102,   86,    0
   1870,  7064,19600103,   94,    0

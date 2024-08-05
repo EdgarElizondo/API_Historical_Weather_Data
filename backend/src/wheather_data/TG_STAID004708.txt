@@ -18,7 +18,7 @@ This is the blended series of station ULM, GERMANY (STAID: 4708)
 Blended and updated with sources:29588 910838 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4708, 29588,19440101,  -24,    0
   4708, 29588,19440102,   20,    0
   4708, 29588,19440103,   36,    0

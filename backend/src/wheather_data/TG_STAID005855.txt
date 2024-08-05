@@ -18,7 +18,7 @@ This is the blended series of station KIRUNA_FLYGPLATS, SWEDEN (STAID: 5855)
 Blended and updated with sources:37418 902044 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5855, 37418,19570701,  121,    0
   5855, 37418,19570702,   92,    0
   5855, 37418,19570703,   72,    0

@@ -18,7 +18,7 @@ This is the blended series of station SCHNEIDERAU, AUSTRIA (STAID: 24243)
 Blended and updated with sources:128781 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24243,128781,19610601,  131,    0
  24243,128781,19610602,  120,    0
  24243,128781,19610603,   80,    0

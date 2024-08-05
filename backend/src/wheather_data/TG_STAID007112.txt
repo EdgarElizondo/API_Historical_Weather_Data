@@ -18,7 +18,7 @@ This is the blended series of station KYLMAKOSKI NAULI, FINLAND (STAID: 7112)
 Blended and updated with sources:42714 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7112, 42714,19921001,-9999,    9
   7112, 42714,19921002,-9999,    9
   7112, 42714,19921003,-9999,    9

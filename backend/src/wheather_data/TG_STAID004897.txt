@@ -18,7 +18,7 @@ This is the blended series of station BRILON, GERMANY (STAID: 4897)
 Blended and updated with sources:31376 31856 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4897, 31856,19370101,   40,    0
   4897, 31856,19370102,   26,    0
   4897, 31856,19370103,   69,    0

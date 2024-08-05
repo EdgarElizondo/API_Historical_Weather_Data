@@ -18,7 +18,7 @@ This is the blended series of station VINDELN-SUNNANSJONAS, SWEDEN (STAID: 5714)
 Blended and updated with sources:36944 36959 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5714, 36959,19490101,  -10,    1
   5714, 36959,19490102,    2,    1
   5714, 36959,19490103,   -2,    1

@@ -18,7 +18,7 @@ This is the blended series of station BAD DURKHEIM, GERMANY (STAID: 4026)
 Blended and updated with sources:21404 21416 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4026, 21416,19360101,   75,    0
   4026, 21416,19360102,   66,    0
   4026, 21416,19360103,   87,    0

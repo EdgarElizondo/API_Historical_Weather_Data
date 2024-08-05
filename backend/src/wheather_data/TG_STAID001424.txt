@@ -18,7 +18,7 @@ This is the blended series of station LANDSORT, SWEDEN (STAID: 1424)
 Blended and updated with sources:35939 35942 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1424, 35939,18480601,-9999,    9
   1424, 35939,18480602,-9999,    9
   1424, 35939,18480603,-9999,    9

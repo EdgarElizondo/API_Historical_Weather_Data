@@ -18,7 +18,7 @@ This is the blended series of station BAD DURKHEIM (SALINE), GERMANY (STAID: 402
 Blended and updated with sources:21404 21416 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4027, 21416,19360101,   75,    0
   4027, 21416,19360102,   66,    0
   4027, 21416,19360103,   87,    0

@@ -18,7 +18,7 @@ This is the blended series of station GELBELSEE, GERMANY (STAID: 4137)
 Blended and updated with sources:22736 910777 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4137, 22736,19980101,   10,    0
   4137, 22736,19980102,   44,    0
   4137, 22736,19980103,-9999,    9

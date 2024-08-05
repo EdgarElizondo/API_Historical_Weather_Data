@@ -18,7 +18,7 @@ This is the blended series of station WIELICZKA, POLAND (STAID: 24974)
 Blended and updated with sources:138138 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24974,138138,19610101,  -16,    0
  24974,138138,19610102,  -38,    0
  24974,138138,19610103,   37,    0

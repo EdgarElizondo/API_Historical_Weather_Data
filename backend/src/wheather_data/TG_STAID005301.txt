@@ -18,7 +18,7 @@ This is the blended series of station LANDVETTER_FLYGPLATS, SWEDEN (STAID: 5301)
 Blended and updated with sources:35582 902526 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5301, 35582,19771001,   75,    0
   5301, 35582,19771002,   55,    0
   5301, 35582,19771003,   48,    0

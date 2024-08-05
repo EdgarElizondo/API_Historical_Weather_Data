@@ -18,7 +18,7 @@ This is the blended series of station ROSKAR, SWEDEN (STAID: 5476)
 Blended and updated with sources:36170 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5476, 36170,19530101,  -40,    0
   5476, 36170,19530102,  -41,    0
   5476, 36170,19530103,  -41,    0

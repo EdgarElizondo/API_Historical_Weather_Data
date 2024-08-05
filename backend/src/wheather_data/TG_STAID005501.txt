@@ -18,7 +18,7 @@ This is the blended series of station PERSBERG, SWEDEN (STAID: 5501)
 Blended and updated with sources:36242 36248 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5501, 36242,19450101,  -66,    0
   5501, 36242,19450102,    1,    0
   5501, 36242,19450103,    3,    0

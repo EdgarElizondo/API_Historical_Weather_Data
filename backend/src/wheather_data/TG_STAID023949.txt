@@ -18,7 +18,7 @@ This is the blended series of station SCHAERDING, AUSTRIA (STAID: 23949)
 Blended and updated with sources:125011 911055 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23949,125011,19921201,    0,    0
  23949,125011,19921202,   -3,    0
  23949,125011,19921203,   43,    0

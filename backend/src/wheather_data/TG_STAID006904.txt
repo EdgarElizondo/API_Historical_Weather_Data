@@ -18,7 +18,7 @@ This is the blended series of station KIRUNA, SWEDEN (STAID: 6904)
 Blended and updated with sources:71083 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6904, 71083,18980801,   83,    1
   6904, 71083,18980802,  109,    1
   6904, 71083,18980803,  114,    1

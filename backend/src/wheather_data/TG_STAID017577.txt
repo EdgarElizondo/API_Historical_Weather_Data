@@ -18,7 +18,7 @@ This is the blended series of station CASTELLAZZO_VILLANOVA_DARDA, ITALY (STAID:
 Blended and updated with sources:94776 96184 97880 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17577, 94776,20051201,-9999,    9
  17577, 94776,20051202,-9999,    9
  17577, 94776,20051203,-9999,    9

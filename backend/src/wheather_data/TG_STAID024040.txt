@@ -18,7 +18,7 @@ This is the blended series of station FUCHSENBIGL, AUSTRIA (STAID: 24040)
 Blended and updated with sources:126168 130770 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24040,126168,19460401,-9999,    9
  24040,126168,19460402,-9999,    9
  24040,126168,19460403,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station FRUHOLMEN FYR, NORWAY (STAID: 1059)
 Blended and updated with sources:9461 901055 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1059,  9461,19540601,-9999,    9
   1059,  9461,19540602,-9999,    9
   1059,  9461,19540603,-9999,    9

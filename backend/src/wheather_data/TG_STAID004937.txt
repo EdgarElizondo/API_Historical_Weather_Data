@@ -18,7 +18,7 @@ This is the blended series of station KR. NECKAR-ODENWALD BUCHEN, GERMANY (STAID
 Blended and updated with sources:32336 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4937, 32336,19350101,   53,    0
   4937, 32336,19350102,   38,    0
   4937, 32336,19350103,   20,    0

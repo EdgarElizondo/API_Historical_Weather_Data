@@ -18,7 +18,7 @@ This is the blended series of station KULLEN, SWEDEN (STAID: 5210)
 Blended and updated with sources:35282 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5210, 35282,19490101,   32,    1
   5210, 35282,19490102,   49,    1
   5210, 35282,19490103,   31,    1

@@ -18,7 +18,7 @@ This is the blended series of station FAGERED, SWEDEN (STAID: 5261)
 Blended and updated with sources:35432 35447 902539 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5261, 35447,19450101,  -68,    0
   5261, 35447,19450102,   38,    0
   5261, 35447,19450103,   39,    0

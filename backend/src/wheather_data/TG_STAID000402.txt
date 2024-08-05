@@ -18,7 +18,7 @@ This is the blended series of station PERM', RUSSIAN FEDERATION (STAID: 402)
 Blended and updated with sources:17043 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    402, 17043,18820101,-9999,    9
    402, 17043,18820102,-9999,    9
    402, 17043,18820103,-9999,    9

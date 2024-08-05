@@ -18,7 +18,7 @@ This is the blended series of station PRAHA-KLEMENTINUM, CZECH REPUBLIC (STAID: 
 Blended and updated with sources:80 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     27,    80,17750101,  -70,    0
     27,    80,17750102,  -22,    0
     27,    80,17750103,  -10,    0

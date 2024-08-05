@@ -18,7 +18,7 @@ This is the blended series of station CHULPANOVO, RUSSIAN FEDERATION (STAID: 311
 Blended and updated with sources:50033 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3117, 50033,19360101,  -63,    0
   3117, 50033,19360102,  -65,    0
   3117, 50033,19360103,  -39,    0

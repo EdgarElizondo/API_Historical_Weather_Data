@@ -18,7 +18,7 @@ This is the blended series of station PANTA DE DARNIUS - BOADELLA, SPAIN (STAID:
 Blended and updated with sources:73100 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11346, 73100,20160101,   95,    0
  11346, 73100,20160102,   76,    0
  11346, 73100,20160103,   74,    0

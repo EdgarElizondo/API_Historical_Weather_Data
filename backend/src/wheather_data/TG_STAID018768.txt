@@ -18,7 +18,7 @@ This is the blended series of station OLDEN - VANGBERG, NORWAY (STAID: 18768)
 Blended and updated with sources:100613 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18768,100613,19730701,  193,    0
  18768,100613,19730702,  168,    0
  18768,100613,19730703,  145,    0

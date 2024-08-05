@@ -18,7 +18,7 @@ This is the blended series of station BEERFELDEN, GERMANY (STAID: 4419)
 Blended and updated with sources:26120 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4419, 26120,19370101,   14,    0
   4419, 26120,19370102,   29,    0
   4419, 26120,19370103,   40,    0

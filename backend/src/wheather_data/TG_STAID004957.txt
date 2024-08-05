@@ -18,7 +18,7 @@ This is the blended series of station CLOPPENBURG, GERMANY (STAID: 4957)
 Blended and updated with sources:32576 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4957, 32576,19600101,   90,    0
   4957, 32576,19600102,   66,    0
   4957, 32576,19600103,   46,    0

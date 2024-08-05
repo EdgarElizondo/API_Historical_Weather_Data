@@ -18,7 +18,7 @@ This is the blended series of station MUODOSLOMPOLO, SWEDEN (STAID: 5861)
 Blended and updated with sources:37436 46421 902823 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5861, 46421,19590101,  -87,    0
   5861, 46421,19590102,  -98,    1
   5861, 46421,19590103, -118,    0

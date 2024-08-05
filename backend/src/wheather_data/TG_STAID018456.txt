@@ -18,7 +18,7 @@ This is the blended series of station E6 KLETT, NORWAY (STAID: 18456)
 Blended and updated with sources:99265 99478 100839 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18456,100839,19270401,-9999,    9
  18456,100839,19270402,-9999,    9
  18456,100839,19270403,-9999,    9

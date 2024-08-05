@@ -18,7 +18,7 @@ This is the blended series of station RAURIS, AUSTRIA (STAID: 24732)
 Blended and updated with sources:135112 911346 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24732,135112,18750901,-9999,    9
  24732,135112,18750902,-9999,    9
  24732,135112,18750903,-9999,    9

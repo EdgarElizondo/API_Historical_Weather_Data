@@ -18,7 +18,7 @@ This is the blended series of station AGRINIO, GREECE (STAID: 838)
 Blended and updated with sources:55858 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    838, 55858,19980101,-9999,    9
    838, 55858,19980102,   77,    0
    838, 55858,19980103,   88,    0

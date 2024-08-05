@@ -18,7 +18,7 @@ This is the blended series of station FV38 BUSTRAK, NORWAY (STAID: 21765)
 Blended and updated with sources:118117 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21765,118117,20200901,-9999,    9
  21765,118117,20200902,-9999,    9
  21765,118117,20200903,-9999,    9

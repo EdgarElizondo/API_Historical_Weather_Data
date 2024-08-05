@@ -18,7 +18,7 @@ This is the blended series of station BRUSDALEN, NORWAY (STAID: 21764)
 Blended and updated with sources:99661 118116 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21764, 99661,20140101,   67,    1
  21764, 99661,20140102,   89,    1
  21764, 99661,20140103,   85,    1

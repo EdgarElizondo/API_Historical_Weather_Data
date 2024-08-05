@@ -18,7 +18,7 @@ This is the blended series of station WADOWICE, POLAND (STAID: 24884)
 Blended and updated with sources:137058 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24884,137058,19610101,  -43,    0
  24884,137058,19610102,  -37,    0
  24884,137058,19610103,   39,    0

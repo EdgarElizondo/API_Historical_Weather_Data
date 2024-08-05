@@ -18,7 +18,7 @@ This is the blended series of station ST.ANTON AM ARLBERG, AUSTRIA (STAID: 24623
 Blended and updated with sources:128521 128547 133682 133695 135567 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24623,128547,18950701,-9999,    9
  24623,128547,18950702,-9999,    9
  24623,128547,18950703,-9999,    9

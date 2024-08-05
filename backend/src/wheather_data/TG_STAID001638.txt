@@ -18,7 +18,7 @@ This is the blended series of station LONG ASHTON, UNITED KINGDOM (STAID: 1638)
 Blended and updated with sources:6941 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1638,  6941,20010101,   70,    0
   1638,  6941,20010102,   90,    0
   1638,  6941,20010103,   62,    0

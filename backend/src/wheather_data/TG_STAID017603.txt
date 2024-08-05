@@ -18,7 +18,7 @@ This is the blended series of station CORTE_CENTRALE, ITALY (STAID: 17603)
 Blended and updated with sources:94984 95088 95568 95616 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17603, 95568,20121201,-9999,    9
  17603, 95568,20121202,-9999,    9
  17603, 95568,20121203,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station KRISTIANSTAD_EVEROD, SWEDEN (STAID: 5190)
 Blended and updated with sources:35213 35228 62625 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5190, 62625,19610301,   37,    1
   5190, 62625,19610302,   41,    1
   5190, 62625,19610303,   47,    1

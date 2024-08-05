@@ -18,7 +18,7 @@ This is the blended series of station KY'ZY'L-OZEK, RUSSIAN FEDERATION (STAID: 8
 Blended and updated with sources:52208 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8534, 52208,19290101,-9999,    9
   8534, 52208,19290102,-9999,    9
   8534, 52208,19290103,-9999,    9

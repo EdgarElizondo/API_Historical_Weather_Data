@@ -18,7 +18,7 @@ This is the blended series of station RENNES-ST JACQUES, FRANCE (STAID: 322)
 Blended and updated with sources:6713 907130 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    322,  6713,19450101,   30,    0
    322,  6713,19450102,   13,    0
    322,  6713,19450103,   38,    0

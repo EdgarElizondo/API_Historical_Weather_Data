@@ -18,7 +18,7 @@ This is the blended series of station BOR, RUSSIAN FEDERATION (STAID: 3199)
 Blended and updated with sources:16867 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3199, 16867,19360101, -324,    0
   3199, 16867,19360102, -322,    0
   3199, 16867,19360103, -364,    0

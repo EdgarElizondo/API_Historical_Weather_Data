@@ -18,7 +18,7 @@ This is the blended series of station WAIDHOFEN/YBBS-ZENTRUM, AUSTRIA (STAID: 24
 Blended and updated with sources:126363 132135 134046 135385 911071 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24502,126363,19241201,    5,    0
  24502,126363,19241202,    5,    0
  24502,126363,19241203,   19,    0

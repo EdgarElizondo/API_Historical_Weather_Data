@@ -18,7 +18,7 @@ This is the blended series of station SOBIESZYN, POLAND (STAID: 25021)
 Blended and updated with sources:138702 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25021,138702,19560101,  -10,    0
  25021,138702,19560102,   -3,    0
  25021,138702,19560103,  -30,    0

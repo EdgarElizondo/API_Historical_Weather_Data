@@ -18,7 +18,7 @@ This is the blended series of station STEINAU-SEIDENROTH, GERMANY (STAID: 4650)
 Blended and updated with sources:28892 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4650, 28892,19890701,  177,    0
   4650, 28892,19890702,  138,    0
   4650, 28892,19890703,  130,    0

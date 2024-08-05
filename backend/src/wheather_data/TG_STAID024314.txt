@@ -18,7 +18,7 @@ This is the blended series of station WEITENSFELD, AUSTRIA (STAID: 24314)
 Blended and updated with sources:129691 131420 131433 135398 911225 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24314,129691,19530101,   -3,    0
  24314,129691,19530102,    7,    0
  24314,129691,19530103,   -8,    0

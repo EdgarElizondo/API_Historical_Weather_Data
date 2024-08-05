@@ -18,7 +18,7 @@ This is the blended series of station TOMSK, RUSSIAN FEDERATION (STAID: 3229)
 Blended and updated with sources:17096 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3229, 17096,18810101,  -52,    0
   3229, 17096,18810102, -112,    0
   3229, 17096,18810103, -200,    0

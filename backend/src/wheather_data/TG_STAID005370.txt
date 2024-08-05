@@ -18,7 +18,7 @@ This is the blended series of station SKOVDE, SWEDEN (STAID: 5370)
 Blended and updated with sources:35813 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5370, 35813,19610101,   -6,    0
   5370, 35813,19610102,    4,    0
   5370, 35813,19610103,    8,    0

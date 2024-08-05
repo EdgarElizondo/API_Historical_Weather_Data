@@ -18,7 +18,7 @@ This is the blended series of station OLANDS SODRA GRUND 1, SWEDEN (STAID: 5200)
 Blended and updated with sources:35243 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5200, 35243,19610101,   23,    1
   5200, 35243,19610102,   37,    1
   5200, 35243,19610103,   26,    1

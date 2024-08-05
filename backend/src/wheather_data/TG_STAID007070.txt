@@ -18,7 +18,7 @@ This is the blended series of station LAITILA PALTTILA, FINLAND (STAID: 7070)
 Blended and updated with sources:42489 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7070, 42489,19921101,-9999,    9
   7070, 42489,19921102,-9999,    9
   7070, 42489,19921103,-9999,    9

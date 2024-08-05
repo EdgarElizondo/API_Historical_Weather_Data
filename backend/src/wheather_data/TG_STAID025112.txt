@@ -18,7 +18,7 @@ This is the blended series of station SLUPSK, POLAND (STAID: 25112)
 Blended and updated with sources:139734 139794 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25112,139734,19860101,  -64,    0
  25112,139734,19860102,  -64,    0
  25112,139734,19860103,    4,    0

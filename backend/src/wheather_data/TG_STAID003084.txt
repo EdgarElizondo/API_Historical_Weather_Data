@@ -18,7 +18,7 @@ This is the blended series of station VERXOTUR'E, RUSSIAN FEDERATION (STAID: 308
 Blended and updated with sources:49703 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3084, 49703,19360101,  -59,    0
   3084, 49703,19360102,  -60,    0
   3084, 49703,19360103,  -55,    0

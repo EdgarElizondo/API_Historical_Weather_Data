@@ -18,7 +18,7 @@ This is the blended series of station ROSTEBO, SWEDEN (STAID: 5593)
 Blended and updated with sources:36542 36545 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5593, 36545,19690201,-9999,    9
   5593, 36545,19690202,-9999,    9
   5593, 36545,19690203,-9999,    9

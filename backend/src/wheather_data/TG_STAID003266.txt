@@ -18,7 +18,7 @@ This is the blended series of station DAL'NERECHENSK, RUSSIAN FEDERATION (STAID:
 Blended and updated with sources:17281 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3266, 17281,19390101,-9999,    9
   3266, 17281,19390102,-9999,    9
   3266, 17281,19390103,-9999,    9

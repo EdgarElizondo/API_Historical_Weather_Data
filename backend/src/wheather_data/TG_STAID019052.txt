@@ -18,7 +18,7 @@ This is the blended series of station HYLESTAD - BROKKE, NORWAY (STAID: 19052)
 Blended and updated with sources:100939 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19052,100939,19611201,  -58,    0
  19052,100939,19611202,  -74,    0
  19052,100939,19611203,  -34,    0

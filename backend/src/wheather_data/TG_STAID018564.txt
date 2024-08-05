@@ -18,7 +18,7 @@ This is the blended series of station TIME - LYE, NORWAY (STAID: 18564)
 Blended and updated with sources:99468 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18564, 99468,20170101,-9999,    9
  18564, 99468,20170102,-9999,    9
  18564, 99468,20170103,-9999,    9

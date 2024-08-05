@@ -18,7 +18,7 @@ This is the blended series of station SVEG, SWEDEN (STAID: 3525)
 Blended and updated with sources:36617 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3525, 36617,18750701,  179,    1
   3525, 36617,18750702,  156,    1
   3525, 36617,18750703,  132,    1

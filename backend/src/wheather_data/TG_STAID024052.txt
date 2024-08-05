@@ -18,7 +18,7 @@ This is the blended series of station GMUNDEN, AUSTRIA (STAID: 24052)
 Blended and updated with sources:126285 126311 126324 131186 911154 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24052,126311,19300101,   38,    0
  24052,126311,19300102,   50,    0
  24052,126311,19300103,   55,    0

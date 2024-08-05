@@ -18,7 +18,7 @@ This is the blended series of station SACHSENHEIM, GERMANY (STAID: 4585)
 Blended and updated with sources:28112 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4585, 28112,19871101,  105,    0
   4585, 28112,19871102,  103,    0
   4585, 28112,19871103,   83,    0

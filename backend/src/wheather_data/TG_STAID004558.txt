@@ -18,7 +18,7 @@ This is the blended series of station RHEINFELDEN, GERMANY (STAID: 4558)
 Blended and updated with sources:27788 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4558, 27788,19530901,  208,    0
   4558, 27788,19530902,  220,    0
   4558, 27788,19530903,  184,    0

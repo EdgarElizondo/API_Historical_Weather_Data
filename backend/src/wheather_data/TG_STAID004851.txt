@@ -18,7 +18,7 @@ This is the blended series of station DOLLNSTEIN-BREITENFURT, GERMANY (STAID: 48
 Blended and updated with sources:21584 31304 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4851, 21584,19550101,  -39,    0
   4851, 21584,19550102,  -78,    0
   4851, 21584,19550103,  -69,    0

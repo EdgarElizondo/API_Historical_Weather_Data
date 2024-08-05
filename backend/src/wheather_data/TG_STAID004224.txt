@@ -18,7 +18,7 @@ This is the blended series of station HILGENROTH, GERMANY (STAID: 4224)
 Blended and updated with sources:23780 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4224, 23780,19370101,   46,    0
   4224, 23780,19370102,   47,    0
   4224, 23780,19370103,   80,    0

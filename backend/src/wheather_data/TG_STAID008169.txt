@@ -18,7 +18,7 @@ This is the blended series of station MAKSATIXA, RUSSIAN FEDERATION (STAID: 8169
 Blended and updated with sources:49218 927208 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8169, 49218,19590101,-9999,    9
   8169, 49218,19590102,-9999,    9
   8169, 49218,19590103,-9999,    9

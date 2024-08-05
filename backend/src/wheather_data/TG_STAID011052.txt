@@ -18,7 +18,7 @@ This is the blended series of station MALNIU, SPAIN (STAID: 11052)
 Blended and updated with sources:56328 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11052, 56328,20080101,   29,    0
  11052, 56328,20080102,    1,    0
  11052, 56328,20080103,  -41,    0

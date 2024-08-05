@@ -18,7 +18,7 @@ This is the blended series of station DEBALTSEVE, UKRAINE (STAID: 1615)
 Blended and updated with sources:17527 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1615, 17527,19360101,  -32,    0
   1615, 17527,19360102,  -27,    0
   1615, 17527,19360103,  -28,    0

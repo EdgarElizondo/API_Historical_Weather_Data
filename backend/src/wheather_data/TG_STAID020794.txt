@@ -18,7 +18,7 @@ This is the blended series of station HERENTALS_P, BELGIUM (STAID: 20794)
 Blended and updated with sources:118283 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20794,118283,20201001,  135,    0
  20794,118283,20201002,  117,    0
  20794,118283,20201003,  127,    0

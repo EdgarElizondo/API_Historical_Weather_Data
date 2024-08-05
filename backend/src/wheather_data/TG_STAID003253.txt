@@ -18,7 +18,7 @@ This is the blended series of station OXOTSK, RUSSIAN FEDERATION (STAID: 3253)
 Blended and updated with sources:17216 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3253, 17216,18910101, -239,    0
   3253, 17216,18910102, -197,    0
   3253, 17216,18910103, -201,    0

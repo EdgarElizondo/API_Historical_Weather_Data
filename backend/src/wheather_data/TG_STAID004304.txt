@@ -18,7 +18,7 @@ This is the blended series of station BAD KOSEN, GERMANY (STAID: 4304)
 Blended and updated with sources:24740 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4304, 24740,19450701,  162,    0
   4304, 24740,19450702,  145,    0
   4304, 24740,19450703,  150,    0

@@ -18,7 +18,7 @@ This is the blended series of station SURNADAL - SYLTE, NORWAY (STAID: 18037)
 Blended and updated with sources:99296 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18037, 99296,20130101,  -14,    0
  18037, 99296,20130102,   31,    0
  18037, 99296,20130103,   45,    0

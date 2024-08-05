@@ -18,7 +18,7 @@ This is the blended series of station ASELE, SWEDEN (STAID: 5715)
 Blended and updated with sources:36947 36950 902254 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5715, 36947,19510101, -231,    0
   5715, 36947,19510102, -189,    0
   5715, 36947,19510103, -135,    0

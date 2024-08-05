@@ -18,7 +18,7 @@ This is the blended series of station LOHJA PORLA, FINLAND (STAID: 702)
 Blended and updated with sources:42104 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    702, 42104,19590101,    4,    0
    702, 42104,19590102,    0,    0
    702, 42104,19590103,    8,    0

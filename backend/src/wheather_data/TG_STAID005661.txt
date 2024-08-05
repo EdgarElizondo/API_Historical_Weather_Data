@@ -18,7 +18,7 @@ This is the blended series of station BOLESTRAND, SWEDEN (STAID: 5661)
 Blended and updated with sources:36761 36767 902247 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5661, 36761,19550101,  -69,    0
   5661, 36761,19550102, -146,    0
   5661, 36761,19550103, -233,    0

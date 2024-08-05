@@ -18,7 +18,7 @@ This is the blended series of station FOSSMARK, NORWAY (STAID: 18093)
 Blended and updated with sources:99093 901314 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18093, 99093,20120601,   80,    0
  18093, 99093,20120602,   80,    0
  18093, 99093,20120603,   90,    0

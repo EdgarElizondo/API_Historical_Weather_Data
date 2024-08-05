@@ -18,7 +18,7 @@ This is the blended series of station NORDSEEBOJE 2, GERMANY (STAID: 4099)
 Blended and updated with sources:22280 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4099, 22280,20080901,-9999,    9
   4099, 22280,20080902,-9999,    9
   4099, 22280,20080903,-9999,    9

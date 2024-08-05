@@ -18,7 +18,7 @@ This is the blended series of station KRISTINFELTET, NORWAY (STAID: 18335)
 Blended and updated with sources:99049 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18335, 99049,20141101,-9999,    9
  18335, 99049,20141102,-9999,    9
  18335, 99049,20141103,-9999,    9

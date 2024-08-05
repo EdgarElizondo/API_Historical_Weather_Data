@@ -18,7 +18,7 @@ This is the blended series of station PUCH, GERMANY (STAID: 4530)
 Blended and updated with sources:27452 31544 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4530, 27452,19510101,   -9,    0
   4530, 27452,19510102,  -44,    0
   4530, 27452,19510103,   -5,    0

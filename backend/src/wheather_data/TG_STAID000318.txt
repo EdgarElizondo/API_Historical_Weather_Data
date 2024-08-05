@@ -18,7 +18,7 @@ This is the blended series of station DAKHLA, EGYPT (STAID: 318)
 Blended and updated with sources:1084 962432 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    318,  1084,19940101,  155,    0
    318,  1084,19940102,  137,    0
    318,  1084,19940103,  133,    0

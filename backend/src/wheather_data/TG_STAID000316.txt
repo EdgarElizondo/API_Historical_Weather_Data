@@ -18,7 +18,7 @@ This is the blended series of station SIWA, EGYPT (STAID: 316)
 Blended and updated with sources:1074 962417 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    316,  1074,19940101,  137,    0
    316,  1074,19940102,  145,    0
    316,  1074,19940103,  149,    0

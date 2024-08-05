@@ -18,7 +18,7 @@ This is the blended series of station HALA ORNAK, POLAND (STAID: 24878)
 Blended and updated with sources:136974 136986 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24878,136986,19910101,   13,    0
  24878,136986,19910102,  -32,    0
  24878,136986,19910103,   33,    0

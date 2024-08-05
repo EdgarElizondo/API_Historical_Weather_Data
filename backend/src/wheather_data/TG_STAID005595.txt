@@ -18,7 +18,7 @@ This is the blended series of station KVARNBERG, SWEDEN (STAID: 5595)
 Blended and updated with sources:36548 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5595, 36548,19450101,  -80,    0
   5595, 36548,19450102,  -65,    0
   5595, 36548,19450103,  -74,    0

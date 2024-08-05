@@ -18,7 +18,7 @@ This is the blended series of station ORSKAR_A, SWEDEN (STAID: 5555)
 Blended and updated with sources:36419 902488 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5555, 36419,19370401,  -18,    1
   5555, 36419,19370402,  -14,    1
   5555, 36419,19370403,   -1,    1

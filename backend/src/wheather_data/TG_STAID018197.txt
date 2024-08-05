@@ -18,7 +18,7 @@ This is the blended series of station EIGEROEYA, NORWAY (STAID: 18197)
 Blended and updated with sources:99386 100986 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18197,100986,19690901,  118,    0
  18197,100986,19690902,  118,    0
  18197,100986,19690903,  126,    0

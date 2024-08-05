@@ -18,7 +18,7 @@ This is the blended series of station LUEBBEN, GERMANY (STAID: 11761)
 Blended and updated with sources:81163 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11761, 81163,19730101,  -36,    0
  11761, 81163,19730102,  -55,    0
  11761, 81163,19730103,  -62,    0

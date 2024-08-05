@@ -18,7 +18,7 @@ This is the blended series of station SAN MARINO, ITALY (STAID: 2891)
 Blended and updated with sources:97152 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2891, 97152,20060701,-9999,    9
   2891, 97152,20060702,-9999,    9
   2891, 97152,20060703,-9999,    9

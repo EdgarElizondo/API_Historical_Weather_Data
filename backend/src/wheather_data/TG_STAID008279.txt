@@ -18,7 +18,7 @@ This is the blended series of station KUZEDEEVO, RUSSIAN FEDERATION (STAID: 8279
 Blended and updated with sources:50553 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8279, 50553,19550101, -335,    0
   8279, 50553,19550102, -250,    0
   8279, 50553,19550103, -204,    0

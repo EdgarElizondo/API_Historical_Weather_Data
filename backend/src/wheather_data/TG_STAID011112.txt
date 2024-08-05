@@ -18,7 +18,7 @@ This is the blended series of station WISLEY, UNITED KINGDOM (STAID: 11112)
 Blended and updated with sources:56883 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11112, 56883,19040201,-9999,    9
  11112, 56883,19040202,-9999,    9
  11112, 56883,19040203,   38,    0

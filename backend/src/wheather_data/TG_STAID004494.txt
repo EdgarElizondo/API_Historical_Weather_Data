@@ -18,7 +18,7 @@ This is the blended series of station OFFENBURG, GERMANY (STAID: 4494)
 Blended and updated with sources:22772 27020 910805 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4494, 27020,19580101,   34,    0
   4494, 27020,19580102,   18,    0
   4494, 27020,19580103,   -3,    0

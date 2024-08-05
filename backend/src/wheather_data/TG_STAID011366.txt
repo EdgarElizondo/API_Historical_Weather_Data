@@ -18,7 +18,7 @@ This is the blended series of station TARTU, ESTONIA (STAID: 11366)
 Blended and updated with sources:75066 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11366, 75066,18660101,   10,    1
  11366, 75066,18660102,    9,    1
  11366, 75066,18660103,    8,    1

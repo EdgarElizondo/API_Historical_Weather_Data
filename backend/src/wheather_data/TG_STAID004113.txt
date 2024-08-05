@@ -18,7 +18,7 @@ This is the blended series of station FREIBERG, GERMANY (STAID: 4113)
 Blended and updated with sources:22448 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4113, 22448,19450701,  144,    0
   4113, 22448,19450702,  109,    0
   4113, 22448,19450703,  110,    0

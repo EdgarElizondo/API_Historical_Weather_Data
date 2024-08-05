@@ -18,7 +18,7 @@ This is the blended series of station ROELDALSFJELLET - ELVERSHEI, NORWAY (STAID
 Blended and updated with sources:99074 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18084, 99074,20140314,  -46,    0
  18084, 99074,20140315,  -64,    0
  18084, 99074,20140316,  -35,    0

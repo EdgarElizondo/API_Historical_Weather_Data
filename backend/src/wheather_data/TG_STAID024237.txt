@@ -18,7 +18,7 @@ This is the blended series of station RINN, AUSTRIA (STAID: 24237)
 Blended and updated with sources:128703 135671 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24237,135671,19570101,   38,    0
  24237,135671,19570102,   46,    0
  24237,135671,19570103,    6,    0

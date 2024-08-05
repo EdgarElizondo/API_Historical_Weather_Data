@@ -18,7 +18,7 @@ This is the blended series of station TUAPSE, RUSSIAN FEDERATION (STAID: 1363)
 Blended and updated with sources:52288 937018 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1363, 52288,19360101,   68,    0
   1363, 52288,19360102,   68,    0
   1363, 52288,19360103,   55,    0

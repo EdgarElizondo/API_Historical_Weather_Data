@@ -18,7 +18,7 @@ This is the blended series of station CASSIMORENO, ITALY (STAID: 17572)
 Blended and updated with sources:94728 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17572, 94728,20051201,-9999,    9
  17572, 94728,20051202,-9999,    9
  17572, 94728,20051203,-9999,    9

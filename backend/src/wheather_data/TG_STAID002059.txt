@@ -18,7 +18,7 @@ This is the blended series of station GALATI, ROMANIA (STAID: 2059)
 Blended and updated with sources:7510 915310 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2059,  7510,19610101,    7,    0
   2059,  7510,19610102,   11,    0
   2059,  7510,19610103,   28,    0

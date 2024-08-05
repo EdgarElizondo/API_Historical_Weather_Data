@@ -18,7 +18,7 @@ This is the blended series of station KOLPASHEVO, RUSSIAN FEDERATION (STAID: 322
 Blended and updated with sources:17081 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3226, 17081,19360101, -140,    0
   3226, 17081,19360102,  -98,    0
   3226, 17081,19360103, -142,    0

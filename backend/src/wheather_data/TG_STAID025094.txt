@@ -18,7 +18,7 @@ This is the blended series of station ZAWODZIE, POLAND (STAID: 25094)
 Blended and updated with sources:139554 139578 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25094,139578,19520101,   12,    0
  25094,139578,19520102,   27,    0
  25094,139578,19520103,   36,    0

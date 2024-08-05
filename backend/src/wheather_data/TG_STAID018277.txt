@@ -18,7 +18,7 @@ This is the blended series of station OSLO - LJABRUVEIEN, NORWAY (STAID: 18277)
 Blended and updated with sources:34276 99099 99194 99592 99668 100647 901487 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18277, 34276,19680501,-9999,    9
  18277, 34276,19680502,-9999,    9
  18277, 34276,19680503,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station LEIRAMO, NORWAY (STAID: 18963)
 Blended and updated with sources:100835 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18963,100835,19731101,   87,    0
  18963,100835,19731102,   13,    0
  18963,100835,19731103,   40,    0

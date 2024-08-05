@@ -18,7 +18,7 @@ This is the blended series of station MAISACH-GERNLINDEN, GERMANY (STAID: 4382)
 Blended and updated with sources:25676 31544 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4382, 25676,19831101,   43,    0
   4382, 25676,19831102,   37,    0
   4382, 25676,19831103,   37,    0

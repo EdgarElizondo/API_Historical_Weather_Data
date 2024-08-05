@@ -18,7 +18,7 @@ This is the blended series of station TENERIFE/SUR, SPAIN (STAID: 3960)
 Blended and updated with sources:20471 960025 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3960, 20471,19800701,  216,    0
   3960, 20471,19800702,  227,    0
   3960, 20471,19800703,  221,    0

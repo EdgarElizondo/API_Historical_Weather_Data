@@ -18,7 +18,7 @@ This is the blended series of station BASEL BINNINGEN, SWITZERLAND (STAID: 239)
 Blended and updated with sources:737 906601 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    239,   737,19010101,    9,    0
    239,   737,19010102,  -26,    0
    239,   737,19010103,  -62,    0

@@ -18,7 +18,7 @@ This is the blended series of station BITTERFELD, GERMANY (STAID: 11741)
 Blended and updated with sources:80943 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11741, 80943,19470101,  -62,    0
  11741, 80943,19470102,  -38,    0
  11741, 80943,19470103,  -35,    0

@@ -18,7 +18,7 @@ This is the blended series of station BAD-SOHL ELSTER, GERMANY (STAID: 4051)
 Blended and updated with sources:21704 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4051, 21704,19480601,  133,    0
   4051, 21704,19480602,  109,    0
   4051, 21704,19480603,   84,    0

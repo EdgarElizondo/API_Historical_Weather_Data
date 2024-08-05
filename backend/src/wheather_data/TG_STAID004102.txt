@@ -18,7 +18,7 @@ This is the blended series of station BAD FRANKENHAUSEN/KYFFHAUSER, GERMANY (STA
 Blended and updated with sources:22316 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4102, 22316,19540701,  136,    0
   4102, 22316,19540702,  157,    0
   4102, 22316,19540703,  169,    0

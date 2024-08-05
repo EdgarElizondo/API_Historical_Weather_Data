@@ -18,7 +18,7 @@ This is the blended series of station REISJARVI, FINLAND (STAID: 7592)
 Blended and updated with sources:45160 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7592, 45160,19590101,  -53,    0
   7592, 45160,19590102,  -72,    0
   7592, 45160,19590103,  -58,    0

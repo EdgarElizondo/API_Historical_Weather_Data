@@ -18,7 +18,7 @@ This is the blended series of station TORFHAUS IM SOLLING, GERMANY (STAID: 4689)
 Blended and updated with sources:29360 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4689, 29360,19370101,   20,    0
   4689, 29360,19370102,   18,    0
   4689, 29360,19370103,   62,    0

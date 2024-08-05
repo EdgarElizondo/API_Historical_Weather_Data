@@ -18,7 +18,7 @@ This is the blended series of station GULLFJELL - OSAVANN, NORWAY (STAID: 18867)
 Blended and updated with sources:100726 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18867,100726,20160901,-9999,    9
  18867,100726,20160902,-9999,    9
  18867,100726,20160903,-9999,    9

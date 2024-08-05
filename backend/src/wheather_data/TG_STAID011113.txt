@@ -18,7 +18,7 @@ This is the blended series of station WOBURN, UNITED KINGDOM (STAID: 11113)
 Blended and updated with sources:56887 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11113, 56887,20140101,   75,    0
  11113, 56887,20140102,   79,    0
  11113, 56887,20140103,   71,    0

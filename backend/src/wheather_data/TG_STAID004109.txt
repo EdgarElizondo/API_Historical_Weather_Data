@@ -18,7 +18,7 @@ This is the blended series of station FRANKWEILER, GERMANY (STAID: 4109)
 Blended and updated with sources:22400 23000 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4109, 22400,19480101,   18,    0
   4109, 22400,19480102,   91,    0
   4109, 22400,19480103,  110,    0

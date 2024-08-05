@@ -18,7 +18,7 @@ This is the blended series of station WUPPERTAL-BUCHENHOFEN, GERMANY (STAID: 479
 Blended and updated with sources:28904 30584 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4791, 28904,19360101,   71,    0
   4791, 28904,19360102,   63,    0
   4791, 28904,19360103,   52,    0

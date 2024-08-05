@@ -18,7 +18,7 @@ This is the blended series of station SYLARNA, SWEDEN (STAID: 5655)
 Blended and updated with sources:36743 902209 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5655, 36743,19861001,-9999,    9
   5655, 36743,19861002,-9999,    9
   5655, 36743,19861003,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station ENINGEN, GERMANY (STAID: 4059)
 Blended and updated with sources:21800 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4059, 21800,19760101,   42,    0
   4059, 21800,19760102,   55,    0
   4059, 21800,19760103,   26,    0

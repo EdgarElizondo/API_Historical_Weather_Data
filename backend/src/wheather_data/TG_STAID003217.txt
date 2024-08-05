@@ -18,7 +18,7 @@ This is the blended series of station MARKOVO, RUSSIAN FEDERATION (STAID: 3217)
 Blended and updated with sources:16962 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3217, 16962,18940101,-9999,    9
   3217, 16962,18940102,-9999,    9
   3217, 16962,18940103,-9999,    9

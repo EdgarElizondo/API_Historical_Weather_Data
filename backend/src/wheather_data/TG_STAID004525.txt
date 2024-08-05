@@ -18,7 +18,7 @@ This is the blended series of station POMMELSBRUNN-MITTELBURG, GERMANY (STAID: 4
 Blended and updated with sources:27392 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4525, 27392,19930901,  106,    0
   4525, 27392,19930902,  117,    0
   4525, 27392,19930903,  104,    0

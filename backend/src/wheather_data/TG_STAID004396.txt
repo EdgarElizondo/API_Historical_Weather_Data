@@ -18,7 +18,7 @@ This is the blended series of station MEERBECK, GERMANY (STAID: 4396)
 Blended and updated with sources:25844 32384 910335 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4396, 25844,19610101,   24,    0
   4396, 25844,19610102,   20,    0
   4396, 25844,19610103,   42,    0

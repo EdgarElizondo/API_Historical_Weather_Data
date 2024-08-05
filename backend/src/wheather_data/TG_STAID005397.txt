@@ -18,7 +18,7 @@ This is the blended series of station KVARN_MO, SWEDEN (STAID: 5397)
 Blended and updated with sources:35903 902561 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5397, 35903,20100301,  -18,    0
   5397, 35903,20100302,  -54,    0
   5397, 35903,20100303,  -73,    0

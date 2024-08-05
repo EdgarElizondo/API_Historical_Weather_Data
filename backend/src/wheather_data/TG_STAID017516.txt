@@ -18,7 +18,7 @@ This is the blended series of station ALPE_DI_GORRETO, ITALY (STAID: 17516)
 Blended and updated with sources:94088 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17516, 94088,20051201,-9999,    9
  17516, 94088,20051202,-9999,    9
  17516, 94088,20051203,-9999,    9

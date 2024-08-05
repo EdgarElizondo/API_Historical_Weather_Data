@@ -18,7 +18,7 @@ This is the blended series of station KIEL-KRONSHAGEN, GERMANY (STAID: 4281)
 Blended and updated with sources:21032 24464 910046 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4281, 24464,19400101,  -43,    0
   4281, 24464,19400102,  -75,    0
   4281, 24464,19400103,  -39,    0

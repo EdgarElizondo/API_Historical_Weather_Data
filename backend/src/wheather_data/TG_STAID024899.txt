@@ -18,7 +18,7 @@ This is the blended series of station HALA GASIENICOWA, POLAND (STAID: 24899)
 Blended and updated with sources:137238 137250 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24899,137238,19910101,  -14,    0
  24899,137238,19910102,  -59,    0
  24899,137238,19910103,   34,    0

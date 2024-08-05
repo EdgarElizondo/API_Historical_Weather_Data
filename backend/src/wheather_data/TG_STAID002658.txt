@@ -18,7 +18,7 @@ This is the blended series of station ASERAL, NORWAY (STAID: 2658)
 Blended and updated with sources:10475 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2658, 10475,20160601,-9999,    9
   2658, 10475,20160602,-9999,    9
   2658, 10475,20160603,-9999,    9

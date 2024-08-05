@@ -18,7 +18,7 @@ This is the blended series of station EGVEKINOT, RUSSIAN FEDERATION (STAID: 8139
 Blended and updated with sources:48853 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8139, 48853,19550101, -257,    0
   8139, 48853,19550102, -266,    0
   8139, 48853,19550103, -251,    0

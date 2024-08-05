@@ -18,7 +18,7 @@ This is the blended series of station HJELVIK - MYRBOE, NORWAY (STAID: 18954)
 Blended and updated with sources:99042 100792 100823 100943 901215 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18954,100792,19540101,   63,    0
  18954,100792,19540102,   52,    0
  18954,100792,19540103,   21,    0

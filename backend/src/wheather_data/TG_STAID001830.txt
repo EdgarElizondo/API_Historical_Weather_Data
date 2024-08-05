@@ -18,7 +18,7 @@ This is the blended series of station LEUCHARS, UNITED KINGDOM (STAID: 1830)
 Blended and updated with sources:7024 903171 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1830,  7024,19600101,   66,    1
   1830,  7024,19600102,    6,    0
   1830,  7024,19600103,   44,    0

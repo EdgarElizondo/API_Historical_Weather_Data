@@ -18,7 +18,7 @@ This is the blended series of station BLUDENZ, AUSTRIA (STAID: 24818)
 Blended and updated with sources:133812 136230 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24818,136230,19360101,   61,    0
  24818,136230,19360102,   56,    0
  24818,136230,19360103,   83,    0

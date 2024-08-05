@@ -18,7 +18,7 @@ This is the blended series of station CLONAKILTY (AGRIC.COLL.), IRELAND (STAID: 
 Blended and updated with sources:7546 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1368,  7546,19760101,   90,    0
   1368,  7546,19760102,  111,    0
   1368,  7546,19760103,   69,    0

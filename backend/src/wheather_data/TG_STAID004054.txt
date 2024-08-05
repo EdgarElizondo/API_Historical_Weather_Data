@@ -18,7 +18,7 @@ This is the blended series of station EMDEN-WOLTHUSEN, GERMANY (STAID: 4054)
 Blended and updated with sources:2230 21728 21740 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4054, 21728,19470101,  -10,    0
   4054, 21728,19470102,    8,    0
   4054, 21728,19470103,  -10,    0

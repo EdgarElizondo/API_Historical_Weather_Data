@@ -18,7 +18,7 @@ This is the blended series of station LINKOEPING-MALMSLAETT, SWEDEN (STAID: 5)
 Blended and updated with sources:35825 35828 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
      5, 35828,18581201,   19,    1
      5, 35828,18581202,   15,    1
      5, 35828,18581203,   17,    1

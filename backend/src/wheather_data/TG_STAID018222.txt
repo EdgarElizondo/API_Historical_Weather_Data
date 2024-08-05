@@ -18,7 +18,7 @@ This is the blended series of station JOELSTER - KVAMSFJELLET, NORWAY (STAID: 18
 Blended and updated with sources:99445 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18222, 99445,20150901,-9999,    9
  18222, 99445,20150902,-9999,    9
  18222, 99445,20150903,-9999,    9

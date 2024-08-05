@@ -18,7 +18,7 @@ This is the blended series of station LECKFORD, UNITED KINGDOM (STAID: 1869)
 Blended and updated with sources:7063 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1869,  7063,19600101,   92,    1
   1869,  7063,19600102,   53,    0
   1869,  7063,19600103,   75,    0

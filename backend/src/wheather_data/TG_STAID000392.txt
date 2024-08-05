@@ -18,7 +18,7 @@ This is the blended series of station KIROV, RUSSIAN FEDERATION (STAID: 392)
 Blended and updated with sources:17013 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    392, 17013,18810101, -179,    0
    392, 17013,18810102,  -91,    0
    392, 17013,18810103,  -47,    0

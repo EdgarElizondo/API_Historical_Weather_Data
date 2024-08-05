@@ -18,7 +18,7 @@ This is the blended series of station LISBOA GEOFISICA, PORTUGAL (STAID: 214)
 Blended and updated with sources:866 118302 908535 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    214,   866,19010101,  112,    0
    214,   866,19010102,   98,    0
    214,   866,19010103,  115,    0

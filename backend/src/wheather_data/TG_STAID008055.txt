@@ -18,7 +18,7 @@ This is the blended series of station YUBILEJNAYA, RUSSIAN FEDERATION (STAID: 80
 Blended and updated with sources:48018 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8055, 48018,19360101,-9999,    9
   8055, 48018,19360102,-9999,    9
   8055, 48018,19360103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station TROMSO, NORWAY (STAID: 328)
 Blended and updated with sources:9405 901026 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    328,  9405,19200701,  119,    1
    328,  9405,19200702,  114,    1
    328,  9405,19200703,  118,    1

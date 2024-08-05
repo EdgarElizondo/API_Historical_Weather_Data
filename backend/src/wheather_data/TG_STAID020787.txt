@@ -18,7 +18,7 @@ This is the blended series of station ZARREN_P, BELGIUM (STAID: 20787)
 Blended and updated with sources:118295 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20787,118295,20201001,  134,    0
  20787,118295,20201002,  114,    0
  20787,118295,20201003,  125,    0

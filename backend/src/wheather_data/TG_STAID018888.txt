@@ -18,7 +18,7 @@ This is the blended series of station VINSTRA - SOLSTAD, NORWAY (STAID: 18888)
 Blended and updated with sources:100569 100754 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18888,100569,19540101, -148,    0
  18888,100569,19540102,  -62,    0
  18888,100569,19540103,   -5,    0

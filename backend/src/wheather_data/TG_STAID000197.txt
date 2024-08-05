@@ -18,7 +18,7 @@ This is the blended series of station BULKEN, NORWAY (STAID: 197)
 Blended and updated with sources:9430 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    197,  9430,20140501,   37,    0
    197,  9430,20140502,   46,    0
    197,  9430,20140503,   33,    0

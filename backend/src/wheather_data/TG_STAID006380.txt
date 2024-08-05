@@ -18,7 +18,7 @@ This is the blended series of station VADDO, SWEDEN (STAID: 6380)
 Blended and updated with sources:66794 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6380, 66794,19610101,   -7,    0
   6380, 66794,19610102,  -13,    0
   6380, 66794,19610103,    1,    0

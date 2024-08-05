@@ -18,7 +18,7 @@ This is the blended series of station SZCZUCZYN, POLAND (STAID: 25096)
 Blended and updated with sources:139602 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25096,139602,19610101,   -4,    0
  25096,139602,19610102,  -11,    0
  25096,139602,19610103,    1,    0

@@ -18,7 +18,7 @@ This is the blended series of station PARMA_T.P., ITALY (STAID: 17715)
 Blended and updated with sources:96400 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17715, 96400,20051201,-9999,    9
  17715, 96400,20051202,-9999,    9
  17715, 96400,20051203,-9999,    9

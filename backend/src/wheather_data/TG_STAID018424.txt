@@ -18,7 +18,7 @@ This is the blended series of station FV609 HOLMEDAL VEST, NORWAY (STAID: 18424)
 Blended and updated with sources:99208 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18424, 99208,20161201,-9999,    9
  18424, 99208,20161202,-9999,    9
  18424, 99208,20161203,   24,    0

@@ -18,7 +18,7 @@ This is the blended series of station RAUMA KUUSKAJASKARI, FINLAND (STAID: 7056)
 Blended and updated with sources:42414 42424 42494 902761 902961 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7056, 42414,19590101,    7,    0
   7056, 42414,19590102,   -2,    0
   7056, 42414,19590103,    1,    0

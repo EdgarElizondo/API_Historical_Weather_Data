@@ -18,7 +18,7 @@ This is the blended series of station LENZEN/ELBE, GERMANY (STAID: 4349)
 Blended and updated with sources:25280 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4349, 25280,19941001,   98,    0
   4349, 25280,19941002,  103,    0
   4349, 25280,19941003,   88,    0

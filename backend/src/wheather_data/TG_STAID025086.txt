@@ -18,7 +18,7 @@ This is the blended series of station PRABUTY, POLAND (STAID: 25086)
 Blended and updated with sources:139482 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25086,139482,19510101,  -71,    0
  25086,139482,19510102,  -34,    0
  25086,139482,19510103,   13,    0

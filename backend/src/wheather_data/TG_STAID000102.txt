@@ -18,7 +18,7 @@ This is the blended series of station UST'-CIL'MA, RUSSIAN FEDERATION (STAID: 10
 Blended and updated with sources:397 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    102,   397,18920101, -187,    0
    102,   397,18920102, -172,    0
    102,   397,18920103,  -69,    0

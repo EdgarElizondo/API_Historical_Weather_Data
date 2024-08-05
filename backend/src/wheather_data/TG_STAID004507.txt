@@ -18,7 +18,7 @@ This is the blended series of station PARSBERG/OBERPFALZ-EGLWANG, GERMANY (STAID
 Blended and updated with sources:27176 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4507, 27176,19500101,  -54,    0
   4507, 27176,19500102,  -20,    0
   4507, 27176,19500103,    4,    0

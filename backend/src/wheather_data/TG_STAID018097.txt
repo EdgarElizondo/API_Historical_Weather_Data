@@ -18,7 +18,7 @@ This is the blended series of station AFJORD II, NORWAY (STAID: 18097)
 Blended and updated with sources:99106 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18097, 99106,20071129,   -4,    1
  18097, 99106,20071130,    7,    0
  18097, 99106,20071201,   32,    0

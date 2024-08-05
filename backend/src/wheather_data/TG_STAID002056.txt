@@ -18,7 +18,7 @@ This is the blended series of station BOTOSANI, ROMANIA (STAID: 2056)
 Blended and updated with sources:7502 915020 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2056,  7502,19610101,    9,    0
   2056,  7502,19610102,    0,    0
   2056,  7502,19610103,   30,    0

@@ -18,7 +18,7 @@ This is the blended series of station SOHLAND/SPREE, GERMANY (STAID: 4834)
 Blended and updated with sources:31100 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4834, 31100,19990501,  125,    0
   4834, 31100,19990502,   74,    0
   4834, 31100,19990503,   93,    0

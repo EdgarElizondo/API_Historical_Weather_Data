@@ -18,7 +18,7 @@ This is the blended series of station KOLOMNA, RUSSIAN FEDERATION (STAID: 1227)
 Blended and updated with sources:49453 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1227, 49453,19590101,  -69,    0
   1227, 49453,19590102,    7,    0
   1227, 49453,19590103,  -12,    0

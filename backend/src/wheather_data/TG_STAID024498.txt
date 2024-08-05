@@ -18,7 +18,7 @@ This is the blended series of station MATTSEE, AUSTRIA (STAID: 24498)
 Blended and updated with sources:131056 131069 132083 134878 911152 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24498,131056,19490601,-9999,    9
  24498,131056,19490602,-9999,    9
  24498,131056,19490603,-9999,    9

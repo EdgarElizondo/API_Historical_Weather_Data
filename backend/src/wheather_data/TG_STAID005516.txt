@@ -18,7 +18,7 @@ This is the blended series of station HOGSATER, SWEDEN (STAID: 5516)
 Blended and updated with sources:36284 36296 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5516, 36296,19610101,   -9,    0
   5516, 36296,19610102,  -13,    0
   5516, 36296,19610103,    3,    0

@@ -18,7 +18,7 @@ This is the blended series of station GROSSER INSELSBERG, GERMANY (STAID: 11750)
 Blended and updated with sources:81042 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11750, 81042,19510101,  -48,    0
  11750, 81042,19510102,  -40,    0
  11750, 81042,19510103,  -42,    0

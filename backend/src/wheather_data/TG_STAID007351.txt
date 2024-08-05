@@ -18,7 +18,7 @@ This is the blended series of station PERTUNMAA LAUKKALA, FINLAND (STAID: 7351)
 Blended and updated with sources:43925 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7351, 43925,19710401,-9999,    9
   7351, 43925,19710402,-9999,    9
   7351, 43925,19710403,-9999,    9

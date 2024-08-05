@@ -18,7 +18,7 @@ This is the blended series of station ZADAR, CROATIA (STAID: 10903)
 Blended and updated with sources:55183 914428 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  10903, 55183,19610101,   62,    0
  10903, 55183,19610102,  110,    0
  10903, 55183,19610103,  120,    0

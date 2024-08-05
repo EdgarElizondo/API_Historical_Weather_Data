@@ -18,7 +18,7 @@ This is the blended series of station ARVIKA, SWEDEN (STAID: 5496)
 Blended and updated with sources:36233 36239 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5496, 36233,19610101,   -6,    0
   5496, 36233,19610102,   -4,    0
   5496, 36233,19610103,    9,    0

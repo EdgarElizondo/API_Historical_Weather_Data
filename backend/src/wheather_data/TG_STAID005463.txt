@@ -18,7 +18,7 @@ This is the blended series of station VINGAKER, SWEDEN (STAID: 5463)
 Blended and updated with sources:36119 65990 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5463, 65990,19520201,  -15,    0
   5463, 65990,19520202,   -1,    0
   5463, 65990,19520203,    3,    0

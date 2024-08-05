@@ -18,7 +18,7 @@ This is the blended series of station BIJSK ZONAL'NAYA, RUSSIAN FEDERATION (STAI
 Blended and updated with sources:50603 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8289, 50603,19360101, -110,    0
   8289, 50603,19360102,  -88,    0
   8289, 50603,19360103, -104,    0

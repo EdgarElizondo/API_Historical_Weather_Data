@@ -18,7 +18,7 @@ This is the blended series of station RAMSELE, SWEDEN (STAID: 6642)
 Blended and updated with sources:68901 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6642, 68901,19610101,  -32,    0
   6642, 68901,19610102,  -44,    0
   6642, 68901,19610103,  -24,    0

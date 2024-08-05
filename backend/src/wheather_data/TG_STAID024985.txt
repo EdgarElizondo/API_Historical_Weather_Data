@@ -18,7 +18,7 @@ This is the blended series of station TARNOGROD, POLAND (STAID: 24985)
 Blended and updated with sources:138270 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24985,138270,19610101,  -17,    0
  24985,138270,19610102,   -3,    0
  24985,138270,19610103,   45,    0

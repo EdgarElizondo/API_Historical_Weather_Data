@@ -18,7 +18,7 @@ This is the blended series of station MALAGA AEROPUERTO, SPAIN (STAID: 231)
 Blended and updated with sources:880 908482 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    231,   880,19420101,-9999,    9
    231,   880,19420102,-9999,    9
    231,   880,19420103,-9999,    9

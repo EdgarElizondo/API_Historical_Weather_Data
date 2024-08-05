@@ -18,7 +18,7 @@ This is the blended series of station BARENÑBURG, RUSSIAN FEDERATION (STAID: 
 Blended and updated with sources:47933 920107 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1067, 47933,19320101, -201,    0
   1067, 47933,19320102, -170,    0
   1067, 47933,19320103, -152,    0

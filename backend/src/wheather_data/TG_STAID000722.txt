@@ -18,7 +18,7 @@ This is the blended series of station MAANINKA HALOLA, FINLAND (STAID: 722)
 Blended and updated with sources:44710 902788 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    722, 44710,19590101,  -72,    0
    722, 44710,19590102,  -89,    0
    722, 44710,19590103,  -56,    0

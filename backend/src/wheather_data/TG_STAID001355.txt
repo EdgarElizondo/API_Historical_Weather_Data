@@ -18,7 +18,7 @@ This is the blended series of station KASPIYSKIY, RUSSIAN FEDERATION (STAID: 135
 Blended and updated with sources:52118 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1355, 52118,19590101,-9999,    9
   1355, 52118,19590102,-9999,    9
   1355, 52118,19590103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station STEYR, AUSTRIA (STAID: 23991)
 Blended and updated with sources:125544 131264 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23991,125544,19480101,   -1,    0
  23991,125544,19480102,   34,    0
  23991,125544,19480103,   73,    0

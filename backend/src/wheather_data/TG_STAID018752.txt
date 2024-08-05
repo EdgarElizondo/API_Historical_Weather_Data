@@ -18,7 +18,7 @@ This is the blended series of station BERG I SNASA II, NORWAY (STAID: 18752)
 Blended and updated with sources:100596 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18752,100596,19631001,   65,    0
  18752,100596,19631002,   70,    0
  18752,100596,19631003,   65,    0

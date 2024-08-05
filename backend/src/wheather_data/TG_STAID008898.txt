@@ -18,7 +18,7 @@ This is the blended series of station VILAKA, LATVIA (STAID: 8898)
 Blended and updated with sources:119066 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8898,119066,19500901,  133,    0
   8898,119066,19500902,  117,    0
   8898,119066,19500903,  122,    0

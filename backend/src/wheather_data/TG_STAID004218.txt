@@ -18,7 +18,7 @@ This is the blended series of station HERTEN, GERMANY (STAID: 4218)
 Blended and updated with sources:23708 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4218, 23708,19760101,   42,    0
   4218, 23708,19760102,   78,    0
   4218, 23708,19760103,   50,    0

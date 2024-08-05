@@ -18,7 +18,7 @@ This is the blended series of station HERRENBERG, GERMANY (STAID: 4213)
 Blended and updated with sources:23648 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4213, 23648,19780401,  103,    0
   4213, 23648,19780402,   85,    0
   4213, 23648,19780403,   81,    0

@@ -18,7 +18,7 @@ This is the blended series of station ZARAGOZA AEROPUERTO, SPAIN (STAID: 238)
 Blended and updated with sources:886 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    238,   886,19410101,-9999,    9
    238,   886,19410102,-9999,    9
    238,   886,19410103,-9999,    9

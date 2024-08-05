@@ -18,7 +18,7 @@ This is the blended series of station LILIENTAL, GERMANY (STAID: 4355)
 Blended and updated with sources:25352 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4355, 25352,19650101,   59,    0
   4355, 25352,19650102,   20,    0
   4355, 25352,19650103,    4,    0

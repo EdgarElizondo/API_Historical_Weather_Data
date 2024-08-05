@@ -18,7 +18,7 @@ This is the blended series of station HEL, POLAND (STAID: 205)
 Blended and updated with sources:641 912135 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    205,   641,19510101,  -37,    0
    205,   641,19510102,  -11,    0
    205,   641,19510103,   21,    0

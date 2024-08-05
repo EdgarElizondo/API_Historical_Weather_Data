@@ -18,7 +18,7 @@ This is the blended series of station DURHAM, UNITED KINGDOM (STAID: 461)
 Blended and updated with sources:56851 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    461, 56851,18800101,-9999,    9
    461, 56851,18800102,   80,    1
    461, 56851,18800103,   85,    1

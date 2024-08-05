@@ -18,7 +18,7 @@ This is the blended series of station PIRMASENS, GERMANY (STAID: 4521)
 Blended and updated with sources:27344 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4521, 27344,19500101,  -36,    0
   4521, 27344,19500102,  -18,    0
   4521, 27344,19500103,   14,    0

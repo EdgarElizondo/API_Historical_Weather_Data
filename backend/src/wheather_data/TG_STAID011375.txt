@@ -18,7 +18,7 @@ This is the blended series of station PLJEVLJA, MONTENEGRO (STAID: 11375)
 Blended and updated with sources:75530 913363 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11375, 75530,20160701,  222,    0
  11375, 75530,20160702,  215,    0
  11375, 75530,20160703,  216,    0

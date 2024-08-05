@@ -18,7 +18,7 @@ This is the blended series of station HATTFJELLDAL - KRUTA, NORWAY (STAID: 19102
 Blended and updated with sources:100717 100996 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19102,100717,19620701,  110,    0
  19102,100717,19620702,  109,    0
  19102,100717,19620703,  110,    0

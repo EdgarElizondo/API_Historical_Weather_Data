@@ -18,7 +18,7 @@ This is the blended series of station WOLFSBURG, GERMANY (STAID: 4784)
 Blended and updated with sources:30500 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4784, 30500,19610101,   32,    0
   4784, 30500,19610102,   22,    0
   4784, 30500,19610103,   43,    0

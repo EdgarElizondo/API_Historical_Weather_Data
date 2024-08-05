@@ -18,7 +18,7 @@ This is the blended series of station GOLDBERG, GERMANY (STAID: 4152)
 Blended and updated with sources:22916 910168 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4152, 22916,19470101,  -26,    0
   4152, 22916,19470102,  -30,    0
   4152, 22916,19470103,  -54,    0

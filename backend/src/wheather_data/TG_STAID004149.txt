@@ -18,7 +18,7 @@ This is the blended series of station ANKLAM, GERMANY (STAID: 4149)
 Blended and updated with sources:22880 25112 31076 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4149, 25112,19910101,   37,    0
   4149, 25112,19910102,   53,    0
   4149, 25112,19910103,   50,    0

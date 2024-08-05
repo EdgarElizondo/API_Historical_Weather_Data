@@ -18,7 +18,7 @@ This is the blended series of station TRONDHEIM II, NORWAY (STAID: 18966)
 Blended and updated with sources:99265 99456 99478 100839 101004 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18966,101004,19000101,  -50,    1
  18966,101004,19000102,   -5,    0
  18966,101004,19000103,  -26,    0

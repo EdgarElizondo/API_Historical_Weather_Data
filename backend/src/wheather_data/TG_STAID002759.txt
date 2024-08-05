@@ -18,7 +18,7 @@ This is the blended series of station BERLIN-TEMPELHOF, GERMANY (STAID: 2759)
 Blended and updated with sources:11448 27488 28124 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2759, 27488,18760101,   22,    0
   2759, 27488,18760102,   25,    0
   2759, 27488,18760103,    3,    0

@@ -18,7 +18,7 @@ This is the blended series of station BOEVERDAL - SLETTEN, NORWAY (STAID: 18925)
 Blended and updated with sources:100789 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18925,100789,19720801,  129,    0
  18925,100789,19720802,  129,    0
  18925,100789,19720803,  100,    0

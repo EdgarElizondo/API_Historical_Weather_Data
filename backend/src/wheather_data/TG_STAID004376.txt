@@ -18,7 +18,7 @@ This is the blended series of station LUDENSCHEID, GERMANY (STAID: 4376)
 Blended and updated with sources:25604 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4376, 25604,19940101,   11,    0
   4376, 25604,19940102,   33,    0
   4376, 25604,19940103,   55,    0

@@ -18,7 +18,7 @@ This is the blended series of station BELCHATOW, POLAND (STAID: 25013)
 Blended and updated with sources:138606 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25013,138606,19860101,  -89,    0
  25013,138606,19860102,  -43,    0
  25013,138606,19860103,  -11,    0

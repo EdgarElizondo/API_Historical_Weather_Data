@@ -18,7 +18,7 @@ This is the blended series of station KOTKA RANKKI, FINLAND (STAID: 7042)
 Blended and updated with sources:42339 42389 902976 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7042, 42339,19590101,   -8,    0
   7042, 42339,19590102,   -4,    0
   7042, 42339,19590103,    5,    0

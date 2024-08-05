@@ -18,7 +18,7 @@ This is the blended series of station ROMA_V, SWEDEN (STAID: 5287)
 Blended and updated with sources:35507 35537 35543 64101 64200 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5287, 64200,19610101,   -2,    0
   5287, 64200,19610102,    9,    0
   5287, 64200,19610103,   11,    0

@@ -18,7 +18,7 @@ This is the blended series of station RISINGE, SWEDEN (STAID: 5534)
 Blended and updated with sources:36350 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5534, 36350,19620201,  -19,    0
   5534, 36350,19620202,  -29,    0
   5534, 36350,19620203,  -51,    0

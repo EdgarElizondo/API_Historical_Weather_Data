@@ -18,7 +18,7 @@ This is the blended series of station ELS HOSTALETS DE PIEROLA, SPAIN (STAID: 11
 Blended and updated with sources:56175 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11035, 56175,20080101,   50,    0
  11035, 56175,20080102,   43,    0
  11035, 56175,20080103,   54,    0

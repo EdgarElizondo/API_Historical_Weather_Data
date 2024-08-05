@@ -18,7 +18,7 @@ This is the blended series of station REIMEGREND, NORWAY (STAID: 18882)
 Blended and updated with sources:100745 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18882,100745,19581101,   10,    0
  18882,100745,19581102,   34,    0
  18882,100745,19581103,   36,    0

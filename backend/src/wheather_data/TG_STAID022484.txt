@@ -18,7 +18,7 @@ This is the blended series of station ROESER, LUXEMBOURG (STAID: 22484)
 Blended and updated with sources:121231 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22484,121231,20120201,-9999,    9
  22484,121231,20120202,-9999,    9
  22484,121231,20120203,-9999,    9

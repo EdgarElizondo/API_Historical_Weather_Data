@@ -18,7 +18,7 @@ This is the blended series of station E39 FLASKJAER, NORWAY (STAID: 18704)
 Blended and updated with sources:99715 100587 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18704,100587,19610101,   -2,    0
  18704,100587,19610102,  -12,    0
  18704,100587,19610103,  -17,    0

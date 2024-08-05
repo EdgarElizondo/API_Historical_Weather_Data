@@ -18,7 +18,7 @@ This is the blended series of station BARSINGHAUSEN-HOHENBOSTEL, GERMANY (STAID:
 Blended and updated with sources:25256 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4347, 25256,19920201,   -4,    0
   4347, 25256,19920202,  -13,    0
   4347, 25256,19920203,   37,    0

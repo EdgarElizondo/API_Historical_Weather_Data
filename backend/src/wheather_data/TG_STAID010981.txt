@@ -18,7 +18,7 @@ This is the blended series of station P11-B, NETHERLANDS (STAID: 10981)
 Blended and updated with sources:55452 906203 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  10981, 55452,20130601,   92,    0
  10981, 55452,20130602,   95,    0
  10981, 55452,20130603,   96,    0

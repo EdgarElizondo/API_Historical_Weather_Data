@@ -18,7 +18,7 @@ This is the blended series of station KUEHTAI, AUSTRIA (STAID: 24231)
 Blended and updated with sources:128625 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24231,128625,19760601,   40,    0
  24231,128625,19760602,   24,    0
  24231,128625,19760603,   13,    0

@@ -18,7 +18,7 @@ This is the blended series of station OSEBERG C, NORWAY (STAID: 18422)
 Blended and updated with sources:99205 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18422, 99205,20140501,-9999,    9
  18422, 99205,20140502,-9999,    9
  18422, 99205,20140503,-9999,    9

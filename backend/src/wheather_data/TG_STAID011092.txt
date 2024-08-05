@@ -18,7 +18,7 @@ This is the blended series of station ILSENG, NORWAY (STAID: 11092)
 Blended and updated with sources:56717 100990 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11092, 56717,19590101,-9999,    9
  11092, 56717,19590102,-9999,    9
  11092, 56717,19590103,-9999,    9

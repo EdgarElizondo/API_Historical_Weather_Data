@@ -18,7 +18,7 @@ This is the blended series of station A CORUNA, SPAIN (STAID: 420)
 Blended and updated with sources:19706 908001 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    420, 19706,19301001,  192,    0
    420, 19706,19301002,  196,    0
    420, 19706,19301003,  209,    0

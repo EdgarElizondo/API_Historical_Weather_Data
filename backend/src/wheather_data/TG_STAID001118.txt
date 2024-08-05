@@ -18,7 +18,7 @@ This is the blended series of station SHENKURSK, RUSSIAN FEDERATION (STAID: 1118
 Blended and updated with sources:48288 922768 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1118, 48288,18840101,-9999,    9
   1118, 48288,18840102,-9999,    9
   1118, 48288,18840103,-9999,    9

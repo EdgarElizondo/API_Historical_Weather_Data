@@ -18,7 +18,7 @@ This is the blended series of station PRIEKULI, LATVIA (STAID: 8908)
 Blended and updated with sources:118922 926335 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8908,118922,19120701,  177,    0
   8908,118922,19120702,  144,    0
   8908,118922,19120703,  113,    0

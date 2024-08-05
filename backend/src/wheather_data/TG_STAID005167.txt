@@ -18,7 +18,7 @@ This is the blended series of station JORDBERGA, SWEDEN (STAID: 5167)
 Blended and updated with sources:35138 35150 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5167, 35138,19450101,  -50,    0
   5167, 35138,19450102,   10,    0
   5167, 35138,19450103,   38,    0

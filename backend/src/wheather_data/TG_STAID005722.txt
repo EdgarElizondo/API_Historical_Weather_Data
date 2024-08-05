@@ -18,7 +18,7 @@ This is the blended series of station HOKMARKSBERGET_V, SWEDEN (STAID: 5722)
 Blended and updated with sources:36968 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5722, 36968,19960301,   -9,    0
   5722, 36968,19960302,  -49,    0
   5722, 36968,19960303,  -41,    0

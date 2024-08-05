@@ -18,7 +18,7 @@ This is the blended series of station KUGGOREN, SWEDEN (STAID: 5605)
 Blended and updated with sources:36563 36578 36581 902355 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5605, 36578,19700701,  119,    0
   5605, 36578,19700702,  129,    0
   5605, 36578,19700703,  115,    0

@@ -18,7 +18,7 @@ This is the blended series of station BENSHEIM, GERMANY (STAID: 4459)
 Blended and updated with sources:26600 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4459, 26600,19470101,    6,    0
   4459, 26600,19470102,    3,    0
   4459, 26600,19470103,    8,    0

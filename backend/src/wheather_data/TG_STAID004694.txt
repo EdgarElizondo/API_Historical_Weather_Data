@@ -18,7 +18,7 @@ This is the blended series of station TRIBSEES, GERMANY (STAID: 4694)
 Blended and updated with sources:29420 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4694, 29420,19910101,   28,    0
   4694, 29420,19910102,   54,    0
   4694, 29420,19910103,   32,    0

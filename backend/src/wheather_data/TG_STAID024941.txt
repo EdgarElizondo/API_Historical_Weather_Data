@@ -18,7 +18,7 @@ This is the blended series of station SWIDNICA, POLAND (STAID: 24941)
 Blended and updated with sources:137742 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24941,137742,19610101,   17,    0
  24941,137742,19610102,   18,    0
  24941,137742,19610103,   31,    0

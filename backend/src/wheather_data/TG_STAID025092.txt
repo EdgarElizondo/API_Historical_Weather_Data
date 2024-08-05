@@ -18,7 +18,7 @@ This is the blended series of station MYSZYNIEC, POLAND (STAID: 25092)
 Blended and updated with sources:139554 139578 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25092,139578,19520101,   12,    0
  25092,139578,19520102,   27,    0
  25092,139578,19520103,   36,    0

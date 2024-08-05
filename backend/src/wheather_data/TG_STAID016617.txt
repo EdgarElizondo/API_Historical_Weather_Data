@@ -18,7 +18,7 @@ This is the blended series of station LLEIDA - LA FEMOSA, SPAIN (STAID: 16617)
 Blended and updated with sources:91296 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  16617, 91296,20180801,-9999,    9
  16617, 91296,20180802,-9999,    9
  16617, 91296,20180803,-9999,    9

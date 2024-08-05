@@ -18,7 +18,7 @@ This is the blended series of station XATY'RKA, RUSSIAN FEDERATION (STAID: 8151)
 Blended and updated with sources:48913 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8151, 48913,19660101, -110,    0
   8151, 48913,19660102,    4,    0
   8151, 48913,19660103,   -3,    0

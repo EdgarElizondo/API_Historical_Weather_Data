@@ -18,7 +18,7 @@ This is the blended series of station RAIMAT, SPAIN (STAID: 11067)
 Blended and updated with sources:56463 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11067, 56463,20080101,  -19,    0
  11067, 56463,20080102,-9999,    9
  11067, 56463,20080103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station BELM, GERMANY (STAID: 4440)
 Blended and updated with sources:26372 27080 910312 910317 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4440, 27080,19520201,    6,    0
   4440, 27080,19520202,    9,    0
   4440, 27080,19520203,   12,    0

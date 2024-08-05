@@ -18,7 +18,7 @@ This is the blended series of station VARKAUS KAPYKANGAS, FINLAND (STAID: 715)
 Blended and updated with sources:43960 44055 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    715, 43960,19590101,  -62,    0
    715, 43960,19590102,  -75,    0
    715, 43960,19590103,  -39,    0

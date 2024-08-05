@@ -18,7 +18,7 @@ This is the blended series of station OPPDAL - MAURHAUGEN, NORWAY (STAID: 20324)
 Blended and updated with sources:100757 108986 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20324,100757,19931001,   50,    0
  20324,100757,19931002,   46,    0
  20324,100757,19931003,   69,    0

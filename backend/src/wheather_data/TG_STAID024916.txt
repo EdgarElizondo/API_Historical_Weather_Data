@@ -18,7 +18,7 @@ This is the blended series of station BARWINEK, POLAND (STAID: 24916)
 Blended and updated with sources:137442 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24916,137442,19560101,  -22,    0
  24916,137442,19560102,  -14,    0
  24916,137442,19560103,  -40,    0

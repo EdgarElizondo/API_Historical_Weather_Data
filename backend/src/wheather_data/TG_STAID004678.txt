@@ -18,7 +18,7 @@ This is the blended series of station TEUSCHNITZ, GERMANY (STAID: 4678)
 Blended and updated with sources:25172 29228 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4678, 25172,19470101,  -70,    0
   4678, 25172,19470102,  -36,    0
   4678, 25172,19470103,  -46,    0

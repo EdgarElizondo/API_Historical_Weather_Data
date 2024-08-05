@@ -18,7 +18,7 @@ This is the blended series of station STRAUBING, GERMANY (STAID: 493)
 Blended and updated with sources:2390 25184 31280 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    493,  2390,19510101,  -63,    0
    493,  2390,19510102,  -62,    0
    493,  2390,19510103,  -34,    0

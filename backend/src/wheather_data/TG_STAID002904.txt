@@ -18,7 +18,7 @@ This is the blended series of station SESTOLA, ITALY (STAID: 2904)
 Blended and updated with sources:97384 97480 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2904, 97480,20051201,-9999,    9
   2904, 97480,20051202,-9999,    9
   2904, 97480,20051203,-9999,    9

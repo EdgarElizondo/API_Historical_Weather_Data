@@ -18,7 +18,7 @@ This is the blended series of station HAMPSTEAD, UNITED KINGDOM (STAID: 1859)
 Blended and updated with sources:7053 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1859,  7053,19600101,   98,    1
   1859,  7053,19600102,   64,    0
   1859,  7053,19600103,   78,    0

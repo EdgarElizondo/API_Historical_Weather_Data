@@ -18,7 +18,7 @@ This is the blended series of station GROVELSJON, SWEDEN (STAID: 5620)
 Blended and updated with sources:36629 99381 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5620, 36629,19610101,  -62,    0
   5620, 36629,19610102,  -69,    0
   5620, 36629,19610103,  -59,    0

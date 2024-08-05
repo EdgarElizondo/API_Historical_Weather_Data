@@ -18,7 +18,7 @@ This is the blended series of station NIEDZICA, POLAND (STAID: 24895)
 Blended and updated with sources:137190 137322 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24895,137322,19910101,    2,    0
  24895,137322,19910102,  -13,    0
  24895,137322,19910103,   28,    0

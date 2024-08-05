@@ -18,7 +18,7 @@ This is the blended series of station MULTIA PIRTTIPERA, FINLAND (STAID: 7328)
 Blended and updated with sources:43810 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7328, 43810,19910101,  -72,    0
   7328, 43810,19910102,  -89,    0
   7328, 43810,19910103,  -55,    0

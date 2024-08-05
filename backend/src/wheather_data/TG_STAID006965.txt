@@ -18,7 +18,7 @@ This is the blended series of station PIIKKIO TUORLA, FINLAND (STAID: 6965)
 Blended and updated with sources:41933 41938 902828 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6965, 41933,19590101,    5,    0
   6965, 41933,19590102,    0,    0
   6965, 41933,19590103,    8,    0

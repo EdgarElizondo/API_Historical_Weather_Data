@@ -18,7 +18,7 @@ This is the blended series of station FV30 REITSTOEA, NORWAY (STAID: 18328)
 Blended and updated with sources:99039 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18328, 99039,20071101,-9999,    9
  18328, 99039,20071102,-9999,    9
  18328, 99039,20071103,-9999,    9

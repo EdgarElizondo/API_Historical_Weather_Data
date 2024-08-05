@@ -18,7 +18,7 @@ This is the blended series of station PAPROTKI, POLAND (STAID: 24933)
 Blended and updated with sources:137646 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24933,137646,19890101,    3,    0
  24933,137646,19890102,   -4,    0
  24933,137646,19890103,  -14,    0

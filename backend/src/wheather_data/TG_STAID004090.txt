@@ -18,7 +18,7 @@ This is the blended series of station ROCKENDORF, GERMANY (STAID: 4090)
 Blended and updated with sources:22172 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4090, 22172,20071201,   62,    0
   4090, 22172,20071202,   71,    0
   4090, 22172,20071203,   60,    0

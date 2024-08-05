@@ -18,7 +18,7 @@ This is the blended series of station MARIENBERG-REITZENHAIN, GERMANY (STAID: 45
 Blended and updated with sources:27680 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4549, 27680,19470101,  -79,    0
   4549, 27680,19470102,  -42,    0
   4549, 27680,19470103,  -74,    0

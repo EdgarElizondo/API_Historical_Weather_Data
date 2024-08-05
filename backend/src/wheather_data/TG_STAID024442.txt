@@ -18,7 +18,7 @@ This is the blended series of station PREITENEGG, AUSTRIA (STAID: 24442)
 Blended and updated with sources:131355 135021 911214 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24442,135021,19500701,  222,    0
  24442,135021,19500702,  226,    0
  24442,135021,19500703,  250,    0

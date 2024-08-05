@@ -18,7 +18,7 @@ This is the blended series of station VOLOCHANKA, RUSSIAN FEDERATION (STAID: 804
 Blended and updated with sources:47973 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8046, 47973,19360101, -365,    0
   8046, 47973,19360102, -314,    0
   8046, 47973,19360103, -260,    0

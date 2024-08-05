@@ -18,7 +18,7 @@ This is the blended series of station WAREN, GERMANY (STAID: 4734)
 Blended and updated with sources:29900 910268 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4734, 29900,18890701,  183,    0
   4734, 29900,18890702,  181,    0
   4734, 29900,18890703,  198,    0

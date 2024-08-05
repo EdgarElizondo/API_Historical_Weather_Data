@@ -18,7 +18,7 @@ This is the blended series of station RAISTING, GERMANY (STAID: 4540)
 Blended and updated with sources:27572 30236 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4540, 27572,19861101,   99,    0
   4540, 27572,19861102,   56,    0
   4540, 27572,19861103,   -6,    0

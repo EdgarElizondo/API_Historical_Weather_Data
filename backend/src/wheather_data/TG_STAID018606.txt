@@ -18,7 +18,7 @@ This is the blended series of station RV3 BERGEROENNINGEN, NORWAY (STAID: 18606)
 Blended and updated with sources:99382 99391 99546 901265 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18606,901265,20010701,-9999,    9
  18606,901265,20010702,-9999,    9
  18606,901265,20010703,-9999,    9

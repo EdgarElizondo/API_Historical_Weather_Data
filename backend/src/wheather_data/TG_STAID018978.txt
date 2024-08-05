@@ -18,7 +18,7 @@ This is the blended series of station STOKKE, NORWAY (STAID: 18978)
 Blended and updated with sources:35032 99373 100852 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18978,100852,19570101,  -38,    0
  18978,100852,19570102,  -65,    0
  18978,100852,19570103,  -64,    0

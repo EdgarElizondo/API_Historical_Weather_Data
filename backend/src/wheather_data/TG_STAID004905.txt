@@ -18,7 +18,7 @@ This is the blended series of station OLBERSLEBEN, GERMANY (STAID: 4905)
 Blended and updated with sources:31952 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4905, 31952,20050901,  230,    0
   4905, 31952,20050902,  191,    0
   4905, 31952,20050903,  167,    0

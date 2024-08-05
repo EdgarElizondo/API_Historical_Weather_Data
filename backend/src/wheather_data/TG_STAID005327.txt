@@ -18,7 +18,7 @@ This is the blended series of station TINGHALLA, SWEDEN (STAID: 5327)
 Blended and updated with sources:35672 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5327, 35672,19620301,  -45,    0
   5327, 35672,19620302,  -52,    0
   5327, 35672,19620303,  -38,    0

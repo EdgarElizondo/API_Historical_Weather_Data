@@ -18,7 +18,7 @@ This is the blended series of station HEMSE, SWEDEN (STAID: 5265)
 Blended and updated with sources:35459 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5265, 35459,19450201,   20,    0
   5265, 35459,19450202,  -12,    0
   5265, 35459,19450203,   10,    0

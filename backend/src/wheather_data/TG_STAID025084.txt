@@ -18,7 +18,7 @@ This is the blended series of station KONCZEWICE, POLAND (STAID: 25084)
 Blended and updated with sources:139458 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25084,139458,19660101,    5,    0
  25084,139458,19660102,   46,    0
  25084,139458,19660103,   30,    0

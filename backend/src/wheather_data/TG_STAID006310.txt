@@ -18,7 +18,7 @@ This is the blended series of station STORFORS_D, SWEDEN (STAID: 6310)
 Blended and updated with sources:36203 66193 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6310, 66193,19610101,  -11,    0
   6310, 66193,19610102,  -11,    0
   6310, 66193,19610103,    5,    0

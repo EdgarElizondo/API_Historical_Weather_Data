@@ -18,7 +18,7 @@ This is the blended series of station HJERKINN VEGGARASJE, NORWAY (STAID: 19151)
 Blended and updated with sources:99543 100746 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19151,100746,19410501,   13,    0
  19151,100746,19410502,    2,    0
  19151,100746,19410503,   19,    0

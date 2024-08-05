@@ -18,7 +18,7 @@ This is the blended series of station GOUDHURST, UNITED KINGDOM (STAID: 1634)
 Blended and updated with sources:6937 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1634,  6937,20010101,   38,    0
   1634,  6937,20010102,   92,    0
   1634,  6937,20010103,   61,    0

@@ -18,7 +18,7 @@ This is the blended series of station UECKERMUNDE, GERMANY (STAID: 4705)
 Blended and updated with sources:29552 910193 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4705, 29552,19470101,  -29,    0
   4705, 29552,19470102,  -35,    0
   4705, 29552,19470103,  -57,    0

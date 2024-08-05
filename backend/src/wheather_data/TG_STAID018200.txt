@@ -18,7 +18,7 @@ This is the blended series of station ROALDSHORNET, NORWAY (STAID: 18200)
 Blended and updated with sources:99392 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18200, 99392,20141004,   96,    0
  18200, 99392,20141005,   79,    0
  18200, 99392,20141006,   66,    0

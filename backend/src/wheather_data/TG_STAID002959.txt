@@ -18,7 +18,7 @@ This is the blended series of station MALY'E KARMAKULY', RUSSIAN FEDERATION (STA
 Blended and updated with sources:47963 920744 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2959, 47963,19360101, -106,    0
   2959, 47963,19360102,  -49,    0
   2959, 47963,19360103,  -59,    0

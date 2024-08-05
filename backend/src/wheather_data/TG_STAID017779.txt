@@ -18,7 +18,7 @@ This is the blended series of station SAN_MICHELE, ITALY (STAID: 17779)
 Blended and updated with sources:97168 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17779, 97168,20051201,-9999,    9
  17779, 97168,20051202,-9999,    9
  17779, 97168,20051203,-9999,    9

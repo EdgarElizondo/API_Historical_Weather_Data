@@ -18,7 +18,7 @@ This is the blended series of station GENDALEN, SWEDEN (STAID: 5346)
 Blended and updated with sources:35732 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5346, 35732,19621001,  126,    0
   5346, 35732,19621002,  152,    0
   5346, 35732,19621003,  134,    0

@@ -18,7 +18,7 @@ This is the blended series of station LITSCHAU, AUSTRIA (STAID: 23895)
 Blended and updated with sources:124309 134839 911021 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23895,134839,19540701,  185,    0
  23895,134839,19540702,  123,    0
  23895,134839,19540703,  137,    0

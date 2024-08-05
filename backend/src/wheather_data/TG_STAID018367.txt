@@ -18,7 +18,7 @@ This is the blended series of station E69 NORDKAPP, NORWAY (STAID: 18367)
 Blended and updated with sources:99109 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18367, 99109,20141201,-9999,    9
  18367, 99109,20141202,-9999,    9
  18367, 99109,20141203,-9999,    9

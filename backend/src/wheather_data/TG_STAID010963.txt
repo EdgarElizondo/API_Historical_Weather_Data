@@ -18,7 +18,7 @@ This is the blended series of station DUBROVNIK, CROATIA (STAID: 10963)
 Blended and updated with sources:55409 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  10963, 55409,19610101,   99,    0
  10963, 55409,19610102,  127,    0
  10963, 55409,19610103,  138,    0

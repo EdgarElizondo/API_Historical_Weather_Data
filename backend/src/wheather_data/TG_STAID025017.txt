@@ -18,7 +18,7 @@ This is the blended series of station WLOCHOW, POLAND (STAID: 25017)
 Blended and updated with sources:138654 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25017,138654,19860101,  -78,    0
  25017,138654,19860102,  -49,    0
  25017,138654,19860103,  -15,    0

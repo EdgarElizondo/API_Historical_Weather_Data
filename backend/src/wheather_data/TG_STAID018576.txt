@@ -18,7 +18,7 @@ This is the blended series of station RV41 HYNNEKLEIV, NORWAY (STAID: 18576)
 Blended and updated with sources:99258 99487 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18576, 99258,20120101,   -5,    0
  18576, 99258,20120102,   -5,    0
  18576, 99258,20120103,    9,    0

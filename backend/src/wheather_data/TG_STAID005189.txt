@@ -18,7 +18,7 @@ This is the blended series of station SVALOV, SWEDEN (STAID: 5189)
 Blended and updated with sources:35210 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5189, 35210,19610101,    9,    0
   5189, 35210,19610102,   15,    0
   5189, 35210,19610103,   22,    0

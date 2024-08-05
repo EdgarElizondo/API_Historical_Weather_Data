@@ -18,7 +18,7 @@ This is the blended series of station LOESSET, NORWAY (STAID: 18848)
 Blended and updated with sources:100707 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18848,100707,19651201,  -29,    0
  18848,100707,19651202, -104,    0
  18848,100707,19651203, -133,    0

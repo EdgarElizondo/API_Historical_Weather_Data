@@ -18,7 +18,7 @@ This is the blended series of station SASSO_MORELLI_BEGHINA, ITALY (STAID: 17801
 Blended and updated with sources:95528 97304 97368 97376 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17801, 97368,20051201,-9999,    9
  17801, 97368,20051202,-9999,    9
  17801, 97368,20051203,-9999,    9

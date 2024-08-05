@@ -18,7 +18,7 @@ This is the blended series of station MAYRHOFEN, AUSTRIA (STAID: 24239)
 Blended and updated with sources:128729 128742 133305 911330 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24239,128729,19360101,   67,    0
  24239,128729,19360102,   66,    0
  24239,128729,19360103,   91,    0

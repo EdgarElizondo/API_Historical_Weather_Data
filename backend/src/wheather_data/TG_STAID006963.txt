@@ -18,7 +18,7 @@ This is the blended series of station HANKO KPKI, FINLAND (STAID: 6963)
 Blended and updated with sources:41923 41928 41993 902982 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6963, 41928,19590101,   10,    0
   6963, 41928,19590102,    9,    0
   6963, 41928,19590103,   18,    0

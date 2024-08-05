@@ -18,7 +18,7 @@ This is the blended series of station NIVALA, FINLAND (STAID: 2271)
 Blended and updated with sources:45165 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2271, 45165,19650101,    2,    0
   2271, 45165,19650102,  -15,    0
   2271, 45165,19650103,  -30,    0

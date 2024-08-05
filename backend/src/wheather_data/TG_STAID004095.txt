@@ -18,7 +18,7 @@ This is the blended series of station FLENSBURG, GERMANY (STAID: 4095)
 Blended and updated with sources:22232 22244 22856 910033 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4095, 22244,19570101,  -22,    0
   4095, 22244,19570102,  -10,    0
   4095, 22244,19570103,   11,    0

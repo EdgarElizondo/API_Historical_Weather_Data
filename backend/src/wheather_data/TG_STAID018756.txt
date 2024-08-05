@@ -18,7 +18,7 @@ This is the blended series of station MOSJOEEN - MOSAL, NORWAY (STAID: 18756)
 Blended and updated with sources:100601 100735 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18756,100735,19571201,   64,    0
  18756,100735,19571202,   69,    0
  18756,100735,19571203,   69,    0

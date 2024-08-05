@@ -18,7 +18,7 @@ This is the blended series of station GULLFJELLET, NORWAY (STAID: 18226)
 Blended and updated with sources:99455 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18226, 99455,20160817,  128,    0
  18226, 99455,20160818,  132,    0
  18226, 99455,20160819,  123,    0

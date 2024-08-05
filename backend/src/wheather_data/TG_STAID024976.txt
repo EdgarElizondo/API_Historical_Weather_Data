@@ -18,7 +18,7 @@ This is the blended series of station SWIETY KRZYZ, POLAND (STAID: 24976)
 Blended and updated with sources:138162 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24976,138162,19900101,  -45,    0
  24976,138162,19900102,  -44,    0
  24976,138162,19900103,  -46,    0

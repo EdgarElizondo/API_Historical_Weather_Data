@@ -18,7 +18,7 @@ This is the blended series of station CZARNA DABROWKA, POLAND (STAID: 25110)
 Blended and updated with sources:139770 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25110,139770,19610101,   -1,    0
  25110,139770,19610102,    7,    0
  25110,139770,19610103,   12,    0

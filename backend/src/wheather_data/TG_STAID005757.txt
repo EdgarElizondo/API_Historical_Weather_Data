@@ -18,7 +18,7 @@ This is the blended series of station FALLFORS, SWEDEN (STAID: 5757)
 Blended and updated with sources:37088 37091 902159 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5757, 37091,19591101,   22,    0
   5757, 37091,19591102,   16,    0
   5757, 37091,19591103,   28,    0

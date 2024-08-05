@@ -18,7 +18,7 @@ This is the blended series of station LJUNGA, SWEDEN (STAID: 5648)
 Blended and updated with sources:36722 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5648, 36722,19300101,  -81,    0
   5648, 36722,19300102,  -44,    0
   5648, 36722,19300103,  -11,    0

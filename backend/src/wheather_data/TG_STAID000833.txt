@@ -18,7 +18,7 @@ This is the blended series of station THESSALONIKI, GREECE (STAID: 833)
 Blended and updated with sources:55823 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    833, 55823,19980101,-9999,    9
    833, 55823,19980102,   63,    0
    833, 55823,19980103,   67,    0

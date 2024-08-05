@@ -18,7 +18,7 @@ This is the blended series of station DEUSELBACH, GERMANY (STAID: 4970)
 Blended and updated with sources:32732 910615 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4970, 32732,19500801,  158,    0
   4970, 32732,19500802,  138,    0
   4970, 32732,19500803,  112,    0

@@ -18,7 +18,7 @@ This is the blended series of station SANDSOEY I SENJA II, NORWAY (STAID: 19018)
 Blended and updated with sources:100609 100900 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19018,100609,19570101,  -15,    0
  19018,100609,19570102,    3,    0
  19018,100609,19570103,    4,    0

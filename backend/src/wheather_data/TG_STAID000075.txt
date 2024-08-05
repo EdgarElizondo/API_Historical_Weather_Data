@@ -18,7 +18,7 @@ This is the blended series of station XOSEDA-XARD, RUSSIAN FEDERATION (STAID: 75
 Blended and updated with sources:289 923219 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     75,   289,19360101,  -96,    0
     75,   289,19360102,  -92,    0
     75,   289,19360103,  -52,    0

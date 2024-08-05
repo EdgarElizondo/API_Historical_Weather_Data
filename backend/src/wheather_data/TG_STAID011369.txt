@@ -18,7 +18,7 @@ This is the blended series of station VAIKE-MAARJA, ESTONIA (STAID: 11369)
 Blended and updated with sources:75078 926141 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11369, 75078,19620801,  144,    0
  11369, 75078,19620802,  124,    0
  11369, 75078,19620803,  109,    0

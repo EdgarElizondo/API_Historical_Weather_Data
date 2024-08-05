@@ -18,7 +18,7 @@ This is the blended series of station RUSEL-IRLMOOS, GERMANY (STAID: 4580)
 Blended and updated with sources:28052 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4580, 28052,19530301,   -6,    0
   4580, 28052,19530302,   13,    0
   4580, 28052,19530303,   40,    0

@@ -18,7 +18,7 @@ This is the blended series of station KASSEL, GERMANY (STAID: 480)
 Blended and updated with sources:2278 910438 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    480,  2278,19510101,    5,    0
    480,  2278,19510102,   11,    0
    480,  2278,19510103,   14,    0

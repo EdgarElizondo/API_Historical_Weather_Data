@@ -18,7 +18,7 @@ This is the blended series of station DAGALI II, NORWAY (STAID: 18993)
 Blended and updated with sources:100870 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18993,100870,19881101,    1,    0
  18993,100870,19881102,  -86,    0
  18993,100870,19881103,  -50,    0

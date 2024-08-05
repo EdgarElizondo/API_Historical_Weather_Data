@@ -18,7 +18,7 @@ This is the blended series of station WOERTERBERG, AUSTRIA (STAID: 24837)
 Blended and updated with sources:129262 136477 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24837,136477,19290701,-9999,    9
  24837,136477,19290702,-9999,    9
  24837,136477,19290703,-9999,    9

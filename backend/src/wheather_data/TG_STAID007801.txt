@@ -18,7 +18,7 @@ This is the blended series of station ROVANIEMI APUKKA, FINLAND (STAID: 7801)
 Blended and updated with sources:46256 902813 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7801, 46256,19590101,  -87,    0
   7801, 46256,19590102, -103,    0
   7801, 46256,19590103, -109,    0

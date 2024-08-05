@@ -18,7 +18,7 @@ This is the blended series of station KRISTIANSTAD, SWEDEN (STAID: 5193)
 Blended and updated with sources:35222 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5193, 35222,18780501,   77,    1
   5193, 35222,18780502,   82,    1
   5193, 35222,18780503,   72,    1

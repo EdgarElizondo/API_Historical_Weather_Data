@@ -18,7 +18,7 @@ This is the blended series of station NIEDERSTETTEN, GERMANY (STAID: 4469)
 Blended and updated with sources:26720 910743 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4469,910743,20000701,  188,    0
   4469,910743,20000702,  213,    0
   4469,910743,20000703,  210,    0

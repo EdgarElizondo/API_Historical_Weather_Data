@@ -18,7 +18,7 @@ This is the blended series of station AGO, SWEDEN (STAID: 5598)
 Blended and updated with sources:36557 36563 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5598, 36557,19490101,   18,    1
   5598, 36557,19490102,   22,    1
   5598, 36557,19490103,   20,    1

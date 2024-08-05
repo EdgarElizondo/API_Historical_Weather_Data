@@ -18,7 +18,7 @@ This is the blended series of station REBRIXA, RUSSIAN FEDERATION (STAID: 8287)
 Blended and updated with sources:50593 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8287, 50593,19550101, -315,    0
   8287, 50593,19550102, -253,    0
   8287, 50593,19550103, -179,    0

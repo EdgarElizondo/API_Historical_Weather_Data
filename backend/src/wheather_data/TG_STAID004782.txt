@@ -18,7 +18,7 @@ This is the blended series of station WOLDEGK, GERMANY (STAID: 4782)
 Blended and updated with sources:30476 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4782, 30476,19790101, -138,    0
   4782, 30476,19790102,  -84,    0
   4782, 30476,19790103,  -91,    0

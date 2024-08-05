@@ -18,7 +18,7 @@ This is the blended series of station PRZEDWOJEWO, POLAND (STAID: 25059)
 Blended and updated with sources:139158 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25059,139158,19880101,   31,    0
  25059,139158,19880102,   62,    0
  25059,139158,19880103,   85,    0

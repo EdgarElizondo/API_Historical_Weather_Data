@@ -18,7 +18,7 @@ This is the blended series of station BELOGORKA, RUSSIAN FEDERATION (STAID: 1139
 Blended and updated with sources:48968 926069 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1139, 48968,19660101, -222,    0
   1139, 48968,19660102, -206,    0
   1139, 48968,19660103,-9999,    9

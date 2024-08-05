@@ -18,7 +18,7 @@ This is the blended series of station ANSBACH-HENNENBACH, GERMANY (STAID: 4163)
 Blended and updated with sources:23024 23048 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4163, 23048,19470501,   83,    0
   4163, 23048,19470502,  121,    0
   4163, 23048,19470503,  130,    0

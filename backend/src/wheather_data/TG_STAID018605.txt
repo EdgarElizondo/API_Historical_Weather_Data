@@ -18,7 +18,7 @@ This is the blended series of station FV181 FINSBRATAN, NORWAY (STAID: 18605)
 Blended and updated with sources:99544 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18605, 99544,20171101,-9999,    9
  18605, 99544,20171102,-9999,    9
  18605, 99544,20171103,-9999,    9

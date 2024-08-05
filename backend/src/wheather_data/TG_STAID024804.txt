@@ -18,7 +18,7 @@ This is the blended series of station BERNDORF, AUSTRIA (STAID: 24804)
 Blended and updated with sources:136048 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24804,136048,19921101,   68,    0
  24804,136048,19921102,   50,    0
  24804,136048,19921103,   65,    0

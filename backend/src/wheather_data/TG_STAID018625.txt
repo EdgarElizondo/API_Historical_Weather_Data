@@ -18,7 +18,7 @@ This is the blended series of station FV172 HOLTER, NORWAY (STAID: 18625)
 Blended and updated with sources:99308 99402 99585 100676 901466 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18625,100676,19610101,  -11,    0
  18625,100676,19610102,  -10,    0
  18625,100676,19610103,    6,    0

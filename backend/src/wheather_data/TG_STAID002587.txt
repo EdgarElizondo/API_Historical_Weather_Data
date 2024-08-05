@@ -18,7 +18,7 @@ This is the blended series of station RADE - TOMB, NORWAY (STAID: 2587)
 Blended and updated with sources:9824 99294 100741 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2587,  9824,19570101,  -33,    0
   2587,  9824,19570102,  -50,    0
   2587,  9824,19570103,  -47,    0

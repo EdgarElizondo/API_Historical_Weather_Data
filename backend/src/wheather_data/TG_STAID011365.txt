@@ -18,7 +18,7 @@ This is the blended series of station TIIRIKOJA, ESTONIA (STAID: 11365)
 Blended and updated with sources:75062 926145 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11365, 75062,19230201,-9999,    9
  11365, 75062,19230202,-9999,    9
  11365, 75062,19230203,-9999,    9

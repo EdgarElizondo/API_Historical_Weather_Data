@@ -18,7 +18,7 @@ This is the blended series of station HANO_A, SWEDEN (STAID: 5194)
 Blended and updated with sources:35225 902628 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5194, 35225,19410101,  -85,    1
   5194, 35225,19410102,  -86,    1
   5194, 35225,19410103,  -70,    1

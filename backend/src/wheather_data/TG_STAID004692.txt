@@ -18,7 +18,7 @@ This is the blended series of station TRAVEMUNDE, GERMANY (STAID: 4692)
 Blended and updated with sources:29396 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4692, 29396,19400101,  -32,    0
   4692, 29396,19400102,  -81,    0
   4692, 29396,19400103,  -56,    0

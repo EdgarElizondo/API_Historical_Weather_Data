@@ -18,7 +18,7 @@ This is the blended series of station HAILUOTO MARJANIEMI, FINLAND (STAID: 7679)
 Blended and updated with sources:45575 45610 902874 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7679, 45575,19590101,  -63,    0
   7679, 45575,19590102,  -75,    0
   7679, 45575,19590103,  -75,    1

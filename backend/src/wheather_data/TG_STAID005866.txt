@@ -18,7 +18,7 @@ This is the blended series of station KATTUVUOMA, SWEDEN (STAID: 5866)
 Blended and updated with sources:37451 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5866, 37451,19610101,  -70,    0
   5866, 37451,19610102,  -98,    0
   5866, 37451,19610103, -107,    0

@@ -18,7 +18,7 @@ This is the blended series of station ANGERMUNDE, GERMANY (STAID: 3992)
 Blended and updated with sources:20996 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3992, 20996,19080501,-9999,    9
   3992, 20996,19080502,-9999,    9
   3992, 20996,19080503,-9999,    9

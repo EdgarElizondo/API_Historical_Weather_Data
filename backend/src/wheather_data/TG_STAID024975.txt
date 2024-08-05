@@ -18,7 +18,7 @@ This is the blended series of station JEDRZEJOW-SUDOL, POLAND (STAID: 24975)
 Blended and updated with sources:138078 138150 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24975,138078,19610101,  -13,    0
  24975,138078,19610102,  -15,    0
  24975,138078,19610103,    2,    0

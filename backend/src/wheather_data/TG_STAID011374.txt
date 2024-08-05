@@ -18,7 +18,7 @@ This is the blended series of station PODGORICA, MONTENEGRO (STAID: 11374)
 Blended and updated with sources:75525 913462 913463 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11374, 75525,20160701,  270,    0
  11374, 75525,20160702,  285,    0
  11374, 75525,20160703,  286,    0

@@ -18,7 +18,7 @@ This is the blended series of station TONISVORST, GERMANY (STAID: 4688)
 Blended and updated with sources:26168 29348 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4688, 26168,19350101,   76,    0
   4688, 26168,19350102,   62,    0
   4688, 26168,19350103,   62,    0

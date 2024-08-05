@@ -18,7 +18,7 @@ This is the blended series of station SONNEBERG-NEUFANG, GERMANY (STAID: 4655)
 Blended and updated with sources:28952 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4655, 28952,19510101,  -34,    0
   4655, 28952,19510102,  -32,    0
   4655, 28952,19510103,  -28,    0

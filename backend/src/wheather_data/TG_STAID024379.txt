@@ -18,7 +18,7 @@ This is the blended series of station JAUERLING/ORF, AUSTRIA (STAID: 24379)
 Blended and updated with sources:130536 911024 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24379,130536,19940101,   30,    0
  24379,130536,19940102,  -18,    0
  24379,130536,19940103,    5,    0

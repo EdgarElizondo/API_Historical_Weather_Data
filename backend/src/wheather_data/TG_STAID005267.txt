@@ -18,7 +18,7 @@ This is the blended series of station RINGHALS, SWEDEN (STAID: 5267)
 Blended and updated with sources:35462 35465 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5267, 35462,19681001,-9999,    9
   5267, 35462,19681002,-9999,    9
   5267, 35462,19681003,-9999,    9

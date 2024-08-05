@@ -18,7 +18,7 @@ This is the blended series of station LOGRONO-AGONCILLO, SPAIN (STAID: 1398)
 Blended and updated with sources:20183 908084 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1398, 20183,19481101,  118,    0
   1398, 20183,19481102,  154,    0
   1398, 20183,19481103,  172,    0

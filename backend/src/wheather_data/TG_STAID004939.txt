@@ -18,7 +18,7 @@ This is the blended series of station BUCHHOLZ IN DER NORDHEIDE, GERMANY (STAID:
 Blended and updated with sources:32360 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4939, 32360,19760601,  112,    0
   4939, 32360,19760602,   98,    0
   4939, 32360,19760603,  106,    0

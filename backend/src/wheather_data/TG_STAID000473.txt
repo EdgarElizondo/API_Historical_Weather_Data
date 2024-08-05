@@ -18,7 +18,7 @@ This is the blended series of station GREIFSWALD, GERMANY (STAID: 473)
 Blended and updated with sources:2222 81020 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    473,  2222,18980301,   36,    0
    473,  2222,18980302,   16,    0
    473,  2222,18980303,   13,    0

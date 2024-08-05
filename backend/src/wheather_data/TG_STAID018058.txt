@@ -18,7 +18,7 @@ This is the blended series of station ISKORAS II, NORWAY (STAID: 18058)
 Blended and updated with sources:99527 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18058, 99527,20140901,   74,    0
  18058, 99527,20140902,   96,    0
  18058, 99527,20140903,  100,    0

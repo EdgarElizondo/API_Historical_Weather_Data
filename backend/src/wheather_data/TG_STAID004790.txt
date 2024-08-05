@@ -18,7 +18,7 @@ This is the blended series of station WUNSTORF, GERMANY (STAID: 4790)
 Blended and updated with sources:30572 910334 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4790, 30572,19740101,-9999,    9
   4790, 30572,19740102,-9999,    9
   4790, 30572,19740103,-9999,    9

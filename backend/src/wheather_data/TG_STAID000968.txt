@@ -18,7 +18,7 @@ This is the blended series of station CARRICKMACROSS (DUNOGE), IRELAND (STAID: 9
 Blended and updated with sources:7550 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    968,  7550,19991001,  106,    0
    968,  7550,19991002,   87,    0
    968,  7550,19991003,  102,    0

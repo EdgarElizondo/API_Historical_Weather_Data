@@ -18,7 +18,7 @@ This is the blended series of station RONNEBY, SWEDEN (STAID: 5942)
 Blended and updated with sources:62898 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5942, 62898,19310101,   29,    0
   5942, 62898,19310102,   22,    0
   5942, 62898,19310103,    8,    0

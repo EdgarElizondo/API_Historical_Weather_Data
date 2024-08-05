@@ -18,7 +18,7 @@ This is the blended series of station CIESZYN, POLAND (STAID: 24861)
 Blended and updated with sources:136782 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24861,136782,19870101,   53,    0
  24861,136782,19870102,  -10,    0
  24861,136782,19870103, -114,    0

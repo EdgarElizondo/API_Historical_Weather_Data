@@ -18,7 +18,7 @@ This is the blended series of station LIMBURG/LAHN-OFFHEIM, GERMANY (STAID: 4356
 Blended and updated with sources:25364 31532 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4356, 25364,19490101,   57,    0
   4356, 25364,19490102,   29,    0
   4356, 25364,19490103,   28,    0

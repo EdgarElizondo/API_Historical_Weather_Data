@@ -18,7 +18,7 @@ This is the blended series of station MUNSINGEN-APFELSTETTEN, GERMANY (STAID: 44
 Blended and updated with sources:26324 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4436, 26324,19460101,  -61,    0
   4436, 26324,19460102,  -66,    0
   4436, 26324,19460103,  -90,    0

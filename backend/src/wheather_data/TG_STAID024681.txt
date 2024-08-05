@@ -18,7 +18,7 @@ This is the blended series of station EISENSTADT-NORDOST, AUSTRIA (STAID: 24681)
 Blended and updated with sources:134449 911190 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24681,134449,19360101,   80,    0
  24681,134449,19360102,   64,    0
  24681,134449,19360103,   66,    0

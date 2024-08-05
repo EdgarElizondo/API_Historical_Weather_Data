@@ -18,7 +18,7 @@ This is the blended series of station LAERDAL - MOLDO, NORWAY (STAID: 18814)
 Blended and updated with sources:99428 100665 100951 901355 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18814,100951,19540101,   -8,    0
  18814,100951,19540102,   69,    0
  18814,100951,19540103,   29,    0

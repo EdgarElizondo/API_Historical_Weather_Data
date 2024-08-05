@@ -18,7 +18,7 @@ This is the blended series of station TRONDHEIM - VOLL, NORWAY (STAID: 2720)
 Blended and updated with sources:11042 100661 100797 901257 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2720, 11042,19230101,   -6,    0
   2720, 11042,19230102,   -3,    0
   2720, 11042,19230103,   52,    1

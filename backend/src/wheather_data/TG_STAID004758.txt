@@ -18,7 +18,7 @@ This is the blended series of station WERNIGERODE, GERMANY (STAID: 4758)
 Blended and updated with sources:30188 910454 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4758, 30188,19470101,  -52,    0
   4758, 30188,19470102,  -19,    0
   4758, 30188,19470103,  -38,    0

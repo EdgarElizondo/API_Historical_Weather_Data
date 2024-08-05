@@ -18,7 +18,7 @@ This is the blended series of station FJAERLAND - SKARESTAD, NORWAY (STAID: 1877
 Blended and updated with sources:99518 100622 100795 901332 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18776,100795,19210201,  -20,    0
  18776,100795,19210202,  -10,    0
  18776,100795,19210203,-9999,    9

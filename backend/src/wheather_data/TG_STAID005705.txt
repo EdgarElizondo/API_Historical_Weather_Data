@@ -18,7 +18,7 @@ This is the blended series of station TEGELTRASK, SWEDEN (STAID: 5705)
 Blended and updated with sources:36917 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5705, 36917,19610101,  -63,    0
   5705, 36917,19610102,  -87,    0
   5705, 36917,19610103,  -42,    0

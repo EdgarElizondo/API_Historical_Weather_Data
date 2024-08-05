@@ -18,7 +18,7 @@ This is the blended series of station FROSLIDA, SWEDEN (STAID: 5245)
 Blended and updated with sources:35390 35417 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5245, 35390,19610101,    1,    0
   5245, 35390,19610102,   13,    0
   5245, 35390,19610103,   17,    0

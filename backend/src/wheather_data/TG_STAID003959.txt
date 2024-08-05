@@ -18,7 +18,7 @@ This is the blended series of station STA. CRUZ DE TENERIFE, SPAIN (STAID: 3959)
 Blended and updated with sources:20453 960020 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3959, 20453,19310101,  161,    0
   3959, 20453,19310102,  164,    0
   3959, 20453,19310103,  174,    0

@@ -18,7 +18,7 @@ This is the blended series of station BARTH, GERMANY (STAID: 4353)
 Blended and updated with sources:25328 910180 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4353, 25328,19470101,  -27,    0
   4353, 25328,19470102,  -30,    0
   4353, 25328,19470103,  -50,    0

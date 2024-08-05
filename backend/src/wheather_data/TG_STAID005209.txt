@@ -18,7 +18,7 @@ This is the blended series of station HASTVEDA_MO, SWEDEN (STAID: 5209)
 Blended and updated with sources:35276 35285 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5209, 35285,19530201,-9999,    9
   5209, 35285,19530202,-9999,    9
   5209, 35285,19530203,-9999,    9

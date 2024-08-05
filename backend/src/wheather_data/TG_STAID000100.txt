@@ -18,7 +18,7 @@ This is the blended series of station TAMBOV, RUSSIAN FEDERATION (STAID: 100)
 Blended and updated with sources:389 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    100,   389,19360101,  -28,    0
    100,   389,19360102,   -9,    0
    100,   389,19360103,  -38,    0

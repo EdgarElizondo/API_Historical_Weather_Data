@@ -18,7 +18,7 @@ This is the blended series of station LITZLHOF, AUSTRIA (STAID: 24311)
 Blended and updated with sources:129613 129652 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24311,129613,19530501,  149,    0
  24311,129613,19530502,  165,    0
  24311,129613,19530503,  171,    0

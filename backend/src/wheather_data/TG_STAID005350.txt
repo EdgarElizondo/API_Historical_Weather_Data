@@ -18,7 +18,7 @@ This is the blended series of station LJUNGSKILE, SWEDEN (STAID: 5350)
 Blended and updated with sources:35744 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5350, 35744,19800601,  111,    0
   5350, 35744,19800602,  130,    0
   5350, 35744,19800603,  155,    0

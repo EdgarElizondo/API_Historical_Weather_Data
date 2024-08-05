@@ -18,7 +18,7 @@ This is the blended series of station OREGRUND, SWEDEN (STAID: 5544)
 Blended and updated with sources:36383 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5544, 36383,19490930,   94,    1
   5544, 36383,19491001,  104,    1
   5544, 36383,19491002,   81,    1

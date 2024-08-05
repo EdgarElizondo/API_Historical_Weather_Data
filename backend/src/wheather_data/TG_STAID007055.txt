@@ -18,7 +18,7 @@ This is the blended series of station KOTKA KIRKONMAA, FINLAND (STAID: 7055)
 Blended and updated with sources:42339 42389 42404 902976 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7055, 42339,19590101,   -8,    0
   7055, 42339,19590102,   -4,    0
   7055, 42339,19590103,    5,    0

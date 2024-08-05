@@ -18,7 +18,7 @@ This is the blended series of station NORDERON, SWEDEN (STAID: 5663)
 Blended and updated with sources:36770 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5663, 36770,19560801,  125,    0
   5663, 36770,19560802,  122,    0
   5663, 36770,19560803,  131,    0

@@ -18,7 +18,7 @@ This is the blended series of station TASIILAQ, GREENLAND [DENMARK] (STAID: 299)
 Blended and updated with sources:6708 47547 904360 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    299,  6708,18970901,-9999,    9
    299,  6708,18970902,-9999,    9
    299,  6708,18970903,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station AGROS, CYPRUS (STAID: 499)
 Blended and updated with sources:15575 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    499, 15575,19761201,   58,    0
    499, 15575,19761202,   78,    0
    499, 15575,19761203,   90,    0

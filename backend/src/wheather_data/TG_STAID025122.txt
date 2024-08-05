@@ -18,7 +18,7 @@ This is the blended series of station LIDZBARK WARMINSKI, POLAND (STAID: 25122)
 Blended and updated with sources:139914 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25122,139914,19510101,  -72,    1
  25122,139914,19510102,  -39,    0
  25122,139914,19510103,    8,    0

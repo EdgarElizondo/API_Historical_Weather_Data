@@ -18,7 +18,7 @@ This is the blended series of station HOLLENSTEIN (KRAFTWERK), GERMANY (STAID: 4
 Blended and updated with sources:23852 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4230, 23852,19410101,  -36,    0
   4230, 23852,19410102,  -76,    0
   4230, 23852,19410103, -110,    0

@@ -18,7 +18,7 @@ This is the blended series of station GDOV, RUSSIAN FEDERATION (STAID: 1145)
 Blended and updated with sources:49003 926157 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1145, 49003,19660101,-9999,    9
   1145, 49003,19660102,-9999,    9
   1145, 49003,19660103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station GODAL, NORWAY (STAID: 18899)
 Blended and updated with sources:100766 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18899,100766,20130401,-9999,    9
  18899,100766,20130402,-9999,    9
  18899,100766,20130403,-9999,    9

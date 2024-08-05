@@ -18,7 +18,7 @@ This is the blended series of station VASTERAS-HASSLO, SWEDEN (STAID: 5484)
 Blended and updated with sources:36197 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5484, 36197,18581201,   10,    1
   5484, 36197,18581202,   12,    1
   5484, 36197,18581203,   10,    1

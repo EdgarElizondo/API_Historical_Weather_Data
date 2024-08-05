@@ -18,7 +18,7 @@ This is the blended series of station LESZNO, POLAND (STAID: 923)
 Blended and updated with sources:6242 912418 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    923,  6242,19580101,    4,    0
    923,  6242,19580102,  -57,    0
    923,  6242,19580103,  -64,    0

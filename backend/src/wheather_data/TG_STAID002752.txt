@@ -18,7 +18,7 @@ This is the blended series of station KAUTOKEINO, NORWAY (STAID: 2752)
 Blended and updated with sources:11338 11347 901047 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2752, 11338,19310101,  -89,    1
   2752, 11338,19310102, -120,    0
   2752, 11338,19310103, -119,    0

@@ -18,7 +18,7 @@ This is the blended series of station EVANGER, NORWAY (STAID: 18499)
 Blended and updated with sources:99343 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18499, 99343,20101201, -163,    0
  18499, 99343,20101202, -168,    0
  18499, 99343,20101203, -158,    0

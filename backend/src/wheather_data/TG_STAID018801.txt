@@ -18,7 +18,7 @@ This is the blended series of station SVANDALSFLONA, NORWAY (STAID: 18801)
 Blended and updated with sources:100650 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18801,100650,19200701,   52,    1
  18801,100650,19200702,   61,    1
  18801,100650,19200703,   71,    1

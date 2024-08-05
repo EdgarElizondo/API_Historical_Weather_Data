@@ -18,7 +18,7 @@ This is the blended series of station PORTOROZ-LETALISCE, SLOVENIA (STAID: 3332)
 Blended and updated with sources:15168 914105 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3332, 15168,19870101,   44,    0
   3332, 15168,19870102,   49,    0
   3332, 15168,19870103,   47,    0

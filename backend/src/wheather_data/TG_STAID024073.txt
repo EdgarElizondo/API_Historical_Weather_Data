@@ -18,7 +18,7 @@ This is the blended series of station WR.NEUSTADT-FLUGPL., AUSTRIA (STAID: 24073
 Blended and updated with sources:126584 126597 135502 911182 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24073,135502,19480901,  156,    0
  24073,135502,19480902,  148,    0
  24073,135502,19480903,  157,    0

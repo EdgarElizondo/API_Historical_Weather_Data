@@ -18,7 +18,7 @@ This is the blended series of station CHMIELOW, POLAND (STAID: 24981)
 Blended and updated with sources:138222 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24981,138222,19860101,  -52,    0
  24981,138222,19860102,  -26,    0
  24981,138222,19860103,   -7,    0

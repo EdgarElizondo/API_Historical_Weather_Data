@@ -18,7 +18,7 @@ This is the blended series of station FULDA, GERMANY (STAID: 4128)
 Blended and updated with sources:22628 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4128, 22628,19490101,   44,    0
   4128, 22628,19490102,   29,    0
   4128, 22628,19490103,   24,    0

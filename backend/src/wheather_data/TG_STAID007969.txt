@@ -18,7 +18,7 @@ This is the blended series of station UPERNAVIK AWS, GREENLAND [DENMARK] (STAID:
 Blended and updated with sources:46887 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7969, 46887,19840101,-9999,    9
   7969, 46887,19840102,-9999,    9
   7969, 46887,19840103,-9999,    9

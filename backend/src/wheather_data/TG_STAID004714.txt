@@ -18,7 +18,7 @@ This is the blended series of station VOLKLINGEN-STADT, GERMANY (STAID: 4714)
 Blended and updated with sources:29660 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4714, 29660,19610101,   29,    0
   4714, 29660,19610102,   41,    0
   4714, 29660,19610103,   42,    0

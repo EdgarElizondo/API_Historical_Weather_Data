@@ -18,7 +18,7 @@ This is the blended series of station HUELVA, SPAIN (STAID: 3937)
 Blended and updated with sources:20138 20147 908383 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3937, 20147,19200101,  129,    0
   3937, 20147,19200102,  118,    0
   3937, 20147,19200103,  118,    0

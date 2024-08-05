@@ -18,7 +18,7 @@ This is the blended series of station CERTASCAN, SPAIN (STAID: 11026)
 Blended and updated with sources:56094 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11026, 56094,20080101,   21,    0
  11026, 56094,20080102,  -17,    0
  11026, 56094,20080103,  -53,    0

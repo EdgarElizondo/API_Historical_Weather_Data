@@ -18,7 +18,7 @@ This is the blended series of station CALARASI, ROMANIA (STAID: 221)
 Blended and updated with sources:7505 915460 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    221,  7505,19610101,   28,    0
    221,  7505,19610102,   34,    0
    221,  7505,19610103,   30,    0

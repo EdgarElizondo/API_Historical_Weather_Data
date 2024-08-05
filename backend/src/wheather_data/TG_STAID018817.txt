@@ -18,7 +18,7 @@ This is the blended series of station BJOERKEHAUG I JOSTEDAL, NORWAY (STAID: 188
 Blended and updated with sources:100669 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18817,100669,19631201,   22,    0
  18817,100669,19631202,   13,    0
  18817,100669,19631203,   -7,    0

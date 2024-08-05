@@ -18,7 +18,7 @@ This is the blended series of station ERSHOVO, RUSSIAN FEDERATION (STAID: 8303)
 Blended and updated with sources:50673 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8303, 50673,19730101, -210,    0
   8303, 50673,19730102, -194,    0
   8303, 50673,19730103, -234,    0

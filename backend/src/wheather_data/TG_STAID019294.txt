@@ -18,7 +18,7 @@ This is the blended series of station KROKSTADELVA - LANGELOEKKA, NORWAY (STAID:
 Blended and updated with sources:109854 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19294,109854,20200201,   20,    0
  19294,109854,20200202,   13,    0
  19294,109854,20200203,  -39,    0

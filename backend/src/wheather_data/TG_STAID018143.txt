@@ -18,7 +18,7 @@ This is the blended series of station OSLO - LAMBERTSETER, NORWAY (STAID: 18143)
 Blended and updated with sources:99040 99229 99421 99743 109657 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18143, 99229,20120201,  -95,    1
  18143, 99229,20120202, -103,    1
  18143, 99229,20120203, -143,    1

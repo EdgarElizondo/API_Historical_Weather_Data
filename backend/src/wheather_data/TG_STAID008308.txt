@@ -18,7 +18,7 @@ This is the blended series of station ORLINGA, RUSSIAN FEDERATION (STAID: 8308)
 Blended and updated with sources:50698 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8308, 50698,19320101,-9999,    9
   8308, 50698,19320102,-9999,    9
   8308, 50698,19320103,-9999,    9

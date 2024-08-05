@@ -18,7 +18,7 @@ This is the blended series of station FRASSINETO, ITALY (STAID: 17624)
 Blended and updated with sources:95376 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17624, 95376,20051201,-9999,    9
  17624, 95376,20051202,-9999,    9
  17624, 95376,20051203,-9999,    9

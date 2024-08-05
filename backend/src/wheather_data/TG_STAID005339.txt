@@ -18,7 +18,7 @@ This is the blended series of station KYMBO_V, SWEDEN (STAID: 5339)
 Blended and updated with sources:35708 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5339, 35708,19960301,   -8,    0
   5339, 35708,19960302,  -39,    0
   5339, 35708,19960303,  -58,    0

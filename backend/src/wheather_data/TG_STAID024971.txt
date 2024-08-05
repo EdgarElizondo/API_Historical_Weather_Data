@@ -18,7 +18,7 @@ This is the blended series of station SIELEC, POLAND (STAID: 24971)
 Blended and updated with sources:138102 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24971,138102,19560101,   -7,    0
  24971,138102,19560102,   18,    0
  24971,138102,19560103,  -27,    0

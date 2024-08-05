@@ -18,7 +18,7 @@ This is the blended series of station VLISSINGEN, NETHERLANDS (STAID: 166)
 Blended and updated with sources:533 537 906310 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    166,   537,19060101,  -11,    0
    166,   537,19060102,    1,    0
    166,   537,19060103,   26,    0

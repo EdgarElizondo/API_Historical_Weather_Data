@@ -18,7 +18,7 @@ This is the blended series of station SALDUS, LATVIA (STAID: 990)
 Blended and updated with sources:5299 119006 926416 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    990,  5299,19450701,-9999,    9
    990,  5299,19450702,  142,    0
    990,  5299,19450703,  153,    0

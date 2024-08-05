@@ -18,7 +18,7 @@ This is the blended series of station RESKO-SMOLSKO, POLAND (STAID: 25142)
 Blended and updated with sources:140154 912210 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25142,140154,19510101,  -59,    0
  25142,140154,19510102,   -9,    0
  25142,140154,19510103,   -2,    0

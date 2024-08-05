@@ -18,7 +18,7 @@ This is the blended series of station JOUTSA LEIVONMAKI SAVENAHO, FINLAND (STAID
 Blended and updated with sources:43820 902771 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7330, 43820,19590101,  -39,    0
   7330, 43820,19590102,  -54,    0
   7330, 43820,19590103,  -22,    0

@@ -18,7 +18,7 @@ This is the blended series of station GIRONA, SPAIN (STAID: 11040)
 Blended and updated with sources:55333 56220 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11040, 55333,18961101,   98,    0
  11040, 55333,18961102,   73,    0
  11040, 55333,18961103,   78,    0

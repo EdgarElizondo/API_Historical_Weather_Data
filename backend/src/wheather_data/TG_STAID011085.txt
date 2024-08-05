@@ -18,7 +18,7 @@ This is the blended series of station VILADRAU, SPAIN (STAID: 11085)
 Blended and updated with sources:56625 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11085, 56625,20080101,   15,    0
  11085, 56625,20080102,   16,    0
  11085, 56625,20080103,   39,    0

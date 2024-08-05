@@ -18,7 +18,7 @@ This is the blended series of station TOULOUSE-BLAGNAC, FRANCE (STAID: 33)
 Blended and updated with sources:840 907630 907631 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     33,   840,19470101,   51,    0
     33,   840,19470102,   48,    0
     33,   840,19470103,   49,    0

@@ -18,7 +18,7 @@ This is the blended series of station TURKU KUPITTAA, FINLAND (STAID: 6978)
 Blended and updated with sources:42003 42509 902972 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6978, 42509,19590101,    6,    0
   6978, 42509,19590102,   -4,    0
   6978, 42509,19590103,    8,    0

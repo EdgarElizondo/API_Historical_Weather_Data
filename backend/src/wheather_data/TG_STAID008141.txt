@@ -18,7 +18,7 @@ This is the blended series of station ZY'RYANKA, RUSSIAN FEDERATION (STAID: 8141
 Blended and updated with sources:48863 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8141, 48863,19360101, -416,    0
   8141, 48863,19360102, -439,    0
   8141, 48863,19360103, -390,    0

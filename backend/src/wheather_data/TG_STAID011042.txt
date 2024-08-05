@@ -18,7 +18,7 @@ This is the blended series of station HORTA DE SANT JOAN, SPAIN (STAID: 11042)
 Blended and updated with sources:56238 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11042, 56238,20080101,   16,    0
  11042, 56238,20080102,   19,    0
  11042, 56238,20080103,   53,    0

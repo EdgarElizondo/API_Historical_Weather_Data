@@ -18,7 +18,7 @@ This is the blended series of station GRUNOW, GERMANY (STAID: 4171)
 Blended and updated with sources:23144 910289 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4171, 23144,19730101,  -46,    0
   4171, 23144,19730102,  -60,    0
   4171, 23144,19730103,  -48,    0

@@ -18,7 +18,7 @@ This is the blended series of station SKOMVAER FYR, NORWAY (STAID: 11137)
 Blended and updated with sources:57170 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11137, 57170,19570101,   10,    0
  11137, 57170,19570102,    7,    0
  11137, 57170,19570103,   -1,    0

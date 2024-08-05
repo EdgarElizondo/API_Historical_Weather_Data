@@ -18,7 +18,7 @@ This is the blended series of station OBERPULLENDORF, AUSTRIA (STAID: 24130)
 Blended and updated with sources:127325 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24130,127325,19480101,-9999,    9
  24130,127325,19480102,-9999,    9
  24130,127325,19480103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station WINCRANGE, LUXEMBOURG (STAID: 22492)
 Blended and updated with sources:121011 121221 121311 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22492,121221,19490101,   31,    1
  22492,121221,19490102,   22,    1
  22492,121221,19490103,    3,    1

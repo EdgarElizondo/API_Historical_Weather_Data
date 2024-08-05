@@ -18,7 +18,7 @@ This is the blended series of station BRALANDA, SWEDEN (STAID: 6184)
 Blended and updated with sources:35891 35909 65103 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6184, 65103,19450101,   18,    1
   6184, 65103,19450102,   49,    1
   6184, 65103,19450103,   23,    1

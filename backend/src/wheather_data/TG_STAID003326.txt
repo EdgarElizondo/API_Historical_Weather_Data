@@ -18,7 +18,7 @@ This is the blended series of station BILJE, SLOVENIA (STAID: 3326)
 Blended and updated with sources:15108 914106 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3326, 15108,19920101,   -6,    0
   3326, 15108,19920102,    3,    0
   3326, 15108,19920103,   21,    0

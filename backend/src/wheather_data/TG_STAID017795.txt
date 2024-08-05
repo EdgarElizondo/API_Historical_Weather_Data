@@ -18,7 +18,7 @@ This is the blended series of station SANTERNO_SENIO_2, ITALY (STAID: 17795)
 Blended and updated with sources:95528 95744 96216 97240 97304 97312 97368 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17795, 97312,20051201,-9999,    9
  17795, 97312,20051202,-9999,    9
  17795, 97312,20051203,-9999,    9

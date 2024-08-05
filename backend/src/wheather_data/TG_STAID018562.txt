@@ -18,7 +18,7 @@ This is the blended series of station E8 LAVANGSDALEN, NORWAY (STAID: 18562)
 Blended and updated with sources:99466 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18562, 99466,20150401,-9999,    9
  18562, 99466,20150402,-9999,    9
  18562, 99466,20150403,-9999,    9

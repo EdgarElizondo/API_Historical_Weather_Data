@@ -18,7 +18,7 @@ This is the blended series of station THUNGERSHEIM, GERMANY (STAID: 4682)
 Blended and updated with sources:29276 30548 30560 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4682, 30560,19010101,  -77,    0
   4682, 30560,19010102,  -96,    0
   4682, 30560,19010103, -102,    0

@@ -18,7 +18,7 @@ This is the blended series of station KOETSCHACH-MAUTHEN, AUSTRIA (STAID: 24426)
 Blended and updated with sources:131147 911255 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24426,131147,19870301,   59,    0
  24426,131147,19870302,   22,    0
  24426,131147,19870303,  -20,    0

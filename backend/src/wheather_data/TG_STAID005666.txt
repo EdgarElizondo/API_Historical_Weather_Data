@@ -18,7 +18,7 @@ This is the blended series of station BLAHAMMAREN_A, SWEDEN (STAID: 5666)
 Blended and updated with sources:36782 902210 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5666, 36782,20101001,   49,    0
   5666, 36782,20101002,   14,    0
   5666, 36782,20101003,   21,    0

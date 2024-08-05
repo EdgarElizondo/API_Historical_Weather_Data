@@ -18,7 +18,7 @@ This is the blended series of station MLAWA, POLAND (STAID: 2028)
 Blended and updated with sources:6134 912270 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2028,  6134,19610101,   -4,    0
   2028,  6134,19610102,   -5,    0
   2028,  6134,19610103,    6,    0

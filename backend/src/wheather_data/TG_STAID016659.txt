@@ -18,7 +18,7 @@ This is the blended series of station ROVEGNO, ITALY (STAID: 16659)
 Blended and updated with sources:96960 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  16659, 96960,20051201,-9999,    9
  16659, 96960,20051202,-9999,    9
  16659, 96960,20051203,-9999,    9

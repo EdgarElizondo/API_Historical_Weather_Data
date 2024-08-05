@@ -18,7 +18,7 @@ This is the blended series of station UNKEN, AUSTRIA (STAID: 24472)
 Blended and updated with sources:131745 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24472,131745,19480101,  -12,    0
  24472,131745,19480102,   20,    0
  24472,131745,19480103,   44,    0

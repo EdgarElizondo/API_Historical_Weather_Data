@@ -18,7 +18,7 @@ This is the blended series of station SVENSKA_HOGARNA_A, SWEDEN (STAID: 5477)
 Blended and updated with sources:36173 36176 902496 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5477, 36176,18791101,   50,    1
   5477, 36176,18791102,   37,    1
   5477, 36176,18791103,   14,    1

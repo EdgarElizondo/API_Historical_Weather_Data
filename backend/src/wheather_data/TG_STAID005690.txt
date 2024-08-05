@@ -18,7 +18,7 @@ This is the blended series of station HEMLING_A, SWEDEN (STAID: 5690)
 Blended and updated with sources:36863 36866 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5690, 36866,19700701,  145,    0
   5690, 36866,19700702,  137,    0
   5690, 36866,19700703,  123,    0

@@ -18,7 +18,7 @@ This is the blended series of station VILLACH/VASSACH, AUSTRIA (STAID: 24511)
 Blended and updated with sources:132252 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24511,132252,19300101,  -10,    0
  24511,132252,19300102,  -13,    0
  24511,132252,19300103,   -8,    0

@@ -18,7 +18,7 @@ This is the blended series of station GOSPIC, CROATIA (STAID: 1684)
 Blended and updated with sources:5180 914330 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1684,  5180,18720101,-9999,    9
   1684,  5180,18720102,-9999,    9
   1684,  5180,18720103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station ZILANI, LATVIA (STAID: 997)
 Blended and updated with sources:119078 926436 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    997,119078,19430801,-9999,    9
    997,119078,19430802,-9999,    9
    997,119078,19430803,  230,    0

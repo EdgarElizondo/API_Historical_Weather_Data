@@ -18,7 +18,7 @@ This is the blended series of station NORDLI - HOLAND, NORWAY (STAID: 18075)
 Blended and updated with sources:99037 106018 901298 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18075, 99037,19880801,   96,    0
  18075, 99037,19880802,   88,    0
  18075, 99037,19880803,   98,    0

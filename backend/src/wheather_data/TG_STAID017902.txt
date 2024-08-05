@@ -18,7 +18,7 @@ This is the blended series of station MARIBOR - VRBANSKI PLATO, SLOVENIA (STAID:
 Blended and updated with sources:15158 109676 914026 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17902, 15158,19770101,   60,    0
  17902, 15158,19770102,   22,    0
  17902, 15158,19770103,    8,    0

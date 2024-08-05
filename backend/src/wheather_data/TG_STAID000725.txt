@@ -18,7 +18,7 @@ This is the blended series of station KAJAANI LENTOASEMA-1, FINLAND (STAID: 725)
 Blended and updated with sources:45375 45445 902897 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    725, 45375,19590101, -101,    0
    725, 45375,19590102,  -96,    0
    725, 45375,19590103, -104,    0

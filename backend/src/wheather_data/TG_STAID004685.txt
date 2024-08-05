@@ -18,7 +18,7 @@ This is the blended series of station TITISEE-NEUSTADT-LANGENORDNACH, GERMANY (S
 Blended and updated with sources:29312 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4685, 29312,19480101,    0,    0
   4685, 29312,19480102,   36,    0
   4685, 29312,19480103,   80,    0

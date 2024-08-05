@@ -18,7 +18,7 @@ This is the blended series of station DUNSANY GRANGE, IRELAND (STAID: 3547)
 Blended and updated with sources:7557 16141 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3547,  7557,19610101,   49,    0
   3547,  7557,19610102,   33,    0
   3547,  7557,19610103,   25,    0

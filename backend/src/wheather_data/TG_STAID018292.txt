@@ -18,7 +18,7 @@ This is the blended series of station AURSKOG II, NORWAY (STAID: 18292)
 Blended and updated with sources:99638 901484 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18292,901484,20071129,-9999,    9
  18292,901484,20071130,-9999,    9
  18292, 99638,20071201,   27,    0

@@ -18,7 +18,7 @@ This is the blended series of station SAVUKOSKI KK, FINLAND (STAID: 7818)
 Blended and updated with sources:46341 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7818, 46341,19640101, -129,    0
   7818, 46341,19640102, -128,    0
   7818, 46341,19640103,  -42,    0

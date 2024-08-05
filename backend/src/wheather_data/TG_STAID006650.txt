@@ -18,7 +18,7 @@ This is the blended series of station JARPSTROMMEN, SWEDEN (STAID: 6650)
 Blended and updated with sources:68976 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6650, 68976,19610701,  138,    0
   6650, 68976,19610702,  124,    0
   6650, 68976,19610703,   86,    0

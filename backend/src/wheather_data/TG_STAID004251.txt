@@ -18,7 +18,7 @@ This is the blended series of station HUMMERICH, GERMANY (STAID: 4251)
 Blended and updated with sources:24104 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4251, 24104,19821001,  113,    0
   4251, 24104,19821002,  120,    0
   4251, 24104,19821003,  138,    0

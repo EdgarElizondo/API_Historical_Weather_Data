@@ -18,7 +18,7 @@ This is the blended series of station TROLL C, NORWAY (STAID: 18552)
 Blended and updated with sources:99449 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18552, 99449,20150301,-9999,    9
  18552, 99449,20150302,-9999,    9
  18552, 99449,20150303,-9999,    9

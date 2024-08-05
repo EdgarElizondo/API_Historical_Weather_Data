@@ -18,7 +18,7 @@ This is the blended series of station EIDFJORD - BU, NORWAY (STAID: 18894)
 Blended and updated with sources:100760 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18894,100760,19780701,  129,    0
  18894,100760,19780702,  122,    0
  18894,100760,19780703,  130,    0

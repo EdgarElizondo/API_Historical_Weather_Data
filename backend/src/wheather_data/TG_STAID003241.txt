@@ -18,7 +18,7 @@ This is the blended series of station TROIÑKIJ PRIISK, RUSSIAN FEDERATION (ST
 Blended and updated with sources:17156 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3241, 17156,19380101,-9999,    9
   3241, 17156,19380102,-9999,    9
   3241, 17156,19380103,-9999,    9

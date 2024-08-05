@@ -18,7 +18,7 @@ This is the blended series of station FASSBERG, GERMANY (STAID: 4080)
 Blended and updated with sources:22052 29612 910246 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4080, 29612,19480201,-9999,    9
   4080, 29612,19480202,-9999,    9
   4080, 29612,19480203,-9999,    9

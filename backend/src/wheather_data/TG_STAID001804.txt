@@ -18,7 +18,7 @@ This is the blended series of station NEWTON RIGG, UNITED KINGDOM (STAID: 1804)
 Blended and updated with sources:6998 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1804,  6998,19060101,-9999,    9
   1804,  6998,19060102,-9999,    9
   1804,  6998,19060103,   31,    0

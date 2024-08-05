@@ -18,7 +18,7 @@ This is the blended series of station ESLOHE, GERMANY (STAID: 4073)
 Blended and updated with sources:21968 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4073, 21968,19380101,  -25,    0
   4073, 21968,19380102,  -45,    0
   4073, 21968,19380103,  -52,    0

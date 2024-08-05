@@ -18,7 +18,7 @@ This is the blended series of station ANCHIALOS, GREECE (STAID: 354)
 Blended and updated with sources:16382 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    354, 16382,20010101,   84,    0
    354, 16382,20010102,   76,    0
    354, 16382,20010103,   76,    0

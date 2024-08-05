@@ -18,7 +18,7 @@ This is the blended series of station LEIRKJOSEN, NORWAY (STAID: 18741)
 Blended and updated with sources:34888 100581 100608 901015 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18741,100608,19570101,  -13,    0
  18741,100608,19570102,    3,    0
  18741,100608,19570103,   19,    0

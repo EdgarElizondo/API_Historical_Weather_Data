@@ -18,7 +18,7 @@ This is the blended series of station LAPPSAETRA, NORWAY (STAID: 20318)
 Blended and updated with sources:108979 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20318,108979,20191024,   36,    0
  20318,108979,20191025,   24,    0
  20318,108979,20191026,   -2,    0

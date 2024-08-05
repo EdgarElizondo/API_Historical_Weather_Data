@@ -18,7 +18,7 @@ This is the blended series of station FERGANA, UZBEKISTAN (STAID: 3163)
 Blended and updated with sources:17692 938618 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3163, 17692,19000101,  -57,    0
   3163, 17692,19000102, -123,    0
   3163, 17692,19000103, -155,    0

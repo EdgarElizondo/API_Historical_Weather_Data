@@ -18,7 +18,7 @@ This is the blended series of station TROLLHATTANS FLYGPLATS, SWEDEN (STAID: 535
 Blended and updated with sources:35771 35789 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5358, 35789,18590801,  165,    1
   5358, 35789,18590802,  157,    1
   5358, 35789,18590803,  170,    1

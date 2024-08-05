@@ -18,7 +18,7 @@ This is the blended series of station HOGLEKARDALEN, SWEDEN (STAID: 5659)
 Blended and updated with sources:36755 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5659, 36755,19620201,  -44,    0
   5659, 36755,19620202,  -49,    0
   5659, 36755,19620203,  -54,    0

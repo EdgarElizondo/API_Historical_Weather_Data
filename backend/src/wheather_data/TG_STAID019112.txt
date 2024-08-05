@@ -18,7 +18,7 @@ This is the blended series of station EIDSBERG, NORWAY (STAID: 19112)
 Blended and updated with sources:34288 99159 100652 100813 101014 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19112,101014,19540101,  -70,    0
  19112,101014,19540102,   27,    1
  19112,101014,19540103,   -5,    1

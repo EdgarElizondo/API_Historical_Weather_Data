@@ -18,7 +18,7 @@ This is the blended series of station PORONIN, POLAND (STAID: 24903)
 Blended and updated with sources:137010 137214 137286 912625 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24903,137010,19610101,  -38,    0
  24903,137010,19610102,  -45,    0
  24903,137010,19610103,   23,    0

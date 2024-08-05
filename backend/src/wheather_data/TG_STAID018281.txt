@@ -18,7 +18,7 @@ This is the blended series of station FINSEVATN, NORWAY (STAID: 18281)
 Blended and updated with sources:99606 100824 901350 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18281,100824,19691101,  -37,    0
  18281,100824,19691102,  -66,    0
  18281,100824,19691103,  -60,    0

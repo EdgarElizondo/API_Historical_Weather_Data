@@ -18,7 +18,7 @@ This is the blended series of station OERSTA - EITREFJELL, NORWAY (STAID: 18095)
 Blended and updated with sources:99101 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18095, 99101,20141201,   20,    0
  18095, 99101,20141202,   11,    0
  18095, 99101,20141203,   55,    0

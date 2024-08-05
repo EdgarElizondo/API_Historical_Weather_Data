@@ -18,7 +18,7 @@ This is the blended series of station CLONES, IRELAND (STAID: 2142)
 Blended and updated with sources:7553 903974 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2142,  7553,19510101,   -5,    0
   2142,  7553,19510102,   -9,    0
   2142,  7553,19510103,   -2,    0

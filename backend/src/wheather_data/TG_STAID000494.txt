@@ -18,7 +18,7 @@ This is the blended series of station AUGSBURG, GERMANY (STAID: 494)
 Blended and updated with sources:2398 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    494,  2398,19470101,  -23,    0
    494,  2398,19470102,  -46,    0
    494,  2398,19470103,  -28,    0

@@ -18,7 +18,7 @@ This is the blended series of station INNSBRUCK-UNIV, AUSTRIA (STAID: 13)
 Blended and updated with sources:36 119156 127858 911121 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     13,127858,18770101,   40,    0
     13,127858,18770102,   35,    0
     13,127858,18770103,   45,    0

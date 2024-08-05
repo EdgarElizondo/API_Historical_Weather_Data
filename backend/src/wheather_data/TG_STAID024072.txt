@@ -18,7 +18,7 @@ This is the blended series of station WR.NEUSTADT - FOHLENHOF, AUSTRIA (STAID: 2
 Blended and updated with sources:126571 126597 126610 135502 911182 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24072,126610,19480901,  156,    0
  24072,126610,19480902,  148,    0
  24072,126610,19480903,  157,    0

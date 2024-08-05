@@ -18,7 +18,7 @@ This is the blended series of station BERKHOUT, NETHERLANDS (STAID: 451)
 Blended and updated with sources:2480 906249 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    451,  2480,19990301,-9999,    9
    451,  2480,19990302,-9999,    9
    451,  2480,19990303,-9999,    9

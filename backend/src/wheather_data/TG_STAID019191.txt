@@ -18,7 +18,7 @@ This is the blended series of station FV53 TYINOSEN, NORWAY (STAID: 19191)
 Blended and updated with sources:100982 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19191,100982,20140101,-9999,    9
  19191,100982,20140102,-9999,    9
  19191,100982,20140103,  -24,    0

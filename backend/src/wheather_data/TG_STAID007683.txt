@@ -18,7 +18,7 @@ This is the blended series of station OULU LINNANMAA, FINLAND (STAID: 7683)
 Blended and updated with sources:45635 45660 45670 902875 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7683, 45635,19590101,  -69,    0
   7683, 45635,19590102,  -84,    0
   7683, 45635,19590103,  -80,    0

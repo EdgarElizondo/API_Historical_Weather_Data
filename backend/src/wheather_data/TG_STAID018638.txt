@@ -18,7 +18,7 @@ This is the blended series of station E134 VINJE, NORWAY (STAID: 18638)
 Blended and updated with sources:99607 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18638, 99607,20131001,-9999,    9
  18638, 99607,20131002,-9999,    9
  18638, 99607,20131003,-9999,    9

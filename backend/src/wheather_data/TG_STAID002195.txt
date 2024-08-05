@@ -18,7 +18,7 @@ This is the blended series of station LIMOGES - BELLEGARDE, FRANCE (STAID: 2195)
 Blended and updated with sources:7215 907434 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2195,  7215,19730101,   31,    0
   2195,  7215,19730102,   20,    0
   2195,  7215,19730103,  -24,    0

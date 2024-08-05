@@ -18,7 +18,7 @@ This is the blended series of station SATER_D, SWEDEN (STAID: 6423)
 Blended and updated with sources:67167 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6423, 67167,19630401,-9999,    9
   6423, 67167,19630402,-9999,    9
   6423, 67167,19630403,-9999,    9

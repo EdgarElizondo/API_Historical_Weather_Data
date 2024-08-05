@@ -18,7 +18,7 @@ This is the blended series of station FOERDE - VIE, NORWAY (STAID: 18990)
 Blended and updated with sources:100756 100865 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18990,100756,19570101,  -55,    0
  18990,100756,19570102,  -90,    0
  18990,100756,19570103,  -59,    0

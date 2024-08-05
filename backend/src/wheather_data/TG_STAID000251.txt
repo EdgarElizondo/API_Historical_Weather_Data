@@ -18,7 +18,7 @@ This is the blended series of station FEODOSIIA, UKRAINE (STAID: 251)
 Blended and updated with sources:785 933976 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    251,   785,19000101,  -34,    0
    251,   785,19000102,    3,    0
    251,   785,19000103,   30,    0

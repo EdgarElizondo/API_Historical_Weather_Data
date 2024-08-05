@@ -18,7 +18,7 @@ This is the blended series of station KANSTADBOTN, NORWAY (STAID: 18265)
 Blended and updated with sources:99429 99564 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18265, 99429,20150401,-9999,    9
  18265, 99429,20150402,-9999,    9
  18265, 99429,20150403,-9999,    9

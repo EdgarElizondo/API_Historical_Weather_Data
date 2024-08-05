@@ -18,7 +18,7 @@ This is the blended series of station HITRA - SANDSTAD II, NORWAY (STAID: 18174)
 Blended and updated with sources:99318 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18174, 99318,20120921,   87,    0
  18174, 99318,20120922,   81,    0
  18174, 99318,20120923,   76,    0

@@ -18,7 +18,7 @@ This is the blended series of station MOLLO-FABERT, SPAIN (STAID: 11054)
 Blended and updated with sources:56346 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11054, 56346,20080101,   54,    0
  11054, 56346,20080102,   10,    0
  11054, 56346,20080103,    8,    0

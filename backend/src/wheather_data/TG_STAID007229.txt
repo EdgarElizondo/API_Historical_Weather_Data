@@ -18,7 +18,7 @@ This is the blended series of station PARIKKALA KOITSANLAHTI, FINLAND (STAID: 72
 Blended and updated with sources:43299 43304 902734 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7229, 43299,19590101,  -80,    0
   7229, 43299,19590102,  -58,    0
   7229, 43299,19590103,  -29,    0

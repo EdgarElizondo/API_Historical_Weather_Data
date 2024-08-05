@@ -18,7 +18,7 @@ This is the blended series of station WAIDHOFEN/YBBS, AUSTRIA (STAID: 24057)
 Blended and updated with sources:126350 126376 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24057,126350,19680601,  130,    0
  24057,126350,19680602,  144,    0
  24057,126350,19680603,  139,    0

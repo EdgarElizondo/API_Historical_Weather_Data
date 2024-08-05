@@ -18,7 +18,7 @@ This is the blended series of station OCHTRUP, GERMANY (STAID: 4492)
 Blended and updated with sources:26996 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4492, 26996,19640101,   48,    0
   4492, 26996,19640102,   28,    0
   4492, 26996,19640103,    7,    0

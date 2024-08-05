@@ -18,7 +18,7 @@ This is the blended series of station ROCHES POINT, IRELAND (STAID: 2135)
 Blended and updated with sources:7542 903952 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2135,  7542,19551201,   92,    0
   2135,  7542,19551202,   81,    0
   2135,  7542,19551203,   98,    0

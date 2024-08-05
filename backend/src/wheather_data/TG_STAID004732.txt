@@ -18,7 +18,7 @@ This is the blended series of station WANGEROOGE, GERMANY (STAID: 4732)
 Blended and updated with sources:29876 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4732, 29876,19410301,   54,    0
   4732, 29876,19410302,   54,    0
   4732, 29876,19410303,   46,    0

@@ -18,7 +18,7 @@ This is the blended series of station WIEN HOHE WARTE (MIT 21 UHR TERMINEN), AUS
 Blended and updated with sources:42 119155 130874 130939 135424 911035 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24410,135424,18520901,-9999,    9
  24410,135424,18520902,-9999,    9
  24410,135424,18520903,-9999,    9

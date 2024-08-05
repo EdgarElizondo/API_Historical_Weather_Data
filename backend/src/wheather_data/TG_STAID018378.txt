@@ -18,7 +18,7 @@ This is the blended series of station FV700 VOLL, NORWAY (STAID: 18378)
 Blended and updated with sources:99125 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18378, 99125,20150901,-9999,    9
  18378, 99125,20150902,-9999,    9
  18378, 99125,20150903,-9999,    9

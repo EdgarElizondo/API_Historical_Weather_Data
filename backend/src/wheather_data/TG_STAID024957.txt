@@ -18,7 +18,7 @@ This is the blended series of station CZEKANOW, POLAND (STAID: 24957)
 Blended and updated with sources:137934 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24957,137934,19810101,   29,    0
  24957,137934,19810102,    7,    0
  24957,137934,19810103,   23,    0

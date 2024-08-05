@@ -18,7 +18,7 @@ This is the blended series of station RAMSJOHOLM, SWEDEN (STAID: 5317)
 Blended and updated with sources:35642 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5317, 35642,19450101,  -57,    0
   5317, 35642,19450102,   35,    0
   5317, 35642,19450103,   27,    0

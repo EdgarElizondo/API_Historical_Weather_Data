@@ -18,7 +18,7 @@ This is the blended series of station BOCHOLT, GERMANY (STAID: 4767)
 Blended and updated with sources:30248 30296 910406 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4767, 30296,19470101,   20,    0
   4767, 30296,19470102,   24,    0
   4767, 30296,19470103,   19,    0

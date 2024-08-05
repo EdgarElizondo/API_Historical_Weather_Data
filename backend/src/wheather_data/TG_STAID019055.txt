@@ -18,7 +18,7 @@ This is the blended series of station HJELVIK I ROMSDAL, NORWAY (STAID: 19055)
 Blended and updated with sources:99042 100823 100943 901215 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19055,100943,19730901,  103,    0
  19055,100943,19730902,  120,    0
  19055,100943,19730903,  113,    0

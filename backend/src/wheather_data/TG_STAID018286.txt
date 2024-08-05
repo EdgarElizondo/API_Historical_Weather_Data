@@ -18,7 +18,7 @@ This is the blended series of station SKJEGGEDAL, NORWAY (STAID: 18286)
 Blended and updated with sources:99617 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18286, 99617,20170201,-9999,    9
  18286, 99617,20170202,-9999,    9
  18286, 99617,20170203,-9999,    9

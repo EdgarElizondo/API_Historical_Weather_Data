@@ -18,7 +18,7 @@ This is the blended series of station HYVINKAA HYVINKAANKYLA, FINLAND (STAID: 71
 Blended and updated with sources:42749 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7119, 42749,19590101,    0,    0
   7119, 42749,19590102,    5,    0
   7119, 42749,19590103,   11,    0

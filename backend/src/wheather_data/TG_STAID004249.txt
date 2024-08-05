@@ -18,7 +18,7 @@ This is the blended series of station HOYERSWERDA (PH), GERMANY (STAID: 4249)
 Blended and updated with sources:24080 32156 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4249, 24080,19470201,  -96,    0
   4249, 24080,19470202,  -83,    0
   4249, 24080,19470203,  -91,    0

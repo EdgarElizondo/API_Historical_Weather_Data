@@ -18,7 +18,7 @@ This is the blended series of station ALICE HOLT LODGE, UNITED KINGDOM (STAID: 1
 Blended and updated with sources:7065 903761 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1871,  7065,19600101,   98,    1
   1871,  7065,19600102,   56,    0
   1871,  7065,19600103,   86,    0

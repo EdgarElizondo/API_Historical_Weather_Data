@@ -18,7 +18,7 @@ This is the blended series of station SREDNIJ VASYUGAN, RUSSIAN FEDERATION (STAI
 Blended and updated with sources:50188 929111 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8206, 50188,19130101,-9999,    9
   8206, 50188,19130102,-9999,    9
   8206, 50188,19130103,-9999,    9

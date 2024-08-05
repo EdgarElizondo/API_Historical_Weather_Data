@@ -18,7 +18,7 @@ This is the blended series of station OLSZTYN, POLAND (STAID: 752)
 Blended and updated with sources:6161 912272 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    752,  6161,19510101,  -68,    0
    752,  6161,19510102,  -40,    0
    752,  6161,19510103,    6,    0

@@ -18,7 +18,7 @@ This is the blended series of station BACAU, ROMANIA (STAID: 960)
 Blended and updated with sources:7501 915150 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    960,  7501,19610101,    6,    0
    960,  7501,19610102,    4,    0
    960,  7501,19610103,   11,    0

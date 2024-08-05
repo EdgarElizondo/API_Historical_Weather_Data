@@ -18,7 +18,7 @@ This is the blended series of station BYGDSILJUM, SWEDEN (STAID: 6733)
 Blended and updated with sources:36974 69683 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6733, 69683,19530801,-9999,    9
   6733, 69683,19530802,-9999,    9
   6733, 69683,19530803,-9999,    9

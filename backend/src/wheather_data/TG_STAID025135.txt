@@ -18,7 +18,7 @@ This is the blended series of station SANDOMIERZ, POLAND (STAID: 25135)
 Blended and updated with sources:140070 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25135,140070,19510101,  -34,    0
  25135,140070,19510102,   -9,    0
  25135,140070,19510103,  -13,    0

@@ -18,7 +18,7 @@ This is the blended series of station BREDVIKEN, SWEDEN (STAID: 5446)
 Blended and updated with sources:36062 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5446, 36062,19570801,  169,    0
   5446, 36062,19570802,  142,    0
   5446, 36062,19570803,  153,    0

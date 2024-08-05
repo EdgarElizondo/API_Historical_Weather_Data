@@ -18,7 +18,7 @@ This is the blended series of station THREAVE, UNITED KINGDOM (STAID: 1802)
 Blended and updated with sources:6996 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1802,  6996,19610101,   50,    0
   1802,  6996,19610102,   50,    0
   1802,  6996,19610103,   28,    0

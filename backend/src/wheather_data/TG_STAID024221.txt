@@ -18,7 +18,7 @@ This is the blended series of station MUTTERSBERG, AUSTRIA (STAID: 24221)
 Blended and updated with sources:128495 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24221,128495,19591001,  118,    0
  24221,128495,19591002,  123,    0
  24221,128495,19591003,  115,    0

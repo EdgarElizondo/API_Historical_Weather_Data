@@ -18,7 +18,7 @@ This is the blended series of station NORDERNEY, GERMANY (STAID: 4001)
 Blended and updated with sources:21104 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4001, 21104,19470101,  -11,    0
   4001, 21104,19470102,    9,    0
   4001, 21104,19470103,  -15,    0

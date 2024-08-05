@@ -18,7 +18,7 @@ This is the blended series of station TRANAS_AUT, SWEDEN (STAID: 5332)
 Blended and updated with sources:35687 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5332, 35687,19901101,   29,    0
   5332, 35687,19901102,   11,    0
   5332, 35687,19901103,   -2,    0

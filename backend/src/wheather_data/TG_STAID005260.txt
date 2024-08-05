@@ -18,7 +18,7 @@ This is the blended series of station LAESO_OST_A, SWEDEN (STAID: 5260)
 Blended and updated with sources:35444 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5260, 35444,20040901,  158,    0
   5260, 35444,20040902,  170,    0
   5260, 35444,20040903,  175,    0

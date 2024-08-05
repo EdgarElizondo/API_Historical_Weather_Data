@@ -18,7 +18,7 @@ This is the blended series of station REBBENESOEY - GRAHAUGEN, NORWAY (STAID: 18
 Blended and updated with sources:100796 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18932,100796,20091101,-9999,    9
  18932,100796,20091102,-9999,    9
  18932,100796,20091103,-9999,    9

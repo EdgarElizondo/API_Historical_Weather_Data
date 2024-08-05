@@ -18,7 +18,7 @@ This is the blended series of station STADLANDET, NORWAY (STAID: 2700)
 Blended and updated with sources:10862 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2700, 10862,20160901,-9999,    9
   2700, 10862,20160902,-9999,    9
   2700, 10862,20160903,-9999,    9

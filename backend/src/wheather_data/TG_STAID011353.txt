@@ -18,7 +18,7 @@ This is the blended series of station KURESSAARE, ESTONIA (STAID: 11353)
 Blended and updated with sources:75014 926215 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11353, 75014,19480901,  135,    0
  11353, 75014,19480902,  131,    0
  11353, 75014,19480903,  152,    0

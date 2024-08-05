@@ -18,7 +18,7 @@ This is the blended series of station SIMRISHAMN, SWEDEN (STAID: 5174)
 Blended and updated with sources:35144 35159 902625 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5174, 35159,19490101,   37,    1
   5174, 35159,19490102,   45,    1
   5174, 35159,19490103,   37,    1

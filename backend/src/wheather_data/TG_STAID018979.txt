@@ -18,7 +18,7 @@ This is the blended series of station TROMSOE I, NORWAY (STAID: 18979)
 Blended and updated with sources:99703 100836 100853 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18979,100853,19000101,  -25,    0
  18979,100853,19000102,  -47,    0
  18979,100853,19000103,  -67,    0

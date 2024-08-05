@@ -18,7 +18,7 @@ This is the blended series of station KARLSKRONA-SODERSTJ., SWEDEN (STAID: 5203)
 Blended and updated with sources:35252 35264 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5203, 35264,19450101,  -60,    0
   5203, 35264,19450102,   27,    0
   5203, 35264,19450103,   38,    0

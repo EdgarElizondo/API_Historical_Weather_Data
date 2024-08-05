@@ -18,7 +18,7 @@ This is the blended series of station GERNRODE, GERMANY (STAID: 4142)
 Blended and updated with sources:22796 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4142, 22796,19520101,   22,    0
   4142, 22796,19520102,   49,    0
   4142, 22796,19520103,   18,    0

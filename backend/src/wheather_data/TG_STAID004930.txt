@@ -18,7 +18,7 @@ This is the blended series of station LANGENWETZENDORF-GOTTENDORF, GERMANY (STAI
 Blended and updated with sources:32252 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4930, 32252,20061201,   48,    0
   4930, 32252,20061202,   33,    0
   4930, 32252,20061203,   50,    0

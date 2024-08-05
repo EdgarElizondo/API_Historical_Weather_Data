@@ -18,7 +18,7 @@ This is the blended series of station STORMYRA, SWEDEN (STAID: 5445)
 Blended and updated with sources:36059 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5445, 36059,19781101,   93,    0
   5445, 36059,19781102,   85,    0
   5445, 36059,19781103,   64,    0

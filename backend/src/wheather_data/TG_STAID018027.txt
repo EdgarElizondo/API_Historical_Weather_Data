@@ -18,7 +18,7 @@ This is the blended series of station GVARV - NES BIOFORSK, NORWAY (STAID: 18027
 Blended and updated with sources:10296 10305 99209 901470 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18027, 10296,19890801,  128,    0
  18027, 10296,19890802,  160,    0
  18027, 10296,19890803,  137,    0

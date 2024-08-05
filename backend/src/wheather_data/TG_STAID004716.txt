@@ -18,7 +18,7 @@ This is the blended series of station VOLDAGSEN, GERMANY (STAID: 4716)
 Blended and updated with sources:22124 29684 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4716, 29684,19470101,  -10,    0
   4716, 29684,19470102,    6,    0
   4716, 29684,19470103,  -18,    0

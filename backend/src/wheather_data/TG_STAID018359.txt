@@ -18,7 +18,7 @@ This is the blended series of station E6 GANDVIKBAKKEN, NORWAY (STAID: 18359)
 Blended and updated with sources:99094 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18359, 99094,20180601,-9999,    9
  18359, 99094,20180602,-9999,    9
  18359, 99094,20180603,-9999,    9

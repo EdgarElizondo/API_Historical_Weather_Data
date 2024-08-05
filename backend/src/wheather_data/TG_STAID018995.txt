@@ -18,7 +18,7 @@ This is the blended series of station DOMBESTEIN, NORWAY (STAID: 18995)
 Blended and updated with sources:100873 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18995,100873,19710701,  127,    0
  18995,100873,19710702,  160,    0
  18995,100873,19710703,  185,    0

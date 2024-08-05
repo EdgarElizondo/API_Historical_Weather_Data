@@ -18,7 +18,7 @@ This is the blended series of station OVERPELT_P, BELGIUM (STAID: 20795)
 Blended and updated with sources:118292 906479 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20795,118292,20201001,  137,    0
  20795,118292,20201002,  119,    0
  20795,118292,20201003,  125,    0

@@ -18,7 +18,7 @@ This is the blended series of station EHRWALD, AUSTRIA (STAID: 24164)
 Blended and updated with sources:127767 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24164,127767,19871101,   66,    0
  24164,127767,19871102,   45,    0
  24164,127767,19871103,   51,    0

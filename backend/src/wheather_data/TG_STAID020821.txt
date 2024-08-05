@@ -18,7 +18,7 @@ This is the blended series of station TOENSBERG - KARLSVIK, NORWAY (STAID: 20821
 Blended and updated with sources:35020 99248 99554 100764 100987 111244 111245 901481 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20821, 35020,19590101,-9999,    9
  20821, 35020,19590102,-9999,    9
  20821, 35020,19590103,-9999,    9

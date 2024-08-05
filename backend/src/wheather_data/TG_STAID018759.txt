@@ -18,7 +18,7 @@ This is the blended series of station SOENSTERUD, NORWAY (STAID: 18759)
 Blended and updated with sources:99726 100604 100654 901392 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18759,100654,19190601,   95,    1
  18759,100654,19190602,   87,    1
  18759,100654,19190603,   78,    1

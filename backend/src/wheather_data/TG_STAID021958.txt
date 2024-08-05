@@ -18,7 +18,7 @@ This is the blended series of station MADONA, LATVIA (STAID: 21958)
 Blended and updated with sources:118886 926447 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21958,118886,20210101,   -2,    0
  21958,118886,20210102,   -8,    0
  21958,118886,20210103,  -14,    0

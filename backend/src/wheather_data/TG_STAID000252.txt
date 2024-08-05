@@ -18,7 +18,7 @@ This is the blended series of station KIEV, UKRAINE (STAID: 252)
 Blended and updated with sources:789 933345 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    252,   789,19000101,   -5,    0
    252,   789,19000102,   11,    0
    252,   789,19000103,   -1,    0

@@ -18,7 +18,7 @@ This is the blended series of station OBERWOELZ, AUSTRIA (STAID: 24819)
 Blended and updated with sources:136243 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24819,136243,19360101,   36,    0
  24819,136243,19360102,   15,    0
  24819,136243,19360103,   43,    0

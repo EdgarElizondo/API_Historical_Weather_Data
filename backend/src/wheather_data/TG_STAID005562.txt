@@ -18,7 +18,7 @@ This is the blended series of station FLATEN, SWEDEN (STAID: 5562)
 Blended and updated with sources:36443 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5562, 36443,19940101,-9999,    9
   5562, 36443,19940102,-9999,    9
   5562, 36443,19940103,-9999,    9

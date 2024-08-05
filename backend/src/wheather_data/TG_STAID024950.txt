@@ -18,7 +18,7 @@ This is the blended series of station OLAWA, POLAND (STAID: 24950)
 Blended and updated with sources:137850 138570 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24950,137850,19610101,    2,    0
  24950,137850,19610102,  -12,    0
  24950,137850,19610103,   28,    0

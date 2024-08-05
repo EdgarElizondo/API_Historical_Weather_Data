@@ -18,7 +18,7 @@ This is the blended series of station LAMBACH, AUSTRIA (STAID: 23985)
 Blended and updated with sources:125479 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23985,125479,19520301,   31,    0
  23985,125479,19520302,    9,    0
  23985,125479,19520303,    3,    0

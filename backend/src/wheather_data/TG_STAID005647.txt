@@ -18,7 +18,7 @@ This is the blended series of station SILLRE_V, SWEDEN (STAID: 5647)
 Blended and updated with sources:36719 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5647, 36719,19960301,   -4,    0
   5647, 36719,19960302,  -90,    0
   5647, 36719,19960303,  -69,    0

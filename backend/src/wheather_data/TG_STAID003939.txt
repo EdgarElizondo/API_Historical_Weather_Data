@@ -18,7 +18,7 @@ This is the blended series of station JAEN (INSTITUTO), SPAIN (STAID: 3939)
 Blended and updated with sources:20174 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3939, 20174,19200501,  195,    0
   3939, 20174,19200502,  165,    0
   3939, 20174,19200503,  175,    0

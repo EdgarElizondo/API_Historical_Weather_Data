@@ -18,7 +18,7 @@ This is the blended series of station SKILLINGE_A, SWEDEN (STAID: 5169)
 Blended and updated with sources:35144 35159 902625 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5169, 35159,19490101,   37,    1
   5169, 35159,19490102,   45,    1
   5169, 35159,19490103,   37,    1

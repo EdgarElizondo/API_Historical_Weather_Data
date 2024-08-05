@@ -18,7 +18,7 @@ This is the blended series of station BERLIN-MITTE, GERMANY (STAID: 4563)
 Blended and updated with sources:11448 21152 27488 27848 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4563, 27488,18760101,   22,    0
   4563, 27488,18760102,   25,    0
   4563, 27488,18760103,    3,    0

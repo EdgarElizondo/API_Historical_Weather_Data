@@ -18,7 +18,7 @@ This is the blended series of station HJARTASEN, NORWAY (STAID: 18177)
 Blended and updated with sources:99329 901150 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18177, 99329,20090209, -158,    0
  18177, 99329,20090210,  -49,    0
  18177, 99329,20090211,  -40,    0

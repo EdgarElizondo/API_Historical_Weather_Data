@@ -18,7 +18,7 @@ This is the blended series of station VINGA, SWEDEN (STAID: 5295)
 Blended and updated with sources:35555 35561 902516 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5295, 35561,18490801,-9999,    9
   5295, 35561,18490802,-9999,    9
   5295, 35561,18490803,-9999,    9

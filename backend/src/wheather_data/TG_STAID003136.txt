@@ -18,7 +18,7 @@ This is the blended series of station KHOROG, TAJIKISTAN (STAID: 3136)
 Blended and updated with sources:17742 938954 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3136, 17742,18980901,  222,    1
   3136, 17742,18980902,  211,    1
   3136, 17742,18980903,  219,    1

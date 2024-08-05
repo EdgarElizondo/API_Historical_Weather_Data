@@ -18,7 +18,7 @@ This is the blended series of station GEILO - STRAND, NORWAY (STAID: 18923)
 Blended and updated with sources:99533 100787 901359 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18923,100787,19511201,  -42,    0
  18923,100787,19511202,  -51,    0
  18923,100787,19511203,  -99,    0

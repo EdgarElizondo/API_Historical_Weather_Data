@@ -18,7 +18,7 @@ This is the blended series of station DUSSELDORF-SUDFRIEDHOF, GERMANY (STAID: 40
 Blended and updated with sources:2270 21440 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4029, 21440,19350101,   80,    0
   4029, 21440,19350102,   64,    0
   4029, 21440,19350103,   62,    0

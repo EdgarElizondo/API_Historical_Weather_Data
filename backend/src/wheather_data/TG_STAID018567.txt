@@ -18,7 +18,7 @@ This is the blended series of station RV7 NESBYEN, NORWAY (STAID: 18567)
 Blended and updated with sources:610 5501 9572 9581 99473 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18567,  9572,19000101,  -28,    0
  18567,  9572,19000102, -195,    0
  18567,  9572,19000103, -126,    0

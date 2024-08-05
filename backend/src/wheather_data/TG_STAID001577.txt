@@ -18,7 +18,7 @@ This is the blended series of station SIMFEROPOL, UKRAINE (STAID: 1577)
 Blended and updated with sources:17507 933946 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1577, 17507,18860601,  203,    1
   1577, 17507,18860602,  213,    1
   1577, 17507,18860603,  213,    1

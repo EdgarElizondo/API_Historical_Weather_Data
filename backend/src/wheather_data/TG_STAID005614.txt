@@ -18,7 +18,7 @@ This is the blended series of station LILLHARDAL, SWEDEN (STAID: 5614)
 Blended and updated with sources:36608 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5614, 36608,19690101, -284,    0
   5614, 36608,19690102,  -87,    0
   5614, 36608,19690103,  -24,    0

@@ -18,7 +18,7 @@ This is the blended series of station JAMSANKOSKI, FINLAND (STAID: 7305)
 Blended and updated with sources:43695 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7305, 43695,19590101,  -25,    0
   7305, 43695,19590102,  -41,    0
   7305, 43695,19590103,  -18,    0

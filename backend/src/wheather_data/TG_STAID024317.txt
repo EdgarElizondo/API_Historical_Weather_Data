@@ -18,7 +18,7 @@ This is the blended series of station ST.VEIT/GLAN, AUSTRIA (STAID: 24317)
 Blended and updated with sources:129730 131394 131407 911231 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24317,131407,19680501,   80,    0
  24317,131407,19680502,  104,    0
  24317,131407,19680503,  136,    0

@@ -18,7 +18,7 @@ This is the blended series of station LOGGERHEADS: COLOMENDY CENTRE, UNITED KING
 Blended and updated with sources:7002 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1808,  7002,19601201,   78,    0
   1808,  7002,19601202,   67,    0
   1808,  7002,19601203,   80,    1

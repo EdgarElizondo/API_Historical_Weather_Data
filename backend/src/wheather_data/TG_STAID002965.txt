@@ -18,7 +18,7 @@ This is the blended series of station SARAPUL, RUSSIAN FEDERATION (STAID: 2965)
 Blended and updated with sources:49823 928418 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2965, 49823,19230101,  -50,    0
   2965, 49823,19230102,  -53,    0
   2965, 49823,19230103,  -57,    0

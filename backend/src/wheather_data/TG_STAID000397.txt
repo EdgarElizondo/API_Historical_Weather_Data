@@ -18,7 +18,7 @@ This is the blended series of station GUMRI, ARMENIA (STAID: 397)
 Blended and updated with sources:17642 937686 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    397, 17642,18950901,  148,    0
    397, 17642,18950902,  150,    0
    397, 17642,18950903,  145,    0

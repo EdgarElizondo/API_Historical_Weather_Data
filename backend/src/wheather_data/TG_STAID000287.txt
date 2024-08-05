@@ -18,7 +18,7 @@ This is the blended series of station KOERICH_1, LUXEMBOURG (STAID: 287)
 Blended and updated with sources:121151 121291 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    287,121151,20050101,-9999,    9
    287,121151,20050102,   37,    0
    287,121151,20050103,   31,    0

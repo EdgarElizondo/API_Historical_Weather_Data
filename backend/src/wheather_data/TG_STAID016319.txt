@@ -18,7 +18,7 @@ This is the blended series of station MONT-ROIG DEL CAMP, SPAIN (STAID: 16319)
 Blended and updated with sources:90618 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  16319, 90618,20180101,  137,    0
  16319, 90618,20180102,  161,    0
  16319, 90618,20180103,  187,    0

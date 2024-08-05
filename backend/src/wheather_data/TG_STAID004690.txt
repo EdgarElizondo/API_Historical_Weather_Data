@@ -18,7 +18,7 @@ This is the blended series of station TRAUNSTEIN-SPARZ, GERMANY (STAID: 4690)
 Blended and updated with sources:22724 29372 29384 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4690, 29372,19360101,   31,    0
   4690, 29372,19360102,   36,    0
   4690, 29372,19360103,   62,    0

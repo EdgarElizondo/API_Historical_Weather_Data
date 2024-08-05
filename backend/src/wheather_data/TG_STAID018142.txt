@@ -18,7 +18,7 @@ This is the blended series of station TROLLEDALSEGGA, NORWAY (STAID: 18142)
 Blended and updated with sources:99222 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18142, 99222,20151006,   56,    0
  18142, 99222,20151007,   52,    0
  18142, 99222,20151008,   45,    0

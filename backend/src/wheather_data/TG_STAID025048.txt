@@ -18,7 +18,7 @@ This is the blended series of station GLODOWO, POLAND (STAID: 25048)
 Blended and updated with sources:139026 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25048,139026,19750101,   24,    0
  25048,139026,19750102,   25,    0
  25048,139026,19750103,   49,    0

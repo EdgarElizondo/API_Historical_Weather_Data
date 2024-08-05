@@ -18,7 +18,7 @@ This is the blended series of station VELIKIJ USTYUG, RUSSIAN FEDERATION (STAID:
 Blended and updated with sources:48368 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1136, 48368,19590101,-9999,    9
   1136, 48368,19590102,-9999,    9
   1136, 48368,19590103,-9999,    9

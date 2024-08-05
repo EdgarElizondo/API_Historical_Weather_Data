@@ -18,7 +18,7 @@ This is the blended series of station BELY'J OSTROV, RUSSIAN FEDERATION (STAID: 
 Blended and updated with sources:47958 920667 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3060, 47958,19340101, -219,    0
   3060, 47958,19340102, -254,    0
   3060, 47958,19340103, -365,    0

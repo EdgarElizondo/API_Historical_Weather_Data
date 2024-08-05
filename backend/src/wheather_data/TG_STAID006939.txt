@@ -18,7 +18,7 @@ This is the blended series of station PARAINEN UTO, FINLAND (STAID: 6939)
 Blended and updated with sources:41808 902981 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6939, 41808,19590101,   23,    0
   6939, 41808,19590102,   17,    0
   6939, 41808,19590103,   27,    0

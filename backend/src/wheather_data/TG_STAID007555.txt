@@ -18,7 +18,7 @@ This is the blended series of station PIELISJARVI, FINLAND (STAID: 7555)
 Blended and updated with sources:44975 44980 902796 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7555, 44975,19590101,  -91,    0
   7555, 44975,19590102, -106,    0
   7555, 44975,19590103,  -80,    0

@@ -18,7 +18,7 @@ This is the blended series of station SALZBURG/LEHRERSEMINAR, AUSTRIA (STAID: 24
 Blended and updated with sources:38 119159 131030 131043 911350 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24418,131030,18740101,  -77,    0
  24418,131030,18740102,   -9,    0
  24418,131030,18740103,   -9,    0

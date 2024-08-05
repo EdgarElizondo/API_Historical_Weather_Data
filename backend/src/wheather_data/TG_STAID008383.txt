@@ -18,7 +18,7 @@ This is the blended series of station NERCHINSKIJ Z-D, RUSSIAN FEDERATION (STAID
 Blended and updated with sources:51073 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8383, 51073,18810101, -280,    0
   8383, 51073,18810102, -282,    0
   8383, 51073,18810103, -286,    0

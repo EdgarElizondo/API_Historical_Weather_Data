@@ -18,7 +18,7 @@ This is the blended series of station KIRS, RUSSIAN FEDERATION (STAID: 2964)
 Blended and updated with sources:49658 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2964, 49658,19590101, -106,    0
   2964, 49658,19590102,  -65,    0
   2964, 49658,19590103, -101,    0

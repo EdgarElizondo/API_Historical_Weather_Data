@@ -18,7 +18,7 @@ This is the blended series of station GUARDIOLA DE BERGUEDA, SPAIN (STAID: 11041
 Blended and updated with sources:56229 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11041, 56229,20080101,  -17,    0
  11041, 56229,20080102,   -7,    0
  11041, 56229,20080103,    5,    0

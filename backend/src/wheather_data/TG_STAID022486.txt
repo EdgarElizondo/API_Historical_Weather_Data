@@ -18,7 +18,7 @@ This is the blended series of station SCHIMPACH, LUXEMBOURG (STAID: 22486)
 Blended and updated with sources:121251 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22486,121251,20120201,-9999,    9
  22486,121251,20120202,-9999,    9
  22486,121251,20120203,-9999,    9

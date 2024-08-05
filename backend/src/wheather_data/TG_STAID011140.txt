@@ -18,7 +18,7 @@ This is the blended series of station ANDENES, NORWAY (STAID: 11140)
 Blended and updated with sources:12082 57206 100880 901010 901018 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11140, 57206,18660101,-9999,    9
  11140, 57206,18660102,-9999,    9
  11140, 57206,18660103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station ELL, NETHERLANDS (STAID: 600)
 Blended and updated with sources:2441 906377 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    600,  2441,19990701,-9999,    9
    600,  2441,19990702,-9999,    9
    600,  2441,19990703,-9999,    9

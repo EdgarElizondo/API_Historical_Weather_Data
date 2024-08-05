@@ -18,7 +18,7 @@ This is the blended series of station BREKKE SLUSE, NORWAY (STAID: 2584)
 Blended and updated with sources:9797 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2584,  9797,19570101,  -36,    0
   2584,  9797,19570102,  -47,    0
   2584,  9797,19570103,  -44,    0

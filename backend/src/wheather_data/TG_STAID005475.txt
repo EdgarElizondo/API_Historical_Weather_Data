@@ -18,7 +18,7 @@ This is the blended series of station BARKARBY, SWEDEN (STAID: 5475)
 Blended and updated with sources:36134 36149 36167 902464 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5475, 36167,19490101,   32,    1
   5475, 36167,19490102,   43,    1
   5475, 36167,19490103,   31,    1

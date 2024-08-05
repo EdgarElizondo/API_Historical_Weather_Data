@@ -18,7 +18,7 @@ This is the blended series of station SPLIT MARJAN, CROATIA (STAID: 1681)
 Blended and updated with sources:5215 914445 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1681,  5215,19480101,   16,    0
   1681,  5215,19480102,   45,    0
   1681,  5215,19480103,   76,    0

@@ -18,7 +18,7 @@ This is the blended series of station DOMBAS - NORDIGARD, NORWAY (STAID: 18194)
 Blended and updated with sources:595 99380 100710 100799 100994 101024 901233 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18194,100994,19000101,  -39,    1
  18194,100994,19000102,  -92,    0
  18194,100994,19000103,  -94,    0

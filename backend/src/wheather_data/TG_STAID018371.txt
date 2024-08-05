@@ -18,7 +18,7 @@ This is the blended series of station E16 BORGUND, NORWAY (STAID: 18371)
 Blended and updated with sources:99113 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18371, 99113,20140101,-9999,    9
  18371, 99113,20140102,-9999,    9
  18371, 99113,20140103,   45,    0

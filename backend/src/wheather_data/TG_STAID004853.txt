@@ -18,7 +18,7 @@ This is the blended series of station GROSSERLACH-MANNENWEILER, GERMANY (STAID: 
 Blended and updated with sources:31328 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4853, 31328,20040601,  124,    0
   4853, 31328,20040602,  122,    0
   4853, 31328,20040603,  131,    0

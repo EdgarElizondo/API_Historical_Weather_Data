@@ -18,7 +18,7 @@ This is the blended series of station AS, NORWAY (STAID: 18015)
 Blended and updated with sources:99207 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18015, 99207,19000101,    4,    1
  18015, 99207,19000102,  -27,    0
  18015, 99207,19000103,  -26,    0

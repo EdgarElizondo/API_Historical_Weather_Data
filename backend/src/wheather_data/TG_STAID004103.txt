@@ -18,7 +18,7 @@ This is the blended series of station BIRX/RHON, GERMANY (STAID: 4103)
 Blended and updated with sources:22328 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4103, 22328,19491001,  107,    0
   4103, 22328,19491002,   76,    0
   4103, 22328,19491003,  105,    0

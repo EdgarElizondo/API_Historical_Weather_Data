@@ -18,7 +18,7 @@ This is the blended series of station NURNBERG-NETZSTALL, GERMANY (STAID: 4479)
 Blended and updated with sources:26840 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4479, 26840,19750101,   31,    0
   4479, 26840,19750102,   40,    0
   4479, 26840,19750103,   10,    0

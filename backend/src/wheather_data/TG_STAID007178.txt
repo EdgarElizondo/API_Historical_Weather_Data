@@ -18,7 +18,7 @@ This is the blended series of station LAPINJARVI INGERMANNINKYLA, FINLAND (STAID
 Blended and updated with sources:43049 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7178, 43049,19590101,    0,    0
   7178, 43049,19590102,   -3,    0
   7178, 43049,19590103,    3,    0

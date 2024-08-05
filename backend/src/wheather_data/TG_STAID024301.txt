@@ -18,7 +18,7 @@ This is the blended series of station ST.JAKOB/DEF., AUSTRIA (STAID: 24301)
 Blended and updated with sources:129509 129522 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24301,129509,19380101, -110,    0
  24301,129509,19380102, -131,    0
  24301,129509,19380103, -133,    0

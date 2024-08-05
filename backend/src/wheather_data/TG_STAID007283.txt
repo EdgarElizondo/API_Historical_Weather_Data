@@ -18,7 +18,7 @@ This is the blended series of station JAMSA HALLI LENTOKENTTA, FINLAND (STAID: 7
 Blended and updated with sources:43584 43689 902945 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7283, 43584,19640401,   -8,    0
   7283, 43584,19640402,  -24,    0
   7283, 43584,19640403,  -21,    0

@@ -18,7 +18,7 @@ This is the blended series of station SLIWICE, POLAND (STAID: 25081)
 Blended and updated with sources:139422 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25081,139422,19510101,  -95,    0
  25081,139422,19510102,  -38,    0
  25081,139422,19510103,  -18,    0

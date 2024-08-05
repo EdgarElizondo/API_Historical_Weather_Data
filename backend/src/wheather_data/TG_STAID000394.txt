@@ -18,7 +18,7 @@ This is the blended series of station KISINEV, MOLDOVA, REPUBLIC OF (STAID: 394)
 Blended and updated with sources:17482 933815 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    394, 17482,19000101,    8,    0
    394, 17482,19000102,   -4,    0
    394, 17482,19000103,    0,    0

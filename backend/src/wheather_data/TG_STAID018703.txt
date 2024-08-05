@@ -18,7 +18,7 @@ This is the blended series of station RV7 SKULEVIKA, NORWAY (STAID: 18703)
 Blended and updated with sources:99714 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18703, 99714,20151101,-9999,    9
  18703, 99714,20151102,-9999,    9
  18703, 99714,20151103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station SUOLOVUOPMI, NORWAY (STAID: 185)
 Blended and updated with sources:9495 9503 901051 901058 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    185,  9495,19061201,-9999,    9
    185,  9495,19061202,-9999,    9
    185,  9495,19061203,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station FORLI_URBANA, ITALY (STAID: 17622)
 Blended and updated with sources:95352 96848 916147 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17622,916147,20051201,   49,    0
  17622,916147,20051202,   46,    0
  17622,916147,20051203,   94,    0

@@ -18,7 +18,7 @@ This is the blended series of station SVABENSVERK, SWEDEN (STAID: 5579)
 Blended and updated with sources:36500 36503 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5579, 36503,19700901,-9999,    9
   5579, 36503,19700902,-9999,    9
   5579, 36503,19700903,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station DEPUTATSKIJ, RUSSIAN FEDERATION (STAID: 80
 Blended and updated with sources:48628 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8094, 48628,19600101,-9999,    9
   8094, 48628,19600102,-9999,    9
   8094, 48628,19600103,-9999,    9

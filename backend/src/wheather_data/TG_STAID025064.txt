@@ -18,7 +18,7 @@ This is the blended series of station SZEPIETOWO, POLAND (STAID: 25064)
 Blended and updated with sources:139218 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25064,139218,19510101,  -60,    0
  25064,139218,19510102,  -25,    0
  25064,139218,19510103,    3,    0

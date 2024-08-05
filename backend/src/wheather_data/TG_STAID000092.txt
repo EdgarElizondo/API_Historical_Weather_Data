@@ -18,7 +18,7 @@ This is the blended series of station PAVELEÑ, RUSSIAN FEDERATION (STAID: 92)
 Blended and updated with sources:357 927823 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     92,   357,19360101,  -18,    0
     92,   357,19360102,    0,    0
     92,   357,19360103,  -43,    0

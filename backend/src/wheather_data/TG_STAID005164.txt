@@ -18,7 +18,7 @@ This is the blended series of station FALSTERBO_A, SWEDEN (STAID: 5164)
 Blended and updated with sources:35126 35129 902616 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5164, 35126,18800101,   11,    1
   5164, 35126,18800102,   36,    1
   5164, 35126,18800103,   33,    1

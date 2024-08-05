@@ -18,7 +18,7 @@ This is the blended series of station A CORUNA/ALVEDRO, SPAIN (STAID: 3903)
 Blended and updated with sources:19715 908002 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3903, 19715,19711201,   97,    0
   3903, 19715,19711202,  105,    0
   3903, 19715,19711203,  100,    0

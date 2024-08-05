@@ -18,7 +18,7 @@ This is the blended series of station KOZANI, GREECE (STAID: 835)
 Blended and updated with sources:55837 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    835, 55837,19980101,-9999,    9
    835, 55837,19980102,   44,    0
    835, 55837,19980103,   41,    0

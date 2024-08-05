@@ -18,7 +18,7 @@ This is the blended series of station SKARKIND, SWEDEN (STAID: 5379)
 Blended and updated with sources:35849 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5379, 35849,19771201,-9999,    9
   5379, 35849,19771202,-9999,    9
   5379, 35849,19771203,-9999,    9

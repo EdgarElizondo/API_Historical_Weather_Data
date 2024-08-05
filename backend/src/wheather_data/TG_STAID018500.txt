@@ -18,7 +18,7 @@ This is the blended series of station FV7 ALVIK AUST, NORWAY (STAID: 18500)
 Blended and updated with sources:99344 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18500, 99344,20151101,-9999,    9
  18500, 99344,20151102,-9999,    9
  18500, 99344,20151103,-9999,    9

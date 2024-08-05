@@ -18,7 +18,7 @@ This is the blended series of station GUMPOLDSKIRCHEN, AUSTRIA (STAID: 24496)
 Blended and updated with sources:124205 130848 132057 911082 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24496,130848,19480501,  139,    0
  24496,130848,19480502,  121,    0
  24496,130848,19480503,  159,    0

@@ -18,7 +18,7 @@ This is the blended series of station BOLOGNA_TORRE_ASINELLI, ITALY (STAID: 1753
 Blended and updated with sources:94376 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17538, 94376,20060501,-9999,    9
  17538, 94376,20060502,-9999,    9
  17538, 94376,20060503,  158,    0

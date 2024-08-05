@@ -18,7 +18,7 @@ This is the blended series of station PASVIK - SVANVIK, NORWAY (STAID: 18022)
 Blended and updated with sources:99387 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18022, 99387,20090101,  -92,    0
  18022, 99387,20090102,  -77,    0
  18022, 99387,20090103,  -63,    0

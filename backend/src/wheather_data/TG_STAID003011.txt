@@ -18,7 +18,7 @@ This is the blended series of station PETROPAVLOVSK, KAZAKHSTAN (STAID: 3011)
 Blended and updated with sources:361 17427 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3011, 17427,18900101,-9999,    9
   3011, 17427,18900102,-9999,    9
   3011, 17427,18900103,-9999,    9

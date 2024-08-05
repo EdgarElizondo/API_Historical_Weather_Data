@@ -18,7 +18,7 @@ This is the blended series of station ANNATURM, GERMANY (STAID: 4155)
 Blended and updated with sources:22952 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4155, 22952,19690501,   60,    0
   4155, 22952,19690502,  108,    0
   4155, 22952,19690503,  132,    0

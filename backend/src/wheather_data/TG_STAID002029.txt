@@ -18,7 +18,7 @@ This is the blended series of station GORZOW WLKP, POLAND (STAID: 2029)
 Blended and updated with sources:6163 912300 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2029,  6163,19510101,  -73,    0
   2029,  6163,19510102,   -7,    0
   2029,  6163,19510103,   -9,    0

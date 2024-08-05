@@ -18,7 +18,7 @@ This is the blended series of station UCHUR, RUSSIAN FEDERATION (STAID: 8397)
 Blended and updated with sources:51143 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8397, 51143,19360101, -452,    0
   8397, 51143,19360102, -516,    0
   8397, 51143,19360103, -524,    0

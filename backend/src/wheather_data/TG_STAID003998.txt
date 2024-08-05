@@ -18,7 +18,7 @@ This is the blended series of station LEUCHTTURM KIEL, GERMANY (STAID: 3998)
 Blended and updated with sources:21068 910044 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3998, 21068,19980101,   54,    0
   3998, 21068,19980102,   60,    0
   3998, 21068,19980103,   64,    0

@@ -18,7 +18,7 @@ This is the blended series of station TOKO, RUSSIAN FEDERATION (STAID: 8403)
 Blended and updated with sources:51173 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8403, 51173,19620101, -456,    0
   8403, 51173,19620102, -413,    0
   8403, 51173,19620103, -319,    0

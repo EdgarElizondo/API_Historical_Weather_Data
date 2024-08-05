@@ -18,7 +18,7 @@ This is the blended series of station SJUSJOEEN - STORASEN, NORWAY (STAID: 19414
 Blended and updated with sources:109235 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19414,109235,20191115,  -41,    0
  19414,109235,20191116,  -33,    0
  19414,109235,20191117,  -34,    0

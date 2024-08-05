@@ -18,7 +18,7 @@ This is the blended series of station LUBECK-BLANKENSEE, GERMANY (STAID: 4372)
 Blended and updated with sources:25544 25556 25568 910156 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4372, 25568,18900101,  -51,    0
   4372, 25568,18900102,  -50,    0
   4372, 25568,18900103,  -20,    0

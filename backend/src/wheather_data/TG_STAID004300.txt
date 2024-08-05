@@ -18,7 +18,7 @@ This is the blended series of station KONIGSMOOR, GERMANY (STAID: 4300)
 Blended and updated with sources:24692 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4300, 24692,19500101,  -16,    0
   4300, 24692,19500102,   30,    0
   4300, 24692,19500103,   38,    0

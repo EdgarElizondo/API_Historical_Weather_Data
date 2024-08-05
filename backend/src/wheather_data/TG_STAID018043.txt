@@ -18,7 +18,7 @@ This is the blended series of station BO, NORWAY (STAID: 18043)
 Blended and updated with sources:10305 99356 901470 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18043, 10305,19970501,  119,    0
  18043, 10305,19970502,  128,    0
  18043, 10305,19970503,   80,    0

@@ -18,7 +18,7 @@ This is the blended series of station ZAVIZAN, CROATIA (STAID: 1687)
 Blended and updated with sources:5225 914324 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1687,  5225,19530101,-9999,    9
   1687,  5225,19530102,-9999,    9
   1687,  5225,19530103,-9999,    9

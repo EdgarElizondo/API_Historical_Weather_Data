@@ -18,7 +18,7 @@ This is the blended series of station HELGOLAND, GERMANY (STAID: 468)
 Blended and updated with sources:2179 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    468,  2179,19520501,  106,    0
    468,  2179,19520502,  102,    0
    468,  2179,19520503,  111,    0

@@ -18,7 +18,7 @@ This is the blended series of station SKINNSKATTEBERG, SWEDEN (STAID: 5508)
 Blended and updated with sources:36251 36269 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5508, 36269,19610101,  -12,    0
   5508, 36269,19610102,  -15,    0
   5508, 36269,19610103,    2,    0

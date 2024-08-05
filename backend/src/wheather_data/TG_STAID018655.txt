@@ -18,7 +18,7 @@ This is the blended series of station RV4 STRYKEN, NORWAY (STAID: 18655)
 Blended and updated with sources:99634 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18655, 99634,20130101,-9999,    9
  18655, 99634,20130102,-9999,    9
  18655, 99634,20130103,-9999,    9

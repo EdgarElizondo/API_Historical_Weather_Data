@@ -18,7 +18,7 @@ This is the blended series of station OTTA - SKANSEN, NORWAY (STAID: 18035)
 Blended and updated with sources:99284 101013 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18035,101013,19700701,  127,    0
  18035,101013,19700702,  133,    0
  18035,101013,19700703,  118,    0

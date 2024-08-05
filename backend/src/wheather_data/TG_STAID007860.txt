@@ -18,7 +18,7 @@ This is the blended series of station INARI KIILOPAA, FINLAND (STAID: 7860)
 Blended and updated with sources:46556 46561 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7860, 46556,19700101,-9999,    9
   7860, 46556,19700102,-9999,    9
   7860, 46556,19700103,-9999,    9

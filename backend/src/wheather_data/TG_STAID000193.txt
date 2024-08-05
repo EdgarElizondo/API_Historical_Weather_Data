@@ -18,7 +18,7 @@ This is the blended series of station OSLO BLINDERN, NORWAY (STAID: 193)
 Blended and updated with sources:601 901492 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    193,   601,19370201,  -65,    0
    193,   601,19370202,  -49,    0
    193,   601,19370203,  -61,    0

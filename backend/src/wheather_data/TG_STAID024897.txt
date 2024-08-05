@@ -18,7 +18,7 @@ This is the blended series of station BUKOWINA TATRZANSKA, POLAND (STAID: 24897)
 Blended and updated with sources:137214 912625 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24897,137214,19910101,   10,    0
  24897,137214,19910102,  -19,    0
  24897,137214,19910103,   54,    0

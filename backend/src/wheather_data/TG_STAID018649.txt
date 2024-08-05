@@ -18,7 +18,7 @@ This is the blended series of station GAUSTATOPPEN, NORWAY (STAID: 18649)
 Blended and updated with sources:99626 901461 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18649, 99626,19340901,    8,    1
  18649, 99626,19340902,   25,    1
  18649, 99626,19340903,    4,    1

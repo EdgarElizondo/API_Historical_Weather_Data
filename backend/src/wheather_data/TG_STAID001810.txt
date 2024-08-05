@@ -18,7 +18,7 @@ This is the blended series of station ABERPORTH, UNITED KINGDOM (STAID: 1810)
 Blended and updated with sources:7004 903502 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1810,  7004,19600101,   92,    0
   1810,  7004,19600102,   69,    0
   1810,  7004,19600103,   89,    0

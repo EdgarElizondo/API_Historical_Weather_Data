@@ -18,7 +18,7 @@ This is the blended series of station MALEXANDER, SWEDEN (STAID: 5333)
 Blended and updated with sources:35690 35705 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5333, 35690,19490101,   26,    1
   5333, 35690,19490102,   35,    1
   5333, 35690,19490103,   33,    1

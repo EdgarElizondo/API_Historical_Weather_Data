@@ -18,7 +18,7 @@ This is the blended series of station STORA_KARLSO, SWEDEN (STAID: 5272)
 Blended and updated with sources:35480 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5272, 35480,19610101,   15,    0
   5272, 35480,19610102,   23,    0
   5272, 35480,19610103,   17,    0

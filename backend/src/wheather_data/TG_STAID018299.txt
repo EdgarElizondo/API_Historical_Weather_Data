@@ -18,7 +18,7 @@ This is the blended series of station FISTER - SIGMUNDSTAD, NORWAY (STAID: 18299
 Blended and updated with sources:99227 99657 100801 901423 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18299,100801,19920601,  185,    0
  18299,100801,19920602,  209,    0
  18299,100801,19920603,  222,    0

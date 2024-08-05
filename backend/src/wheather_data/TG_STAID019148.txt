@@ -18,7 +18,7 @@ This is the blended series of station SANDSA, NORWAY (STAID: 19148)
 Blended and updated with sources:99677 100733 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19148,100733,19750601,-9999,    9
  19148,100733,19750602,-9999,    9
  19148,100733,19750603,-9999,    9

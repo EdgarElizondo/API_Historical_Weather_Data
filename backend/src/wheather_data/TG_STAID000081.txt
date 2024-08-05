@@ -18,7 +18,7 @@ This is the blended series of station KOJNAS, RUSSIAN FEDERATION (STAID: 81)
 Blended and updated with sources:313 922583 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     81,   313,19120101,-9999,    9
     81,   313,19120102,-9999,    9
     81,   313,19120103,-9999,    9

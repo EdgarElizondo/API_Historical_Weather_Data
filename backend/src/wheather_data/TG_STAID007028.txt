@@ -18,7 +18,7 @@ This is the blended series of station TUUSULA HYRYLA, FINLAND (STAID: 7028)
 Blended and updated with sources:42078 42259 42269 42274 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7028, 42269,19590101,    3,    0
   7028, 42269,19590102,   -4,    0
   7028, 42269,19590103,    2,    0

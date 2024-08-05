@@ -18,7 +18,7 @@ This is the blended series of station ASKHAM BRYAN, UNITED KINGDOM (STAID: 1632)
 Blended and updated with sources:6935 903355 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1632,  6935,20010101,   36,    0
   1632,  6935,20010102,   48,    0
   1632,  6935,20010103,   40,    0

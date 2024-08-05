@@ -18,7 +18,7 @@ This is the blended series of station REINDALSPASSET, NORWAY (STAID: 20056)
 Blended and updated with sources:105986 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20056,105986,20190928,  -59,    1
  20056,105986,20190929,  -23,    0
  20056,105986,20190930,  -16,    0

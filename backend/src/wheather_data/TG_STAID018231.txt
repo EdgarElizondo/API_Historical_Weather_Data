@@ -18,7 +18,7 @@ This is the blended series of station TAGDALEN, NORWAY (STAID: 18231)
 Blended and updated with sources:99470 901221 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18231, 99470,20071122,  -10,    0
  18231, 99470,20071123,  -32,    0
  18231, 99470,20071124,   -5,    0

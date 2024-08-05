@@ -18,7 +18,7 @@ This is the blended series of station ANESTOELEN, NORWAY (STAID: 20322)
 Blended and updated with sources:108984 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20322,108984,20191024,   80,    0
  20322,108984,20191025,   43,    0
  20322,108984,20191026,   18,    0

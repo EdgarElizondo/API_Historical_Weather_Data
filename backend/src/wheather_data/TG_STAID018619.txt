@@ -18,7 +18,7 @@ This is the blended series of station E10 TJELDSUND BRU, NORWAY (STAID: 18619)
 Blended and updated with sources:99575 100831 101028 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18619,101028,19570301,   13,    0
  18619,101028,19570302,   36,    0
  18619,101028,19570303,   33,    0

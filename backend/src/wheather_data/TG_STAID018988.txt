@@ -18,7 +18,7 @@ This is the blended series of station FLUBERG - ROEEN, NORWAY (STAID: 18988)
 Blended and updated with sources:100863 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18988,100863,19570101,  -76,    0
  18988,100863,19570102, -103,    0
  18988,100863,19570103, -139,    0

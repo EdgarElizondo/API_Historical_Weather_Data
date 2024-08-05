@@ -18,7 +18,7 @@ This is the blended series of station BAD SUDERODE, GERMANY (STAID: 11772)
 Blended and updated with sources:81284 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11772, 81284,19470101,  -59,    0
  11772, 81284,19470102,   -7,    0
  11772, 81284,19470103,  -33,    0

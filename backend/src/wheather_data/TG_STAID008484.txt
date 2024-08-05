@@ -18,7 +18,7 @@ This is the blended series of station POGRANICHNOE, RUSSIAN FEDERATION (STAID: 8
 Blended and updated with sources:51578 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8484, 51578,19360101, -252,    0
   8484, 51578,19360102, -264,    0
   8484, 51578,19360103, -241,    0

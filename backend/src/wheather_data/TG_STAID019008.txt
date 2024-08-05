@@ -18,7 +18,7 @@ This is the blended series of station KLETKOVFJELL, NORWAY (STAID: 19008)
 Blended and updated with sources:100888 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19008,100888,19580601,   62,    0
  19008,100888,19580602,   38,    0
  19008,100888,19580603,   21,    0

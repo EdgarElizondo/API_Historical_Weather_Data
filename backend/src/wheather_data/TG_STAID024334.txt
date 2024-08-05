@@ -18,7 +18,7 @@ This is the blended series of station VILLACHER ALPE, AUSTRIA (STAID: 24334)
 Blended and updated with sources:129951 129964 911265 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24334,129951,19211101,  -14,    0
  24334,129951,19211102,  -23,    0
  24334,129951,19211103,  -32,    0

@@ -18,7 +18,7 @@ This is the blended series of station NEUSIEDL AM SEE, AUSTRIA (STAID: 24719)
 Blended and updated with sources:126766 134943 911072 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24719,134943,19360101,   77,    0
  24719,134943,19360102,   59,    0
  24719,134943,19360103,   62,    0

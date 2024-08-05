@@ -18,7 +18,7 @@ This is the blended series of station VEGGLI II, NORWAY (STAID: 18298)
 Blended and updated with sources:99656 901471 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18298, 99656,20060705,  209,    0
  18298, 99656,20060706,  208,    0
  18298, 99656,20060707,  214,    0

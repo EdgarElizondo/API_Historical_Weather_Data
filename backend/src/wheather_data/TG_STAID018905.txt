@@ -18,7 +18,7 @@ This is the blended series of station SULDAL - MO, NORWAY (STAID: 18905)
 Blended and updated with sources:100772 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18905,100772,19741101,    6,    0
  18905,100772,19741102,   -1,    0
  18905,100772,19741103,   -7,    0

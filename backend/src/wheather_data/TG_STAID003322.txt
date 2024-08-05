@@ -18,7 +18,7 @@ This is the blended series of station NOVA VAS NA BLOKAH, SLOVENIA (STAID: 3322)
 Blended and updated with sources:15068 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3322, 15068,19610101,  -19,    0
   3322, 15068,19610102,    4,    0
   3322, 15068,19610103,   47,    0

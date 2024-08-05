@@ -18,7 +18,7 @@ This is the blended series of station OVERHALLA-SKOGMO, NORWAY (STAID: 18006)
 Blended and updated with sources:99080 100582 901295 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18006,901295,19981201,-9999,    9
  18006,901295,19981202,-9999,    9
  18006,901295,19981203,-9999,    9

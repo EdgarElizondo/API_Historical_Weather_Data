@@ -18,7 +18,7 @@ This is the blended series of station MUENCHEN-FLUGHAFEN, GERMANY (STAID: 2764)
 Blended and updated with sources:11527 28628 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2764, 28628,19700401,   26,    0
   2764, 28628,19700402,   11,    0
   2764, 28628,19700403,   -6,    0

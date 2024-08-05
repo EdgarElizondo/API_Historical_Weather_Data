@@ -18,7 +18,7 @@ This is the blended series of station IASI, ROMANIA (STAID: 951)
 Blended and updated with sources:7511 915090 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    951,  7511,19610101,   16,    0
    951,  7511,19610102,   -2,    0
    951,  7511,19610103,   23,    0

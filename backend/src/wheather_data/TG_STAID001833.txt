@@ -18,7 +18,7 @@ This is the blended series of station DUNBAR, UNITED KINGDOM (STAID: 1833)
 Blended and updated with sources:7027 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1833,  7027,19600101,   72,    1
   1833,  7027,19600102,   34,    0
   1833,  7027,19600103,   62,    0

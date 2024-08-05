@@ -18,7 +18,7 @@ This is the blended series of station KUSTANAI, KAZAKHSTAN (STAID: 3015)
 Blended and updated with sources:17432 928952 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3015, 17432,19020101,-9999,    9
   3015, 17432,19020102,-9999,    9
   3015, 17432,19020103,-9999,    9

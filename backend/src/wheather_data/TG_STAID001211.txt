@@ -18,7 +18,7 @@ This is the blended series of station JOSHKAR-OLA, RUSSIAN FEDERATION (STAID: 12
 Blended and updated with sources:49373 927485 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1211, 49373,19360101,  -30,    0
   1211, 49373,19360102,   -7,    0
   1211, 49373,19360103,   -6,    0

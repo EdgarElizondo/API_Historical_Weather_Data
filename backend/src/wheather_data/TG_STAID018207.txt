@@ -18,7 +18,7 @@ This is the blended series of station MERAKER - VARDETUN, NORWAY (STAID: 18207)
 Blended and updated with sources:99413 100690 901293 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18207,100690,19741101,    4,    0
  18207,100690,19741102,  -16,    0
  18207,100690,19741103,  -33,    0

@@ -18,7 +18,7 @@ This is the blended series of station SMOLENSK, RUSSIAN FEDERATION (STAID: 97)
 Blended and updated with sources:377 926781 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     97,   377,19440101,  -45,    0
     97,   377,19440102,  -52,    0
     97,   377,19440103,  -15,    0

@@ -18,7 +18,7 @@ This is the blended series of station JARKVISSLE, SWEDEN (STAID: 5650)
 Blended and updated with sources:36728 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5650, 36728,19711101,   13,    0
   5650, 36728,19711102,   33,    0
   5650, 36728,19711103,   71,    0

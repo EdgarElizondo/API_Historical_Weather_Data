@@ -18,7 +18,7 @@ This is the blended series of station BYKLE - KULTRAN, NORWAY (STAID: 4995)
 Blended and updated with sources:33040 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4995, 33040,20211101,-9999,    9
   4995, 33040,20211102,-9999,    9
   4995, 33040,20211103,-9999,    9

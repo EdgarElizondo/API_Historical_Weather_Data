@@ -18,7 +18,7 @@ This is the blended series of station MALMO A, SWEDEN (STAID: 3509)
 Blended and updated with sources:35162 35165 35171 902635 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3509, 35171,19170301,-9999,    9
   3509, 35171,19170302,-9999,    9
   3509, 35171,19170303,-9999,    9

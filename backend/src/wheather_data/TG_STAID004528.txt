@@ -18,7 +18,7 @@ This is the blended series of station PRIEN-STOCK, GERMANY (STAID: 4528)
 Blended and updated with sources:27428 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4528, 27428,19460101,  -57,    0
   4528, 27428,19460102,  -63,    0
   4528, 27428,19460103,  -89,    0

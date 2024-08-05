@@ -18,7 +18,7 @@ This is the blended series of station BLAGOVESÑENSK, RUSSIAN FEDERATION (STAI
 Blended and updated with sources:17251 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3260, 17251,18810101, -227,    0
   3260, 17251,18810102, -196,    0
   3260, 17251,18810103, -212,    0

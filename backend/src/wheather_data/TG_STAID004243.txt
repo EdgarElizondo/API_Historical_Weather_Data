@@ -18,7 +18,7 @@ This is the blended series of station HOLZMINDEN-SILBERBORN, GERMANY (STAID: 424
 Blended and updated with sources:24008 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4243, 24008,19750601,   60,    0
   4243, 24008,19750602,   78,    0
   4243, 24008,19750603,   59,    0

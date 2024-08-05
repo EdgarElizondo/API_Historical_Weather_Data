@@ -18,7 +18,7 @@ This is the blended series of station KILSBERGEN-SUTTARBODA A, SWEDEN (STAID: 35
 Blended and updated with sources:36107 902452 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3517, 36107,19950801,  217,    0
   3517, 36107,19950802,  215,    0
   3517, 36107,19950803,  184,    0

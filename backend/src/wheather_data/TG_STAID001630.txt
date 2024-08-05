@@ -18,7 +18,7 @@ This is the blended series of station MYLNEFIELD, UNITED KINGDOM (STAID: 1630)
 Blended and updated with sources:6933 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1630,  6933,20010101,   23,    0
   1630,  6933,20010102,   55,    0
   1630,  6933,20010103,   34,    0

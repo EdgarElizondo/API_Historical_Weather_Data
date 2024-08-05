@@ -18,7 +18,7 @@ This is the blended series of station DAS-AERODROM, SPAIN (STAID: 11030)
 Blended and updated with sources:56130 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11030, 56130,20080101,  -35,    0
  11030, 56130,20080102,  -26,    0
  11030, 56130,20080103,   -3,    0

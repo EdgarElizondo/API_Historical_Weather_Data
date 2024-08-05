@@ -18,7 +18,7 @@ This is the blended series of station BRUCK/MUR, AUSTRIA (STAID: 24677)
 Blended and updated with sources:134397 911175 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24677,134397,18950101,-9999,    9
  24677,134397,18950102,-9999,    9
  24677,134397,18950103,-9999,    9

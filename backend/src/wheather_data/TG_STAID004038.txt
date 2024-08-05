@@ -18,7 +18,7 @@ This is the blended series of station EGGEBEK, GERMANY (STAID: 4038)
 Blended and updated with sources:21548 910034 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4038, 21548,19720401,-9999,    9
   4038, 21548,19720402,-9999,    9
   4038, 21548,19720403,-9999,    9

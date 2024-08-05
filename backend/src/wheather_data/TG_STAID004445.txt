@@ -18,7 +18,7 @@ This is the blended series of station NEUBURG/KAMMEL-LANGENHASLACH, GERMANY (STA
 Blended and updated with sources:26432 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4445, 26432,19910601,  157,    0
   4445, 26432,19910602,  148,    0
   4445, 26432,19910603,  118,    0

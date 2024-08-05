@@ -18,7 +18,7 @@ This is the blended series of station MODALEN II, NORWAY (STAID: 18819)
 Blended and updated with sources:99348 100673 100957 901325 901326 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18819,100957,19450101,-9999,    9
  18819,100957,19450102,-9999,    9
  18819,100957,19450103,-9999,    9

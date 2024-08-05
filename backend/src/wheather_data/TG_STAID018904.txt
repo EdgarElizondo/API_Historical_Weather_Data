@@ -18,7 +18,7 @@ This is the blended series of station BYGDOEY, NORWAY (STAID: 18904)
 Blended and updated with sources:99234 99298 99424 99451 99691 100736 100771 100898 100944 101020 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18904,100898,19000101,   16,    0
  18904,100898,19000102,  -28,    0
  18904,100898,19000103,  -18,    0

@@ -18,7 +18,7 @@ This is the blended series of station ETNEDAL - KLEIVGARDSOEYI, NORWAY (STAID: 1
 Blended and updated with sources:100623 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19131,100623,19781001,-9999,    9
  19131,100623,19781002,-9999,    9
  19131,100623,19781003,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station MORA_A, SWEDEN (STAID: 5575)
 Blended and updated with sources:36485 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5575, 36485,19490101,    6,    1
   5575, 36485,19490102,   18,    1
   5575, 36485,19490103,   18,    1

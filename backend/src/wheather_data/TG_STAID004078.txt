@@ -18,7 +18,7 @@ This is the blended series of station ALTGLASHUTTE, GERMANY (STAID: 4078)
 Blended and updated with sources:22028 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4078, 22028,19531201,-9999,    9
   4078, 22028,19531202,-9999,    9
   4078, 22028,19531203,-9999,    9

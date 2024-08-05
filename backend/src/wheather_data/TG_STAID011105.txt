@@ -18,7 +18,7 @@ This is the blended series of station LACOCK, UNITED KINGDOM (STAID: 11105)
 Blended and updated with sources:56855 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11105, 56855,20130101,   51,    0
  11105, 56855,20130102,   73,    0
  11105, 56855,20130103,   78,    0

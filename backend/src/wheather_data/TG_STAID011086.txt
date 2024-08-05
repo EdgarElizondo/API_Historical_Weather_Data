@@ -18,7 +18,7 @@ This is the blended series of station VILANOVA DE MEIA, SPAIN (STAID: 11086)
 Blended and updated with sources:56634 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11086, 56634,20080101,  -15,    0
  11086, 56634,20080102,    9,    0
  11086, 56634,20080103,   35,    0

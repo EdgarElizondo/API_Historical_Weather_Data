@@ -18,7 +18,7 @@ This is the blended series of station ZAMOSC, POLAND (STAID: 25136)
 Blended and updated with sources:140082 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25136,140082,19510101,  -30,    0
  25136,140082,19510102,  -22,    0
  25136,140082,19510103,   -2,    0

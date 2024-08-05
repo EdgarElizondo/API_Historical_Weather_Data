@@ -18,7 +18,7 @@ This is the blended series of station SANDHAMN, SWEDEN (STAID: 5457)
 Blended and updated with sources:36098 36101 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5457, 36098,19651201,   19,    0
   5457, 36098,19651202,  -24,    0
   5457, 36098,19651203,    3,    0

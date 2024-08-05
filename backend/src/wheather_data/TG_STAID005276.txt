@@ -18,7 +18,7 @@ This is the blended series of station ALLGUNNEN, SWEDEN (STAID: 5276)
 Blended and updated with sources:35504 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5276, 35504,19500101,  -13,    1
   5276, 35504,19500102,   22,    1
   5276, 35504,19500103,  -10,    1

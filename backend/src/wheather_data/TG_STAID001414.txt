@@ -18,7 +18,7 @@ This is the blended series of station SVENSKA HOGARNA, SWEDEN (STAID: 1414)
 Blended and updated with sources:36173 36176 902496 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1414, 36176,18791101,   50,    1
   1414, 36176,18791102,   37,    1
   1414, 36176,18791103,   14,    1

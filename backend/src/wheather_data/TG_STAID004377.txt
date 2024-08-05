@@ -18,7 +18,7 @@ This is the blended series of station LUDINGHAUSEN, GERMANY (STAID: 4377)
 Blended and updated with sources:25616 31520 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4377, 25616,19500101,   -3,    0
   4377, 25616,19500102,   38,    0
   4377, 25616,19500103,   54,    0

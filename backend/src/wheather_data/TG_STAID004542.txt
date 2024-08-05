@@ -18,7 +18,7 @@ This is the blended series of station RASTENBERG, GERMANY (STAID: 4542)
 Blended and updated with sources:27596 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4542, 27596,19470101, -131,    0
   4542, 27596,19470102,  -34,    0
   4542, 27596,19470103,  -64,    0

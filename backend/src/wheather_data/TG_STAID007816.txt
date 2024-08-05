@@ -18,7 +18,7 @@ This is the blended series of station KEMIJARVI LENTOKENTTA, FINLAND (STAID: 781
 Blended and updated with sources:46331 902814 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7816, 46331,20060501,-9999,    9
   7816, 46331,20060502,-9999,    9
   7816, 46331,20060503,-9999,    9

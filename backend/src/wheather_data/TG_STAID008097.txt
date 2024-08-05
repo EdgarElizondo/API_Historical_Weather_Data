@@ -18,7 +18,7 @@ This is the blended series of station DZHARDZHAN, RUSSIAN FEDERATION (STAID: 809
 Blended and updated with sources:48643 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8097, 48643,19370101,-9999,    9
   8097, 48643,19370102,-9999,    9
   8097, 48643,19370103,-9999,    9

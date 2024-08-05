@@ -18,7 +18,7 @@ This is the blended series of station FROLOVO, RUSSIAN FEDERATION (STAID: 1303)
 Blended and updated with sources:51913 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1303, 51913,19360101,  -38,    0
   1303, 51913,19360102,  -39,    0
   1303, 51913,19360103, -105,    0

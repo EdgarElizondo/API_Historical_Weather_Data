@@ -18,7 +18,7 @@ This is the blended series of station OXELOSUND, SWEDEN (STAID: 5402)
 Blended and updated with sources:35918 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5402, 35918,19610101,   -2,    0
   5402, 35918,19610102,    7,    0
   5402, 35918,19610103,   20,    0

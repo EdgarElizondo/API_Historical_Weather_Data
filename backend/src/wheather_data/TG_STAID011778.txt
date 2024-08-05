@@ -18,7 +18,7 @@ This is the blended series of station BALINGEN-BRONNHAUPTEN, GERMANY (STAID: 117
 Blended and updated with sources:81350 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11778, 81350,20081201,    1,    0
  11778, 81350,20081202,    4,    0
  11778, 81350,20081203,   11,    0

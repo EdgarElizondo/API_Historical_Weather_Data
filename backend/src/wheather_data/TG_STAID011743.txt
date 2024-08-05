@@ -18,7 +18,7 @@ This is the blended series of station DOEBELN, GERMANY (STAID: 11743)
 Blended and updated with sources:80965 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11743, 80965,19470101,  -58,    0
  11743, 80965,19470102,  -37,    0
  11743, 80965,19470103,  -41,    0

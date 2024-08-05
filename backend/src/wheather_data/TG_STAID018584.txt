@@ -18,7 +18,7 @@ This is the blended series of station STORGAMA, NORWAY (STAID: 18584)
 Blended and updated with sources:99502 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18584, 99502,20120101,-9999,    9
  18584, 99502,20120102,-9999,    9
  18584, 99502,20120103,-9999,    9

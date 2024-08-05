@@ -18,7 +18,7 @@ This is the blended series of station MAJAVATN III, NORWAY (STAID: 18818)
 Blended and updated with sources:99400 99625 100672 100849 101026 901134 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18818,101026,19350601,-9999,    9
  18818,101026,19350602,-9999,    9
  18818,101026,19350603,-9999,    9

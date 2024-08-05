@@ -18,7 +18,7 @@ This is the blended series of station HEIDELBERG-GRENZHOF, GERMANY (STAID: 4203)
 Blended and updated with sources:21236 23504 23528 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4203, 23504,19350101,   67,    0
   4203, 23504,19350102,   52,    0
   4203, 23504,19350103,   47,    0

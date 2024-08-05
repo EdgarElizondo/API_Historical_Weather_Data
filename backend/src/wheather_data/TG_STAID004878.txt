@@ -18,7 +18,7 @@ This is the blended series of station HAGENBUCHACH, GERMANY (STAID: 4878)
 Blended and updated with sources:31484 31628 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4878, 31628,19490101,   23,    0
   4878, 31628,19490102,   21,    0
   4878, 31628,19490103,   12,    0

@@ -18,7 +18,7 @@ This is the blended series of station NJORD A, NORWAY (STAID: 19170)
 Blended and updated with sources:100868 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19170,100868,20140801,-9999,    9
  19170,100868,20140802,-9999,    9
  19170,100868,20140803,-9999,    9

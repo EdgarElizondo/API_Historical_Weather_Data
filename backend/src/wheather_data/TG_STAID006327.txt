@@ -18,7 +18,7 @@ This is the blended series of station SUTTERTJARN, SWEDEN (STAID: 6327)
 Blended and updated with sources:66348 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6327, 66348,19490930,   85,    1
   6327, 66348,19491001,   83,    1
   6327, 66348,19491002,   77,    1

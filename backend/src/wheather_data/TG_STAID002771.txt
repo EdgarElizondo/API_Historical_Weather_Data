@@ -18,7 +18,7 @@ This is the blended series of station BAISO, ITALY (STAID: 2771)
 Blended and updated with sources:94168 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2771, 94168,20051201,-9999,    9
   2771, 94168,20051202,-9999,    9
   2771, 94168,20051203,-9999,    9

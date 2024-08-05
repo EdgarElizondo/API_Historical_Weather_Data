@@ -18,7 +18,7 @@ This is the blended series of station SCHMALKALDEN, GERMANY (STAID: 4613)
 Blended and updated with sources:28448 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4613, 28448,20050201,    6,    0
   4613, 28448,20050202,   15,    0
   4613, 28448,20050203,   20,    0

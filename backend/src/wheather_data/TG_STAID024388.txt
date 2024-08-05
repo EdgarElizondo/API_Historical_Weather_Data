@@ -18,7 +18,7 @@ This is the blended series of station STOCKERAU, AUSTRIA (STAID: 24388)
 Blended and updated with sources:130653 911027 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24388,130653,19970601,   85,    0
  24388,130653,19970602,  115,    0
  24388,130653,19970603,  143,    0

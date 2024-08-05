@@ -18,7 +18,7 @@ This is the blended series of station MOLDE - HINDALSROERA, NORWAY (STAID: 18225
 Blended and updated with sources:99454 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18225, 99454,20161103,   -5,    0
  18225, 99454,20161104,  -10,    0
  18225, 99454,20161105,    5,    0

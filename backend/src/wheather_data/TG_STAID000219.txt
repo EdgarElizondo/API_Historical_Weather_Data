@@ -18,7 +18,7 @@ This is the blended series of station BUCURESTI-BANEASA, ROMANIA (STAID: 219)
 Blended and updated with sources:7503 915420 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    219,  7503,19610101,   36,    0
    219,  7503,19610102,   29,    0
    219,  7503,19610103,   26,    0

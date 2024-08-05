@@ -18,7 +18,7 @@ This is the blended series of station BRAEMAR, UNITED KINGDOM (STAID: 1818)
 Blended and updated with sources:7012 15808 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1818,  7012,19600101,   36,    0
   1818,  7012,19600102,  -22,    0
   1818,  7012,19600103,    2,    0

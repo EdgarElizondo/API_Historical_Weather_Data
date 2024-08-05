@@ -18,7 +18,7 @@ This is the blended series of station ALAJARVI MOKSY, FINLAND (STAID: 7470)
 Blended and updated with sources:44540 902787 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7470, 44540,19960601,-9999,    9
   7470, 44540,19960602,-9999,    9
   7470, 44540,19960603,-9999,    9

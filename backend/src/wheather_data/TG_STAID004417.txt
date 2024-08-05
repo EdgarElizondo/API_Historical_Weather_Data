@@ -18,7 +18,7 @@ This is the blended series of station MITTEL-GRUNDAU, GERMANY (STAID: 4417)
 Blended and updated with sources:26096 32396 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4417, 32396,19470101,  -18,    0
   4417, 32396,19470102,    2,    0
   4417, 32396,19470103,   -5,    0

@@ -18,7 +18,7 @@ This is the blended series of station HURGUADA, EGYPT (STAID: 319)
 Blended and updated with sources:1089 962463 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    319,  1089,19940101,  218,    0
    319,  1089,19940102,  185,    0
    319,  1089,19940103,  176,    0

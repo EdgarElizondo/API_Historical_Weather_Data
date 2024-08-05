@@ -18,7 +18,7 @@ This is the blended series of station MARKARYD, SWEDEN (STAID: 5217)
 Blended and updated with sources:35303 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5217, 35303,19720601,   90,    0
   5217, 35303,19720602,  101,    0
   5217, 35303,19720603,  100,    0

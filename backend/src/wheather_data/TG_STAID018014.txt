@@ -18,7 +18,7 @@ This is the blended series of station GJENGEDAL - DALHEIM, NORWAY (STAID: 18014)
 Blended and updated with sources:100638 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18014,100638,19890701,-9999,    9
  18014,100638,19890702,-9999,    9
  18014,100638,19890703,-9999,    9

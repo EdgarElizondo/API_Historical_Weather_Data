@@ -18,7 +18,7 @@ This is the blended series of station RV3 EVENSTAD, NORWAY (STAID: 21767)
 Blended and updated with sources:99075 100758 100856 118119 901383 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21767,100856,19710701,  141,    0
  21767,100856,19710702,  189,    0
  21767,100856,19710703,  201,    0

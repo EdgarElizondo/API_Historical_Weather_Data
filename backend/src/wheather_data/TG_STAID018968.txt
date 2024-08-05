@@ -18,7 +18,7 @@ This is the blended series of station OPPDAL - BJOERKE, NORWAY (STAID: 18968)
 Blended and updated with sources:99237 100840 901245 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18968,100840,19751201,   -3,    0
  18968,100840,19751202,  -14,    0
  18968,100840,19751203,  -32,    0

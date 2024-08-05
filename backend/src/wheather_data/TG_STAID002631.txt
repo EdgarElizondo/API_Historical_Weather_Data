@@ -18,7 +18,7 @@ This is the blended series of station SOKNA II, NORWAY (STAID: 2631)
 Blended and updated with sources:10224 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2631, 10224,20151201,-9999,    9
   2631, 10224,20151202,-9999,    9
   2631, 10224,20151203,-9999,    9

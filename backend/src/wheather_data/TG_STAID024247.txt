@@ -18,7 +18,7 @@ This is the blended series of station SONNBLICK, AUSTRIA (STAID: 24247)
 Blended and updated with sources:40 119158 128833 136607 911343 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24247,136607,18860101,-9999,    9
  24247,136607,18860102,-9999,    9
  24247,136607,18860103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station LIEDEKERKE_P, BELGIUM (STAID: 20777)
 Blended and updated with sources:118286 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20777,118286,20201001,  142,    0
  20777,118286,20201002,  120,    0
  20777,118286,20201003,  128,    0

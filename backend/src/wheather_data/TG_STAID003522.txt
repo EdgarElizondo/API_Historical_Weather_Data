@@ -18,7 +18,7 @@ This is the blended series of station FILMS KYRKBY A, SWEDEN (STAID: 3522)
 Blended and updated with sources:36356 36359 36362 902456 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3522, 36356,19630301,  -22,    1
   3522, 36356,19630302,  -35,    1
   3522, 36356,19630303,   32,    1

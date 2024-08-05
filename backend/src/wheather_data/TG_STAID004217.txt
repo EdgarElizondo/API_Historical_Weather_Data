@@ -18,7 +18,7 @@ This is the blended series of station BAD HERSFELD, GERMANY (STAID: 4217)
 Blended and updated with sources:23696 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4217, 23696,19490101,   45,    0
   4217, 23696,19490102,   32,    0
   4217, 23696,19490103,   23,    0

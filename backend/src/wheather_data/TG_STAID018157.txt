@@ -18,7 +18,7 @@ This is the blended series of station KVITFJELL, NORWAY (STAID: 18157)
 Blended and updated with sources:99270 901375 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18157, 99270,19920901,-9999,    9
  18157, 99270,19920902,-9999,    9
  18157, 99270,19920903,-9999,    9

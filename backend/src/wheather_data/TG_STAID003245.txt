@@ -18,7 +18,7 @@ This is the blended series of station IRKUTSK OBSERV., RUSSIAN FEDERATION (STAID
 Blended and updated with sources:17176 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3245, 17176,18820101,  -94,    0
   3245, 17176,18820102,  -90,    0
   3245, 17176,18820103, -108,    0

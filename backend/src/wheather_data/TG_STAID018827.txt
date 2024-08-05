@@ -18,7 +18,7 @@ This is the blended series of station DOVRE II, NORWAY (STAID: 18827)
 Blended and updated with sources:99718 100683 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18827,100683,19180601,   30,    0
  18827,100683,19180602,   57,    0
  18827,100683,19180603,   65,    0

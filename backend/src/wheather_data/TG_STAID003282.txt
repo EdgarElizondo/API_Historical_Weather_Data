@@ -18,7 +18,7 @@ This is the blended series of station KARSAKPAJ, KAZAKHSTAN (STAID: 3282)
 Blended and updated with sources:17582 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3282, 17582,19260101,-9999,    9
   3282, 17582,19260102,-9999,    9
   3282, 17582,19260103,-9999,    9

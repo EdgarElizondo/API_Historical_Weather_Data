@@ -18,7 +18,7 @@ This is the blended series of station DIGA DI QUARTO, ITALY (STAID: 2808)
 Blended and updated with sources:95168 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2808, 95168,20180401,-9999,    9
   2808, 95168,20180402,-9999,    9
   2808, 95168,20180403,-9999,    9

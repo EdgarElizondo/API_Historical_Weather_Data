@@ -18,7 +18,7 @@ This is the blended series of station TORP, NORWAY (STAID: 5161)
 Blended and updated with sources:35032 99142 99373 100852 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5161,100852,19570101,  -38,    0
   5161,100852,19570102,  -65,    0
   5161,100852,19570103,  -64,    0

@@ -18,7 +18,7 @@ This is the blended series of station OBERVIECHTACH, GERMANY (STAID: 4488)
 Blended and updated with sources:26948 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4488, 26948,19481001,   86,    0
   4488, 26948,19481002,   89,    0
   4488, 26948,19481003,  137,    0

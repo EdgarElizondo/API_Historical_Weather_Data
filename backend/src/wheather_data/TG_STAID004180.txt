@@ -18,7 +18,7 @@ This is the blended series of station HAMBURG-BOTANISCHER GARTEN, GERMANY (STAID
 Blended and updated with sources:11417 23252 23300 81383 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4180, 81383,18910101, -107,    0
   4180, 81383,18910102,  -76,    0
   4180, 81383,18910103, -103,    0

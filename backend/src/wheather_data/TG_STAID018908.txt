@@ -18,7 +18,7 @@ This is the blended series of station TONSTAD, NORWAY (STAID: 18908)
 Blended and updated with sources:34996 100774 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18908,100774,19570101,  -16,    0
  18908,100774,19570102,  -43,    0
  18908,100774,19570103,  -16,    0

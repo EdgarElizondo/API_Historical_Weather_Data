@@ -18,7 +18,7 @@ This is the blended series of station KNIN, CROATIA (STAID: 10901)
 Blended and updated with sources:55165 914442 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  10901, 55165,18580101,-9999,    9
  10901, 55165,18580102,-9999,    9
  10901, 55165,18580103,-9999,    9

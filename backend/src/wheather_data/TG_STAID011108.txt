@@ -18,7 +18,7 @@ This is the blended series of station MORECAMBE NO 2, UNITED KINGDOM (STAID: 111
 Blended and updated with sources:56867 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11108, 56867,20130101,   65,    0
  11108, 56867,20130102,   77,    0
  11108, 56867,20130103,   80,    0

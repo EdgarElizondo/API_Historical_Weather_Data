@@ -18,7 +18,7 @@ This is the blended series of station STORLIEN-STORVALLEN A, SWEDEN (STAID: 1120
 Blended and updated with sources:36803 36809 71336 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11209, 36809,18780101,-9999,    9
  11209, 36809,18780102,-9999,    9
  11209, 36809,18780103,-9999,    9

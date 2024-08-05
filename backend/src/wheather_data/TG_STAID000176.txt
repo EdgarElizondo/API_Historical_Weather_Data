@@ -18,7 +18,7 @@ This is the blended series of station ROMA CIAMPINO, ITALY (STAID: 176)
 Blended and updated with sources:860 916239 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    176,   860,19510101,   76,    0
    176,   860,19510102,  108,    0
    176,   860,19510103,  116,    0

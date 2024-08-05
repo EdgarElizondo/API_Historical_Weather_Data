@@ -18,7 +18,7 @@ This is the blended series of station E6 ROSTEN, NORWAY (STAID: 18399)
 Blended and updated with sources:99156 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18399, 99156,20130101,-9999,    9
  18399, 99156,20130102,-9999,    9
  18399, 99156,20130103,-9999,    9

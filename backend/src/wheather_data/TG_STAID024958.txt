@@ -18,7 +18,7 @@ This is the blended series of station LUBLINIEC, POLAND (STAID: 24958)
 Blended and updated with sources:137874 137922 137946 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24958,137946,19610101,  -19,    0
  24958,137946,19610102,    1,    0
  24958,137946,19610103,   10,    0

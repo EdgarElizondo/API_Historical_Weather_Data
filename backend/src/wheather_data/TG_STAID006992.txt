@@ -18,7 +18,7 @@ This is the blended series of station VANTAA HELSINKI-VANTAAN LENTOASEMA, FINLAN
 Blended and updated with sources:42078 42259 42269 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6992, 42078,19590101,   -1,    0
   6992, 42078,19590102,   -1,    0
   6992, 42078,19590103,    5,    0

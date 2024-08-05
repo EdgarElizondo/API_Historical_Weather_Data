@@ -18,7 +18,7 @@ This is the blended series of station ODENA, SPAIN (STAID: 11059)
 Blended and updated with sources:56391 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11059, 56391,20080101,    5,    0
  11059, 56391,20080102,   22,    0
  11059, 56391,20080103,   39,    0

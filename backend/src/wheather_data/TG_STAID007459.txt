@@ -18,7 +18,7 @@ This is the blended series of station KAUHAVA KK UUNIMAANTIE, FINLAND (STAID: 74
 Blended and updated with sources:44405 44475 902913 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7459, 44405,19590101,  -20,    0
   7459, 44405,19590102,  -48,    0
   7459, 44405,19590103,  -34,    0

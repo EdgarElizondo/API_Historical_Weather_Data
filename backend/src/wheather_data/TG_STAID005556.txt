@@ -18,7 +18,7 @@ This is the blended series of station VASSBO, SWEDEN (STAID: 5556)
 Blended and updated with sources:36404 36407 36422 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5556, 36422,19610101,  -10,    0
   5556, 36422,19610102,  -45,    0
   5556, 36422,19610103,   -8,    0

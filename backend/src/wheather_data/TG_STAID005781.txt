@@ -18,7 +18,7 @@ This is the blended series of station BOKSJO, SWEDEN (STAID: 5781)
 Blended and updated with sources:37166 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5781, 37166,19690801,  166,    0
   5781, 37166,19690802,  169,    0
   5781, 37166,19690803,  178,    0

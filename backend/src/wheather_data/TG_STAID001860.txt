@@ -18,7 +18,7 @@ This is the blended series of station HEATHROW, UNITED KINGDOM (STAID: 1860)
 Blended and updated with sources:7054 903772 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1860,  7054,19600101,  106,    1
   1860,  7054,19600102,   61,    0
   1860,  7054,19600103,   84,    0

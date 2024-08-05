@@ -18,7 +18,7 @@ This is the blended series of station KRISTIANSAND S - EG, NORWAY (STAID: 18798)
 Blended and updated with sources:5484 10449 34948 100646 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18798,  5484,18640501,-9999,    9
  18798,  5484,18640502,-9999,    9
  18798,  5484,18640503,-9999,    9

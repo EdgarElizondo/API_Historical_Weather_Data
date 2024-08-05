@@ -18,7 +18,7 @@ This is the blended series of station KONGSVINGER, NORWAY (STAID: 18271)
 Blended and updated with sources:99578 901468 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18271, 99578,20060701,  185,    0
  18271, 99578,20060702,  190,    0
  18271, 99578,20060703,  199,    0

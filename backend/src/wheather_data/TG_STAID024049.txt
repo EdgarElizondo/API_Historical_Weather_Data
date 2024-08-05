@@ -18,7 +18,7 @@ This is the blended series of station THALHAM, AUSTRIA (STAID: 24049)
 Blended and updated with sources:126272 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24049,126272,19530601,-9999,    9
  24049,126272,19530602,-9999,    9
  24049,126272,19530603,-9999,    9

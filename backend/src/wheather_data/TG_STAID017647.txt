@@ -18,7 +18,7 @@ This is the blended series of station LAGO_PADULI, ITALY (STAID: 17647)
 Blended and updated with sources:95600 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17647, 95600,20051201,-9999,    9
  17647, 95600,20051202,-9999,    9
  17647, 95600,20051203,-9999,    9

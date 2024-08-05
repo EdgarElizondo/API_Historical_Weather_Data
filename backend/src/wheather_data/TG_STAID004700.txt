@@ -18,7 +18,7 @@ This is the blended series of station TUBINGEN, GERMANY (STAID: 4700)
 Blended and updated with sources:27740 27980 29492 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4700, 29492,19500101,  -36,    0
   4700, 29492,19500102,   10,    0
   4700, 29492,19500103,   19,    0

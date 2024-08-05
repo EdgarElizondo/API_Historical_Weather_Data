@@ -18,7 +18,7 @@ This is the blended series of station LORUDDEN, SWEDEN (STAID: 5625)
 Blended and updated with sources:36641 36644 902368 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5625, 36641,19610101,   -2,    0
   5625, 36641,19610102,  -19,    0
   5625, 36641,19610103,    4,    0

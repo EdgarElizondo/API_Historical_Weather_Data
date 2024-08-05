@@ -18,7 +18,7 @@ This is the blended series of station GORZYN, POLAND (STAID: 25031)
 Blended and updated with sources:138822 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25031,138822,19610101,    7,    0
  25031,138822,19610102,    6,    0
  25031,138822,19610103,   18,    0

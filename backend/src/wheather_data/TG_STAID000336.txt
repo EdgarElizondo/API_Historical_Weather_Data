@@ -18,7 +18,7 @@ This is the blended series of station ALBACETE LOS LLANOS, SPAIN (STAID: 336)
 Blended and updated with sources:19760 908280 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    336, 19760,19391201,   69,    0
    336, 19760,19391202,   85,    0
    336, 19760,19391203,   95,    0

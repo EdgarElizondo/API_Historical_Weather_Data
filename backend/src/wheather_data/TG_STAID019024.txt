@@ -18,7 +18,7 @@ This is the blended series of station SUNNDAL, NORWAY (STAID: 19024)
 Blended and updated with sources:99056 100908 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19024,100908,19000101,  -43,    0
  19024,100908,19000102,  -44,    0
  19024,100908,19000103,  -44,    0

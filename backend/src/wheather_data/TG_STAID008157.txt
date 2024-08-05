@@ -18,7 +18,7 @@ This is the blended series of station SHELIXOVO, RUSSIAN FEDERATION (STAID: 8157
 Blended and updated with sources:48943 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8157, 48943,19600101,-9999,    9
   8157, 48943,19600102,-9999,    9
   8157, 48943,19600103,-9999,    9

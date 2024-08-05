@@ -18,7 +18,7 @@ This is the blended series of station ULLDEMOLINS, SPAIN (STAID: 11082)
 Blended and updated with sources:56598 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11082, 56598,20080401,-9999,    9
  11082, 56598,20080402,-9999,    9
  11082, 56598,20080403,-9999,    9

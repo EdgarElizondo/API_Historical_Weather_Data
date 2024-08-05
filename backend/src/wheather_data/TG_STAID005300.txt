@@ -18,7 +18,7 @@ This is the blended series of station VISBY_FLYGPLATS, SWEDEN (STAID: 5300)
 Blended and updated with sources:35564 35579 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5300, 35564,18590801,  178,    1
   5300, 35564,18590802,  172,    1
   5300, 35564,18590803,  171,    1

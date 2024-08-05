@@ -18,7 +18,7 @@ This is the blended series of station MOLINA DE ARAGON, SPAIN (STAID: 3935)
 Blended and updated with sources:20120 908232 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3935, 20120,19490901,  184,    0
   3935, 20120,19490902,  187,    0
   3935, 20120,19490903,  195,    0

@@ -18,7 +18,7 @@ This is the blended series of station KATTERAT, NORWAY (STAID: 18254)
 Blended and updated with sources:99542 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18254, 99542,20161014,   40,    0
  18254, 99542,20161015,    4,    0
  18254, 99542,20161016,   -5,    0

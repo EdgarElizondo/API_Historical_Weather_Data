@@ -18,7 +18,7 @@ This is the blended series of station PILA, POLAND (STAID: 8943)
 Blended and updated with sources:140345 912230 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8943,140345,19701001,-9999,    9
   8943,140345,19701002,-9999,    9
   8943,140345,19701003,-9999,    9

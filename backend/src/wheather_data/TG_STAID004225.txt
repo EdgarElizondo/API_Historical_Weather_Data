@@ -18,7 +18,7 @@ This is the blended series of station AU I.D.HALLERTAU-GUNZENHAUSEN, GERMANY (ST
 Blended and updated with sources:23792 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4225, 23792,19850801,  166,    0
   4225, 23792,19850802,  160,    0
   4225, 23792,19850803,  190,    0

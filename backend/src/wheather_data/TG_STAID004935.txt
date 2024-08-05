@@ -18,7 +18,7 @@ This is the blended series of station OBERHACHING-LAUFZORN, GERMANY (STAID: 4935
 Blended and updated with sources:32312 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4935, 32312,20071101,   21,    0
   4935, 32312,20071102,   28,    0
   4935, 32312,20071103,   68,    0

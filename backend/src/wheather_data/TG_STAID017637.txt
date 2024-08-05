@@ -18,7 +18,7 @@ This is the blended series of station GUAGNINO, ITALY (STAID: 17637)
 Blended and updated with sources:95480 96712 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17637, 95480,20100701,-9999,    9
  17637, 95480,20100702,-9999,    9
  17637, 95480,20100703,-9999,    9

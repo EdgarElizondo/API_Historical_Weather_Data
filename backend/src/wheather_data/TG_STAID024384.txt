@@ -18,7 +18,7 @@ This is the blended series of station KREMS, AUSTRIA (STAID: 24384)
 Blended and updated with sources:125323 130588 130601 131940 134722 911070 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24384,130601,19360101,   38,    0
  24384,130601,19360102,   33,    0
  24384,130601,19360103,   34,    0

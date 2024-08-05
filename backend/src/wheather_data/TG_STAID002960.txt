@@ -18,7 +18,7 @@ This is the blended series of station CHERDY'N', RUSSIAN FEDERATION (STAID: 2960
 Blended and updated with sources:48583 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2960, 48583,18880101, -270,    0
   2960, 48583,18880102, -281,    0
   2960, 48583,18880103, -242,    0

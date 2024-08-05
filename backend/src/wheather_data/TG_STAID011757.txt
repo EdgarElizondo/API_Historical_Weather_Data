@@ -18,7 +18,7 @@ This is the blended series of station ILSENBURG, GERMANY (STAID: 11757)
 Blended and updated with sources:81119 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11757, 81119,19470101,  -48,    0
  11757, 81119,19470102,  -28,    0
  11757, 81119,19470103,  -44,    0

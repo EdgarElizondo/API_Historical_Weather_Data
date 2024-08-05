@@ -18,7 +18,7 @@ This is the blended series of station BALLYSHANNON (CATHLEENS FALL), IRELAND (ST
 Blended and updated with sources:7551 903978 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    964,  7551,19710501,   94,    0
    964,  7551,19710502,  116,    0
    964,  7551,19710503,  114,    0

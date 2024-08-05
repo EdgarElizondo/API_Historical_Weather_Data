@@ -18,7 +18,7 @@ This is the blended series of station MONTEGROPPO, ITALY (STAID: 2849)
 Blended and updated with sources:96104 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2849, 96104,20051201,-9999,    9
   2849, 96104,20051202,-9999,    9
   2849, 96104,20051203,-9999,    9

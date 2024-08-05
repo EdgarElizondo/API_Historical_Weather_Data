@@ -18,7 +18,7 @@ This is the blended series of station NJAKSIMVOL, RUSSIAN FEDERATION (STAID: 307
 Blended and updated with sources:16856 923724 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3072, 16856,19360101,  -64,    0
   3072, 16856,19360102,  -78,    0
   3072, 16856,19360103,  -35,    0

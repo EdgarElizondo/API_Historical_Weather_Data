@@ -18,7 +18,7 @@ This is the blended series of station VENABU, NORWAY (STAID: 5085)
 Blended and updated with sources:34120 901380 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5085, 34120,19800101,-9999,    9
   5085, 34120,19800102,-9999,    9
   5085, 34120,19800103,-9999,    9

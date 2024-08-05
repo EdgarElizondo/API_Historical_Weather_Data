@@ -18,7 +18,7 @@ This is the blended series of station ARMAGH, UNITED KINGDOM (STAID: 271)
 Blended and updated with sources:46811 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    271, 46811,18440101,   -3,    0
    271, 46811,18440102,  -15,    0
    271, 46811,18440103,   34,    0

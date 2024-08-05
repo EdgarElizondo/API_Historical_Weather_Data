@@ -18,7 +18,7 @@ This is the blended series of station SAMOS AIRPORT, GREECE (STAID: 326)
 Blended and updated with sources:1127 55809 916723 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    326,  1127,19780501,  200,    0
    326,  1127,19780502,  208,    0
    326,  1127,19780503,  175,    0

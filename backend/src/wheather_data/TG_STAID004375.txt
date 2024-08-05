@@ -18,7 +18,7 @@ This is the blended series of station LUDENSCHEID (ZEPPELIN-GYMNASIUM), GERMANY 
 Blended and updated with sources:25592 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4375, 25592,19400101,  -82,    0
   4375, 25592,19400102,  -79,    0
   4375, 25592,19400103,  -61,    0

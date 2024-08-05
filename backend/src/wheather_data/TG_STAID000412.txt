@@ -18,7 +18,7 @@ This is the blended series of station ALICANTE, SPAIN (STAID: 412)
 Blended and updated with sources:1042 908359 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    412,  1042,19380901,  233,    0
    412,  1042,19380902,  227,    0
    412,  1042,19380903,  242,    0

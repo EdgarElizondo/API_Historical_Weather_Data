@@ -18,7 +18,7 @@ This is the blended series of station E134 MEHEIA, NORWAY (STAID: 18613)
 Blended and updated with sources:99559 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18613, 99559,20170301,-9999,    9
  18613, 99559,20170302,-9999,    9
  18613, 99559,20170303,-9999,    9

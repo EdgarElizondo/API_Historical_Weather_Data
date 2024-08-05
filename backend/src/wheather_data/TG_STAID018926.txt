@@ -18,7 +18,7 @@ This is the blended series of station SLIRA, NORWAY (STAID: 18926)
 Blended and updated with sources:100791 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18926,100791,19310101,  -80,    1
  18926,100791,19310102,  -98,    1
  18926,100791,19310103,  -87,    0

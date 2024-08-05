@@ -18,7 +18,7 @@ This is the blended series of station HYWIND, NORWAY (STAID: 19066)
 Blended and updated with sources:100954 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19066,100954,20110601,-9999,    9
  19066,100954,20110602,-9999,    9
  19066,100954,20110603,-9999,    9

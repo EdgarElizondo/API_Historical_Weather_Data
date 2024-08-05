@@ -18,7 +18,7 @@ This is the blended series of station NEUDORF/LANDSEE, AUSTRIA (STAID: 24458)
 Blended and updated with sources:131563 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24458,131563,20151118,-9999,    9
  24458,131563,20151119,  139,    0
  24458,131563,20151120,  117,    0

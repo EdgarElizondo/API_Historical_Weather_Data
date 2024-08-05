@@ -18,7 +18,7 @@ This is the blended series of station RV13 JOERPELAND, NORWAY (STAID: 18717)
 Blended and updated with sources:99733 901419 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18717,901419,20131001,   72,    0
  18717,901419,20131002,   73,    0
  18717,901419,20131003,   99,    0

@@ -18,7 +18,7 @@ This is the blended series of station ST-GIRONS, FRANCE (STAID: 2205)
 Blended and updated with sources:7224 907627 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2205,  7224,19490101,   88,    0
   2205,  7224,19490102,   43,    0
   2205,  7224,19490103,   22,    0

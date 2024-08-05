@@ -18,7 +18,7 @@ This is the blended series of station JONKOPINGS_FLYGPLATS, SWEDEN (STAID: 5310)
 Blended and updated with sources:35588 35612 902550 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5310, 35588,19020101,   28,    0
   5310, 35588,19020102,   11,    0
   5310, 35588,19020103,  -20,    0

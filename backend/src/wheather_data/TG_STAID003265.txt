@@ -18,7 +18,7 @@ This is the blended series of station ZOLOTOJ, RUSSIAN FEDERATION (STAID: 3265)
 Blended and updated with sources:17276 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3265, 17276,19360101, -193,    0
   3265, 17276,19360102, -178,    0
   3265, 17276,19360103, -130,    0

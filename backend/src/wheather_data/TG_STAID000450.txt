@@ -18,7 +18,7 @@ This is the blended series of station SIBIU, ROMANIA (STAID: 450)
 Blended and updated with sources:7516 915260 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    450,  7516,19610101,    8,    0
    450,  7516,19610102,   15,    0
    450,  7516,19610103,   30,    0

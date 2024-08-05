@@ -18,7 +18,7 @@ This is the blended series of station ZAMORA, SPAIN (STAID: 1399)
 Blended and updated with sources:20615 908130 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1399, 20615,19200201,-9999,    9
   1399, 20615,19200202,-9999,    9
   1399, 20615,19200203,-9999,    9

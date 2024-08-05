@@ -18,7 +18,7 @@ This is the blended series of station UST'-VOYAMPOLKA, RUSSIAN FEDERATION (STAID
 Blended and updated with sources:51668 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8502, 51668,19360101, -116,    0
   8502, 51668,19360102, -109,    0
   8502, 51668,19360103, -158,    0

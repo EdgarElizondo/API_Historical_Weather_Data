@@ -18,7 +18,7 @@ This is the blended series of station KIL'MEZ', RUSSIAN FEDERATION (STAID: 8182)
 Blended and updated with sources:49813 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8182, 49813,19590101,  -90,    0
   8182, 49813,19590102,  -73,    0
   8182, 49813,19590103,  -92,    0

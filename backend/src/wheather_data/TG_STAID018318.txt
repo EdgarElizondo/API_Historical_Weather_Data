@@ -18,7 +18,7 @@ This is the blended series of station ANDALSNES - KAMSHAUGEN, NORWAY (STAID: 183
 Blended and updated with sources:99434 99734 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18318, 99734,20120201,  -86,    1
  18318, 99734,20120202,  -61,    1
  18318, 99734,20120203,  -58,    1

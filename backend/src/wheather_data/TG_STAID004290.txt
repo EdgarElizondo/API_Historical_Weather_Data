@@ -18,7 +18,7 @@ This is the blended series of station KLEINER INSELSBERG, GERMANY (STAID: 4290)
 Blended and updated with sources:24572 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4290, 24572,19580101,   16,    0
   4290, 24572,19580102,  -43,    0
   4290, 24572,19580103,  -87,    0

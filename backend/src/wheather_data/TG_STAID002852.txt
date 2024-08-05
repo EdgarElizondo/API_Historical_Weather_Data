@@ -18,7 +18,7 @@ This is the blended series of station NOCIVEGLIA, ITALY (STAID: 2852)
 Blended and updated with sources:96264 97584 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2852, 96264,20051201,-9999,    9
   2852, 96264,20051202,-9999,    9
   2852, 96264,20051203,-9999,    9

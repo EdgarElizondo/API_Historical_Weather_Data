@@ -18,7 +18,7 @@ This is the blended series of station OSTHEIM V.D. RHON, GERMANY (STAID: 4502)
 Blended and updated with sources:27116 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4502, 27116,19720501,  127,    0
   4502, 27116,19720502,  144,    0
   4502, 27116,19720503,  148,    0

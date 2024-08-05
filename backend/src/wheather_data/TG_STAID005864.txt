@@ -18,7 +18,7 @@ This is the blended series of station RENSJON_A, SWEDEN (STAID: 5864)
 Blended and updated with sources:37445 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5864, 37445,19951201,-9999,    9
   5864, 37445,19951202,-9999,    9
   5864, 37445,19951203,-9999,    9

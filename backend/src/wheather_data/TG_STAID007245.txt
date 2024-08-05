@@ -18,7 +18,7 @@ This is the blended series of station KARVIA ALKKIA, FINLAND (STAID: 7245)
 Blended and updated with sources:43389 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7245, 43389,19660301, -108,    0
   7245, 43389,19660302,  -93,    0
   7245, 43389,19660303,  -29,    0

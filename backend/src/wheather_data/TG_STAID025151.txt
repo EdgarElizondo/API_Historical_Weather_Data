@@ -18,7 +18,7 @@ This is the blended series of station ELBLAG-MILEJEWO, POLAND (STAID: 25151)
 Blended and updated with sources:140262 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25151,140262,19510101,  -52,    0
  25151,140262,19510102,  -25,    0
  25151,140262,19510103,   15,    0

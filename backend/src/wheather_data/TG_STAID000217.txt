@@ -18,7 +18,7 @@ This is the blended series of station ARAD, ROMANIA (STAID: 217)
 Blended and updated with sources:7500 915200 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    217,  7500,19610101,   24,    0
    217,  7500,19610102,   34,    0
    217,  7500,19610103,   67,    0

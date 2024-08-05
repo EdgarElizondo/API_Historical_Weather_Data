@@ -18,7 +18,7 @@ This is the blended series of station ABJORSBRATEN, NORWAY (STAID: 2611)
 Blended and updated with sources:10040 901369 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2611, 10040,19310101,  -44,    0
   2611, 10040,19310102,  -49,    0
   2611, 10040,19310103,  -54,    0

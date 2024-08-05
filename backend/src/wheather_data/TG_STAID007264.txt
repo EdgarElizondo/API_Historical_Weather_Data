@@ -18,7 +18,7 @@ This is the blended series of station KIHNIO AITONEVA, FINLAND (STAID: 7264)
 Blended and updated with sources:43489 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7264, 43489,19590101,  -20,    0
   7264, 43489,19590102,  -39,    0
   7264, 43489,19590103,  -22,    0

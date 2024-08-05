@@ -18,7 +18,7 @@ This is the blended series of station EINDHOVEN, NETHERLANDS (STAID: 2566)
 Blended and updated with sources:2093 906370 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2566,  2093,19510101,-9999,    9
   2566,  2093,19510102,   14,    0
   2566,  2093,19510103,    5,    0

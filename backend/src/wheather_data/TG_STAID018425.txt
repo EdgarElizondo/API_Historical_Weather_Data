@@ -18,7 +18,7 @@ This is the blended series of station E8 SANDVIKEIDET, NORWAY (STAID: 18425)
 Blended and updated with sources:9405 99210 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18425,  9405,19200701,  119,    0
  18425,  9405,19200702,  114,    0
  18425,  9405,19200703,  118,    0

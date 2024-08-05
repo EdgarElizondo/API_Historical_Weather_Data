@@ -18,7 +18,7 @@ This is the blended series of station NY-ALESUND, NORWAY (STAID: 5140)
 Blended and updated with sources:34780 100822 901004 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5140, 34780,19740101,-9999,    9
   5140, 34780,19740102,-9999,    9
   5140, 34780,19740103,-9999,    9

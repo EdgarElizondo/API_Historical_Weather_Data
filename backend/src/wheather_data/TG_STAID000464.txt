@@ -18,7 +18,7 @@ This is the blended series of station ARCEN, NETHERLANDS (STAID: 464)
 Blended and updated with sources:2525 22748 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    464, 22748,19631001,  106,    0
    464, 22748,19631002,  100,    0
    464, 22748,19631003,  113,    0

@@ -18,7 +18,7 @@ This is the blended series of station SKARDSBOEFJELLET, NORWAY (STAID: 20063)
 Blended and updated with sources:106019 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20063,106019,20190901,-9999,    9
  20063,106019,20190902,-9999,    9
  20063,106019,20190903,-9999,    9

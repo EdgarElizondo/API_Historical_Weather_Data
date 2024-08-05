@@ -18,7 +18,7 @@ This is the blended series of station E6 HALOGALANDSBRUA, NORWAY (STAID: 18501)
 Blended and updated with sources:33940 57134 99345 99398 901193 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18501, 57134,19530101,-9999,    9
  18501, 57134,19530102,-9999,    9
  18501, 57134,19530103,-9999,    9

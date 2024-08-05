@@ -18,7 +18,7 @@ This is the blended series of station HIERRO/AEROPUERTO, SPAIN (STAID: 3957)
 Blended and updated with sources:20426 960001 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3957, 20426,19731201,  225,    0
   3957, 20426,19731202,  200,    0
   3957, 20426,19731203,  200,    0

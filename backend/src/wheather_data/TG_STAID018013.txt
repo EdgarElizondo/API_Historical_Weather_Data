@@ -18,7 +18,7 @@ This is the blended series of station SOLHOM I KVINESDAL, NORWAY (STAID: 18013)
 Blended and updated with sources:100597 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18013,100597,19790101, -211,    0
  18013,100597,19790102, -193,    0
  18013,100597,19790103, -159,    0

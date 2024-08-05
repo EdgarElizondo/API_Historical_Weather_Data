@@ -18,7 +18,7 @@ This is the blended series of station VARDOE, NORWAY (STAID: 195)
 Blended and updated with sources:607 99496 901098 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    195,   607,19000101,  -28,    0
    195,   607,19000102,  -34,    0
    195,   607,19000103,  -36,    0

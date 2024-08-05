@@ -18,7 +18,7 @@ This is the blended series of station GJOEAFELTET, NORWAY (STAID: 18341)
 Blended and updated with sources:99058 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18341, 99058,20150401,-9999,    9
  18341, 99058,20150402,-9999,    9
  18341, 99058,20150403,-9999,    9

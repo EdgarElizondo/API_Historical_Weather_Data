@@ -18,7 +18,7 @@ This is the blended series of station BRUCKEN, GERMANY (STAID: 4916)
 Blended and updated with sources:32084 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4916, 32084,19470101,   -1,    0
   4916, 32084,19470102,   -9,    0
   4916, 32084,19470103,  -25,    0

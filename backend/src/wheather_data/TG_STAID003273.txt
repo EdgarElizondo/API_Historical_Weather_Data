@@ -18,7 +18,7 @@ This is the blended series of station KLYUCHI, RUSSIAN FEDERATION (STAID: 3273)
 Blended and updated with sources:17316 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3273, 17316,19140101,-9999,    9
   3273, 17316,19140102,-9999,    9
   3273, 17316,19140103,-9999,    9

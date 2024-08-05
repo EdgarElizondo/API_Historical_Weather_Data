@@ -18,7 +18,7 @@ This is the blended series of station HECHINGEN, GERMANY (STAID: 4198)
 Blended and updated with sources:23468 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4198, 23468,19470101,  -23,    0
   4198, 23468,19470102,  -32,    0
   4198, 23468,19470103,  -15,    0

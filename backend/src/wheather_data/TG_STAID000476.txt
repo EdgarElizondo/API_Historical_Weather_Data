@@ -18,7 +18,7 @@ This is the blended series of station HANNOVER, GERMANY (STAID: 476)
 Blended and updated with sources:2246 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    476,  2246,19360101,   79,    0
    476,  2246,19360102,   71,    0
    476,  2246,19360103,   57,    0

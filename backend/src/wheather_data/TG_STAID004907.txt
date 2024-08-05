@@ -18,7 +18,7 @@ This is the blended series of station ARNSBERG-NEHEIM, GERMANY (STAID: 4907)
 Blended and updated with sources:31976 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4907, 31976,20051001,  114,    0
   4907, 31976,20051002,   82,    0
   4907, 31976,20051003,   83,    0

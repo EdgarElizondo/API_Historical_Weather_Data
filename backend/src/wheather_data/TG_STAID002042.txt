@@ -18,7 +18,7 @@ This is the blended series of station SZOMBATHELY, HUNGARY (STAID: 2042)
 Blended and updated with sources:52452 912812 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2042, 52452,19010101,  -77,    0
   2042, 52452,19010102, -100,    0
   2042, 52452,19010103, -106,    0

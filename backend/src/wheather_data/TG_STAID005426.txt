@@ -18,7 +18,7 @@ This is the blended series of station STROMSTAD, SWEDEN (STAID: 5426)
 Blended and updated with sources:35984 35996 902500 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5426, 35996,19491001,-9999,    9
   5426, 35996,19491002,-9999,    9
   5426, 35996,19491003,-9999,    9

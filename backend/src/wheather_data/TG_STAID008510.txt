@@ -18,7 +18,7 @@ This is the blended series of station SOSNOVKA, RUSSIAN FEDERATION (STAID: 8510)
 Blended and updated with sources:51708 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8510, 51708,19660101,-9999,    9
   8510, 51708,19660102,-9999,    9
   8510, 51708,19660103,-9999,    9

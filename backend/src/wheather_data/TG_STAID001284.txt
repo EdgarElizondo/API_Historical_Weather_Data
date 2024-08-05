@@ -18,7 +18,7 @@ This is the blended series of station BALASHOV, RUSSIAN FEDERATION (STAID: 1284)
 Blended and updated with sources:51823 934152 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1284, 51823,19580101,    0,    0
   1284, 51823,19580102,  -22,    0
   1284, 51823,19580103,  -50,    0

@@ -18,7 +18,7 @@ This is the blended series of station KAWECZYN, POLAND (STAID: 25057)
 Blended and updated with sources:139134 139146 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25057,139146,19510101,  -38,    0
  25057,139146,19510102,  -11,    0
  25057,139146,19510103,   20,    0

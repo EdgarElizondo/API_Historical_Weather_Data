@@ -18,7 +18,7 @@ This is the blended series of station WIEN-MARIABRUNN, AUSTRIA (STAID: 24029)
 Blended and updated with sources:126038 126051 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24029,126038,19360101,   77,    0
  24029,126038,19360102,   39,    0
  24029,126038,19360103,   33,    0

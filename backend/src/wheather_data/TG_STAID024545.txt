@@ -18,7 +18,7 @@ This is the blended series of station BISCHOFSHOFEN, AUSTRIA (STAID: 24545)
 Blended and updated with sources:132694 134358 911141 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24545,134358,19360101,  -14,    0
  24545,134358,19360102,    8,    0
  24545,134358,19360103,   28,    0

@@ -18,7 +18,7 @@ This is the blended series of station EL PERELLO, SPAIN (STAID: 11031)
 Blended and updated with sources:56139 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11031, 56139,20080101,   14,    0
  11031, 56139,20080102,   30,    0
  11031, 56139,20080103,   61,    0

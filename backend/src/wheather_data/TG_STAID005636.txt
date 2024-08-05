@@ -18,7 +18,7 @@ This is the blended series of station SORAKER, SWEDEN (STAID: 5636)
 Blended and updated with sources:36680 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5636, 36680,19610101,-9999,    9
   5636, 36680,19610102,  -48,    0
   5636, 36680,19610103,  -14,    0

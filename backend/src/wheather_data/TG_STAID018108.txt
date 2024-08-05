@@ -18,7 +18,7 @@ This is the blended series of station TANA BRU, NORWAY (STAID: 18108)
 Blended and updated with sources:99143 901076 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18108, 99143,20121117,  -63,    0
  18108, 99143,20121118,    5,    0
  18108, 99143,20121119,   21,    0

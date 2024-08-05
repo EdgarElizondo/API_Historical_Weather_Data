@@ -18,7 +18,7 @@ This is the blended series of station BORKUM-FLUGPLATZ, GERMANY (STAID: 4918)
 Blended and updated with sources:31268 32108 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4918, 31268,19470101,   -9,    0
   4918, 31268,19470102,    4,    0
   4918, 31268,19470103,   -8,    0

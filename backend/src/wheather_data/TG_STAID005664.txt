@@ -18,7 +18,7 @@ This is the blended series of station LANNAS, SWEDEN (STAID: 5664)
 Blended and updated with sources:36773 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5664, 36773,19450101, -106,    0
   5664, 36773,19450102,  -99,    0
   5664, 36773,19450103, -128,    0

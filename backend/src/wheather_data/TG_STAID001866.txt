@@ -18,7 +18,7 @@ This is the blended series of station WALLINGFORD, UNITED KINGDOM (STAID: 1866)
 Blended and updated with sources:7060 903658 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1866,  7060,19600401,   53,    0
   1866,  7060,19600402,   83,    0
   1866,  7060,19600403,  102,    0

@@ -18,7 +18,7 @@ This is the blended series of station ALLERHEILIGEN, AUSTRIA (STAID: 23962)
 Blended and updated with sources:125180 125206 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23962,125180,19740801,  207,    0
  23962,125180,19740802,  206,    0
  23962,125180,19740803,  224,    0

@@ -18,7 +18,7 @@ This is the blended series of station BROMBACHTAL-KIRCH-BROMBACH, GERMANY (STAID
 Blended and updated with sources:31892 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4900, 31892,19580101,   48,    0
   4900, 31892,19580102,    9,    0
   4900, 31892,19580103,  -28,    0

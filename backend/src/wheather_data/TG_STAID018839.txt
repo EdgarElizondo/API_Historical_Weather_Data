@@ -18,7 +18,7 @@ This is the blended series of station DAGALI, NORWAY (STAID: 18839)
 Blended and updated with sources:100697 100744 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18839,100697,19310101,  -57,    0
  18839,100697,19310102,  -69,    0
  18839,100697,19310103,  -65,    0

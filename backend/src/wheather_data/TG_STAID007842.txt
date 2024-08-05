@@ -18,7 +18,7 @@ This is the blended series of station MUONIO LAUKUKERO, FINLAND (STAID: 7842)
 Blended and updated with sources:46466 902820 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7842, 46466,19960901,-9999,    9
   7842, 46466,19960902,-9999,    9
   7842, 46466,19960903,-9999,    9

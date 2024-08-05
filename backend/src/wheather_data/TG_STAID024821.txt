@@ -18,7 +18,7 @@ This is the blended series of station PITZTALER GLETSCHER, AUSTRIA (STAID: 24821
 Blended and updated with sources:136269 911316 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24821,136269,19890301, -102,    0
  24821,136269,19890302,  -91,    0
  24821,136269,19890303,  -76,    0

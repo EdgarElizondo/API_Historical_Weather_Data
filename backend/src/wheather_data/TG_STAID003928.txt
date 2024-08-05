@@ -18,7 +18,7 @@ This is the blended series of station CIUDAD REAL (INSTITUTO), SPAIN (STAID: 392
 Blended and updated with sources:20030 20039 908348 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3928, 20039,19200101,  102,    0
   3928, 20039,19200102,   50,    0
   3928, 20039,19200103,   55,    0

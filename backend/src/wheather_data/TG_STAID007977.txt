@@ -18,7 +18,7 @@ This is the blended series of station QEQERTARSUAQ, GREENLAND [DENMARK] (STAID: 
 Blended and updated with sources:46977 46987 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7977, 46977,19620101,  -25,    0
   7977, 46977,19620102,  -44,    0
   7977, 46977,19620103,  -77,    0

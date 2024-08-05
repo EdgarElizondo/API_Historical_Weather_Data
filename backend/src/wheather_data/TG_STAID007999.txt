@@ -18,7 +18,7 @@ This is the blended series of station MITT. PAAMIUT, GREENLAND [DENMARK] (STAID:
 Blended and updated with sources:47227 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7999, 47227,19580101,  -17,    0
   7999, 47227,19580102,  -52,    0
   7999, 47227,19580103,  -25,    0

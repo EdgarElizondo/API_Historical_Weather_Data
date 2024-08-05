@@ -18,7 +18,7 @@ This is the blended series of station KALWANG, AUSTRIA (STAID: 24645)
 Blended and updated with sources:133981 134696 911362 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24645,134696,19661201,  -36,    0
  24645,134696,19661202,    3,    0
  24645,134696,19661203,    1,    0

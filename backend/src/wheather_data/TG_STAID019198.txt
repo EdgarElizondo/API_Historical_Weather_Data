@@ -18,7 +18,7 @@ This is the blended series of station SIRDAL - TJOERHOM II, NORWAY (STAID: 19198
 Blended and updated with sources:100716 101008 901432 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19198,100716,19740901,  154,    0
  19198,100716,19740902,  123,    0
  19198,100716,19740903,  120,    0

@@ -18,7 +18,7 @@ This is the blended series of station PALMA DE MALLORCA / SON SAN JUAN, SPAIN (S
 Blended and updated with sources:19868 19877 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3919, 19877,19720801,  245,    0
   3919, 19877,19720802,  230,    0
   3919, 19877,19720803,  212,    0

@@ -18,7 +18,7 @@ This is the blended series of station KASSEL-HARLESHAUSEN, GERMANY (STAID: 4277)
 Blended and updated with sources:24416 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4277, 24416,19460701,  233,    0
   4277, 24416,19460702,  254,    0
   4277, 24416,19460703,  255,    0

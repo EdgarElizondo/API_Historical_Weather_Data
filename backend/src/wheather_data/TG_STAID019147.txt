@@ -18,7 +18,7 @@ This is the blended series of station RAKE II, NORWAY (STAID: 19147)
 Blended and updated with sources:100731 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19147,100731,19741101,-9999,    9
  19147,100731,19741102,-9999,    9
  19147,100731,19741103,-9999,    9

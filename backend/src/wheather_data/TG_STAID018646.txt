@@ -18,7 +18,7 @@ This is the blended series of station UVDAL KRAFTVERK, NORWAY (STAID: 18646)
 Blended and updated with sources:99623 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18646, 99623,20100601,-9999,    9
  18646, 99623,20100602,-9999,    9
  18646, 99623,20100603,-9999,    9

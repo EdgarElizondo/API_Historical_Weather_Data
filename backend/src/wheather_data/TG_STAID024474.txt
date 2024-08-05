@@ -18,7 +18,7 @@ This is the blended series of station LOFER/ORT, AUSTRIA (STAID: 24474)
 Blended and updated with sources:131758 131771 911140 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24474,911140,19900601,-9999,    9
  24474,911140,19900602,-9999,    9
  24474,911140,19900603,-9999,    9

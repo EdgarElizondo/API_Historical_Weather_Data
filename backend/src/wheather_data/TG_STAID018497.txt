@@ -18,7 +18,7 @@ This is the blended series of station E6 FOKSTUGU, NORWAY (STAID: 18497)
 Blended and updated with sources:9452 99339 901238 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18497,  9452,19680601,   93,    0
  18497,  9452,19680602,  112,    0
  18497,  9452,19680603,  117,    0

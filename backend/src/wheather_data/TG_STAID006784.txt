@@ -18,7 +18,7 @@ This is the blended series of station KITTELFJALL_D, SWEDEN (STAID: 6784)
 Blended and updated with sources:70099 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6784, 70099,19610101,  -71,    0
   6784, 70099,19610102,  -86,    0
   6784, 70099,19610103,  -71,    0

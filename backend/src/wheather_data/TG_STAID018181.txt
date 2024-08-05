@@ -18,7 +18,7 @@ This is the blended series of station SVEAGRUVA II, NORWAY (STAID: 18181)
 Blended and updated with sources:99341 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18181, 99341,20161101,-9999,    9
  18181, 99341,20161102,-9999,    9
  18181, 99341,20161103,-9999,    9

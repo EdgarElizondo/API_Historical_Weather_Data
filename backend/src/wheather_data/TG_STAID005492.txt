@@ -18,7 +18,7 @@ This is the blended series of station ENKOPING_MO, SWEDEN (STAID: 5492)
 Blended and updated with sources:36221 902443 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5492, 36221,20070901,-9999,    9
   5492, 36221,20070902,-9999,    9
   5492, 36221,20070903,-9999,    9

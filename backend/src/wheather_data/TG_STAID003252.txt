@@ -18,7 +18,7 @@ This is the blended series of station ALDAN, RUSSIAN FEDERATION (STAID: 3252)
 Blended and updated with sources:17211 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3252, 17211,19370101, -305,    0
   3252, 17211,19370102, -199,    0
   3252, 17211,19370103, -181,    0

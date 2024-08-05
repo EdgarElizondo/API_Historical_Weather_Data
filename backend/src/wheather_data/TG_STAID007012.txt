@@ -18,7 +18,7 @@ This is the blended series of station HELSINKI HARMAJA, FINLAND (STAID: 7012)
 Blended and updated with sources:84 42088 42184 42244 42309 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7012,    84,19510101,  -63,    0
   7012,    84,19510102,  -52,    0
   7012,    84,19510103,  -33,    0

@@ -18,7 +18,7 @@ This is the blended series of station LEON VIRGEN DEL CAMINO, SPAIN (STAID: 1397
 Blended and updated with sources:20219 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1397, 20219,19380101,  -12,    0
   1397, 20219,19380102,    2,    0
   1397, 20219,19380103,   -3,    0

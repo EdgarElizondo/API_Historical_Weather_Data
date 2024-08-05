@@ -18,7 +18,7 @@ This is the blended series of station TOENSBERG - BERKAKER, NORWAY (STAID: 20825
 Blended and updated with sources:99238 99359 99384 99440 100852 111248 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20825,100852,19570101,  -38,    0
  20825,100852,19570102,  -65,    0
  20825,100852,19570103,  -64,    0

@@ -18,7 +18,7 @@ This is the blended series of station PSZENNO, POLAND (STAID: 24934)
 Blended and updated with sources:137658 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24934,137658,19790801,  212,    0
  24934,137658,19790802,  235,    0
  24934,137658,19790803,  201,    0

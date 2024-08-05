@@ -18,7 +18,7 @@ This is the blended series of station BAD GOTTLEUBA, GERMANY (STAID: 11747)
 Blended and updated with sources:81009 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11747, 81009,19520101,   22,    0
  11747, 81009,19520102,   42,    0
  11747, 81009,19520103,   27,    0

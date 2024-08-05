@@ -18,7 +18,7 @@ This is the blended series of station FV710 KJOERMOEN, NORWAY (STAID: 21772)
 Blended and updated with sources:118164 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21772,118164,20200901,-9999,    9
  21772,118164,20200902,-9999,    9
  21772,118164,20200903,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station VIELHA E MIJARAN, SPAIN (STAID: 11084)
 Blended and updated with sources:56616 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11084, 56616,20080101,   -1,    0
  11084, 56616,20080102,   39,    0
  11084, 56616,20080103,   26,    0

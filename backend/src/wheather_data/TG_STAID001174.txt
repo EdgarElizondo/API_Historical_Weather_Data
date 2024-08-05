@@ -18,7 +18,7 @@ This is the blended series of station BABAEVO, RUSSIAN FEDERATION (STAID: 1174)
 Blended and updated with sources:49168 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1174, 49168,19590101, -164,    0
   1174, 49168,19590102,  -38,    0
   1174, 49168,19590103,  -11,    0

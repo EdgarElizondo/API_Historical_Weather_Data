@@ -18,7 +18,7 @@ This is the blended series of station ORMEN LANGE, NORWAY (STAID: 18705)
 Blended and updated with sources:99717 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18705, 99717,20071101,-9999,    9
  18705, 99717,20071102,-9999,    9
  18705, 99717,20071103,-9999,    9

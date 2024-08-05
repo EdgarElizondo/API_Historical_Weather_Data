@@ -18,7 +18,7 @@ This is the blended series of station KETRZYN, POLAND (STAID: 2023)
 Blended and updated with sources:140357 912185 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2023,140357,19660101,   -9,    0
   2023,140357,19660102,   29,    0
   2023,140357,19660103,   19,    0

@@ -18,7 +18,7 @@ This is the blended series of station HUESCA, SPAIN (STAID: 419)
 Blended and updated with sources:20156 908094 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    419, 20156,19430301,   98,    0
    419, 20156,19430302,  111,    0
    419, 20156,19430303,  119,    0

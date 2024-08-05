@@ -18,7 +18,7 @@ This is the blended series of station PONY'RI, RUSSIAN FEDERATION (STAID: 1268)
 Blended and updated with sources:51743 934003 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1268, 51743,19590101,   -5,    0
   1268, 51743,19590102,    0,    0
   1268, 51743,19590103,  -27,    0

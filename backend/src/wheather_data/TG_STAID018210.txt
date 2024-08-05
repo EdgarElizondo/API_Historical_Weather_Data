@@ -18,7 +18,7 @@ This is the blended series of station ORKDAL - THAMSHAMN, NORWAY (STAID: 18210)
 Blended and updated with sources:99268 99417 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18210, 99417,20060801,  154,    0
  18210, 99417,20060802,  191,    0
  18210, 99417,20060803,  194,    0

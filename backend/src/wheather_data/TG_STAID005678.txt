@@ -18,7 +18,7 @@ This is the blended series of station ARE-BJORNANGE_V, SWEDEN (STAID: 5678)
 Blended and updated with sources:36827 36836 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5678, 36836,19610101,  -32,    0
   5678, 36836,19610102, -127,    0
   5678, 36836,19610103,  -81,    0

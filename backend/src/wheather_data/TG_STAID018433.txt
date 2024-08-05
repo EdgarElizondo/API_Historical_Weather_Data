@@ -18,7 +18,7 @@ This is the blended series of station E12 UMBUKTA, NORWAY (STAID: 18433)
 Blended and updated with sources:99225 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18433, 99225,20151101,-9999,    9
  18433, 99225,20151102,-9999,    9
  18433, 99225,20151103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station DEN HELDER, NETHERLANDS (STAID: 160)
 Blended and updated with sources:513 517 906235 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    160,   513,19060101,  -22,    0
    160,   513,19060102,  -19,    0
    160,   513,19060103,   -7,    0

@@ -18,7 +18,7 @@ This is the blended series of station DEUTSCHKREUTZ, AUSTRIA (STAID: 24132)
 Blended and updated with sources:127351 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24132,127351,19480101,   -7,    0
  24132,127351,19480102,   -6,    0
  24132,127351,19480103,   65,    0

@@ -18,7 +18,7 @@ This is the blended series of station KALAMATA, GREECE (STAID: 841)
 Blended and updated with sources:55879 916726 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    841,916726,19980101,-9999,    9
    841, 55879,19980102,  113,    0
    841, 55879,19980103,  118,    0

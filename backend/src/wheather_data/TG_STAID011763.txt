@@ -18,7 +18,7 @@ This is the blended series of station NEUHAUS, GERMANY (STAID: 11763)
 Blended and updated with sources:81185 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11763, 81185,19550101,  -76,    0
  11763, 81185,19550102,  -82,    0
  11763, 81185,19550103,  -83,    0

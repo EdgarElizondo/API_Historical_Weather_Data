@@ -18,7 +18,7 @@ This is the blended series of station BAD BERKA (FLUGPLATZ), GERMANY (STAID: 117
 Blended and updated with sources:80877 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11735, 80877,19540701,  117,    0
  11735, 80877,19540702,  129,    0
  11735, 80877,19540703,  164,    0

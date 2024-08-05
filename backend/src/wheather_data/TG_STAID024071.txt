@@ -18,7 +18,7 @@ This is the blended series of station HOHE WAND/HOCHKOGELHAUS, AUSTRIA (STAID: 2
 Blended and updated with sources:126558 134618 911385 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24071,134618,19910501,   93,    0
  24071,134618,19910502,   73,    0
  24071,134618,19910503,   58,    0

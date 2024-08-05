@@ -18,7 +18,7 @@ This is the blended series of station AI-PETRI, UKRAINE (STAID: 1592)
 Blended and updated with sources:5523 933998 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1592,  5523,18950901,-9999,    9
   1592,  5523,18950902,-9999,    9
   1592,  5523,18950903,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station ALMERIA, SPAIN (STAID: 3907)
 Blended and updated with sources:19769 19778 908487 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3907, 19769,19340101,-9999,    9
   3907, 19769,19340102,-9999,    9
   3907, 19769,19340103,-9999,    9

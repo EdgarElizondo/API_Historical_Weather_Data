@@ -18,7 +18,7 @@ This is the blended series of station PETKUS, GERMANY (STAID: 4515)
 Blended and updated with sources:27272 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4515, 27272,19470101,  -29,    0
   4515, 27272,19470102,  -36,    0
   4515, 27272,19470103,  -52,    0

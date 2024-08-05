@@ -18,7 +18,7 @@ This is the blended series of station NICOSIA, CYPRUS (STAID: 25)
 Blended and updated with sources:15578 15581 917607 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     25, 15581,19720101,   97,    0
     25, 15581,19720102,   86,    0
     25, 15581,19720103,   91,    0

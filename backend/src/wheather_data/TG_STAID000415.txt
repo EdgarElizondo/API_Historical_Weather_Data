@@ -18,7 +18,7 @@ This is the blended series of station CADIZ, SPAIN (STAID: 415)
 Blended and updated with sources:19931 908452 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    415, 19931,19351101,-9999,    9
    415, 19931,19351102,-9999,    9
    415, 19931,19351103,-9999,    9

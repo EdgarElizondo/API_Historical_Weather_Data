@@ -18,7 +18,7 @@ This is the blended series of station GASCHURN, AUSTRIA (STAID: 23891)
 Blended and updated with sources:124257 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23891,124257,20200901,  120,    0
  23891,124257,20200902,  114,    0
  23891,124257,20200903,  128,    0

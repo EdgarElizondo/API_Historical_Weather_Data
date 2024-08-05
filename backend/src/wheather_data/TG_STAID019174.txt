@@ -18,7 +18,7 @@ This is the blended series of station MAZE - BOJAROAVVI, NORWAY (STAID: 19174)
 Blended and updated with sources:100884 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19174,100884,19810801,-9999,    9
  19174,100884,19810802,-9999,    9
  19174,100884,19810803,-9999,    9

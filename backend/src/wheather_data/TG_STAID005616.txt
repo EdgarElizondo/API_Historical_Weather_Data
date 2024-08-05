@@ -18,7 +18,7 @@ This is the blended series of station GRAN, SWEDEN (STAID: 5616)
 Blended and updated with sources:36614 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5616, 36614,19490101,   14,    1
   5616, 36614,19490102,   22,    1
   5616, 36614,19490103,   17,    1

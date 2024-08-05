@@ -18,7 +18,7 @@ This is the blended series of station SKEPPSMORA_V, SWEDEN (STAID: 5526)
 Blended and updated with sources:36326 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5526, 36326,19960301,   -5,    0
   5526, 36326,19960302,  -52,    0
   5526, 36326,19960303,  -38,    0

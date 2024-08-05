@@ -18,7 +18,7 @@ This is the blended series of station DERRYGREENAGH, IRELAND (STAID: 1646)
 Blended and updated with sources:7558 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1646,  7558,19610101,   45,    0
   1646,  7558,19610102,   30,    0
   1646,  7558,19610103,   18,    0

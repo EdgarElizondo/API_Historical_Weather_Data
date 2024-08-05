@@ -18,7 +18,7 @@ This is the blended series of station TROIÑK, RUSSIAN FEDERATION (STAID: 3119
 Blended and updated with sources:50068 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3119, 50068,19360101, -114,    0
   3119, 50068,19360102, -124,    0
   3119, 50068,19360103,  -64,    0

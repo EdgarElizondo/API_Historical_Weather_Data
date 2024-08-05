@@ -18,7 +18,7 @@ This is the blended series of station BOWHILL, UNITED KINGDOM (STAID: 1835)
 Blended and updated with sources:7029 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1835,  7029,19600101,   56,    1
   1835,  7029,19600102,   -6,    0
   1835,  7029,19600103,   28,    0

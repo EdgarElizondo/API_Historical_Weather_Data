@@ -18,7 +18,7 @@ This is the blended series of station MARIAZELL, AUSTRIA (STAID: 24063)
 Blended and updated with sources:126441 126454 126467 126480 911171 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24063,126454,19480101,  -45,    0
  24063,126454,19480102,  -30,    0
  24063,126454,19480103,   15,    0

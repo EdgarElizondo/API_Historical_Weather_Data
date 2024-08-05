@@ -18,7 +18,7 @@ This is the blended series of station TAMSWEG, AUSTRIA (STAID: 24554)
 Blended and updated with sources:128924 132811 135346 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24554,135346,18951001,-9999,    9
  24554,135346,18951002,-9999,    9
  24554,135346,18951003,-9999,    9

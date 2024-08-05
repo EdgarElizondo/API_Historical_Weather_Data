@@ -18,7 +18,7 @@ This is the blended series of station LIMASSOL, CYPRUS (STAID: 24)
 Blended and updated with sources:15580 917601 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     24, 15580,19760101,  123,    0
     24, 15580,19760102,  125,    0
     24, 15580,19760103,  120,    0

@@ -18,7 +18,7 @@ This is the blended series of station ULLENSVANG FORSOKSGARD, NORWAY (STAID: 180
 Blended and updated with sources:99315 901342 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18038, 99315,19620601,   80,    0
  18038, 99315,19620602,   86,    0
  18038, 99315,19620603,   86,    0

@@ -18,7 +18,7 @@ This is the blended series of station KAUFERING, GERMANY (STAID: 4279)
 Blended and updated with sources:24440 24968 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4279, 24968,19500101,  -58,    0
   4279, 24968,19500102,    5,    0
   4279, 24968,19500103,   -2,    0

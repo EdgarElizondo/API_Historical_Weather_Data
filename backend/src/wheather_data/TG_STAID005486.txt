@@ -18,7 +18,7 @@ This is the blended series of station ASPHYTTAN, SWEDEN (STAID: 5486)
 Blended and updated with sources:36203 36230 36245 66193 902429 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5486, 36245,19450101,  -55,    0
   5486, 36245,19450102,    1,    0
   5486, 36245,19450103,    5,    0

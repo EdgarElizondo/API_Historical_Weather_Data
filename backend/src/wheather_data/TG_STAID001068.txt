@@ -18,7 +18,7 @@ This is the blended series of station TERIBERKA, RUSSIAN FEDERATION (STAID: 1068
 Blended and updated with sources:48033 922028 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1068, 48033,18930101,-9999,    9
   1068, 48033,18930102,-9999,    9
   1068, 48033,18930103,-9999,    9

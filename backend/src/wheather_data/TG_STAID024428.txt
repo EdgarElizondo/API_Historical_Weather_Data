@@ -18,7 +18,7 @@ This is the blended series of station KORNAT, AUSTRIA (STAID: 24428)
 Blended and updated with sources:131173 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24428,131173,19480101,  -45,    0
  24428,131173,19480102,   -3,    0
  24428,131173,19480103,   73,    0

@@ -18,7 +18,7 @@ This is the blended series of station BASTORP, SWEDEN (STAID: 5425)
 Blended and updated with sources:35993 65250 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5425, 65250,19490101,   18,    1
   5425, 65250,19490102,   38,    1
   5425, 65250,19490103,   37,    1

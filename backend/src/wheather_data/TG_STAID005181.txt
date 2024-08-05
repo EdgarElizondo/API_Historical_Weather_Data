@@ -18,7 +18,7 @@ This is the blended series of station BJORKA, SWEDEN (STAID: 5181)
 Blended and updated with sources:35186 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5181, 35186,19490101,-9999,    9
   5181, 35186,19490102,   38,    1
   5181, 35186,19490103,   30,    1

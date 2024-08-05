@@ -18,7 +18,7 @@ This is the blended series of station EKOFISK, NORWAY (STAID: 18179)
 Blended and updated with sources:99333 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18179, 99333,19800101,-9999,    9
  18179, 99333,19800102,-9999,    9
  18179, 99333,19800103,-9999,    9

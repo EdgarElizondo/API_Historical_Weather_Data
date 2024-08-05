@@ -18,7 +18,7 @@ This is the blended series of station VALLA, SWEDEN (STAID: 5432)
 Blended and updated with sources:36014 36020 36029 902476 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5432, 36029,19620501,   36,    0
   5432, 36029,19620502,   38,    0
   5432, 36029,19620503,   45,    0

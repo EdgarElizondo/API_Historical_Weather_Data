@@ -18,7 +18,7 @@ This is the blended series of station PASVIK, NORWAY (STAID: 18770)
 Blended and updated with sources:99541 100615 901082 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18770,100615,19560101,  -95,    0
  18770,100615,19560102, -173,    0
  18770,100615,19560103, -107,    0

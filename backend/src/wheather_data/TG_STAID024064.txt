@@ -18,7 +18,7 @@ This is the blended series of station ST.SEBASTIAN/MARIAZELL, AUSTRIA (STAID: 24
 Blended and updated with sources:126467 126480 134865 911171 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24064,134865,19480101,  -45,    0
  24064,134865,19480102,  -30,    0
  24064,134865,19480103,   15,    0

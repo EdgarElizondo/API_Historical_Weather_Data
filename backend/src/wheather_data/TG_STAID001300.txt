@@ -18,7 +18,7 @@ This is the blended series of station VALUJKI, RUSSIAN FEDERATION (STAID: 1300)
 Blended and updated with sources:51898 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1300, 51898,19360101,  -29,    0
   1300, 51898,19360102,  -32,    0
   1300, 51898,19360103,  -37,    0

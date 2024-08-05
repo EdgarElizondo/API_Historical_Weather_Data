@@ -18,7 +18,7 @@ This is the blended series of station ULVSJO, SWEDEN (STAID: 5599)
 Blended and updated with sources:36560 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5599, 36560,19771201,   13,    0
   5599, 36560,19771202,  -33,    0
   5599, 36560,19771203,  -75,    0

@@ -18,7 +18,7 @@ This is the blended series of station GRANADA/AEROPUERTO, SPAIN (STAID: 3932)
 Blended and updated with sources:20084 908419 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3932, 20084,19720701,  216,    0
   3932, 20084,19720702,  229,    0
   3932, 20084,19720703,  243,    0

@@ -18,7 +18,7 @@ This is the blended series of station SCHWANGAU-HORN, GERMANY (STAID: 4632)
 Blended and updated with sources:28676 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4632, 28676,19450101,  -78,    0
   4632, 28676,19450102, -120,    0
   4632, 28676,19450103,  -76,    0

@@ -18,7 +18,7 @@ This is the blended series of station NAGORNY'J, RUSSIAN FEDERATION (STAID: 8322
 Blended and updated with sources:50768 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8322, 50768,19360101, -360,    0
   8322, 50768,19360102, -361,    0
   8322, 50768,19360103, -450,    0

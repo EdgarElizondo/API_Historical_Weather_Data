@@ -18,7 +18,7 @@ This is the blended series of station ACHENKIRCH CAMPINGPLATZ, AUSTRIA (STAID: 2
 Blended and updated with sources:127949 134072 135905 911266 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24652,127949,19510501,   59,    0
  24652,127949,19510502,   84,    0
  24652,127949,19510503,  101,    0

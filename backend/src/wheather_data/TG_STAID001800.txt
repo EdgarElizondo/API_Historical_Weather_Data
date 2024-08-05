@@ -18,7 +18,7 @@ This is the blended series of station AUCHINCRUIVE, UNITED KINGDOM (STAID: 1800)
 Blended and updated with sources:6994 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1800,  6994,19600101,   62,    1
   1800,  6994,19600102,   16,    0
   1800,  6994,19600103,   47,    0

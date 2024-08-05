@@ -18,7 +18,7 @@ This is the blended series of station SUPRASL, POLAND (STAID: 25102)
 Blended and updated with sources:139674 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25102,139674,20120101,  -23,    0
  25102,139674,20120102,   24,    0
  25102,139674,20120103,   33,    0

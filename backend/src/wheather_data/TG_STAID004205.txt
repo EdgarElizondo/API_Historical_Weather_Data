@@ -18,7 +18,7 @@ This is the blended series of station HEIDENROD-MAPPERSHAIN, GERMANY (STAID: 420
 Blended and updated with sources:23552 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4205, 23552,19520201,  -23,    0
   4205, 23552,19520202,  -22,    0
   4205, 23552,19520203,  -11,    0

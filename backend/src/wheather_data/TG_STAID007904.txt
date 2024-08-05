@@ -18,7 +18,7 @@ This is the blended series of station INARI NELLIM, FINLAND (STAID: 7904)
 Blended and updated with sources:46766 46781 902835 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7904, 46766,19590101,  -88,    0
   7904, 46766,19590102, -102,    0
   7904, 46766,19590103, -144,    0

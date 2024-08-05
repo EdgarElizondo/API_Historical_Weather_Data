@@ -18,7 +18,7 @@ This is the blended series of station SECKAU, AUSTRIA (STAID: 24772)
 Blended and updated with sources:135632 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24772,135632,18950101,-9999,    9
  24772,135632,18950102,-9999,    9
  24772,135632,18950103,-9999,    9

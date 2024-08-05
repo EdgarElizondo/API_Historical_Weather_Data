@@ -18,7 +18,7 @@ This is the blended series of station STORFINNFORSEN, SWEDEN (STAID: 5688)
 Blended and updated with sources:36857 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5688, 36857,19610101,  -38,    0
   5688, 36857,19610102,  -52,    0
   5688, 36857,19610103,  -36,    0

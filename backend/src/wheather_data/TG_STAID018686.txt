@@ -18,7 +18,7 @@ This is the blended series of station FV313 BOGEN, NORWAY (STAID: 18686)
 Blended and updated with sources:99264 99690 99702 100881 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18686,100881,20020101,  -23,    0
  18686,100881,20020102, -113,    0
  18686,100881,20020103, -147,    0

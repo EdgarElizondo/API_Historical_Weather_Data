@@ -18,7 +18,7 @@ This is the blended series of station KRISTIINANKAUPUNKI MAJAKKA, FINLAND (STAID
 Blended and updated with sources:43344 43369 902752 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7242, 43344,19740101,  -35,    0
   7242, 43344,19740102,  -36,    0
   7242, 43344,19740103,   -4,    0

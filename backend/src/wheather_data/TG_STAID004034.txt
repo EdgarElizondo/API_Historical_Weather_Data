@@ -18,7 +18,7 @@ This is the blended series of station EBERSBACH/FILS, GERMANY (STAID: 4034)
 Blended and updated with sources:21500 30812 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4034, 30812,19510101,   10,    0
   4034, 30812,19510102,   20,    0
   4034, 30812,19510103,   11,    0

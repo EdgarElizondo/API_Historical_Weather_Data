@@ -18,7 +18,7 @@ This is the blended series of station WROCLAW, POLAND (STAID: 210)
 Blended and updated with sources:661 912424 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    210,   661,19510101,  -69,    0
    210,   661,19510102,   16,    0
    210,   661,19510103,   22,    0

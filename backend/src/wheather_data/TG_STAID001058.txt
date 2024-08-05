@@ -18,7 +18,7 @@ This is the blended series of station SIHCCAJAVRI, NORWAY (STAID: 1058)
 Blended and updated with sources:9487 901199 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1058,  9487,19130401,  -44,    0
   1058,  9487,19130402,  -30,    0
   1058,  9487,19130403,  -52,    0

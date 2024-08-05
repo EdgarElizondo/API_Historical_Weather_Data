@@ -18,7 +18,7 @@ This is the blended series of station ROTVAER, NORWAY (STAID: 18140)
 Blended and updated with sources:99219 901105 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18140, 99219,20080501,-9999,    9
  18140, 99219,20080502,   99,    0
  18140, 99219,20080503,   99,    0

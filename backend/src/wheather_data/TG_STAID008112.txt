@@ -18,7 +18,7 @@ This is the blended series of station NAKANNO, RUSSIAN FEDERATION (STAID: 8112)
 Blended and updated with sources:48718 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8112, 48718,19140101,-9999,    9
   8112, 48718,19140102,-9999,    9
   8112, 48718,19140103,-9999,    9

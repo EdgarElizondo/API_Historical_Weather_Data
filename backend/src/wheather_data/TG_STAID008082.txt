@@ -18,7 +18,7 @@ This is the blended series of station TOL'KA, RUSSIAN FEDERATION (STAID: 8082)
 Blended and updated with sources:48533 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8082, 48533,19470101,-9999,    9
   8082, 48533,19470102,-9999,    9
   8082, 48533,19470103,-9999,    9

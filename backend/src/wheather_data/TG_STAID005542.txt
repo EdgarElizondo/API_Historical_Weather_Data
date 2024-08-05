@@ -18,7 +18,7 @@ This is the blended series of station OSTMARK-RANNBERG, SWEDEN (STAID: 5542)
 Blended and updated with sources:36374 36377 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5542, 36374,19550901,  165,    0
   5542, 36374,19550902,  128,    0
   5542, 36374,19550903,  129,    0

@@ -18,7 +18,7 @@ This is the blended series of station SUOMUSSALMI KK, FINLAND (STAID: 7717)
 Blended and updated with sources:45815 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7717, 45815,19590101, -107,    0
   7717, 45815,19590102, -120,    0
   7717, 45815,19590103, -121,    0

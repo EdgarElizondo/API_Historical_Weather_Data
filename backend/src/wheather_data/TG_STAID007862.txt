@@ -18,7 +18,7 @@ This is the blended series of station INARI SAARISELKA KAUNISPAA, FINLAND (STAID
 Blended and updated with sources:46566 902817 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7862, 46566,19951101,-9999,    9
   7862, 46566,19951102,-9999,    9
   7862, 46566,19951103,-9999,    9

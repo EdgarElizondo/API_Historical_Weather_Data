@@ -18,7 +18,7 @@ This is the blended series of station OLANDSBRON V, SWEDEN (STAID: 5228)
 Blended and updated with sources:35336 35339 35351 63300 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5228, 63300,18680101,  -56,    1
   5228, 63300,18680102,  -49,    1
   5228, 63300,18680103,  -39,    1

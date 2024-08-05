@@ -18,7 +18,7 @@ This is the blended series of station STRENGEN, NORWAY (STAID: 19691)
 Blended and updated with sources:118342 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19691,118342,20210301,-9999,    9
  19691,118342,20210302,-9999,    9
  19691,118342,20210303,-9999,    9

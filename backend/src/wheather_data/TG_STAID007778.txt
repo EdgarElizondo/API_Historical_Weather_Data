@@ -18,7 +18,7 @@ This is the blended series of station KUUSAMO LENTOASEMA, FINLAND (STAID: 7778)
 Blended and updated with sources:46060 46130 902869 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7778, 46060,19590101, -122,    0
   7778, 46060,19590102, -125,    0
   7778, 46060,19590103, -127,    0

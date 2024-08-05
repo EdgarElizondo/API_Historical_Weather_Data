@@ -18,7 +18,7 @@ This is the blended series of station HATTFJELLDAL IV, NORWAY (STAID: 18859)
 Blended and updated with sources:100717 100996 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18859,100717,19620701,  110,    0
  18859,100717,19620702,  109,    0
  18859,100717,19620703,  110,    0

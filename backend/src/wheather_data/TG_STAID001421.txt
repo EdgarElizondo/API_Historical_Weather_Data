@@ -18,7 +18,7 @@ This is the blended series of station KARLSHAMN, SWEDEN (STAID: 1421)
 Blended and updated with sources:35255 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1421, 35255,18710101, -175,    1
   1421, 35255,18710102, -169,    1
   1421, 35255,18710103,  -14,    1

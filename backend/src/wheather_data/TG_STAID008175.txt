@@ -18,7 +18,7 @@ This is the blended series of station INZA, RUSSIAN FEDERATION (STAID: 8175)
 Blended and updated with sources:49598 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8175, 49598,19360101,  -31,    0
   8175, 49598,19360102,  -32,    0
   8175, 49598,19360103,  -30,    0

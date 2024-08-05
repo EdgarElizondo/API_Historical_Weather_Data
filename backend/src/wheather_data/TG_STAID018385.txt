@@ -18,7 +18,7 @@ This is the blended series of station FV287 SANDSBRATEN, NORWAY (STAID: 18385)
 Blended and updated with sources:99133 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18385, 99133,20181201,-9999,    9
  18385, 99133,20181202,-9999,    9
  18385, 99133,20181203,-9999,    9

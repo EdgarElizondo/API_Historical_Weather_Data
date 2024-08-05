@@ -18,7 +18,7 @@ This is the blended series of station ROEST, NORWAY (STAID: 19007)
 Blended and updated with sources:99078 100698 100864 100886 901106 901107 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19007,100886,19570101,   14,    0
  19007,100886,19570102,    6,    0
  19007,100886,19570103,    4,    0

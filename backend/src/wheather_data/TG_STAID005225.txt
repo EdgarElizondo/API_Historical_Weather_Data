@@ -18,7 +18,7 @@ This is the blended series of station RORSBO, SWEDEN (STAID: 5225)
 Blended and updated with sources:35309 35327 35333 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5225, 35327,19490101,   21,    1
   5225, 35327,19490102,   30,    1
   5225, 35327,19490103,   26,    1

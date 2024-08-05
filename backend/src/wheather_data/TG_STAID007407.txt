@@ -18,7 +18,7 @@ This is the blended series of station GASHALLAN/NARPIO, FINLAND (STAID: 7407)
 Blended and updated with sources:44215 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7407, 44215,19670401,   -4,    0
   7407, 44215,19670402,  -29,    0
   7407, 44215,19670403,  -12,    0

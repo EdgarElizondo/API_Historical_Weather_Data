@@ -18,7 +18,7 @@ This is the blended series of station SELBU - STUBBE, NORWAY (STAID: 18887)
 Blended and updated with sources:100753 901274 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18887,100753,19790901,   73,    0
  18887,100753,19790902,   85,    0
  18887,100753,19790903,  121,    0

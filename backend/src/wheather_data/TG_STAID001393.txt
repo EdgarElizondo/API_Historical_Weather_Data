@@ -18,7 +18,7 @@ This is the blended series of station BILBAO AEROPUERTO, SPAIN (STAID: 1393)
 Blended and updated with sources:20606 908025 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1393, 20606,19470301,-9999,    9
   1393, 20606,19470302,-9999,    9
   1393, 20606,19470303,-9999,    9

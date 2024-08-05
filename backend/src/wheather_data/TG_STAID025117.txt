@@ -18,7 +18,7 @@ This is the blended series of station LISEWO, POLAND (STAID: 25117)
 Blended and updated with sources:139854 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25117,139854,19750201,    0,    0
  25117,139854,19750202,   26,    0
  25117,139854,19750203,    9,    0

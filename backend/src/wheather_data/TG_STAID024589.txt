@@ -18,7 +18,7 @@ This is the blended series of station KRIMML, AUSTRIA (STAID: 24589)
 Blended and updated with sources:133253 133266 134735 911136 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24589,134735,19530601,-9999,    9
  24589,134735,19530602,-9999,    9
  24589,134735,19530603,-9999,    9

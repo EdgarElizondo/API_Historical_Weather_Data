@@ -18,7 +18,7 @@ This is the blended series of station MAKOW PODHALANSKI, POLAND (STAID: 24870)
 Blended and updated with sources:136890 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24870,136890,19560101,   -1,    0
  24870,136890,19560102,   25,    0
  24870,136890,19560103,  -38,    0

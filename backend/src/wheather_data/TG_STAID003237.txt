@@ -18,7 +18,7 @@ This is the blended series of station BODAJBO, RUSSIAN FEDERATION (STAID: 3237)
 Blended and updated with sources:17136 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3237, 17136,19360101, -275,    0
   3237, 17136,19360102, -265,    0
   3237, 17136,19360103, -425,    0

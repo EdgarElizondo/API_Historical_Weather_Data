@@ -18,7 +18,7 @@ This is the blended series of station AVILA, SPAIN (STAID: 3914)
 Blended and updated with sources:19832 19841 908210 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3914, 19841,19530101,-9999,    9
   3914, 19841,19530102,-9999,    9
   3914, 19841,19530103,-9999,    9

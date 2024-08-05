@@ -18,7 +18,7 @@ This is the blended series of station MOLDE LUFTHAVN, NORWAY (STAID: 5047)
 Blended and updated with sources:33664 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5047, 33664,19970601,-9999,    9
   5047, 33664,19970602,-9999,    9
   5047, 33664,19970603,-9999,    9

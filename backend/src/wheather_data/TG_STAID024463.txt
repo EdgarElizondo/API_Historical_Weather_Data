@@ -18,7 +18,7 @@ This is the blended series of station ADMONT, AUSTRIA (STAID: 24463)
 Blended and updated with sources:126987 131628 131693 136074 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24463,126987,18950701,-9999,    9
  24463,126987,18950702,-9999,    9
  24463,126987,18950703,-9999,    9

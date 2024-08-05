@@ -18,7 +18,7 @@ This is the blended series of station BERNSTEIN, AUSTRIA (STAID: 24637)
 Blended and updated with sources:128404 133864 133877 134345 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24637,134345,19470101,-9999,    9
  24637,134345,19470102,-9999,    9
  24637,134345,19470103,-9999,    9

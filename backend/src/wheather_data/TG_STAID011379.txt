@@ -18,7 +18,7 @@ This is the blended series of station KOLASIN, MONTENEGRO (STAID: 11379)
 Blended and updated with sources:75540 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11379, 75540,20160701,  192,    0
  11379, 75540,20160702,  202,    0
  11379, 75540,20160703,  205,    0

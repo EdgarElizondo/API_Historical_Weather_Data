@@ -18,7 +18,7 @@ This is the blended series of station BERLIN-SPANDAU, GERMANY (STAID: 4575)
 Blended and updated with sources:21152 27992 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4575, 21152,19630101, -124,    0
   4575, 21152,19630102, -102,    0
   4575, 21152,19630103,  -72,    0

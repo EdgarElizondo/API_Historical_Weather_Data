@@ -18,7 +18,7 @@ This is the blended series of station MARISTOVA, NORWAY (STAID: 2696)
 Blended and updated with sources:10826 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2696, 10826,20211001,-9999,    9
   2696, 10826,20211002,-9999,    9
   2696, 10826,20211003,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station PFORZHEIM-EUTINGEN, GERMANY (STAID: 4517)
 Blended and updated with sources:26216 27296 910736 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4517, 27296,19370101,   14,    0
   4517, 27296,19370102,   56,    0
   4517, 27296,19370103,   72,    0

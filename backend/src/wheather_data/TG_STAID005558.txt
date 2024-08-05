@@ -18,7 +18,7 @@ This is the blended series of station HAMMARBY, SWEDEN (STAID: 5558)
 Blended and updated with sources:36428 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5558, 36428,19490930,  103,    1
   5558, 36428,19491001,  132,    1
   5558, 36428,19491002,  131,    1

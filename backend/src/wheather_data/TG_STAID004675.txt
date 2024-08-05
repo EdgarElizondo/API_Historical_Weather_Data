@@ -18,7 +18,7 @@ This is the blended series of station TEGKWITZ, GERMANY (STAID: 4675)
 Blended and updated with sources:29192 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4675, 29192,19941001,  120,    0
   4675, 29192,19941002,  124,    0
   4675, 29192,19941003,  114,    0

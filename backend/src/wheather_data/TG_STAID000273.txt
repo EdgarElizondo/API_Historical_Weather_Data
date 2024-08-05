@@ -18,7 +18,7 @@ This is the blended series of station HULL, UNITED KINGDOM (STAID: 273)
 Blended and updated with sources:930 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    273,   930,19050601,-9999,    9
    273,   930,19050602,  150,    0
    273,   930,19050603,  150,    0

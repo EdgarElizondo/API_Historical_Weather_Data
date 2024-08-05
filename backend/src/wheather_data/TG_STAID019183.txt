@@ -18,7 +18,7 @@ This is the blended series of station DUEKNIPEN, NORWAY (STAID: 19183)
 Blended and updated with sources:99132 100945 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19183, 99132,20130101,-9999,    9
  19183, 99132,20130102,-9999,    9
  19183, 99132,20130103,-9999,    9

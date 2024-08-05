@@ -18,7 +18,7 @@ This is the blended series of station DEVA, ROMANIA (STAID: 962)
 Blended and updated with sources:7509 915230 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    962,  7509,19610101,   18,    0
    962,  7509,19610102,   21,    0
    962,  7509,19610103,   44,    0

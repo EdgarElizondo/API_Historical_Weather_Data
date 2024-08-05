@@ -18,7 +18,7 @@ This is the blended series of station NAUDERS, AUSTRIA (STAID: 24291)
 Blended and updated with sources:129392 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24291,129392,19580601,  133,    0
  24291,129392,19580602,  148,    0
  24291,129392,19580603,  150,    0

@@ -18,7 +18,7 @@ This is the blended series of station SANKT PETER-ORDING, GERMANY (STAID: 4594)
 Blended and updated with sources:28220 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4594, 28220,19510101,  -27,    0
   4594, 28220,19510102,   -6,    0
   4594, 28220,19510103,    6,    0

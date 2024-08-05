@@ -18,7 +18,7 @@ This is the blended series of station HARNO, SWEDEN (STAID: 5640)
 Blended and updated with sources:36695 36698 36701 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5640, 36698,18680101, -107,    1
   5640, 36698,18680102,  -75,    1
   5640, 36698,18680103,  -94,    1

@@ -18,7 +18,7 @@ This is the blended series of station TG JIU, ROMANIA (STAID: 224)
 Blended and updated with sources:876 915340 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    224,   876,18990101,   32,    0
    224,   876,18990102,   -3,    0
    224,   876,18990103,   15,    0

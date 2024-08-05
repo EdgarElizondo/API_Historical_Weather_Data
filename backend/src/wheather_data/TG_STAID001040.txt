@@ -18,7 +18,7 @@ This is the blended series of station ROROS, NORWAY (STAID: 1040)
 Blended and updated with sources:9615 9624 901288 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1040,  9615,18950101,-9999,    9
   1040,  9615,18950102,-9999,    9
   1040,  9615,18950103,-9999,    9

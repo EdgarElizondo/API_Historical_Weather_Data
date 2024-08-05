@@ -18,7 +18,7 @@ This is the blended series of station ALSFELD-REIBERTENROD, GERMANY (STAID: 4968
 Blended and updated with sources:32708 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4968, 32708,19771201,    6,    0
   4968, 32708,19771202,   -2,    0
   4968, 32708,19771203,    0,    0

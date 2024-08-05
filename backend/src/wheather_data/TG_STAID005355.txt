@@ -18,7 +18,7 @@ This is the blended series of station BORGUNDA, SWEDEN (STAID: 5355)
 Blended and updated with sources:35762 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5355, 35762,19710201,  -44,    0
   5355, 35762,19710202,  -54,    0
   5355, 35762,19710203,   -3,    0

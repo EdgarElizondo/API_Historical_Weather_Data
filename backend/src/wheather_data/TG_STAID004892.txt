@@ -18,7 +18,7 @@ This is the blended series of station LIEBENBURG-OTHFRESEN, GERMANY (STAID: 4892
 Blended and updated with sources:31796 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4892, 31796,20041101,   78,    0
   4892, 31796,20041102,   78,    0
   4892, 31796,20041103,  105,    0

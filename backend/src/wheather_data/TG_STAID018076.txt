@@ -18,7 +18,7 @@ This is the blended series of station OSLO - HAUGENSTUA, NORWAY (STAID: 18076)
 Blended and updated with sources:56681 99040 99308 99421 99743 100676 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18076,100676,19610101,  -11,    0
  18076,100676,19610102,  -10,    0
  18076,100676,19610103,    6,    0

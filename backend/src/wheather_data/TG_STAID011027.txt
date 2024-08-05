@@ -18,7 +18,7 @@ This is the blended series of station CERVERA, SPAIN (STAID: 11027)
 Blended and updated with sources:56103 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11027, 56103,20080101,-9999,    9
  11027, 56103,20080102,-9999,    9
  11027, 56103,20080103,-9999,    9

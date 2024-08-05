@@ -18,7 +18,7 @@ This is the blended series of station SMOLA - MOLDSTAD, NORWAY (STAID: 5051)
 Blended and updated with sources:33712 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5051, 33712,19630101,-9999,    9
   5051, 33712,19630102,-9999,    9
   5051, 33712,19630103,-9999,    9

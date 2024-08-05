@@ -18,7 +18,7 @@ This is the blended series of station ZOSENI, LATVIA (STAID: 8893)
 Blended and updated with sources:119090 926339 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8893,119090,19450501,   75,    0
   8893,119090,19450502,   94,    0
   8893,119090,19450503,  127,    0

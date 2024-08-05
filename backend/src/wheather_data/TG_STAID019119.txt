@@ -18,7 +18,7 @@ This is the blended series of station KJOEREMSGRENDE TEST, NORWAY (STAID: 19119)
 Blended and updated with sources:595 99380 100994 101024 901233 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19119,100994,19000101,  -39,    1
  19119,100994,19000102,  -92,    0
  19119,100994,19000103,  -94,    0

@@ -18,7 +18,7 @@ This is the blended series of station BISKUPIEC, POLAND (STAID: 25090)
 Blended and updated with sources:139530 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25090,139530,19610101,   -1,    0
  25090,139530,19610102,   -3,    0
  25090,139530,19610103,    5,    0

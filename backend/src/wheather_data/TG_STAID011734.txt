@@ -18,7 +18,7 @@ This is the blended series of station BERCHTESGADEN (KKST), GERMANY (STAID: 1173
 Blended and updated with sources:80866 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11734, 80866,19480101,  -24,    0
  11734, 80866,19480102,   17,    0
  11734, 80866,19480103,   37,    0

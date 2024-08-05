@@ -18,7 +18,7 @@ This is the blended series of station FV310 KOTTERUD, NORWAY (STAID: 18390)
 Blended and updated with sources:99141 99238 99359 99440 99622 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18390, 99141,20130101,-9999,    9
  18390, 99141,20130102,-9999,    9
  18390, 99141,20130103,-9999,    9

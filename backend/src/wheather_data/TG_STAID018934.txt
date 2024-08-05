@@ -18,7 +18,7 @@ This is the blended series of station NAMDALSEID - VENGSTAD, NORWAY (STAID: 1893
 Blended and updated with sources:100800 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18934,100800,20010301, -154,    0
  18934,100800,20010302, -129,    0
  18934,100800,20010303, -124,    0

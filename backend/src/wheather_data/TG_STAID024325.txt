@@ -18,7 +18,7 @@ This is the blended series of station LAAS, AUSTRIA (STAID: 24325)
 Blended and updated with sources:129834 136542 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24325,136542,19440501,   92,    0
  24325,136542,19440502,  108,    0
  24325,136542,19440503,  135,    0

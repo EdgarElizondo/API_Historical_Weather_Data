@@ -18,7 +18,7 @@ This is the blended series of station HALESOWEN, UNITED KINGDOM (STAID: 1856)
 Blended and updated with sources:7050 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1856,  7050,19600101,   92,    1
   1856,  7050,19600102,   50,    0
   1856,  7050,19600103,   72,    0

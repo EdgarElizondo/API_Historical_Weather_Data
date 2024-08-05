@@ -18,7 +18,7 @@ This is the blended series of station SPITTAL/DRAU, AUSTRIA (STAID: 24792)
 Blended and updated with sources:131498 135892 911272 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24792,135892,19770401,   49,    0
  24792,135892,19770402,   71,    0
  24792,135892,19770403,   76,    0

@@ -18,7 +18,7 @@ This is the blended series of station LANGOEYTANGEN FYR, NORWAY (STAID: 18836)
 Blended and updated with sources:99399 100695 901462 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18836,100695,19720701,  200,    0
  18836,100695,19720702,  158,    0
  18836,100695,19720703,  145,    0

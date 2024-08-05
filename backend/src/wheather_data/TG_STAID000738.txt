@@ -18,7 +18,7 @@ This is the blended series of station CAEN-CARPIQUET, FRANCE (STAID: 738)
 Blended and updated with sources:4045 907027 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    738,  4045,19451001,  114,    0
    738,  4045,19451002,  129,    0
    738,  4045,19451003,  116,    0

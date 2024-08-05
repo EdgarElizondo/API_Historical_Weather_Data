@@ -18,7 +18,7 @@ This is the blended series of station MARE III, NORWAY (STAID: 18071)
 Blended and updated with sources:99708 100997 901277 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18071,901277,19961201,-9999,    9
  18071,901277,19961202,-9999,    9
  18071,901277,19961203,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station GARDERMOEN - SOEROEST, NORWAY (STAID: 2177
 Blended and updated with sources:9516 99660 118190 901384 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21776,  9516,19561201,-9999,    9
  21776,  9516,19561202,-9999,    9
  21776,  9516,19561203,-9999,    9

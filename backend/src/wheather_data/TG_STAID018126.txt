@@ -18,7 +18,7 @@ This is the blended series of station TJOEME, NORWAY (STAID: 18126)
 Blended and updated with sources:35020 99186 99679 100847 901482 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18126, 35020,19590101,-9999,    9
  18126, 35020,19590102,-9999,    9
  18126, 35020,19590103,-9999,    9

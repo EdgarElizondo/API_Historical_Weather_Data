@@ -18,7 +18,7 @@ This is the blended series of station FOLLINGE-VAGSKALET, SWEDEN (STAID: 5695)
 Blended and updated with sources:36884 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5695, 36884,19800201, -220,    0
   5695, 36884,19800202,  -86,    0
   5695, 36884,19800203,  -94,    0

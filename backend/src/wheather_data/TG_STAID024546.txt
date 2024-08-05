@@ -18,7 +18,7 @@ This is the blended series of station NEUMARKTER SATTEL, AUSTRIA (STAID: 24546)
 Blended and updated with sources:132707 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24546,132707,19870101,   38,    0
  24546,132707,19870102,   18,    0
  24546,132707,19870103,  -20,    0

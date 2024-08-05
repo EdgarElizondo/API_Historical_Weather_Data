@@ -18,7 +18,7 @@ This is the blended series of station SZCZECIN, POLAND (STAID: 208)
 Blended and updated with sources:653 912205 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    208,   653,19201201,   -9,    0
    208,   653,19201202,    2,    0
    208,   653,19201203,    4,    0

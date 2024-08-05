@@ -18,7 +18,7 @@ This is the blended series of station MENORCA/MAO, SPAIN (STAID: 3917)
 Blended and updated with sources:19859 908314 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3917, 19859,19650101,  107,    0
   3917, 19859,19650102,  116,    0
   3917, 19859,19650103,-9999,    9

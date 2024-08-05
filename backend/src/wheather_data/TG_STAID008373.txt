@@ -18,7 +18,7 @@ This is the blended series of station IVOLGINSK, RUSSIAN FEDERATION (STAID: 8373
 Blended and updated with sources:51023 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8373, 51023,19660101, -278,    0
   8373, 51023,19660102, -274,    0
   8373, 51023,19660103, -246,    0

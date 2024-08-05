@@ -18,7 +18,7 @@ This is the blended series of station DIGA DI PAVANA, ITALY (STAID: 2807)
 Blended and updated with sources:95160 95184 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2807, 95160,20180401,-9999,    9
   2807, 95160,20180402,-9999,    9
   2807, 95160,20180403,-9999,    9

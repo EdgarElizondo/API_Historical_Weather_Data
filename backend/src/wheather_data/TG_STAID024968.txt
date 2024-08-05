@@ -18,7 +18,7 @@ This is the blended series of station BODZENTYN, POLAND (STAID: 24968)
 Blended and updated with sources:138066 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24968,138066,19810101,   20,    0
  24968,138066,19810102,   -5,    0
  24968,138066,19810103,   13,    0

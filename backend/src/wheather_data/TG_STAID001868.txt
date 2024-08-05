@@ -18,7 +18,7 @@ This is the blended series of station EVERTON, UNITED KINGDOM (STAID: 1868)
 Blended and updated with sources:7062 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1868,  7062,19600101,  112,    1
   1868,  7062,19600102,   92,    0
   1868,  7062,19600103,   92,    0

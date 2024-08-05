@@ -18,7 +18,7 @@ This is the blended series of station HATTFJELLDAL III, NORWAY (STAID: 19028)
 Blended and updated with sources:100912 100993 101011 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19028,100993,19110101,  -86,    0
  19028,100993,19110102, -265,    1
  19028,100993,19110103, -317,    1

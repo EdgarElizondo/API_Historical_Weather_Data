@@ -18,7 +18,7 @@ This is the blended series of station NOWY SACZ, POLAND (STAID: 932)
 Blended and updated with sources:6397 912660 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    932,  6397,19540101,  -82,    0
    932,  6397,19540102, -159,    0
    932,  6397,19540103, -110,    0

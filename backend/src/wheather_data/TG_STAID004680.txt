@@ -18,7 +18,7 @@ This is the blended series of station THOLEY, GERMANY (STAID: 4680)
 Blended and updated with sources:28232 28244 29252 910706 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4680, 28232,19510101,    8,    0
   4680, 28232,19510102,    4,    0
   4680, 28232,19510103,   -1,    0

@@ -18,7 +18,7 @@ This is the blended series of station ALBSTADT-EBINGEN, GERMANY (STAID: 4893)
 Blended and updated with sources:31808 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4893, 31808,19730601,  152,    0
   4893, 31808,19730602,  103,    0
   4893, 31808,19730603,  118,    0

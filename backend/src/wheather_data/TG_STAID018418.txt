@@ -18,7 +18,7 @@ This is the blended series of station RV5 FRUDALEN, NORWAY (STAID: 18418)
 Blended and updated with sources:99197 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18418, 99197,20140101,-9999,    9
  18418, 99197,20140102,-9999,    9
  18418, 99197,20140103,   16,    0

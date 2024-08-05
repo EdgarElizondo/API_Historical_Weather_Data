@@ -18,7 +18,7 @@ This is the blended series of station ROVANIEMI LENTOASEMA, FINLAND (STAID: 733)
 Blended and updated with sources:46205 902845 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    733, 46205,19590101, -100,    0
    733, 46205,19590102, -105,    0
    733, 46205,19590103, -121,    0

@@ -18,7 +18,7 @@ This is the blended series of station STUTTGART-HOHENHEIM, GERMANY (STAID: 4671)
 Blended and updated with sources:29144 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4671, 29144,19000101,   74,    0
   4671, 29144,19000102,   62,    0
   4671, 29144,19000103,   67,    0

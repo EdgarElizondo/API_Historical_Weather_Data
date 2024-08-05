@@ -18,7 +18,7 @@ This is the blended series of station ATBASAR, KAZAKHSTAN (STAID: 3022)
 Blended and updated with sources:17532 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3022, 17532,19360101, -123,    0
   3022, 17532,19360102, -129,    0
   3022, 17532,19360103, -152,    0

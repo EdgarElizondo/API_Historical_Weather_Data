@@ -18,7 +18,7 @@ This is the blended series of station VESPIGNANO, ITALY (STAID: 17842)
 Blended and updated with sources:97088 97800 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17842, 97800,20110501,  155,    0
  17842, 97800,20110502,  158,    0
  17842, 97800,20110503,  169,    0

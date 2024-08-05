@@ -18,7 +18,7 @@ This is the blended series of station ASCHERSLEBEN, GERMANY (STAID: 4200)
 Blended and updated with sources:23492 25868 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4200, 23492,19470101,  -67,    0
   4200, 23492,19470102,  -30,    0
   4200, 23492,19470103,  -43,    0

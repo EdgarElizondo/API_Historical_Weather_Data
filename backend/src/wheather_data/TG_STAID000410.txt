@@ -18,7 +18,7 @@ This is the blended series of station VASILEVICI, BELARUS (STAID: 410)
 Blended and updated with sources:17447 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    410, 17447,18810101,   13,    0
    410, 17447,18810102,  -33,    0
    410, 17447,18810103,  -12,    0

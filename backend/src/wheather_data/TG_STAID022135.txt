@@ -18,7 +18,7 @@ This is the blended series of station HASENKRUG-HARDEBEK, GERMANY (STAID: 22135)
 Blended and updated with sources:32288 120193 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22135, 32288,20070901,  143,    0
  22135, 32288,20070902,  151,    0
  22135, 32288,20070903,  124,    0

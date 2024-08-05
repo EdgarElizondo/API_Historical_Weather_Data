@@ -18,7 +18,7 @@ This is the blended series of station GULBENE, LATVIA (STAID: 198)
 Blended and updated with sources:613 926348 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    198,   613,19230101,-9999,    9
    198,   613,19230102,-9999,    9
    198,   613,19230103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station EISENSTADT, AUSTRIA (STAID: 24080)
 Blended and updated with sources:126662 126675 126688 911190 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24080,126675,19360101,   80,    0
  24080,126675,19360102,   64,    0
  24080,126675,19360103,   66,    0

@@ -18,7 +18,7 @@ This is the blended series of station PIDING, GERMANY (STAID: 4932)
 Blended and updated with sources:27656 32276 911150 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4932, 27656,19350101,   31,    0
   4932, 27656,19350102,   22,    0
   4932, 27656,19350103,   14,    0

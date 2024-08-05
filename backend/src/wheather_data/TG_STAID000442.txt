@@ -18,7 +18,7 @@ This is the blended series of station VOLKEL, NETHERLANDS (STAID: 442)
 Blended and updated with sources:2475 906375 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    442,  2475,19510301,-9999,    9
    442,  2475,19510302,   11,    0
    442,  2475,19510303,-9999,    9

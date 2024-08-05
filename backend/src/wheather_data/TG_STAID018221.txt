@@ -18,7 +18,7 @@ This is the blended series of station RENA FLYPLASS, NORWAY (STAID: 18221)
 Blended and updated with sources:9703 99444 901389 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18221,  9703,19580101, -185,    0
  18221,  9703,19580102, -205,    0
  18221,  9703,19580103, -228,    0

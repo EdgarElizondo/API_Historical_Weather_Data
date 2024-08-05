@@ -18,7 +18,7 @@ This is the blended series of station KURIL'SK, RUSSIAN FEDERATION (STAID: 8495)
 Blended and updated with sources:51633 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8495, 51633,19500101,-9999,    9
   8495, 51633,19500102,-9999,    9
   8495, 51633,19500103,-9999,    9

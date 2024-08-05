@@ -18,7 +18,7 @@ This is the blended series of station CHERNYAEVO, RUSSIAN FEDERATION (STAID: 841
 Blended and updated with sources:51238 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8416, 51238,19010101, -240,    0
   8416, 51238,19010102, -243,    0
   8416, 51238,19010103, -228,    0

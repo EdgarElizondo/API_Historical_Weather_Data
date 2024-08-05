@@ -18,7 +18,7 @@ This is the blended series of station PADULLE_SALA_BOLOGNESE, ITALY (STAID: 1771
 Blended and updated with sources:94720 96360 97016 916140 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17711,916140,20051201,-9999,    9
  17711,916140,20051202,   25,    0
  17711,916140,20051203,   47,    0

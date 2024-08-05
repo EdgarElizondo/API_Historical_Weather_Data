@@ -18,7 +18,7 @@ This is the blended series of station PODERSDORF, AUSTRIA (STAID: 24087)
 Blended and updated with sources:126740 126766 131589 134943 911072 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24087,126740,19360101,   77,    0
  24087,126740,19360102,   59,    0
  24087,126740,19360103,   62,    0

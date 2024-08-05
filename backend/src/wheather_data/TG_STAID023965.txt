@@ -18,7 +18,7 @@ This is the blended series of station KOENIGSWIESEN, AUSTRIA (STAID: 23965)
 Blended and updated with sources:125193 125219 134709 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23965,125193,19460701,  231,    0
  23965,125193,19460702,  239,    0
  23965,125193,19460703,  208,    0

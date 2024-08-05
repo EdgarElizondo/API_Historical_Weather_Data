@@ -18,7 +18,7 @@ This is the blended series of station ROSENHEIM, GERMANY (STAID: 4567)
 Blended and updated with sources:27896 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4567, 27896,19500101,  -49,    0
   4567, 27896,19500102,   24,    0
   4567, 27896,19500103,   22,    0

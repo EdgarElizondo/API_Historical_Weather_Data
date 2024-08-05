@@ -18,7 +18,7 @@ This is the blended series of station WIERZCHOWO, POLAND (STAID: 25075)
 Blended and updated with sources:139350 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25075,139350,19610101,    3,    0
  25075,139350,19610102,   -1,    0
  25075,139350,19610103,   11,    0

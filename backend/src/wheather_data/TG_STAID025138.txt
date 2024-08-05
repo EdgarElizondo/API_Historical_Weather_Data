@@ -18,7 +18,7 @@ This is the blended series of station LEGNICA, POLAND (STAID: 25138)
 Blended and updated with sources:140106 912415 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25138,140106,19510101,  -81,    0
  25138,140106,19510102,   17,    0
  25138,140106,19510103,   36,    0

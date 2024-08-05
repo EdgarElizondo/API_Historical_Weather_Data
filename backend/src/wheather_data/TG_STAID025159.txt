@@ -18,7 +18,7 @@ This is the blended series of station FARKOLLEN, NORWAY (STAID: 25159)
 Blended and updated with sources:140900 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25159,140900,20220601,-9999,    9
  25159,140900,20220602,-9999,    9
  25159,140900,20220603,-9999,    9

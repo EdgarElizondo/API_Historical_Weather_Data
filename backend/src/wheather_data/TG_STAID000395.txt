@@ -18,7 +18,7 @@ This is the blended series of station GYZYLARBAT, TURKMENISTAN (STAID: 395)
 Blended and updated with sources:17712 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    395, 17712,18830801,  335,    1
    395, 17712,18830802,  329,    1
    395, 17712,18830803,  333,    1

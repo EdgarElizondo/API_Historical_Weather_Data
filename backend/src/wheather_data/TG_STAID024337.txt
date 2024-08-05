@@ -18,7 +18,7 @@ This is the blended series of station KANZELHOEHE, AUSTRIA (STAID: 24337)
 Blended and updated with sources:129977 129990 135606 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24337,135606,19380101,  -96,    0
  24337,135606,19380102,  -89,    0
  24337,135606,19380103, -132,    0

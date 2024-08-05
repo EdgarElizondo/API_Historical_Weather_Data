@@ -18,7 +18,7 @@ This is the blended series of station E16 EIDESMOEN, NORWAY (STAID: 18592)
 Blended and updated with sources:99217 99514 100732 101016 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18592,100732,19350801,-9999,    9
  18592,100732,19350802,-9999,    9
  18592,100732,19350803,-9999,    9

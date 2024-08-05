@@ -18,7 +18,7 @@ This is the blended series of station RV77 GRADDIS, NORWAY (STAID: 18721)
 Blended and updated with sources:99741 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18721, 99741,20161101,-9999,    9
  18721, 99741,20161102,-9999,    9
  18721, 99741,20161103,-9999,    9

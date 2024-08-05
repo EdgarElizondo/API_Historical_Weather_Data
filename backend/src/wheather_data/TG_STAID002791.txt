@@ -18,7 +18,7 @@ This is the blended series of station CASTEL DEL RIO, ITALY (STAID: 2791)
 Blended and updated with sources:94744 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2791, 94744,20111101,-9999,    9
   2791, 94744,20111102,-9999,    9
   2791, 94744,20111103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station KRUMBACH-EDENHAUSEN, GERMANY (STAID: 4311)
 Blended and updated with sources:24824 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4311, 24824,19510101,    3,    0
   4311, 24824,19510102,  -25,    0
   4311, 24824,19510103,    1,    0

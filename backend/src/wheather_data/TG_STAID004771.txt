@@ -18,7 +18,7 @@ This is the blended series of station BAD WILDUNGEN, GERMANY (STAID: 4771)
 Blended and updated with sources:30344 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4771, 30344,19470101,  -16,    0
   4771, 30344,19470102,   -6,    0
   4771, 30344,19470103,   -6,    0

@@ -18,7 +18,7 @@ This is the blended series of station DEUTSCHLANDSBERG, AUSTRIA (STAID: 24440)
 Blended and updated with sources:131329 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24440,131329,18950801,-9999,    9
  24440,131329,18950802,-9999,    9
  24440,131329,18950803,-9999,    9

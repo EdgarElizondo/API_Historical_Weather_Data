@@ -18,7 +18,7 @@ This is the blended series of station SANDE - LAUVKOLLMYR, NORWAY (STAID: 18319)
 Blended and updated with sources:99736 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18319, 99736,20140701,-9999,    9
  18319, 99736,20140702,-9999,    9
  18319, 99736,20140703,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station TREUEN, GERMANY (STAID: 4906)
 Blended and updated with sources:27836 31964 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4906, 27836,19630101, -116,    0
   4906, 27836,19630102,  -97,    0
   4906, 27836,19630103,  -73,    0

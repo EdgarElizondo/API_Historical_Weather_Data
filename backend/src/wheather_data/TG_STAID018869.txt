@@ -18,7 +18,7 @@ This is the blended series of station LILLEHAMMER III, NORWAY (STAID: 18869)
 Blended and updated with sources:100728 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18869,100728,19691001,   31,    0
  18869,100728,19691002,   31,    0
  18869,100728,19691003,   16,    0

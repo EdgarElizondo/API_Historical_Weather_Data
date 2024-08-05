@@ -18,7 +18,7 @@ This is the blended series of station SCHWABISCH GMUND-STRASSDORF, GERMANY (STAI
 Blended and updated with sources:28604 31352 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4626, 28604,19510101,   17,    0
   4626, 28604,19510102,   11,    0
   4626, 28604,19510103,   10,    0

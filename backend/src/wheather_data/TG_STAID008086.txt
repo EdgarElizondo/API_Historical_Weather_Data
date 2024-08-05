@@ -18,7 +18,7 @@ This is the blended series of station KOJGORODOK, RUSSIAN FEDERATION (STAID: 808
 Blended and updated with sources:48573 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8086, 48573,19590101,-9999,    9
   8086, 48573,19590102,-9999,    9
   8086, 48573,19590103,-9999,    9

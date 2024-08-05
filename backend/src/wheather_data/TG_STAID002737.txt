@@ -18,7 +18,7 @@ This is the blended series of station LUROY, NORWAY (STAID: 2737)
 Blended and updated with sources:11203 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2737, 11203,20171001,-9999,    9
   2737, 11203,20171002,-9999,    9
   2737, 11203,20171003,-9999,    9

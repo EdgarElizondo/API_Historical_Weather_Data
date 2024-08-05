@@ -18,7 +18,7 @@ This is the blended series of station EKKEROEY, NORWAY (STAID: 18951)
 Blended and updated with sources:100819 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18951,100819,19570101,    3,    0
  18951,100819,19570102,  -83,    0
  18951,100819,19570103,  -22,    0

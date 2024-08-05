@@ -18,7 +18,7 @@ This is the blended series of station CLUJ NAPOCA, ROMANIA (STAID: 222)
 Blended and updated with sources:7507 915120 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    222,  7507,19610101,   16,    0
    222,  7507,19610102,   20,    0
    222,  7507,19610103,   44,    0

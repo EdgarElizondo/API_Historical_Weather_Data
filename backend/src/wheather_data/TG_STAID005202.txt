@@ -18,7 +18,7 @@ This is the blended series of station HASSLARP, SWEDEN (STAID: 5202)
 Blended and updated with sources:35249 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5202, 35249,19450101,  -22,    0
   5202, 35249,19450102,   41,    0
   5202, 35249,19450103,   48,    0

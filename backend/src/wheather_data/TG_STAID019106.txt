@@ -18,7 +18,7 @@ This is the blended series of station MERAKER - UTSYN, NORWAY (STAID: 19106)
 Blended and updated with sources:100719 101005 901292 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19106,100719,19570101, -110,    0
  19106,100719,19570102, -143,    0
  19106,100719,19570103, -170,    0

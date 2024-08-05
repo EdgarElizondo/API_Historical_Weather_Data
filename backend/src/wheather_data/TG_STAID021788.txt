@@ -18,7 +18,7 @@ This is the blended series of station MELSELE_ME, BELGIUM (STAID: 21788)
 Blended and updated with sources:118277 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21788,118277,20201001,  139,    0
  21788,118277,20201002,  121,    0
  21788,118277,20201003,  128,    0

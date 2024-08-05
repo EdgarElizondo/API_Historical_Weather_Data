@@ -18,7 +18,7 @@ This is the blended series of station FARFANARO, ITALY (STAID: 17614)
 Blended and updated with sources:95232 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17614, 95232,20051201,-9999,    9
  17614, 95232,20051202,-9999,    9
  17614, 95232,20051203,-9999,    9

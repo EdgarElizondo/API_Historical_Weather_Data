@@ -18,7 +18,7 @@ This is the blended series of station WEYER, AUSTRIA (STAID: 24755)
 Blended and updated with sources:135411 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24755,135411,19680601,  130,    0
  24755,135411,19680602,  144,    0
  24755,135411,19680603,  139,    0

@@ -18,7 +18,7 @@ This is the blended series of station LINDENBERG/ALLGAU, GERMANY (STAID: 4358)
 Blended and updated with sources:25388 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4358, 25388,19700601,  137,    0
   4358, 25388,19700602,  103,    0
   4358, 25388,19700603,  109,    0

@@ -18,7 +18,7 @@ This is the blended series of station ATVIDABERG, SWEDEN (STAID: 5348)
 Blended and updated with sources:35738 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5348, 35738,19610101,  -10,    0
   5348, 35738,19610102,   -1,    0
   5348, 35738,19610103,    8,    0

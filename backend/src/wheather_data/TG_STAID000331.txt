@@ -18,7 +18,7 @@ This is the blended series of station TORUNGEN FYR, NORWAY (STAID: 331)
 Blended and updated with sources:9664 901465 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    331,  9664,19110101,   34,    1
    331,  9664,19110102,  -12,    0
    331,  9664,19110103,   -5,    0

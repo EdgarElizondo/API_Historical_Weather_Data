@@ -18,7 +18,7 @@ This is the blended series of station LAERDAL - TOENJUM, NORWAY (STAID: 19062)
 Blended and updated with sources:100665 100951 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19062,100951,19540101,   -8,    0
  19062,100951,19540102,   69,    0
  19062,100951,19540103,   29,    0

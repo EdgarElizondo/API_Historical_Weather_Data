@@ -18,7 +18,7 @@ This is the blended series of station MARIENBERG, GERMANY (STAID: 4389)
 Blended and updated with sources:25760 910579 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4389, 25760,19550801,  164,    0
   4389, 25760,19550802,  155,    0
   4389, 25760,19550803,  149,    0

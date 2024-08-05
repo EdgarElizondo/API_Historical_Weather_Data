@@ -18,7 +18,7 @@ This is the blended series of station PONTE_MAODINO, ITALY (STAID: 17736)
 Blended and updated with sources:94984 95088 95432 95912 96648 97856 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17736, 95432,20051201,-9999,    9
  17736, 95432,20051202,-9999,    9
  17736, 95432,20051203,-9999,    9

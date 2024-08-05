@@ -18,7 +18,7 @@ This is the blended series of station BRAUNSCHWEIG, GERMANY (STAID: 4882)
 Blended and updated with sources:31652 31664 31676 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4882, 31664,18910101, -131,    0
   4882, 31664,18910102, -116,    0
   4882, 31664,18910103,  -90,    0

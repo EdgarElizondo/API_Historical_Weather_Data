@@ -18,7 +18,7 @@ This is the blended series of station ALVDAL, NORWAY (STAID: 18976)
 Blended and updated with sources:100851 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18976,100851,19200701,-9999,    9
  18976,100851,19200702,-9999,    9
  18976,100851,19200703,-9999,    9

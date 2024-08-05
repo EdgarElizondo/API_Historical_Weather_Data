@@ -18,7 +18,7 @@ This is the blended series of station HUNNESTORP_V, SWEDEN (STAID: 5213)
 Blended and updated with sources:35291 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5213, 35291,19960301,  -13,    0
   5213, 35291,19960302,  -17,    0
   5213, 35291,19960303,  -41,    0

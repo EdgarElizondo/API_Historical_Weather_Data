@@ -18,7 +18,7 @@ This is the blended series of station E39 HEMNEKJOELEN, NORWAY (STAID: 18427)
 Blended and updated with sources:99212 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18427, 99212,20150901,-9999,    9
  18427, 99212,20150902,-9999,    9
  18427, 99212,20150903,-9999,    9

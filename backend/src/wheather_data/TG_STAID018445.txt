@@ -18,7 +18,7 @@ This is the blended series of station FV866 SKATTOERSUND, NORWAY (STAID: 18445)
 Blended and updated with sources:99247 99633 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18445, 99247,20150401,-9999,    9
  18445, 99247,20150402,-9999,    9
  18445, 99247,20150403,-9999,    9

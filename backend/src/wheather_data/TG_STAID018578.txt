@@ -18,7 +18,7 @@ This is the blended series of station FV715 MOMYR, NORWAY (STAID: 18578)
 Blended and updated with sources:99489 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18578, 99489,20140101,   39,    0
  18578, 99489,20140102,-9999,    9
  18578, 99489,20140103,   38,    0

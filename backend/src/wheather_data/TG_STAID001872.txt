@@ -18,7 +18,7 @@ This is the blended series of station LYNEHAM, UNITED KINGDOM (STAID: 1872)
 Blended and updated with sources:7066 903740 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1872,  7066,19600101,  100,    1
   1872,  7066,19600102,   44,    0
   1872,  7066,19600103,   81,    0

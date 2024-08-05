@@ -18,7 +18,7 @@ This is the blended series of station KVAMSKOGEN, NORWAY (STAID: 18985)
 Blended and updated with sources:100860 901328 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18985,100860,19570101,  -39,    0
  18985,100860,19570102,  -92,    0
  18985,100860,19570103,  -35,    0

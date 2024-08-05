@@ -18,7 +18,7 @@ This is the blended series of station DIPPOLDISWALDE-REINBERG, GERMANY (STAID: 4
 Blended and updated with sources:32840 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4979, 32840,19540901,  183,    0
   4979, 32840,19540902,  199,    0
   4979, 32840,19540903,  193,    0

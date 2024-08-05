@@ -18,7 +18,7 @@ This is the blended series of station HOEYLANDET, NORWAY (STAID: 18864)
 Blended and updated with sources:100582 100723 901295 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18864,100723,19540601,   67,    0
  18864,100723,19540602,   68,    0
  18864,100723,19540603,   68,    0

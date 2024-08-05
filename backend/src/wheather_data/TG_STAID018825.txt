@@ -18,7 +18,7 @@ This is the blended series of station KONSMO - HOEYLAND, NORWAY (STAID: 18825)
 Blended and updated with sources:99614 100679 100890 901439 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18825,100890,19640701,  115,    0
  18825,100890,19640702,  102,    0
  18825,100890,19640703,  106,    0

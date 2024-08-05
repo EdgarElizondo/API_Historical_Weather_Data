@@ -18,7 +18,7 @@ This is the blended series of station BROVALLEN, SWEDEN (STAID: 5524)
 Blended and updated with sources:36320 36329 36335 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5524, 36335,19770101,  -28,    0
   5524, 36335,19770102,   -1,    0
   5524, 36335,19770103,   -5,    0

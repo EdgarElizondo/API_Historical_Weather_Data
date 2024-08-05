@@ -18,7 +18,7 @@ This is the blended series of station SCHLUCHTERN-HEROLZ, GERMANY (STAID: 4611)
 Blended and updated with sources:28424 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4611, 28424,19851001,  127,    0
   4611, 28424,19851002,  139,    0
   4611, 28424,19851003,  164,    0

@@ -18,7 +18,7 @@ This is the blended series of station BODOE LUFTHAVN TEST, NORWAY (STAID: 18903)
 Blended and updated with sources:5468 11167 99073 100770 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18903,  5468,19531201,-9999,    9
  18903,  5468,19531202,-9999,    9
  18903,  5468,19531203,-9999,    9

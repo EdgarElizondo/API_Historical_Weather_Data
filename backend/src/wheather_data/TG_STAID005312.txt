@@ -18,7 +18,7 @@ This is the blended series of station RANGEDALA_A, SWEDEN (STAID: 5312)
 Blended and updated with sources:35627 902536 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5312, 35627,19950801,  209,    0
   5312, 35627,19950802,  204,    0
   5312, 35627,19950803,  191,    0

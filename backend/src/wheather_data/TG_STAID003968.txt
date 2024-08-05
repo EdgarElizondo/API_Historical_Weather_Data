@@ -18,7 +18,7 @@ This is the blended series of station TOLEDO LORENZANA, SPAIN (STAID: 3968)
 Blended and updated with sources:20570 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3968, 20570,19200101,  120,    0
   3968, 20570,19200102,   78,    0
   3968, 20570,19200103,   88,    0

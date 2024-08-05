@@ -18,7 +18,7 @@ This is the blended series of station ST.MICHAEL B. LEOBEN, AUSTRIA (STAID: 2421
 Blended and updated with sources:128352 911174 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24210,128352,19840901,  166,    0
  24210,128352,19840902,  168,    0
  24210,128352,19840903,  182,    0

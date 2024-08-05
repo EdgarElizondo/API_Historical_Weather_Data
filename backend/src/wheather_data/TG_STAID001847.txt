@@ -18,7 +18,7 @@ This is the blended series of station BRADFORD, UNITED KINGDOM (STAID: 1847)
 Blended and updated with sources:7041 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1847,  7041,19110101,-9999,    9
   1847,  7041,19110102,   22,    0
   1847,  7041,19110103,   20,    0

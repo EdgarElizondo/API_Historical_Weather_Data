@@ -18,7 +18,7 @@ This is the blended series of station SOKNEDAL, NORWAY (STAID: 18275)
 Blended and updated with sources:99589 901253 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18275, 99589,20071201,-9999,    9
  18275, 99589,20071202,-9999,    9
  18275, 99589,20071203,-9999,    9

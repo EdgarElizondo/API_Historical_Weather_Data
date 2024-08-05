@@ -18,7 +18,7 @@ This is the blended series of station KUNZELSAU, GERMANY (STAID: 4314)
 Blended and updated with sources:24164 24860 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4314, 24860,19460101,  -19,    0
   4314, 24860,19460102,  -46,    0
   4314, 24860,19460103,  -59,    0

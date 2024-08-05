@@ -18,7 +18,7 @@ This is the blended series of station SAMTREDIA, GEORGIA (STAID: 3291)
 Blended and updated with sources:17632 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3291, 17632,19360101,   56,    0
   3291, 17632,19360102,   60,    0
   3291, 17632,19360103,   75,    0

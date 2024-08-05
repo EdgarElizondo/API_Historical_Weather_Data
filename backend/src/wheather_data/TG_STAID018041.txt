@@ -18,7 +18,7 @@ This is the blended series of station PLATABERGET III, NORWAY (STAID: 18041)
 Blended and updated with sources:99346 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18041, 99346,20180201,-9999,    9
  18041, 99346,20180202,-9999,    9
  18041, 99346,20180203,  -32,    0

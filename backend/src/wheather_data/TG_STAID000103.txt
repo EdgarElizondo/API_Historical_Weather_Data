@@ -18,7 +18,7 @@ This is the blended series of station VELIKIE LUKI, RUSSIAN FEDERATION (STAID: 1
 Blended and updated with sources:401 926477 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    103,   401,18810101,    3,    0
    103,   401,18810102,   -6,    0
    103,   401,18810103,   19,    0

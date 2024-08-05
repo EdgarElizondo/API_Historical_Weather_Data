@@ -18,7 +18,7 @@ This is the blended series of station HORTEN II, NORWAY (STAID: 18086)
 Blended and updated with sources:99076 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18086, 99076,20150601,  108,    0
  18086, 99076,20150602,   87,    0
  18086, 99076,20150603,  128,    0

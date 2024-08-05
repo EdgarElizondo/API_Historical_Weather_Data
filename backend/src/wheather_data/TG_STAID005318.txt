@@ -18,7 +18,7 @@ This is the blended series of station STRANDVALLEN, SWEDEN (STAID: 5318)
 Blended and updated with sources:35621 35630 35645 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5318, 35621,18710101,  -82,    1
   5318, 35621,18710102, -139,    1
   5318, 35621,18710103,  -71,    1

@@ -18,7 +18,7 @@ This is the blended series of station DUNDAS, GREENLAND [DENMARK] (STAID: 7962)
 Blended and updated with sources:46817 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7962, 46817,19610101, -234,    0
   7962, 46817,19610102, -251,    0
   7962, 46817,19610103, -213,    0

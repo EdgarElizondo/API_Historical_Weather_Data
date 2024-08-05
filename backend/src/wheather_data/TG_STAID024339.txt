@@ -18,7 +18,7 @@ This is the blended series of station ARRIACH, AUSTRIA (STAID: 24339)
 Blended and updated with sources:130016 911275 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24339,130016,19900601,-9999,    9
  24339,130016,19900602,-9999,    9
  24339,130016,19900603,-9999,    9

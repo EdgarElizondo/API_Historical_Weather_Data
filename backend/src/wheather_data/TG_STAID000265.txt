@@ -18,7 +18,7 @@ This is the blended series of station BERGEN FLORIDA, NORWAY (STAID: 265)
 Blended and updated with sources:5463 100576 901317 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    265,100576,19000101,   32,    1
    265,100576,19000102,   27,    1
    265,100576,19000103,   27,    1

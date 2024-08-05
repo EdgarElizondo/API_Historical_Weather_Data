@@ -18,7 +18,7 @@ This is the blended series of station IWONICZ-ZDROJ, POLAND (STAID: 24914)
 Blended and updated with sources:137406 137418 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24914,137418,19610101,    2,    0
  24914,137418,19610102,    6,    0
  24914,137418,19610103,   49,    0

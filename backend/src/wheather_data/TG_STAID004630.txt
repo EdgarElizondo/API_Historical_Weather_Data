@@ -18,7 +18,7 @@ This is the blended series of station SCHWANDORF, GERMANY (STAID: 4630)
 Blended and updated with sources:28652 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4630, 28652,19551001,-9999,    9
   4630, 28652,19551002,-9999,    9
   4630, 28652,19551003,-9999,    9

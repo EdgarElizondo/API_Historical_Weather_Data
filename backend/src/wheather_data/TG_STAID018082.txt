@@ -18,7 +18,7 @@ This is the blended series of station BJORLI, NORWAY (STAID: 18082)
 Blended and updated with sources:99068 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18082, 99068,20100224, -167,    0
  18082, 99068,20100225, -130,    0
  18082, 99068,20100226,  -85,    0

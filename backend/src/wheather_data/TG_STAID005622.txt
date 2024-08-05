@@ -18,7 +18,7 @@ This is the blended series of station BRAMO, SWEDEN (STAID: 5622)
 Blended and updated with sources:36635 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5622, 36635,19650101,   13,    0
   5622, 36635,19650102,   -8,    0
   5622, 36635,19650103,  -15,    0

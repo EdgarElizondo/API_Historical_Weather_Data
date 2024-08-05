@@ -18,7 +18,7 @@ This is the blended series of station WITTENBERG, GERMANY (STAID: 4776)
 Blended and updated with sources:30404 910474 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4776, 30404,19370101,   19,    0
   4776, 30404,19370102,   48,    0
   4776, 30404,19370103,   80,    0

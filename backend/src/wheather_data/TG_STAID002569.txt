@@ -18,7 +18,7 @@ This is the blended series of station TWENTHE, NETHERLANDS (STAID: 2569)
 Blended and updated with sources:2027 906290 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2569,  2027,19510101,-9999,    9
   2569,  2027,19510102,   16,    0
   2569,  2027,19510103,   11,    0

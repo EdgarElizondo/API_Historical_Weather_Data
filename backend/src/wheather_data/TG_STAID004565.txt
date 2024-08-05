@@ -18,7 +18,7 @@ This is the blended series of station ROETGEN, GERMANY (STAID: 4565)
 Blended and updated with sources:27872 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4565, 27872,19480101,   28,    0
   4565, 27872,19480102,   96,    0
   4565, 27872,19480103,   96,    0

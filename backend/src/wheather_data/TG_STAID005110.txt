@@ -18,7 +18,7 @@ This is the blended series of station NEDRE VATS, NORWAY (STAID: 5110)
 Blended and updated with sources:34420 100838 901417 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5110, 34420,19690101,   -5,    0
   5110, 34420,19690102,   56,    0
   5110, 34420,19690103,   28,    0

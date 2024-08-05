@@ -18,7 +18,7 @@ This is the blended series of station EL PRAT DE LLOBREGAT, SPAIN (STAID: 11034)
 Blended and updated with sources:19895 56166 908181 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11034, 19895,19240301,   65,    0
  11034, 19895,19240302,   70,    0
  11034, 19895,19240303,  115,    0

@@ -18,7 +18,7 @@ This is the blended series of station JENBACH, AUSTRIA (STAID: 24176)
 Blended and updated with sources:127897 127910 127923 134670 911325 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24176,127923,19360101,   60,    0
  24176,127923,19360102,   59,    0
  24176,127923,19360103,   97,    0

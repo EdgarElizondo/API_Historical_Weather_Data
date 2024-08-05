@@ -18,7 +18,7 @@ This is the blended series of station WISLA, POLAND (STAID: 24863)
 Blended and updated with sources:136806 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24863,136806,19810101,   16,    0
  24863,136806,19810102,   -6,    0
  24863,136806,19810103,   16,    0

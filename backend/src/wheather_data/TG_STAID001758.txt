@@ -18,7 +18,7 @@ This is the blended series of station TRALEE (CLASH), IRELAND (STAID: 1758)
 Blended and updated with sources:7544 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1758,  7544,19610101,   77,    0
   1758,  7544,19610102,   58,    0
   1758,  7544,19610103,   47,    0

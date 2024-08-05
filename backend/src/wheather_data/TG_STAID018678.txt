@@ -18,7 +18,7 @@ This is the blended series of station FV308 TJOEME-BUDAL, NORWAY (STAID: 18678)
 Blended and updated with sources:35020 99186 99676 99679 901481 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18678, 35020,19590101,-9999,    9
  18678, 35020,19590102,-9999,    9
  18678, 35020,19590103,-9999,    9

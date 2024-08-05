@@ -18,7 +18,7 @@ This is the blended series of station KALS, AUSTRIA (STAID: 24699)
 Blended and updated with sources:134683 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24699,134683,19510501,   35,    0
  24699,134683,19510502,   42,    0
  24699,134683,19510503,   66,    0

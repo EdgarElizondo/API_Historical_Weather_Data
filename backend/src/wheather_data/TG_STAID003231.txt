@@ -18,7 +18,7 @@ This is the blended series of station BARABINSK, RUSSIAN FEDERATION (STAID: 3231
 Blended and updated with sources:17106 929612 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3231, 17106,19000101,-9999,    9
   3231, 17106,19000102,-9999,    9
   3231, 17106,19000103,-9999,    9

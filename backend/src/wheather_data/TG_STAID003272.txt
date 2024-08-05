@@ -18,7 +18,7 @@ This is the blended series of station YUZHNO-KURIL'SK, RUSSIAN FEDERATION (STAID
 Blended and updated with sources:17311 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3272, 17311,19470101,  -35,    0
   3272, 17311,19470102,  -66,    0
   3272, 17311,19470103,  -80,    0

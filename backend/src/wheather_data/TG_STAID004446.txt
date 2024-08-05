@@ -18,7 +18,7 @@ This is the blended series of station NEUDENAU, GERMANY (STAID: 4446)
 Blended and updated with sources:26444 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4446, 26444,19490101,   49,    0
   4446, 26444,19490102,   28,    0
   4446, 26444,19490103,   34,    0

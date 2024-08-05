@@ -18,7 +18,7 @@ This is the blended series of station VORU, ESTONIA (STAID: 268)
 Blended and updated with sources:908 926249 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    268,   908,19200201,-9999,    9
    268,   908,19200202,-9999,    9
    268,   908,19200203,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station BROTTERODE, GERMANY (STAID: 4902)
 Blended and updated with sources:31916 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4902, 31916,19450101,  -93,    0
   4902, 31916,19450102,  -83,    0
   4902, 31916,19450103,  -39,    0

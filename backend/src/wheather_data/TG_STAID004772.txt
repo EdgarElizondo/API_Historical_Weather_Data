@@ -18,7 +18,7 @@ This is the blended series of station WILHELMSHAVEN, GERMANY (STAID: 4772)
 Blended and updated with sources:30356 31124 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4772, 30356,19530101,  -10,    0
   4772, 30356,19530102,    6,    0
   4772, 30356,19530103,    1,    0

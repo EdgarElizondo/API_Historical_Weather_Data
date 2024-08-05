@@ -18,7 +18,7 @@ This is the blended series of station OLEWIN, POLAND (STAID: 24962)
 Blended and updated with sources:137994 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24962,137994,19720801,  175,    0
  24962,137994,19720802,  155,    0
  24962,137994,19720803,  144,    0

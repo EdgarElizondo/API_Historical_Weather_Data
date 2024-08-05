@@ -18,7 +18,7 @@ This is the blended series of station PUUMALA KIRKONKYLA, FINLAND (STAID: 7389)
 Blended and updated with sources:44060 44120 902731 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7389, 44060,19700101,  -66,    0
   7389, 44060,19700102, -101,    0
   7389, 44060,19700103,  -82,    0

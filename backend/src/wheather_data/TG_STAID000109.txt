@@ -18,7 +18,7 @@ This is the blended series of station NORDBY (FANO), DENMARK (STAID: 109)
 Blended and updated with sources:832 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    109,   832,18740501,   56,    0
    109,   832,18740502,   44,    0
    109,   832,18740503,   42,    0

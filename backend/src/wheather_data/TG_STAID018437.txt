@@ -18,7 +18,7 @@ This is the blended series of station E10 BJOERNFJELL, NORWAY (STAID: 18437)
 Blended and updated with sources:37463 37466 99231 99732 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18437, 37466,19040801,  109,    0
  18437, 37466,19040802,   75,    0
  18437, 37466,19040803,   74,    0

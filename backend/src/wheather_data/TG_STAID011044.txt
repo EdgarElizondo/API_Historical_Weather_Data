@@ -18,7 +18,7 @@ This is the blended series of station LA BISBAL DEMPORDA, SPAIN (STAID: 11044)
 Blended and updated with sources:56256 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11044, 56256,20080101,   33,    0
  11044, 56256,20080102,   62,    0
  11044, 56256,20080103,   89,    0

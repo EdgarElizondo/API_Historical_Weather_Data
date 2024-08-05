@@ -18,7 +18,7 @@ This is the blended series of station VERDALSOERA, NORWAY (STAID: 19060)
 Blended and updated with sources:100949 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19060,100949,19710301, -116,    0
  19060,100949,19710302, -109,    0
  19060,100949,19710303, -103,    0

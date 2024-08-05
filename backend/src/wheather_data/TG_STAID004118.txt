@@ -18,7 +18,7 @@ This is the blended series of station FRIEDRICHSBRUNN, GERMANY (STAID: 4118)
 Blended and updated with sources:22508 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4118, 22508,19470101,  -61,    0
   4118, 22508,19470102,  -25,    0
   4118, 22508,19470103,  -63,    0

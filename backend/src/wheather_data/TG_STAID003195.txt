@@ -18,7 +18,7 @@ This is the blended series of station CHOKURDAX, RUSSIAN FEDERATION (STAID: 3195
 Blended and updated with sources:16811 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3195, 16811,19440101,-9999,    9
   3195, 16811,19440102,-9999,    9
   3195, 16811,19440103,-9999,    9

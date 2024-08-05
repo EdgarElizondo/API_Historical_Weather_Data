@@ -18,7 +18,7 @@ This is the blended series of station SKIBOTN - MELA, NORWAY (STAID: 19104)
 Blended and updated with sources:99195 100817 101003 901036 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19104,101003,19740801,  147,    0
  19104,101003,19740802,  136,    0
  19104,101003,19740803,  138,    0

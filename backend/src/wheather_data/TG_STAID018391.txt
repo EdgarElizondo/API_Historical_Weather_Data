@@ -18,7 +18,7 @@ This is the blended series of station E18 ROEDBOEL, NORWAY (STAID: 18391)
 Blended and updated with sources:35032 99142 99178 100930 101023 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18391, 35032,19590101,-9999,    9
  18391, 35032,19590102,-9999,    9
  18391, 35032,19590103,-9999,    9

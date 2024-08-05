@@ -18,7 +18,7 @@ This is the blended series of station KV4821 NIPEDALEN, NORWAY (STAID: 18609)
 Blended and updated with sources:99079 99230 99528 99551 100722 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18609, 99230,20140101,-9999,    9
  18609, 99230,20140102,-9999,    9
  18609, 99230,20140103,-9999,    9

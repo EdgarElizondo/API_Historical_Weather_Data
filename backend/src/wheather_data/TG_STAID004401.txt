@@ -18,7 +18,7 @@ This is the blended series of station MELLE, GERMANY (STAID: 4401)
 Blended and updated with sources:25904 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4401, 25904,19860701,  226,    0
   4401, 25904,19860702,  236,    0
   4401, 25904,19860703,  244,    0

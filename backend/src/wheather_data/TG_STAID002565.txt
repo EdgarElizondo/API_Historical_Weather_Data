@@ -18,7 +18,7 @@ This is the blended series of station HOOGEVEEN, NETHERLANDS (STAID: 2565)
 Blended and updated with sources:1939 906279 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2565,  1939,19891001,-9999,    9
   2565,  1939,19891002,-9999,    9
   2565,  1939,19891003,-9999,    9

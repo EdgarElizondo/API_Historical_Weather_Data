@@ -18,7 +18,7 @@ This is the blended series of station SIGDAL - NEDRE EGGEDAL, NORWAY (STAID: 183
 Blended and updated with sources:99738 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18320, 99738,20140101,    8,    0
  18320, 99738,20140102,    4,    0
  18320, 99738,20140103,    3,    0

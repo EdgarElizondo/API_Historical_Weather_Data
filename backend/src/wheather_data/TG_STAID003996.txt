@@ -18,7 +18,7 @@ This is the blended series of station KOLN-BONN, GERMANY (STAID: 3996)
 Blended and updated with sources:21044 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3996, 21044,19570701,-9999,    9
   3996, 21044,19570702,-9999,    9
   3996, 21044,19570703,-9999,    9

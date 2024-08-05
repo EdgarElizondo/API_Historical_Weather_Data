@@ -18,7 +18,7 @@ This is the blended series of station MARTORANO, ITALY (STAID: 17670)
 Blended and updated with sources:95856 97336 916148 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17670,916148,20051201,   50,    0
  17670,916148,20051202,   58,    0
  17670,916148,20051203,  110,    0

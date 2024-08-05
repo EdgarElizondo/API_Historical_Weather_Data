@@ -18,7 +18,7 @@ This is the blended series of station MIZERNA, POLAND (STAID: 24893)
 Blended and updated with sources:137166 137310 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24893,137310,19860101,  -82,    0
  24893,137310,19860102,  -62,    0
  24893,137310,19860103,  -43,    0

@@ -18,7 +18,7 @@ This is the blended series of station SELJELIA, NORWAY (STAID: 18314)
 Blended and updated with sources:99716 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18314, 99716,20111130,   39,    0
  18314, 99716,20111201,   40,    0
  18314, 99716,20111202,   19,    0

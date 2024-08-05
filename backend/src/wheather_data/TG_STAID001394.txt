@@ -18,7 +18,7 @@ This is the blended series of station SANTIAGO DE COMPOSTELA/LABACOLLA, SPAIN (S
 Blended and updated with sources:19724 908042 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1394, 19724,19431101,-9999,    9
   1394, 19724,19431102,-9999,    9
   1394, 19724,19431103,-9999,    9

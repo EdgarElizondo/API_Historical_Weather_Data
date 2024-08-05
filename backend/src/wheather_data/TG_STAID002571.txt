@@ -18,7 +18,7 @@ This is the blended series of station WESTDORPE, NETHERLANDS (STAID: 2571)
 Blended and updated with sources:2515 906319 906431 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2571,906431,19910601,  116,    0
   2571,906431,19910602,  105,    0
   2571,906431,19910603,  103,    0

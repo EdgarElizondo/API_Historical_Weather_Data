@@ -18,7 +18,7 @@ This is the blended series of station IZEVSK, RUSSIAN FEDERATION (STAID: 76)
 Blended and updated with sources:293 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     76,   293,19580101,   -6,    0
     76,   293,19580102,  -40,    0
     76,   293,19580103,  -46,    0

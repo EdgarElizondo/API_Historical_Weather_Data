@@ -18,7 +18,7 @@ This is the blended series of station REIMLINGEN, GERMANY (STAID: 4472)
 Blended and updated with sources:26756 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4472, 26756,19470101,  -23,    0
   4472, 26756,19470102,  -15,    0
   4472, 26756,19470103,  -22,    0

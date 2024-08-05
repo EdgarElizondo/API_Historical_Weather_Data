@@ -18,7 +18,7 @@ This is the blended series of station ASKER, NORWAY (STAID: 2594)
 Blended and updated with sources:9887 901486 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2594,  9887,19570101,  -51,    0
   2594,  9887,19570102,  -70,    0
   2594,  9887,19570103,  -79,    0

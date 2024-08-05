@@ -18,7 +18,7 @@ This is the blended series of station HELNES FYR, NORWAY (STAID: 18744)
 Blended and updated with sources:33136 100586 901068 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18744,100586,19540101,    5,    0
  18744,100586,19540102,    3,    0
  18744,100586,19540103,  -41,    0

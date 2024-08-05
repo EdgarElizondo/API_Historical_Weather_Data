@@ -18,7 +18,7 @@ This is the blended series of station ULRICEHAMN, SWEDEN (STAID: 5311)
 Blended and updated with sources:35618 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5311, 35618,18920101,  -35,    0
   5311, 35618,18920102,  -36,    0
   5311, 35618,18920103,  -24,    0

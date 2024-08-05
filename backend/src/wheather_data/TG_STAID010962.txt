@@ -18,7 +18,7 @@ This is the blended series of station OGULIN, CROATIA (STAID: 10962)
 Blended and updated with sources:55400 914328 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  10962, 55400,19490101,   72,    0
  10962, 55400,19490102,  114,    0
  10962, 55400,19490103,  117,    0

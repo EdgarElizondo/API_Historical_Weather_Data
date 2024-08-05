@@ -18,7 +18,7 @@ This is the blended series of station VEGA - VALLSJOE, NORWAY (STAID: 18216)
 Blended and updated with sources:99426 901108 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18216, 99426,19910701,  112,    0
  18216, 99426,19910702,  118,    0
  18216, 99426,19910703,  111,    0

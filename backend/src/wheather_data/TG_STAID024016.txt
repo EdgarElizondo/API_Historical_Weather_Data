@@ -18,7 +18,7 @@ This is the blended series of station TRAISEN, AUSTRIA (STAID: 24016)
 Blended and updated with sources:125869 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24016,125869,19551001,   98,    0
  24016,125869,19551002,  101,    0
  24016,125869,19551003,  110,    0

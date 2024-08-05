@@ -18,7 +18,7 @@ This is the blended series of station SORVE, ESTONIA (STAID: 11364)
 Blended and updated with sources:75058 926218 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11364, 75058,19010101,  -98,    0
  11364, 75058,19010102,  -59,    0
  11364, 75058,19010103,  -52,    0

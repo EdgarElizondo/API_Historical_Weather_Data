@@ -18,7 +18,7 @@ This is the blended series of station COLLMBERG, GERMANY (STAID: 11742)
 Blended and updated with sources:80954 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11742, 80954,19470101,  -60,    0
  11742, 80954,19470102,  -53,    0
  11742, 80954,19470103,  -59,    0

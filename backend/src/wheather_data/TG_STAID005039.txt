@@ -18,7 +18,7 @@ This is the blended series of station FISKABYGD, NORWAY (STAID: 5039)
 Blended and updated with sources:33568 901207 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5039, 33568,19690101,-9999,    9
   5039, 33568,19690102,-9999,    9
   5039, 33568,19690103,-9999,    9

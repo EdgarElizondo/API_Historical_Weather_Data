@@ -18,7 +18,7 @@ This is the blended series of station KARPBUKT II, NORWAY (STAID: 18946)
 Blended and updated with sources:100814 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18946,100814,19580701,   84,    0
  18946,100814,19580702,  127,    0
  18946,100814,19580703,   80,    0

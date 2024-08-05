@@ -18,7 +18,7 @@ This is the blended series of station FV62 EIDSOERA, NORWAY (STAID: 18698)
 Blended and updated with sources:99709 100769 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18698,100769,19321001,   55,    0
  18698,100769,19321002,   40,    0
  18698,100769,19321003,   29,    0

@@ -18,7 +18,7 @@ This is the blended series of station CZESLAWICE, POLAND (STAID: 25023)
 Blended and updated with sources:138726 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25023,138726,19880101,   22,    0
  25023,138726,19880102,   49,    0
  25023,138726,19880103,   50,    0

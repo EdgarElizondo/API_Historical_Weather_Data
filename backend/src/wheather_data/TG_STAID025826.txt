@@ -18,7 +18,7 @@ This is the blended series of station FINNESVATNET, NORWAY (STAID: 25826)
 Blended and updated with sources:150184 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25826,150184,20220929,   57,    0
  25826,150184,20220930,   30,    0
  25826,150184,20221001,   35,    0

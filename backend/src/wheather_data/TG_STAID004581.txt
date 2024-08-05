@@ -18,7 +18,7 @@ This is the blended series of station BERLIN-TEGELER FLIESSTAL, GERMANY (STAID: 
 Blended and updated with sources:21152 27848 28064 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4581, 27848,19560101,   20,    0
   4581, 27848,19560102,   17,    0
   4581, 27848,19560103,   -7,    0

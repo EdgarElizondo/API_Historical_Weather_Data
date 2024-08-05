@@ -18,7 +18,7 @@ This is the blended series of station HAMRA, SWEDEN (STAID: 5601)
 Blended and updated with sources:36566 36569 902329 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5601, 36566,19730301,  -39,    0
   5601, 36566,19730302,  -38,    0
   5601, 36566,19730303,  -18,    0

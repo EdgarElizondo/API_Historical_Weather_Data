@@ -18,7 +18,7 @@ This is the blended series of station ARESKUTAN, SWEDEN (STAID: 5683)
 Blended and updated with sources:36842 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5683, 36842,19820101, -184,    0
   5683, 36842,19820102, -231,    0
   5683, 36842,19820103, -238,    0

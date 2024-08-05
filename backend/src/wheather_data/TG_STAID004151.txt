@@ -18,7 +18,7 @@ This is the blended series of station GOTTINGEN, GERMANY (STAID: 4151)
 Blended and updated with sources:22904 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4151, 22904,19270101,   51,    0
   4151, 22904,19270102,   54,    0
   4151, 22904,19270103,   35,    0

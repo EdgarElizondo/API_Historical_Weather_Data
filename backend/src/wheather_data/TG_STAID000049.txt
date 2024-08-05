@@ -18,7 +18,7 @@ This is the blended series of station JENA STERNWARTE, GERMANY (STAID: 49)
 Blended and updated with sources:172 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     49,   172,18240101,   45,    0
     49,   172,18240102,   50,    0
     49,   172,18240103,   35,    0

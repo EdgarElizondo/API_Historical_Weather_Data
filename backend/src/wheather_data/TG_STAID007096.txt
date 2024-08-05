@@ -18,7 +18,7 @@ This is the blended series of station KOKEMAKI TULKKILA, FINLAND (STAID: 7096)
 Blended and updated with sources:42524 42629 902762 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7096, 42524,19590101,    3,    0
   7096, 42524,19590102,   -6,    0
   7096, 42524,19590103,    0,    0

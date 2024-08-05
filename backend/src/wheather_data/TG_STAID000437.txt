@@ -18,7 +18,7 @@ This is the blended series of station WIJK AAN ZEE, NETHERLANDS (STAID: 437)
 Blended and updated with sources:2485 906257 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    437,  2485,20010501,  100,    0
    437,  2485,20010502,  126,    0
    437,  2485,20010503,  102,    0

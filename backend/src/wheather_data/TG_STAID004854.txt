@@ -18,7 +18,7 @@ This is the blended series of station INGELFINGEN-STACHENHAUSEN, GERMANY (STAID:
 Blended and updated with sources:31340 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4854, 31340,20021201,   52,    0
   4854, 31340,20021202,   47,    0
   4854, 31340,20021203,   23,    0

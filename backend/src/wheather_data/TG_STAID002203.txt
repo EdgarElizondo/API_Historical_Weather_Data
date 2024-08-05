@@ -18,7 +18,7 @@ This is the blended series of station MONT-DE-MARSAN, FRANCE (STAID: 2203)
 Blended and updated with sources:7222 907607 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2203,  7222,19450101,  -11,    0
   2203,  7222,19450102,  -25,    0
   2203,  7222,19450103,  -20,    0

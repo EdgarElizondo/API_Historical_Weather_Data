@@ -18,7 +18,7 @@ This is the blended series of station ZINKGRUVAN, SWEDEN (STAID: 5417)
 Blended and updated with sources:35933 35966 35972 35975 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5417, 35972,19500101,    8,    1
   5417, 35972,19500102,   10,    1
   5417, 35972,19500103,  -40,    1

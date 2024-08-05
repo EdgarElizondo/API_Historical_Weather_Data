@@ -18,7 +18,7 @@ This is the blended series of station VERDAL - STIKLESTAD, NORWAY (STAID: 18765)
 Blended and updated with sources:100610 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18765,100610,19841201,   71,    0
  18765,100610,19841202,   22,    0
  18765,100610,19841203,   26,    0

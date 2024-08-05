@@ -18,7 +18,7 @@ This is the blended series of station SIRDAL - DUGE, NORWAY (STAID: 19160)
 Blended and updated with sources:100803 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19160,100803,19900101,  -66,    0
  19160,100803,19900102,  -40,    0
  19160,100803,19900103,  -40,    0

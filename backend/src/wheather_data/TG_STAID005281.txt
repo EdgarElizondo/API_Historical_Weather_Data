@@ -18,7 +18,7 @@ This is the blended series of station HERRVIK, SWEDEN (STAID: 5281)
 Blended and updated with sources:35519 35522 35525 902598 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5281, 35522,19550101,   -9,    1
   5281, 35522,19550102,    7,    1
   5281, 35522,19550103,  -13,    1

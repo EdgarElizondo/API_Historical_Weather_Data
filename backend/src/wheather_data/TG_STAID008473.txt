@@ -18,7 +18,7 @@ This is the blended series of station RUDNAYA PRISTAN', RUSSIAN FEDERATION (STAI
 Blended and updated with sources:51523 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8473, 51523,19320101,-9999,    9
   8473, 51523,19320102,-9999,    9
   8473, 51523,19320103,-9999,    9

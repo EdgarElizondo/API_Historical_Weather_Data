@@ -18,7 +18,7 @@ This is the blended series of station FROHNLEITEN, AUSTRIA (STAID: 24213)
 Blended and updated with sources:128391 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24213,128391,20080901,-9999,    9
  24213,128391,20080902,-9999,    9
  24213,128391,20080903,-9999,    9

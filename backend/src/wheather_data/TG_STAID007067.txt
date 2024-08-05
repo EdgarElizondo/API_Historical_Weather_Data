@@ -18,7 +18,7 @@ This is the blended series of station EURAJOKI VERKKOKARI, FINLAND (STAID: 7067)
 Blended and updated with sources:42474 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7067, 42474,19750701,  149,    0
   7067, 42474,19750702,  177,    0
   7067, 42474,19750703,  167,    0

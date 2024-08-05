@@ -18,7 +18,7 @@ This is the blended series of station POZNAN, POLAND (STAID: 206)
 Blended and updated with sources:645 912345 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    206,   645,19510101,  -58,    0
    206,   645,19510102,   -2,    0
    206,   645,19510103,    4,    0

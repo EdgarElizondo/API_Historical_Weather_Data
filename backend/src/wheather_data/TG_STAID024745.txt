@@ -18,7 +18,7 @@ This is the blended series of station FEISTRITZ OB BLEIBURG, AUSTRIA (STAID: 247
 Blended and updated with sources:135281 911232 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24745,135281,19610101,  -50,    0
  24745,135281,19610102,  -27,    0
  24745,135281,19610103,  -12,    0

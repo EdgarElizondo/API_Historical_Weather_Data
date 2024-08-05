@@ -18,7 +18,7 @@ This is the blended series of station BOLLEBYGD, SWEDEN (STAID: 5299)
 Blended and updated with sources:35576 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5299, 35576,19450101,  -59,    0
   5299, 35576,19450102,   48,    0
   5299, 35576,19450103,   36,    0

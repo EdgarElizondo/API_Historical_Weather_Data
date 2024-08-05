@@ -18,7 +18,7 @@ This is the blended series of station TANNAS A, SWEDEN (STAID: 3524)
 Blended and updated with sources:36665 902308 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3524, 36665,19951101,-9999,    9
   3524, 36665,19951102,-9999,    9
   3524, 36665,19951103,-9999,    9

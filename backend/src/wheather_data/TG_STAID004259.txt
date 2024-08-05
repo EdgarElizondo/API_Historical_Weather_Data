@@ -18,7 +18,7 @@ This is the blended series of station MITTBACH, GERMANY (STAID: 4259)
 Blended and updated with sources:24200 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4259, 24200,19590101,   14,    0
   4259, 24200,19590102,   16,    0
   4259, 24200,19590103,   -6,    0

@@ -18,7 +18,7 @@ This is the blended series of station DANEBORG, GREENLAND [DENMARK] (STAID: 8018
 Blended and updated with sources:47457 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8018, 47457,19580101, -247,    0
   8018, 47457,19580102, -286,    0
   8018, 47457,19580103, -218,    0

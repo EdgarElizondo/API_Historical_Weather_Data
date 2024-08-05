@@ -18,7 +18,7 @@ This is the blended series of station FV 7862 KAPERSKARET, NORWAY (STAID: 23883)
 Blended and updated with sources:124190 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23883,124190,20211201,-9999,    9
  23883,124190,20211202,-9999,    9
  23883,124190,20211203,-9999,    9

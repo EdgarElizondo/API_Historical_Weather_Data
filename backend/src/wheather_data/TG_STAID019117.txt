@@ -18,7 +18,7 @@ This is the blended series of station MYRDAL III, NORWAY (STAID: 19117)
 Blended and updated with sources:101021 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19117,101021,19350801,-9999,    9
  19117,101021,19350802,-9999,    9
  19117,101021,19350803,-9999,    9

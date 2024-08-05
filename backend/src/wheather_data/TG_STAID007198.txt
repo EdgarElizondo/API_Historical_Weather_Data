@@ -18,7 +18,7 @@ This is the blended series of station KOUVOLA UTTI LENTOPORTINTIE, FINLAND (STAI
 Blended and updated with sources:43039 43149 902956 902966 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7198, 43039,19590101,  -21,    0
   7198, 43039,19590102,  -20,    0
   7198, 43039,19590103,   -7,    0

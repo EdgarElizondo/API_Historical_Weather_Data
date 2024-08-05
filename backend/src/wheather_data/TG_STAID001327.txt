@@ -18,7 +18,7 @@ This is the blended series of station TAGANROG, RUSSIAN FEDERATION (STAID: 1327)
 Blended and updated with sources:52008 934720 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1327, 52008,19050101,   29,    0
   1327, 52008,19050102,  -49,    0
   1327, 52008,19050103, -108,    0

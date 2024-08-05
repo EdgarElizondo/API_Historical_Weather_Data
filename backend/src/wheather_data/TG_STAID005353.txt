@@ -18,7 +18,7 @@ This is the blended series of station HARSTENA, SWEDEN (STAID: 5353)
 Blended and updated with sources:35753 35756 902563 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5353, 35753,19420701,  164,    1
   5353, 35753,19420702,  160,    1
   5353, 35753,19420703,  162,    1

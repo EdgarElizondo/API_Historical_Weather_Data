@@ -18,7 +18,7 @@ This is the blended series of station RUOKOLAHTI KOTANIEMI, FINLAND (STAID: 7215
 Blended and updated with sources:43234 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7215, 43234,19640901,   93,    0
   7215, 43234,19640902,   99,    0
   7215, 43234,19640903,  112,    0

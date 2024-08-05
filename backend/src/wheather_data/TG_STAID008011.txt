@@ -18,7 +18,7 @@ This is the blended series of station ANGISSOQ, GREENLAND [DENMARK] (STAID: 8011
 Blended and updated with sources:47357 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8011, 47357,19640101,-9999,    9
   8011, 47357,19640102,-9999,    9
   8011, 47357,19640103,-9999,    9

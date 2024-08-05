@@ -18,7 +18,7 @@ This is the blended series of station VIMMERBY, SWEDEN (STAID: 5302)
 Blended and updated with sources:35585 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5302, 35585,19610101,   -6,    0
   5302, 35585,19610102,    7,    0
   5302, 35585,19610103,   14,    0

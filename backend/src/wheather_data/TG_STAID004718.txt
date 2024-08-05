@@ -18,7 +18,7 @@ This is the blended series of station BAD BLANKENBURG, GERMANY (STAID: 4718)
 Blended and updated with sources:28088 28688 29708 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4718, 28088,19470501,   68,    0
   4718, 28088,19470502,   82,    0
   4718, 28088,19470503,   79,    0

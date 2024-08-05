@@ -18,7 +18,7 @@ This is the blended series of station CRNOMELJ-DOBLICE, SLOVENIA (STAID: 3301)
 Blended and updated with sources:14858 914120 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3301, 14858,19890101,   -3,    0
   3301, 14858,19890102,    1,    0
   3301, 14858,19890103,  -22,    0

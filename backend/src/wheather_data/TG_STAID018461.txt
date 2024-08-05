@@ -18,7 +18,7 @@ This is the blended series of station E6 KARLSHUS, NORWAY (STAID: 18461)
 Blended and updated with sources:99092 99277 100741 100816 901494 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18461,100816,19570101,  -34,    0
  18461,100816,19570102,  -49,    0
  18461,100816,19570103,  -45,    0

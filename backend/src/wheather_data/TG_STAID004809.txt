@@ -18,7 +18,7 @@ This is the blended series of station DANNENBERG, GERMANY (STAID: 4809)
 Blended and updated with sources:30800 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4809, 30800,19460101,  -31,    0
   4809, 30800,19460102,  -14,    0
   4809, 30800,19460103,  -24,    0

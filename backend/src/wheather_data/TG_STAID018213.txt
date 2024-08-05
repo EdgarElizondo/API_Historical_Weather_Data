@@ -18,7 +18,7 @@ This is the blended series of station OSLO - DISEN, NORWAY (STAID: 18213)
 Blended and updated with sources:56681 99040 99421 99743 109657 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18213, 56681,19721101,-9999,    9
  18213, 56681,19721102,-9999,    9
  18213, 56681,19721103,-9999,    9

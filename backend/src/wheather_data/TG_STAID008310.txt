@@ -18,7 +18,7 @@ This is the blended series of station TAKSIMO, RUSSIAN FEDERATION (STAID: 8310)
 Blended and updated with sources:50708 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8310, 50708,19660101, -307,    0
   8310, 50708,19660102, -342,    0
   8310, 50708,19660103, -309,    0

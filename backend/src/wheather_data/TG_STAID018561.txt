@@ -18,7 +18,7 @@ This is the blended series of station E6 ASEN, NORWAY (STAID: 18561)
 Blended and updated with sources:99465 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18561, 99465,20140101,   59,    0
  18561, 99465,20140102,   71,    0
  18561, 99465,20140103,-9999,    9

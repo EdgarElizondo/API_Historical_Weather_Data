@@ -18,7 +18,7 @@ This is the blended series of station MIKKELI LENTOASEMA, FINLAND (STAID: 7356)
 Blended and updated with sources:43950 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7356, 43950,19590101,  -49,    0
   7356, 43950,19590102,  -55,    0
   7356, 43950,19590103,  -25,    0

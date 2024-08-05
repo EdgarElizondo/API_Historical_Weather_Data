@@ -18,7 +18,7 @@ This is the blended series of station KOLKA, LATVIA (STAID: 978)
 Blended and updated with sources:5291 926313 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    978,  5291,19241001,  112,    0
    978,  5291,19241002,  111,    0
    978,  5291,19241003,  119,    0

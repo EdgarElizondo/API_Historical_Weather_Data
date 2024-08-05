@@ -18,7 +18,7 @@ This is the blended series of station POSTOJNA, SLOVENIA (STAID: 3323)
 Blended and updated with sources:15078 914112 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3323, 15078,19620101,  101,    0
   3323, 15078,19620102,   57,    0
   3323, 15078,19620103,  -19,    0

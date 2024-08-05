@@ -18,7 +18,7 @@ This is the blended series of station NEOZHIDANNY'J, RUSSIAN FEDERATION (STAID: 
 Blended and updated with sources:50558 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8280, 50558,19470101, -103,    0
   8280, 50558,19470102, -116,    0
   8280, 50558,19470103, -172,    0

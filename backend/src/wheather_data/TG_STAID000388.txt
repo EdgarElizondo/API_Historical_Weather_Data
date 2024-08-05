@@ -18,7 +18,7 @@ This is the blended series of station ATYRAU, KAZAKHSTAN (STAID: 388)
 Blended and updated with sources:17587 935700 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    388, 17587,18810101,   -2,    0
    388, 17587,18810102,   17,    1
    388, 17587,18810103,  -18,    0

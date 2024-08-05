@@ -18,7 +18,7 @@ This is the blended series of station KAMENZ, GERMANY (STAID: 11758)
 Blended and updated with sources:81130 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11758, 81130,19470101,  -23,    0
  11758, 81130,19470102,  -36,    0
  11758, 81130,19470103,  -52,    0

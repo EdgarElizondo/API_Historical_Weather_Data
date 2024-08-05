@@ -18,7 +18,7 @@ This is the blended series of station MOOSERBODEN, AUSTRIA (STAID: 24586)
 Blended and updated with sources:133214 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24586,133214,19490101,  -40,    0
  24586,133214,19490102,    5,    0
  24586,133214,19490103,  -15,    0

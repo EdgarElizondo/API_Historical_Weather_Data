@@ -18,7 +18,7 @@ This is the blended series of station MONTELIMAR, FRANCE (STAID: 786)
 Blended and updated with sources:6765 907577 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    786,  6765,19200801,-9999,    9
    786,  6765,19200802,-9999,    9
    786,  6765,19200803,-9999,    9

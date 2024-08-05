@@ -18,7 +18,7 @@ This is the blended series of station BERKAK - LYNGHOLT, NORWAY (STAID: 19017)
 Blended and updated with sources:100899 901252 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19017,100899,19821001,   84,    0
  19017,100899,19821002,  111,    0
  19017,100899,19821003,  124,    0

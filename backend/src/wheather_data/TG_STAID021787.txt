@@ -18,7 +18,7 @@ This is the blended series of station BOEKHOUTE_ME, BELGIUM (STAID: 21787)
 Blended and updated with sources:118274 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21787,118274,20201001,  141,    0
  21787,118274,20201002,  121,    0
  21787,118274,20201003,  129,    0

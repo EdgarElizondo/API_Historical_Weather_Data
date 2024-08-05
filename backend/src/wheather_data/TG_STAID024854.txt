@@ -18,7 +18,7 @@ This is the blended series of station HOLLER, LUXEMBOURG (STAID: 24854)
 Blended and updated with sources:121011 121041 136702 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24854,121011,19760101,   36,    1
  24854,121011,19760102,   71,    1
  24854,121011,19760103,   17,    1

@@ -18,7 +18,7 @@ This is the blended series of station HOORN-A             , NETHERLANDS (STAID: 
 Blended and updated with sources:13710 906212 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3175, 13710,20090313,-9999,    9
   3175, 13710,20090314,-9999,    9
   3175, 13710,20090315,-9999,    9

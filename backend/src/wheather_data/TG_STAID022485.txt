@@ -18,7 +18,7 @@ This is the blended series of station ROODT, LUXEMBOURG (STAID: 22485)
 Blended and updated with sources:121241 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22485,121241,19920101,  -12,    1
  22485,121241,19920102,  -17,    1
  22485,121241,19920103,  -16,    1

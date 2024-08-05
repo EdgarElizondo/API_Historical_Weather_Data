@@ -18,7 +18,7 @@ This is the blended series of station ST.PAUL/LAVANTTAL, AUSTRIA (STAID: 24368)
 Blended and updated with sources:130393 131368 135268 136555 911229 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24368,136555,19360101,   10,    0
  24368,136555,19360102,   17,    0
  24368,136555,19360103,   33,    0

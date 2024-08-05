@@ -18,7 +18,7 @@ This is the blended series of station LESJASKOG, NORWAY (STAID: 18773)
 Blended and updated with sources:100618 100975 901231 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18773,100975,19190401,-9999,    9
  18773,100975,19190402,-9999,    9
  18773,100975,19190403,-9999,    9

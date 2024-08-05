@@ -18,7 +18,7 @@ This is the blended series of station STAVROPOL AMSG, RUSSIAN FEDERATION (STAID:
 Blended and updated with sources:52098 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1350, 52098,19660101,-9999,    9
   1350, 52098,19660102,-9999,    9
   1350, 52098,19660103,-9999,    9

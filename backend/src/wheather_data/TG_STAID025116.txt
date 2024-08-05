@@ -18,7 +18,7 @@ This is the blended series of station GDANSK-SWIBNO, POLAND (STAID: 25116)
 Blended and updated with sources:139842 912155 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25116,139842,19510101,  -75,    0
  25116,139842,19510102,  -44,    0
  25116,139842,19510103,    9,    0

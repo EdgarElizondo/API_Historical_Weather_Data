@@ -18,7 +18,7 @@ This is the blended series of station BEITOSTOELEN, NORWAY (STAID: 18937)
 Blended and updated with sources:100804 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18937,100804,19711101,   21,    0
  18937,100804,19711102,   64,    0
  18937,100804,19711103,   25,    0

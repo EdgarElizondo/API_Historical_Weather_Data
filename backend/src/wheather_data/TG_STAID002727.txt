@@ -18,7 +18,7 @@ This is the blended series of station NORDOYAN FYR, NORWAY (STAID: 2727)
 Blended and updated with sources:11113 901262 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2727, 11113,19510101,  -65,    0
   2727, 11113,19510102,  -38,    0
   2727, 11113,19510103,  -20,    0

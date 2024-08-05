@@ -18,7 +18,7 @@ This is the blended series of station MANNDALEN - VADDJA, NORWAY (STAID: 18151)
 Blended and updated with sources:99252 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18151, 99252,20180406,   -3,    0
  18151, 99252,20180407,    5,    0
  18151, 99252,20180408,    4,    0

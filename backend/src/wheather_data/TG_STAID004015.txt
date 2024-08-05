@@ -18,7 +18,7 @@ This is the blended series of station CUXHAVEN, GERMANY (STAID: 4015)
 Blended and updated with sources:21272 910131 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4015, 21272,19460101,  -28,    0
   4015, 21272,19460102,  -17,    0
   4015, 21272,19460103,  -30,    0

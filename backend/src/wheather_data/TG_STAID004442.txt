@@ -18,7 +18,7 @@ This is the blended series of station BAD NAUHEIM, GERMANY (STAID: 4442)
 Blended and updated with sources:26396 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4442, 26396,19470101,  -18,    0
   4442, 26396,19470102,   -4,    0
   4442, 26396,19470103,   -3,    0

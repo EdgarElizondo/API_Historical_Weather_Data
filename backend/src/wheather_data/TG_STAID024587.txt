@@ -18,7 +18,7 @@ This is the blended series of station ENZINGERBODEN, AUSTRIA (STAID: 24587)
 Blended and updated with sources:133227 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24587,133227,19620301,-9999,    9
  24587,133227,19620302,-9999,    9
  24587,133227,19620303,-9999,    9

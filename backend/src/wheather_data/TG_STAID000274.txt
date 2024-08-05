@@ -18,7 +18,7 @@ This is the blended series of station RADCLIFFE METEOROLOGICAL STATION OXFORD, U
 Blended and updated with sources:929 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    274,   929,18150101,   26,    0
    274,   929,18150102,    9,    0
    274,   929,18150103,  -15,    0

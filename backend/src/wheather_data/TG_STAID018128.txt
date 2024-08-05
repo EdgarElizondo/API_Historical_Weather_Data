@@ -18,7 +18,7 @@ This is the blended series of station SVERRESBORG, NORWAY (STAID: 18128)
 Blended and updated with sources:99189 99680 100790 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18128, 99189,20121001,-9999,    9
  18128, 99189,20121002,-9999,    9
  18128, 99189,20121003,-9999,    9

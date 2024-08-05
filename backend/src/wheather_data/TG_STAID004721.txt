@@ -18,7 +18,7 @@ This is the blended series of station WAHLSBURG-LIPPOLDSBERG, GERMANY (STAID: 47
 Blended and updated with sources:29744 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4721, 29744,19510101,    4,    0
   4721, 29744,19510102,    7,    0
   4721, 29744,19510103,   10,    0

@@ -18,7 +18,7 @@ This is the blended series of station KURGAN-TYUBE, TAJIKISTAN (STAID: 3297)
 Blended and updated with sources:17737 938933 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3297, 17737,19360101,  -17,    0
   3297, 17737,19360102,  -18,    0
   3297, 17737,19360103,  -22,    0

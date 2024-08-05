@@ -18,7 +18,7 @@ This is the blended series of station KIELCE, POLAND (STAID: 2038)
 Blended and updated with sources:6369 912570 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2038,  6369,19510101,  -41,    0
   2038,  6369,19510102,  -14,    0
   2038,  6369,19510103,   14,    0

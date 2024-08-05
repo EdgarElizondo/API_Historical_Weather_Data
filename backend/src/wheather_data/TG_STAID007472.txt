@@ -18,7 +18,7 @@ This is the blended series of station MULTIA KARHILA, FINLAND (STAID: 7472)
 Blended and updated with sources:44550 902927 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7472, 44550,20080917,-9999,    9
   7472, 44550,20080918,-9999,    9
   7472, 44550,20080919,-9999,    9

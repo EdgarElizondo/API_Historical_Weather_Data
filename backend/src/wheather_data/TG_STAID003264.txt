@@ -18,7 +18,7 @@ This is the blended series of station XABAROVSK, RUSSIAN FEDERATION (STAID: 3264
 Blended and updated with sources:17271 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3264, 17271,19520101,-9999,    9
   3264, 17271,19520102,-9999,    9
   3264, 17271,19520103,-9999,    9

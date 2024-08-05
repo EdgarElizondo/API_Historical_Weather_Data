@@ -18,7 +18,7 @@ This is the blended series of station PASSAU-OBERHAUS, GERMANY (STAID: 4509)
 Blended and updated with sources:27200 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4509, 27200,19480101,  -24,    0
   4509, 27200,19480102,   11,    0
   4509, 27200,19480103,   80,    0

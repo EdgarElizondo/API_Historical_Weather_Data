@@ -18,7 +18,7 @@ This is the blended series of station COTTEDE, ITALY (STAID: 2804)
 Blended and updated with sources:95104 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2804, 95104,20051201,-9999,    9
   2804, 95104,20051202,-9999,    9
   2804, 95104,20051203,-9999,    9

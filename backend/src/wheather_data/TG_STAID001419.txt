@@ -18,7 +18,7 @@ This is the blended series of station RONNEBY-BREDAKRA, SWEDEN (STAID: 1419)
 Blended and updated with sources:35273 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1419, 35273,19490101,   33,    1
   1419, 35273,19490102,   42,    1
   1419, 35273,19490103,   30,    1

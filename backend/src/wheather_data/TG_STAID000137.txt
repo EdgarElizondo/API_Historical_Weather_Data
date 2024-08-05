@@ -18,7 +18,7 @@ This is the blended series of station BEER SHEVA, ISRAEL (STAID: 137)
 Blended and updated with sources:75517 75520 75523 940190 940191 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    137, 75517,19210401,-4882,    1
    137, 75517,19210402,-4875,    1
    137, 75517,19210403,-4897,    1

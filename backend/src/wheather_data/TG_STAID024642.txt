@@ -18,7 +18,7 @@ This is the blended series of station RECHBERG, AUSTRIA (STAID: 24642)
 Blended and updated with sources:133942 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24642,133942,19680401,-9999,    9
  24642,133942,19680402,-9999,    9
  24642,133942,19680403,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station HALLVIKEN, SWEDEN (STAID: 5694)
 Blended and updated with sources:36881 36887 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5694, 36881,19490101,  -12,    1
   5694, 36881,19490102,   10,    1
   5694, 36881,19490103,   -6,    1

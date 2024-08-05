@@ -18,7 +18,7 @@ This is the blended series of station KUOPIO SAVILAHTI, FINLAND (STAID: 7516)
 Blended and updated with sources:44770 44780 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7516, 44770,20010601,-9999,    9
   7516, 44770,20010602,-9999,    9
   7516, 44770,20010603,-9999,    9

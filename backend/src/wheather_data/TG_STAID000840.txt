@@ -18,7 +18,7 @@ This is the blended series of station TRIPOLI, GREECE (STAID: 840)
 Blended and updated with sources:55872 916710 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    840,916710,19980101,   74,    0
    840, 55872,19980102,   47,    0
    840, 55872,19980103,   56,    0

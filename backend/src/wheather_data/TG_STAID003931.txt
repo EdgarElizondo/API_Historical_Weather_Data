@@ -18,7 +18,7 @@ This is the blended series of station GIRONA/COSTA BRAVA, SPAIN (STAID: 3931)
 Blended and updated with sources:20075 55968 908184 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3931, 20075,19730101,   92,    0
   3931, 20075,19730102,   98,    0
   3931, 20075,19730103,   54,    0

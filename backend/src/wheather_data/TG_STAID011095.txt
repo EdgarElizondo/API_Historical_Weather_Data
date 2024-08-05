@@ -18,7 +18,7 @@ This is the blended series of station NARVIK-FAGERNESFJELLET, NORWAY (STAID: 110
 Blended and updated with sources:56753 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11095, 56753,20141001,-9999,    9
  11095, 56753,20141002,-9999,    9
  11095, 56753,20141003,-9999,    9

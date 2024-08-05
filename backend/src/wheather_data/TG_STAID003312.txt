@@ -18,7 +18,7 @@ This is the blended series of station LESCE, SLOVENIA (STAID: 3312)
 Blended and updated with sources:14968 914010 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3312, 14968,19790101,   -8,    0
   3312, 14968,19790102,  -86,    0
   3312, 14968,19790103, -101,    0

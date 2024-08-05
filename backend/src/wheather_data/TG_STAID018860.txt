@@ -18,7 +18,7 @@ This is the blended series of station HAUGASTOEL, NORWAY (STAID: 18860)
 Blended and updated with sources:100718 100893 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18860,100893,19180701,   75,    1
  18860,100893,19180702,  102,    1
  18860,100893,19180703,  127,    1

@@ -18,7 +18,7 @@ This is the blended series of station YXSJO, SWEDEN (STAID: 6727)
 Blended and updated with sources:69628 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6727, 69628,19610101,  -57,    0
   6727, 69628,19610102,  -80,    0
   6727, 69628,19610103,  -53,    0

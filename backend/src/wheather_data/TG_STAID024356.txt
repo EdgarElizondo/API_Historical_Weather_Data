@@ -18,7 +18,7 @@ This is the blended series of station FELDKIRCHEN, AUSTRIA (STAID: 24356)
 Blended and updated with sources:130237 911227 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24356,130237,19950701,  221,    0
  24356,130237,19950702,  234,    0
  24356,130237,19950703,  209,    0

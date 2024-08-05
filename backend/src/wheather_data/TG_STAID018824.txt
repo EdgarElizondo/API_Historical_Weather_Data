@@ -18,7 +18,7 @@ This is the blended series of station SKOTTERUD, NORWAY (STAID: 18824)
 Blended and updated with sources:100678 100807 901498 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18824,100678,19570101,  -53,    0
  18824,100678,19570102,  -54,    0
  18824,100678,19570103,  -71,    0

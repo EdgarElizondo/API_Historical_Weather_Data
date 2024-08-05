@@ -18,7 +18,7 @@ This is the blended series of station KRAKENES, NORWAY (STAID: 18232)
 Blended and updated with sources:99479 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18232, 99479,19930101,-9999,    9
  18232, 99479,19930102,-9999,    9
  18232, 99479,19930103,-9999,    9

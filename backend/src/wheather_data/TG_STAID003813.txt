@@ -18,7 +18,7 @@ This is the blended series of station VERXNEURAL'SK, RUSSIAN FEDERATION (STAID: 
 Blended and updated with sources:50128 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3813, 50128,19150701,-9999,    9
   3813, 50128,19150702,-9999,    9
   3813, 50128,19150703,-9999,    9

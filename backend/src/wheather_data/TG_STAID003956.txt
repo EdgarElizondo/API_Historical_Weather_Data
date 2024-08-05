@@ -18,7 +18,7 @@ This is the blended series of station SALAMANCA OBS., SPAIN (STAID: 3956)
 Blended and updated with sources:20417 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3956, 20417,19700101,   40,    0
   3956, 20417,19700102,  -50,    0
   3956, 20417,19700103,   62,    0

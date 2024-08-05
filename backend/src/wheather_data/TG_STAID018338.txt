@@ -18,7 +18,7 @@ This is the blended series of station FV55 INDRE HAFSLO, NORWAY (STAID: 18338)
 Blended and updated with sources:99055 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18338, 99055,20141201,-9999,    9
  18338, 99055,20141202,-9999,    9
  18338, 99055,20141203,-9999,    9

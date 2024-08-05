@@ -18,7 +18,7 @@ This is the blended series of station ELAT'MA, RUSSIAN FEDERATION (STAID: 74)
 Blended and updated with sources:285 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     74,   285,18860101,  -46,    0
     74,   285,18860102,  -32,    0
     74,   285,18860103,    0,    0

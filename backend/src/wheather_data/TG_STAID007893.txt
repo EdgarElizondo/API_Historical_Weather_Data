@@ -18,7 +18,7 @@ This is the blended series of station INARI VAYLA, FINLAND (STAID: 7893)
 Blended and updated with sources:46726 902827 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7893, 46726,19911001,-9999,    9
   7893, 46726,19911002,-9999,    9
   7893, 46726,19911003,-9999,    9

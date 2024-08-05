@@ -18,7 +18,7 @@ This is the blended series of station FINSPANG 1, SWEDEN (STAID: 5406)
 Blended and updated with sources:35930 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5406, 35930,19901101,   26,    0
   5406, 35930,19901102,    0,    0
   5406, 35930,19901103,  -13,    0

@@ -18,7 +18,7 @@ This is the blended series of station LOFSDALEN, SWEDEN (STAID: 5621)
 Blended and updated with sources:36632 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5621, 36632,19610101,  -48,    0
   5621, 36632,19610102,  -55,    0
   5621, 36632,19610103,  -56,    0

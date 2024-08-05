@@ -18,7 +18,7 @@ This is the blended series of station CONSTANTA, ROMANIA (STAID: 2062)
 Blended and updated with sources:7508 915480 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2062,  7508,19610101,   27,    0
   2062,  7508,19610102,   42,    0
   2062,  7508,19610103,   80,    0

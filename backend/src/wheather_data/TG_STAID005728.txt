@@ -18,7 +18,7 @@ This is the blended series of station KROKSJO, SWEDEN (STAID: 5728)
 Blended and updated with sources:36992 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5728, 36992,19690801,-9999,    9
   5728, 36992,19690802,-9999,    9
   5728, 36992,19690803,-9999,    9

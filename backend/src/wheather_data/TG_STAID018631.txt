@@ -18,7 +18,7 @@ This is the blended series of station E6 KVAENANGSFJELLET, NORWAY (STAID: 18631)
 Blended and updated with sources:99597 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18631, 99597,20150401,-9999,    9
  18631, 99597,20150402,-9999,    9
  18631, 99597,20150403,-9999,    9

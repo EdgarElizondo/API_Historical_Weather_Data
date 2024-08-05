@@ -18,7 +18,7 @@ This is the blended series of station LICHTENHAIN-MITTELNDORF, GERMANY (STAID: 4
 Blended and updated with sources:25316 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4352, 25316,19910102,   29,    0
   4352, 25316,19910103,   77,    0
   4352, 25316,19910104,   66,    0

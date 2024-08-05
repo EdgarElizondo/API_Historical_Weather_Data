@@ -18,7 +18,7 @@ This is the blended series of station HOCHSERFAUS, AUSTRIA (STAID: 24227)
 Blended and updated with sources:128573 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24227,128573,19350101,  -29,    0
  24227,128573,19350102,  -37,    0
  24227,128573,19350103,  -61,    0

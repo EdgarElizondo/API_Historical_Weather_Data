@@ -18,7 +18,7 @@ This is the blended series of station VESTMANNAEYJAR, ICELAND (STAID: 69)
 Blended and updated with sources:265 75787 75798 904048 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     69, 75787,19490101,  -85,    0
     69, 75787,19490102, -106,    0
     69, 75787,19490103,  -90,    0

@@ -18,7 +18,7 @@ This is the blended series of station SANDHAUG, NORWAY (STAID: 18109)
 Blended and updated with sources:99147 901352 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18109, 99147,20081001,  -13,    0
  18109, 99147,20081002,  -35,    0
  18109, 99147,20081003,    3,    0

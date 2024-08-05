@@ -18,7 +18,7 @@ This is the blended series of station FV60 UTVIKFJELLET, NORWAY (STAID: 18691)
 Blended and updated with sources:99698 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18691, 99698,20140101,-9999,    9
  18691, 99698,20140102,-9999,    9
  18691, 99698,20140103,   34,    0

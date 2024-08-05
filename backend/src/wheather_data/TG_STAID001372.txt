@@ -18,7 +18,7 @@ This is the blended series of station KISLOVODSK, RUSSIAN FEDERATION (STAID: 137
 Blended and updated with sources:52343 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1372, 52343,18860101,   15,    0
   1372, 52343,18860102,  -10,    0
   1372, 52343,18860103,   28,    0

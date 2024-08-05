@@ -18,7 +18,7 @@ This is the blended series of station GANCA, AZERBAIJAN (STAID: 393)
 Blended and updated with sources:17647 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    393, 17647,18820101,   26,    1
    393, 17647,18820102,   12,    1
    393, 17647,18820103,    9,    1

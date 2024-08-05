@@ -18,7 +18,7 @@ This is the blended series of station FV33 TONSASEN, NORWAY (STAID: 18642)
 Blended and updated with sources:99618 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18642, 99618,20151101,-9999,    9
  18642, 99618,20151102,-9999,    9
  18642, 99618,20151103,-9999,    9

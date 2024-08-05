@@ -18,7 +18,7 @@ This is the blended series of station SHEPETIVKA, UKRAINE (STAID: 1472)
 Blended and updated with sources:5511 933317 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1472,  5511,19240401,   29,    0
   1472,  5511,19240402,-9999,    9
   1472,  5511,19240403,    7,    0

@@ -18,7 +18,7 @@ This is the blended series of station GEITHUS, NORWAY (STAID: 18586)
 Blended and updated with sources:99505 100783 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18586,100783,19570101,  -51,    0
  18586,100783,19570102,  -94,    0
  18586,100783,19570103, -100,    0

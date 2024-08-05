@@ -18,7 +18,7 @@ This is the blended series of station ASKE, SWEDEN (STAID: 5489)
 Blended and updated with sources:36212 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5489, 36212,19470930,   61,    1
   5489, 36212,19471001,   55,    1
   5489, 36212,19471002,   52,    1

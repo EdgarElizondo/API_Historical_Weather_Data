@@ -18,7 +18,7 @@ This is the blended series of station ASTANA, KAZAKHSTAN (STAID: 3278)
 Blended and updated with sources:17542 935188 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3278, 17542,18810101, -135,    1
   3278, 17542,18810102, -189,    1
   3278, 17542,18810103, -194,    1

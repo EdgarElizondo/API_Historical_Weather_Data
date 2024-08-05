@@ -18,7 +18,7 @@ This is the blended series of station FV812 HOGNDALEN, NORWAY (STAID: 18477)
 Blended and updated with sources:99303 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18477, 99303,20150901,-9999,    9
  18477, 99303,20150902,-9999,    9
  18477, 99303,20150903,-9999,    9

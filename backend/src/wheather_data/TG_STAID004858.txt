@@ -18,7 +18,7 @@ This is the blended series of station WUSTERWITZ, GERMANY (STAID: 4858)
 Blended and updated with sources:31388 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4858, 31388,20040501,  175,    0
   4858, 31388,20040502,  133,    0
   4858, 31388,20040503,  149,    0

@@ -18,7 +18,7 @@ This is the blended series of station GYSINGE, SWEDEN (STAID: 6414)
 Blended and updated with sources:36365 67085 902482 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6414, 67085,18750101, -202,    1
   6414, 67085,18750102, -148,    1
   6414, 67085,18750103,  -95,    1

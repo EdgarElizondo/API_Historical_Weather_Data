@@ -18,7 +18,7 @@ This is the blended series of station ORSKOG, NORWAY (STAID: 2709)
 Blended and updated with sources:10943 99685 100821 901229 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2709,100821,19610101,   18,    0
   2709,100821,19610102,   14,    0
   2709,100821,19610103,   23,    0

@@ -18,7 +18,7 @@ This is the blended series of station YANOV STAN, RUSSIAN FEDERATION (STAID: 807
 Blended and updated with sources:48488 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8076, 48488,19590101, -352,    0
   8076, 48488,19590102, -279,    0
   8076, 48488,19590103, -197,    0

@@ -18,7 +18,7 @@ This is the blended series of station MADRID/TORREJON, SPAIN (STAID: 3839)
 Blended and updated with sources:20273 20300 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3839, 20273,19450101,   20,    0
   3839, 20273,19450102,    9,    0
   3839, 20273,19450103,  -19,    0

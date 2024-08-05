@@ -18,7 +18,7 @@ This is the blended series of station BONN-FRIESDORF, GERMANY (STAID: 4823)
 Blended and updated with sources:30968 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4823, 30968,19321001,  165,    0
   4823, 30968,19321002,  119,    0
   4823, 30968,19321003,   96,    0

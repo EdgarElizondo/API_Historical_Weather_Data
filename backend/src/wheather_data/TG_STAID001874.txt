@@ -18,7 +18,7 @@ This is the blended series of station BENMORE: YOUNGER BOTANIC GARDEN, UNITED KI
 Blended and updated with sources:7068 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1874,  7068,19600101,   50,    0
   1874,  7068,19600102,   14,    0
   1874,  7068,19600103,   44,    0

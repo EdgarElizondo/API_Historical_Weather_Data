@@ -18,7 +18,7 @@ This is the blended series of station VAJMAT_V, SWEDEN (STAID: 5818)
 Blended and updated with sources:37295 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5818, 37295,19960301,  -42,    0
   5818, 37295,19960302, -113,    0
   5818, 37295,19960303,  -89,    0

@@ -18,7 +18,7 @@ This is the blended series of station BERGELIGREND, NORWAY (STAID: 5141)
 Blended and updated with sources:34792 100812 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5141,100812,20151101,-9999,    9
   5141,100812,20151102,-9999,    9
   5141,100812,20151103,-9999,    9

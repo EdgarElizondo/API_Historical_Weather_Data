@@ -18,7 +18,7 @@ This is the blended series of station TARTU-TORAVERE, ESTONIA (STAID: 11367)
 Blended and updated with sources:75070 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11367, 75070,19640901,  112,    0
  11367, 75070,19640902,  100,    0
  11367, 75070,19640903,  106,    0

@@ -18,7 +18,7 @@ This is the blended series of station OSKARSHAMN, SWEDEN (STAID: 5268)
 Blended and updated with sources:35468 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5268, 35468,19610101,   -6,    0
   5268, 35468,19610102,   12,    0
   5268, 35468,19610103,   21,    0

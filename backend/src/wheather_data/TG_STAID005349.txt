@@ -18,7 +18,7 @@ This is the blended series of station VALDEMARSVIK, SWEDEN (STAID: 5349)
 Blended and updated with sources:35741 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5349, 35741,19901101,   37,    0
   5349, 35741,19901102,   17,    0
   5349, 35741,19901103,   -4,    0

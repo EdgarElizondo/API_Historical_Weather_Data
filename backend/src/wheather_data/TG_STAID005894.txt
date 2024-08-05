@@ -18,7 +18,7 @@ This is the blended series of station STAFFANSTORP, SWEDEN (STAID: 5894)
 Blended and updated with sources:35165 35177 62459 62468 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5894, 35165,19260601,  132,    0
   5894, 35165,19260602,  144,    0
   5894, 35165,19260603,  123,    0

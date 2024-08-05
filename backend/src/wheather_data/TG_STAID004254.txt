@@ -18,7 +18,7 @@ This is the blended series of station IHRINGEN, GERMANY (STAID: 4254)
 Blended and updated with sources:24140 28280 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4254, 28280,19470101,    8,    0
   4254, 28280,19470102,    1,    0
   4254, 28280,19470103,    3,    0

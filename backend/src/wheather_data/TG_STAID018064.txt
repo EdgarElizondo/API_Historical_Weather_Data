@@ -18,7 +18,7 @@ This is the blended series of station RENA - ORNHAUGEN, NORWAY (STAID: 18064)
 Blended and updated with sources:99587 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18064, 99587,20140218,  -80,    1
  18064, 99587,20140219, -105,    1
  18064, 99587,20140220,  -52,    0

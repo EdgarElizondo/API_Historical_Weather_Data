@@ -18,7 +18,7 @@ This is the blended series of station VOSS - BOE, NORWAY (STAID: 18806)
 Blended and updated with sources:100656 100818 901336 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18806,100818,19620601,   61,    0
  18806,100818,19620602,   64,    0
  18806,100818,19620603,   68,    0

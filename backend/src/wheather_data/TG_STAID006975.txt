@@ -18,7 +18,7 @@ This is the blended series of station KEMIONSAARI VANO, FINLAND (STAID: 6975)
 Blended and updated with sources:41988 902743 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6975, 41988,19900901,-9999,    9
   6975, 41988,19900902,-9999,    9
   6975, 41988,19900903,-9999,    9

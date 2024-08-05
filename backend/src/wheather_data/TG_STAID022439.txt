@@ -18,7 +18,7 @@ This is the blended series of station VIELHA-ELIPORT, SPAIN (STAID: 22439)
 Blended and updated with sources:120942 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22439,120942,20210301,-9999,    9
  22439,120942,20210302,-9999,    9
  22439,120942,20210303,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station VLADIVOSTOK, RUSSIAN FEDERATION (STAID: 32
 Blended and updated with sources:17296 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3269, 17296,19110101, -266,    0
   3269, 17296,19110102, -316,    0
   3269, 17296,19110103, -252,    0

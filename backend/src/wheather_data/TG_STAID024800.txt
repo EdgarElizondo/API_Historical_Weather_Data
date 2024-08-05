@@ -18,7 +18,7 @@ This is the blended series of station REICHERSBERG, AUSTRIA (STAID: 24800)
 Blended and updated with sources:135996 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24800,135996,19360101,-9999,    9
  24800,135996,19360102,-9999,    9
  24800,135996,19360103,-9999,    9

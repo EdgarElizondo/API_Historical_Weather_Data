@@ -18,7 +18,7 @@ This is the blended series of station ZINNOWITZ, GERMANY (STAID: 4800)
 Blended and updated with sources:30692 31472 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4800, 30692,19910101,   40,    0
   4800, 30692,19910102,   46,    0
   4800, 30692,19910103,   45,    0

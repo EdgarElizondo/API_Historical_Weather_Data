@@ -18,7 +18,7 @@ This is the blended series of station LIEPAJA, LATVIA (STAID: 199)
 Blended and updated with sources:617 926406 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    199,   617,19010101, -115,    0
    199,   617,19010102,  -97,    0
    199,   617,19010103, -120,    0

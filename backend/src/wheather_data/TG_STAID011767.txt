@@ -18,7 +18,7 @@ This is the blended series of station BAD SACHSA, GERMANY (STAID: 11767)
 Blended and updated with sources:81229 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11767, 81229,19480101,  -13,    0
  11767, 81229,19480102,   60,    0
  11767, 81229,19480103,   91,    0

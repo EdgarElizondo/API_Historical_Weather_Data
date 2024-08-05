@@ -18,7 +18,7 @@ This is the blended series of station NELAUG - OEYNES, NORWAY (STAID: 18820)
 Blended and updated with sources:33004 100674 901459 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18820,100674,19600801,  193,    0
  18820,100674,19600802,  207,    0
  18820,100674,19600803,  189,    0

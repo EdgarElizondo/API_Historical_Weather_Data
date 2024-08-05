@@ -18,7 +18,7 @@ This is the blended series of station DIEPHOLZ, GERMANY (STAID: 4971)
 Blended and updated with sources:32744 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4971, 32744,19520901,  174,    0
   4971, 32744,19520902,  134,    0
   4971, 32744,19520903,  130,    0

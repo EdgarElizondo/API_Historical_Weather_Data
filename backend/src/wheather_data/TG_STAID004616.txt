@@ -18,7 +18,7 @@ This is the blended series of station GROSSENKNETEN, GERMANY (STAID: 4616)
 Blended and updated with sources:28484 29648 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4616, 29648,19590101,   55,    0
   4616, 29648,19590102,   31,    0
   4616, 29648,19590103,   15,    0

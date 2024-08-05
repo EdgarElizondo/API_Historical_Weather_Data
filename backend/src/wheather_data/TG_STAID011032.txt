@@ -18,7 +18,7 @@ This is the blended series of station EL PONT DE SUERT, SPAIN (STAID: 11032)
 Blended and updated with sources:56148 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11032, 56148,20080101,  -40,    0
  11032, 56148,20080102,  -20,    0
  11032, 56148,20080103,    7,    0

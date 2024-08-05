@@ -18,7 +18,7 @@ This is the blended series of station VAEROEY HELIPORT, NORWAY (STAID: 18239)
 Blended and updated with sources:99501 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18239, 99501,20041101,-9999,    9
  18239, 99501,20041102,-9999,    9
  18239, 99501,20041103,-9999,    9

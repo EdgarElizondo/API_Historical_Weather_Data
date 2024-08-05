@@ -18,7 +18,7 @@ This is the blended series of station SCHNARRTANNE-VOGELSGRUEN, GERMANY (STAID: 
 Blended and updated with sources:81251 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11769, 81251,19470101,  -79,    0
  11769, 81251,19470102,  -42,    0
  11769, 81251,19470103,  -68,    0

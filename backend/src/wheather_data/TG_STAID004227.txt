@@ -18,7 +18,7 @@ This is the blended series of station EISFELD-WAFFENROD-HINTERROD, GERMANY (STAI
 Blended and updated with sources:23816 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4227, 23816,19910101,    5,    0
   4227, 23816,19910102,   26,    0
   4227, 23816,19910103,   50,    0

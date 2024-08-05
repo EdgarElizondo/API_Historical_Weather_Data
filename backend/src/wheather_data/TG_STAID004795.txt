@@ -18,7 +18,7 @@ This is the blended series of station WRIXUM/FOHR, GERMANY (STAID: 4795)
 Blended and updated with sources:30632 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4795, 30632,18870701,  168,    0
   4795, 30632,18870702,  173,    0
   4795, 30632,18870703,  173,    0

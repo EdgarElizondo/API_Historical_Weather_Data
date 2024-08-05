@@ -18,7 +18,7 @@ This is the blended series of station STENUDDEN, SWEDEN (STAID: 5820)
 Blended and updated with sources:37301 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5820, 37301,19651001,   31,    0
   5820, 37301,19651002,   13,    0
   5820, 37301,19651003,   32,    0

@@ -18,7 +18,7 @@ This is the blended series of station SANDDOKKI, NORWAY (STAID: 19182)
 Blended and updated with sources:100739 100940 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19182,100940,19770301,-9999,    9
  19182,100940,19770302,-9999,    9
  19182,100940,19770303,-9999,    9

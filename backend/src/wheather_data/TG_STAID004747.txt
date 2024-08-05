@@ -18,7 +18,7 @@ This is the blended series of station WEISKIRCHEN/SAAR, GERMANY (STAID: 4747)
 Blended and updated with sources:30056 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4747, 30056,19570101,   -8,    0
   4747, 30056,19570102,    3,    0
   4747, 30056,19570103,   25,    0

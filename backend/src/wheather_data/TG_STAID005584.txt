@@ -18,7 +18,7 @@ This is the blended series of station STORJUNGFRUN, SWEDEN (STAID: 5584)
 Blended and updated with sources:36515 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5584, 36515,19610101,    0,    0
   5584, 36515,19610102,  -21,    0
   5584, 36515,19610103,   10,    0

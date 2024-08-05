@@ -18,7 +18,7 @@ This is the blended series of station MEDELANA, ITALY (STAID: 17674)
 Blended and updated with sources:95848 95888 96328 97416 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17674, 96328,20051201,-9999,    9
  17674, 96328,20051202,-9999,    9
  17674, 96328,20051203,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station FRIESACH, AUSTRIA (STAID: 24824)
 Blended and updated with sources:136308 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24824,136308,19580501,   85,    0
  24824,136308,19580502,  100,    0
  24824,136308,19580503,  108,    0

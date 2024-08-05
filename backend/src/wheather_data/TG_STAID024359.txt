@@ -18,7 +18,7 @@ This is the blended series of station HOCHOBIR, AUSTRIA (STAID: 24359)
 Blended and updated with sources:130276 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24359,130276,18800801,-9999,    9
  24359,130276,18800802,-9999,    9
  24359,130276,18800803,-9999,    9

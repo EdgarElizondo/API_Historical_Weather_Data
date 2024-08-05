@@ -18,7 +18,7 @@ This is the blended series of station VELIKI DOLENCI, SLOVENIA (STAID: 3325)
 Blended and updated with sources:15098 912910 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3325, 15098,19780101,    8,    0
   3325, 15098,19780102,    5,    0
   3325, 15098,19780103,   36,    0

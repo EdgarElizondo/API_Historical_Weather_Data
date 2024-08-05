@@ -18,7 +18,7 @@ This is the blended series of station LAC REDON, SPAIN (STAID: 11045)
 Blended and updated with sources:56265 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11045, 56265,20080101,    4,    0
  11045, 56265,20080102,  -29,    0
  11045, 56265,20080103,  -51,    0

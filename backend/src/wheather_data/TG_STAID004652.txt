@@ -18,7 +18,7 @@ This is the blended series of station SOLTAU, GERMANY (STAID: 4652)
 Blended and updated with sources:28916 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4652, 28916,19470721,  190,    0
   4652, 28916,19470722,  223,    0
   4652, 28916,19470723,  243,    0

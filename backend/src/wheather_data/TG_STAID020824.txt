@@ -18,7 +18,7 @@ This is the blended series of station TOENSBERG - EIK, NORWAY (STAID: 20824)
 Blended and updated with sources:99184 99359 99440 100852 100935 111247 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  20824,100852,19570101,  -38,    0
  20824,100852,19570102,  -65,    0
  20824,100852,19570103,  -64,    0

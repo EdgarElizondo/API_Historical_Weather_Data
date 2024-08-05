@@ -18,7 +18,7 @@ This is the blended series of station HALLSTATT, AUSTRIA (STAID: 24461)
 Blended and updated with sources:131602 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24461,131602,19380101,  -58,    0
  24461,131602,19380102,  -43,    0
  24461,131602,19380103,  -65,    0

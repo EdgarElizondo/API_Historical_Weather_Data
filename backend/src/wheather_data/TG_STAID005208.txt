@@ -18,7 +18,7 @@ This is the blended series of station NYHAMNSLAGE, SWEDEN (STAID: 5208)
 Blended and updated with sources:35270 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5208, 35270,19980301,   19,    0
   5208, 35270,19980302,   20,    0
   5208, 35270,19980303,   38,    0

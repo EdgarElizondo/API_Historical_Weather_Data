@@ -18,7 +18,7 @@ This is the blended series of station SOLEKUL', RUSSIAN FEDERATION (STAID: 8446)
 Blended and updated with sources:51388 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8446, 51388,19660101, -280,    0
   8446, 51388,19660102, -249,    0
   8446, 51388,19660103, -206,    0

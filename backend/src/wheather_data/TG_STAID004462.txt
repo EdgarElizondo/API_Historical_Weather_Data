@@ -18,7 +18,7 @@ This is the blended series of station NEUSTADT/WEINSTRASSE, GERMANY (STAID: 4462
 Blended and updated with sources:26636 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4462, 26636,19510101,   18,    0
   4462, 26636,19510102,   16,    0
   4462, 26636,19510103,   20,    0

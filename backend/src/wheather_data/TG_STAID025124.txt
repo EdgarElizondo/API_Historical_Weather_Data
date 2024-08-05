@@ -18,7 +18,7 @@ This is the blended series of station GOLDAP, POLAND (STAID: 25124)
 Blended and updated with sources:139938 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25124,139938,19550101,  -42,    0
  25124,139938,19550102,  -49,    0
  25124,139938,19550103,  -62,    0

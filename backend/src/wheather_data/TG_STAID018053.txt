@@ -18,7 +18,7 @@ This is the blended series of station HONEFOSS - HVERVEN, NORWAY (STAID: 18053)
 Blended and updated with sources:99480 99509 901469 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18053, 99509,20050601,  110,    0
  18053, 99509,20050602,   90,    0
  18053, 99509,20050603,   86,    0

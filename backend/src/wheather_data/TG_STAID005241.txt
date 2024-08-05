@@ -18,7 +18,7 @@ This is the blended series of station SKEDEMOSSE, SWEDEN (STAID: 5241)
 Blended and updated with sources:35369 35375 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5241, 35369,19450101,  -26,    0
   5241, 35369,19450102,   28,    0
   5241, 35369,19450103,   48,    0

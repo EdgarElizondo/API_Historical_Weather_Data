@@ -18,7 +18,7 @@ This is the blended series of station MERDOEY, NORWAY (STAID: 18747)
 Blended and updated with sources:9664 100588 901465 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18747,  9664,19110101,   34,    1
  18747,  9664,19110102,  -12,    0
  18747,  9664,19110103,   -5,    0

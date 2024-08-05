@@ -18,7 +18,7 @@ This is the blended series of station HELSINKI KAISANIEMI, FINLAND (STAID: 28)
 Blended and updated with sources:84 42234 42244 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     28,    84,19510101,  -63,    0
     28,    84,19510102,  -52,    0
     28,    84,19510103,  -33,    0

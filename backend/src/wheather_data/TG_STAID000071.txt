@@ -18,7 +18,7 @@ This is the blended series of station ARXANGEL'SK, RUSSIAN FEDERATION (STAID: 71
 Blended and updated with sources:273 922550 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     71,   273,18810101, -118,    0
     71,   273,18810102,  -63,    0
     71,   273,18810103,  -19,    0

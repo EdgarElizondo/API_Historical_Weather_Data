@@ -18,7 +18,7 @@ This is the blended series of station PTE DE LA HAGUE, FRANCE (STAID: 793)
 Blended and updated with sources:6768 907020 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    793,  6768,19210101,  112,    0
    793,  6768,19210102,  120,    0
    793,  6768,19210103,  102,    0

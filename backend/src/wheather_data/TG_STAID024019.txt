@@ -18,7 +18,7 @@ This is the blended series of station LILIENFELD-TARSCHBERG, AUSTRIA (STAID: 240
 Blended and updated with sources:125908 911078 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24019,125908,19920801,  221,    0
  24019,125908,19920802,  206,    0
  24019,125908,19920803,  243,    0

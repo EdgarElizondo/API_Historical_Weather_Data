@@ -18,7 +18,7 @@ This is the blended series of station ST.ANDRAE-WINKLING, AUSTRIA (STAID: 24444)
 Blended and updated with sources:131381 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24444,131381,19760901,  128,    0
  24444,131381,19760902,  152,    0
  24444,131381,19760903,  132,    0

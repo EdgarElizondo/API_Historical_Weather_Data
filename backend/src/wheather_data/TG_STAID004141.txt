@@ -18,7 +18,7 @@ This is the blended series of station GENTHIN, GERMANY (STAID: 4141)
 Blended and updated with sources:22784 910365 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4141, 22784,19530101,  -14,    0
   4141, 22784,19530102,    0,    0
   4141, 22784,19530103,    4,    0

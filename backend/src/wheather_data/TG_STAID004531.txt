@@ -18,7 +18,7 @@ This is the blended series of station PUTBUS, GERMANY (STAID: 4531)
 Blended and updated with sources:27464 910093 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4531, 27464,18530701,  153,    0
   4531, 27464,18530702,  151,    0
   4531, 27464,18530703,  139,    0

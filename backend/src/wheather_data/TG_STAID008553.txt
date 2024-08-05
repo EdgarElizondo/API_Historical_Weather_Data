@@ -18,7 +18,7 @@ This is the blended series of station SULAK VY SOKOGORNAYA, RUSSIAN FEDERATION (
 Blended and updated with sources:52403 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8553, 52403,19300101,-9999,    9
   8553, 52403,19300102,-9999,    9
   8553, 52403,19300103,-9999,    9

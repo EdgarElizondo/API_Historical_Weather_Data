@@ -18,7 +18,7 @@ This is the blended series of station FLORINA, GREECE (STAID: 931)
 Blended and updated with sources:16399 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    931, 16399,20010101,    5,    0
    931, 16399,20010102,   -8,    0
    931, 16399,20010103,   23,    0

@@ -18,7 +18,7 @@ This is the blended series of station SALLA VARRIOTUNTURI, FINLAND (STAID: 7868)
 Blended and updated with sources:46596 902819 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7868, 46596,19740801,-9999,    9
   7868, 46596,19740802,-9999,    9
   7868, 46596,19740803,-9999,    9

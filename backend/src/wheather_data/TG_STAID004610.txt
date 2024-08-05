@@ -18,7 +18,7 @@ This is the blended series of station SCHLUCHTERN-KLOSTER GOMFRITZ, GERMANY (STA
 Blended and updated with sources:27860 28412 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4610, 27860,19360401,-9999,    9
   4610, 27860,19360402,-9999,    9
   4610, 27860,19360403,   69,    0

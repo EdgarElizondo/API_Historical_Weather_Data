@@ -18,7 +18,7 @@ This is the blended series of station DACHWIG, GERMANY (STAID: 4962)
 Blended and updated with sources:32636 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4962, 32636,19490701,  166,    0
   4962, 32636,19490702,  156,    0
   4962, 32636,19490703,  160,    0

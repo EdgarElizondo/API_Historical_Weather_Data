@@ -18,7 +18,7 @@ This is the blended series of station TRILLEVALLEN_V, SWEDEN (STAID: 5670)
 Blended and updated with sources:36800 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5670, 36800,19981001,   24,    0
   5670, 36800,19981002,   11,    0
   5670, 36800,19981003,   19,    0

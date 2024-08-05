@@ -18,7 +18,7 @@ This is the blended series of station GLUCKSTADT, GERMANY (STAID: 4148)
 Blended and updated with sources:22484 22868 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4148, 22868,19480101,    2,    0
   4148, 22868,19480102,   71,    0
   4148, 22868,19480103,   73,    0

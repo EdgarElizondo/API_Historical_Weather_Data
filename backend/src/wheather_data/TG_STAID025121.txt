@@ -18,7 +18,7 @@ This is the blended series of station TOLKMICKO, POLAND (STAID: 25121)
 Blended and updated with sources:139902 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25121,139902,19510101,  -53,    0
  25121,139902,19510102,  -33,    0
  25121,139902,19510103,   21,    0

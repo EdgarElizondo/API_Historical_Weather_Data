@@ -18,7 +18,7 @@ This is the blended series of station E134 HAUKELIFJELL, NORWAY (STAID: 18440)
 Blended and updated with sources:99240 106022 901435 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18440,901435,20130801,-9999,    9
  18440,901435,20130802,-9999,    9
  18440,901435,20130803,-9999,    9

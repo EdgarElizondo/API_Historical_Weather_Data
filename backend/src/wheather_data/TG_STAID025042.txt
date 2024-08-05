@@ -18,7 +18,7 @@ This is the blended series of station SLUPIA WIELKA, POLAND (STAID: 25042)
 Blended and updated with sources:138942 138954 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25042,138942,19510101,  -57,    0
  25042,138942,19510102,    4,    0
  25042,138942,19510103,    9,    0

@@ -18,7 +18,7 @@ This is the blended series of station LULLYMORE (BORD NA MONA), IRELAND (STAID: 
 Blended and updated with sources:7554 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1755,  7554,19610101,-9999,    9
   1755,  7554,19610102,   33,    1
   1755,  7554,19610103,   23,    1

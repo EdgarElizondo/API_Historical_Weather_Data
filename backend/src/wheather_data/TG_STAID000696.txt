@@ -18,7 +18,7 @@ This is the blended series of station SWINOUJSCIE, POLAND (STAID: 696)
 Blended and updated with sources:6075 912200 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    696,  6075,19510101,  -59,    0
    696,  6075,19510102,  -11,    0
    696,  6075,19510103,   -7,    0

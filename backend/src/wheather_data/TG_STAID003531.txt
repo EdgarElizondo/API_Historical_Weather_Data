@@ -18,7 +18,7 @@ This is the blended series of station SKAGSUDDE A, SWEDEN (STAID: 3531)
 Blended and updated with sources:36785 36788 902269 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3531, 36785,19640201,  -55,    0
   3531, 36785,19640202,  -74,    0
   3531, 36785,19640203,  -12,    0

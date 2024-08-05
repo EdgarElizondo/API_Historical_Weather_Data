@@ -18,7 +18,7 @@ This is the blended series of station PORJUS, SWEDEN (STAID: 6878)
 Blended and updated with sources:70870 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6878, 70870,19450101, -102,    0
   6878, 70870,19450102, -123,    0
   6878, 70870,19450103, -226,    0

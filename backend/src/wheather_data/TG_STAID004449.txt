@@ -18,7 +18,7 @@ This is the blended series of station MENZ, GERMANY (STAID: 4449)
 Blended and updated with sources:26480 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4449, 26480,20041001,  102,    0
   4449, 26480,20041002,  117,    0
   4449, 26480,20041003,  109,    0

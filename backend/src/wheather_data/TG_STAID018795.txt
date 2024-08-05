@@ -18,7 +18,7 @@ This is the blended series of station HAKADAL - BLIKSRUDHAGAN, NORWAY (STAID: 18
 Blended and updated with sources:99416 100643 901488 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18795,100643,19821201,  -79,    0
  18795,100643,19821202,  -38,    0
  18795,100643,19821203,  -16,    0

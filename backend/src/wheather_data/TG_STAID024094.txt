@@ -18,7 +18,7 @@ This is the blended series of station KOESSEN, AUSTRIA (STAID: 24094)
 Blended and updated with sources:126857 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24094,126857,20080901,  170,    0
  24094,126857,20080902,  184,    0
  24094,126857,20080903,  194,    0

@@ -18,7 +18,7 @@ This is the blended series of station STURUP, SWEDEN (STAID: 5173)
 Blended and updated with sources:35150 35156 902636 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5173, 35156,19721201,   56,    0
   5173, 35156,19721202,   60,    0
   5173, 35156,19721203,   53,    0

@@ -18,7 +18,7 @@ This is the blended series of station SOVETSK, RUSSIAN FEDERATION (STAID: 8165)
 Blended and updated with sources:49113 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8165, 49113,19590101,-9999,    9
   8165, 49113,19590102,-9999,    9
   8165, 49113,19590103,-9999,    9

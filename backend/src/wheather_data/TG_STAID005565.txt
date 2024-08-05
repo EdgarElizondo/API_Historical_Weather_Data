@@ -18,7 +18,7 @@ This is the blended series of station SAGMYRA 1, SWEDEN (STAID: 5565)
 Blended and updated with sources:36455 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5565, 36455,19850601,  173,    0
   5565, 36455,19850602,  166,    0
   5565, 36455,19850603,  128,    0

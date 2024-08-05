@@ -18,7 +18,7 @@ This is the blended series of station HUDIKSVALL, SWEDEN (STAID: 5607)
 Blended and updated with sources:36587 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5607, 36587,19520305,  -33,    0
   5607, 36587,19520306,  -48,    0
   5607, 36587,19520307,  -66,    0

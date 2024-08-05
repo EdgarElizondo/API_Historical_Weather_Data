@@ -18,7 +18,7 @@ This is the blended series of station SOSNOVEÑ  OSTROV, RUSSIAN FEDERATION (S
 Blended and updated with sources:48133 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8062, 48133,18970101,  -25,    0
   8062, 48133,18970102,  -34,    0
   8062, 48133,18970103,  -43,    0

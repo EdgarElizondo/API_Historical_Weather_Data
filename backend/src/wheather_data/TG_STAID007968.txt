@@ -18,7 +18,7 @@ This is the blended series of station KITSISSORSUIT, GREENLAND [DENMARK] (STAID:
 Blended and updated with sources:46877 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7968, 46877,19810101,-9999,    9
   7968, 46877,19810102,-9999,    9
   7968, 46877,19810103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station INGA, RUSSIAN FEDERATION (STAID: 8351)
 Blended and updated with sources:50913 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8351, 50913,19360101,-9999,    9
   8351, 50913,19360102,-9999,    9
   8351, 50913,19360103,-9999,    9

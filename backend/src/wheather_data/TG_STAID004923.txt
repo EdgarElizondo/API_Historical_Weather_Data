@@ -18,7 +18,7 @@ This is the blended series of station WUNSIEDEL-SCHONBRUNN, GERMANY (STAID: 4923
 Blended and updated with sources:32168 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4923, 32168,20060601,   50,    0
   4923, 32168,20060602,   70,    0
   4923, 32168,20060603,   97,    0

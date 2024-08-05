@@ -18,7 +18,7 @@ This is the blended series of station RV15 FOSNES, NORWAY (STAID: 18657)
 Blended and updated with sources:99639 100675 100862 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18657,100862,19710401,    9,    0
  18657,100862,19710402,   33,    0
  18657,100862,19710403,   54,    0

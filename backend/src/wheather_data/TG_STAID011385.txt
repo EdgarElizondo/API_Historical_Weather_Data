@@ -18,7 +18,7 @@ This is the blended series of station LES BORGES BLANQUES, SPAIN (STAID: 11385)
 Blended and updated with sources:75676 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11385, 75676,20170101,-9999,    9
  11385, 75676,20170102,-9999,    9
  11385, 75676,20170103,-9999,    9

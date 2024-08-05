@@ -18,7 +18,7 @@ This is the blended series of station INARI KIRAKKAJARVI SANILANLAMPI, FINLAND (
 Blended and updated with sources:46786 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7905, 46786,19931101,-9999,    9
   7905, 46786,19931102,-9999,    9
   7905, 46786,19931103,-9999,    9

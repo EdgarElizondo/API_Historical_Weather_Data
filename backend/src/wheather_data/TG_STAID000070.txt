@@ -18,7 +18,7 @@ This is the blended series of station ALEKSANDROV GAJ, RUSSIAN FEDERATION (STAID
 Blended and updated with sources:269 934391 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     70,   269,19360101, -158,    0
     70,   269,19360102, -146,    0
     70,   269,19360103, -134,    0

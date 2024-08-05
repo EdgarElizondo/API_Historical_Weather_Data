@@ -18,7 +18,7 @@ This is the blended series of station E39 SOEYLAND, NORWAY (STAID: 18346)
 Blended and updated with sources:99063 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18346, 99063,20131001,-9999,    9
  18346, 99063,20131002,-9999,    9
  18346, 99063,20131003,-9999,    9

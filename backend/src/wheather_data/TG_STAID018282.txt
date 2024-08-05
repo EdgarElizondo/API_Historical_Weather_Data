@@ -18,7 +18,7 @@ This is the blended series of station STORFORSHEI, NORWAY (STAID: 18282)
 Blended and updated with sources:99608 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18282, 99608,20110601,   84,    0
  18282, 99608,20110602,   81,    0
  18282, 99608,20110603,   88,    0

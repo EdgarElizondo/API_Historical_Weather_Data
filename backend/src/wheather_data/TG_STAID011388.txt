@@ -18,7 +18,7 @@ This is the blended series of station STORHOFDI (AWS), ICELAND (STAID: 11388)
 Blended and updated with sources:265 75787 75798 904048 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11388, 75787,19490101,  -85,    1
  11388, 75787,19490102, -106,    0
  11388, 75787,19490103,  -90,    0

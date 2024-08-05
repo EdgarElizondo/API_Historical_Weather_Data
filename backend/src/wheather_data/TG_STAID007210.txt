@@ -18,7 +18,7 @@ This is the blended series of station VIROLAHTI KOIVUNIEMI, FINLAND (STAID: 7210
 Blended and updated with sources:43209 902831 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7210, 43209,19770101,  -31,    0
   7210, 43209,19770102,  -53,    0
   7210, 43209,19770103,  -47,    0

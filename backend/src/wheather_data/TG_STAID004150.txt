@@ -18,7 +18,7 @@ This is the blended series of station GOSSWEINSTEIN, GERMANY (STAID: 4150)
 Blended and updated with sources:22892 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4150, 22892,19360101,    4,    0
   4150, 22892,19360102,   24,    0
   4150, 22892,19360103,   56,    0

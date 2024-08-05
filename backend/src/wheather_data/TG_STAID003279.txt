@@ -18,7 +18,7 @@ This is the blended series of station AKTOBE, KAZAKHSTAN (STAID: 3279)
 Blended and updated with sources:17547 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3279, 17547,19040101,-9999,    9
   3279, 17547,19040102,-9999,    9
   3279, 17547,19040103,-9999,    9

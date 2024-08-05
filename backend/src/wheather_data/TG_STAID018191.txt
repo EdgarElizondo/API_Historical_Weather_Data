@@ -18,7 +18,7 @@ This is the blended series of station SOELENDET, NORWAY (STAID: 18191)
 Blended and updated with sources:99365 901287 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18191, 99365,20071001,   48,    0
  18191, 99365,20071002,   50,    0
  18191, 99365,20071003,   47,    0

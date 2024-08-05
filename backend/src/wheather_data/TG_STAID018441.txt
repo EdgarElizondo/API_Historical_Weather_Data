@@ -18,7 +18,7 @@ This is the blended series of station FV101 PRESTEBAKKE, NORWAY (STAID: 18441)
 Blended and updated with sources:99241 101006 901497 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18441,101006,19650801,  118,    0
  18441,101006,19650802,   94,    0
  18441,101006,19650803,  122,    0

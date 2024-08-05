@@ -18,7 +18,7 @@ This is the blended series of station ALFELD, GERMANY (STAID: 4913)
 Blended and updated with sources:32048 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4913, 32048,20071201,   79,    0
   4913, 32048,20071202,   80,    0
   4913, 32048,20071203,   66,    0

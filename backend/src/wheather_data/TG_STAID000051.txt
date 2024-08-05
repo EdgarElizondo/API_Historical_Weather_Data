@@ -18,7 +18,7 @@ This is the blended series of station KARLSRUHE, GERMANY (STAID: 51)
 Blended and updated with sources:182 11506 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     51,   182,18760101,   -2,    0
     51,   182,18760102,   28,    0
     51,   182,18760103,   60,    0

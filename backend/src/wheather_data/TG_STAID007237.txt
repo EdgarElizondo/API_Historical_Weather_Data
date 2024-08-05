@@ -18,7 +18,7 @@ This is the blended series of station KRISTIINANKAUPUNKI KARHUSAARI, FINLAND (ST
 Blended and updated with sources:43314 43344 43369 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7237, 43314,19590101,   -6,    0
   7237, 43314,19590102,  -21,    0
   7237, 43314,19590103,  -12,    0

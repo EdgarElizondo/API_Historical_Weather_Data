@@ -18,7 +18,7 @@ This is the blended series of station BOLLERUP, SWEDEN (STAID: 5170)
 Blended and updated with sources:35147 62348 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5170, 35147,19450101,  -44,    0
   5170, 35147,19450102,   17,    0
   5170, 35147,19450103,   35,    0

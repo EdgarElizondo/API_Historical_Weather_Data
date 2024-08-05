@@ -18,7 +18,7 @@ This is the blended series of station DELSBO_A, SWEDEN (STAID: 5609)
 Blended and updated with sources:36590 36593 36602 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5609, 36590,18780101,-9999,    9
   5609, 36590,18780102,-9999,    9
   5609, 36590,18780103,  -31,    1

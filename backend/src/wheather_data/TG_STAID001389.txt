@@ -18,7 +18,7 @@ This is the blended series of station MELILLA, SPAIN (STAID: 1389)
 Blended and updated with sources:20309 960338 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1389, 20309,19650101,-9999,    9
   1389, 20309,19650102,-9999,    9
   1389, 20309,19650103,-9999,    9

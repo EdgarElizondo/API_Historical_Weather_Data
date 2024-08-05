@@ -18,7 +18,7 @@ This is the blended series of station ORTOFTA, SWEDEN (STAID: 5183)
 Blended and updated with sources:35192 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5183, 35192,19610101,   15,    0
   5183, 35192,19610102,   30,    0
   5183, 35192,19610103,   39,    0

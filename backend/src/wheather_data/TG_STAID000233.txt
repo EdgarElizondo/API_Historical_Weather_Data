@@ -18,7 +18,7 @@ This is the blended series of station SALAMANCA AEROPUERTO, SPAIN (STAID: 233)
 Blended and updated with sources:882 908202 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    233,   882,19450101,    8,    0
    233,   882,19450102,  -28,    0
    233,   882,19450103,  -46,    0

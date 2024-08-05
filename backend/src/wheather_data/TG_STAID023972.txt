@@ -18,7 +18,7 @@ This is the blended series of station JAUERLING, AUSTRIA (STAID: 23972)
 Blended and updated with sources:125310 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23972,125310,19651101,  111,    0
  23972,125310,19651102,  121,    0
  23972,125310,19651103,   81,    0

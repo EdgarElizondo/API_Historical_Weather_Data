@@ -18,7 +18,7 @@ This is the blended series of station KINDBERG, AUSTRIA (STAID: 24112)
 Blended and updated with sources:127091 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24112,127091,19800501,  100,    0
  24112,127091,19800502,   98,    0
  24112,127091,19800503,   96,    0

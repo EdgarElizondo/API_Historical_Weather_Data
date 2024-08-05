@@ -18,7 +18,7 @@ This is the blended series of station HALL LAND, GREENLAND [DENMARK] (STAID: 796
 Blended and updated with sources:46867 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7967, 46867,19820101,-9999,    9
   7967, 46867,19820102,-9999,    9
   7967, 46867,19820103,-9999,    9

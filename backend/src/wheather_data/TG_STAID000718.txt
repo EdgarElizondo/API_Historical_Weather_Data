@@ -18,7 +18,7 @@ This is the blended series of station AHTARI MYLLYMAKI, FINLAND (STAID: 718)
 Blended and updated with sources:44480 902924 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    718, 44480,19590101,  -33,    0
    718, 44480,19590102,  -54,    0
    718, 44480,19590103,  -26,    0

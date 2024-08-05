@@ -18,7 +18,7 @@ This is the blended series of station REGENSBURG-BURGWEINTING, GERMANY (STAID: 4
 Blended and updated with sources:21140 26672 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4465, 21140,18790101,   41,    0
   4465, 21140,18790102,   34,    0
   4465, 21140,18790103,    2,    0

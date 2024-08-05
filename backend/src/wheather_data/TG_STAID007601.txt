@@ -18,7 +18,7 @@ This is the blended series of station OULAINEN OHINEVA, FINLAND (STAID: 7601)
 Blended and updated with sources:45210 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7601, 45210,19700101,  -87,    0
   7601, 45210,19700102,  -84,    0
   7601, 45210,19700103,  -87,    0

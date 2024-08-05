@@ -18,7 +18,7 @@ This is the blended series of station KORGASEN, NORWAY (STAID: 25163)
 Blended and updated with sources:140914 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25163,140914,20220609,   60,    0
  25163,140914,20220610,   49,    0
  25163,140914,20220611,  127,    0

@@ -18,7 +18,7 @@ This is the blended series of station CASTELLNOU DE BAGES, SPAIN (STAID: 11024)
 Blended and updated with sources:56076 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11024, 56076,20080101,   12,    0
  11024, 56076,20080102,   14,    0
  11024, 56076,20080103,   37,    0

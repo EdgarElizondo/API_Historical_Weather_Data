@@ -18,7 +18,7 @@ This is the blended series of station SANT CUGAT DEL VALLES-CAR, SPAIN (STAID: 1
 Blended and updated with sources:56058 56499 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11071, 56058,20080301,-9999,    9
  11071, 56058,20080302,-9999,    9
  11071, 56058,20080303,-9999,    9

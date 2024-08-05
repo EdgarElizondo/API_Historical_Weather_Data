@@ -18,7 +18,7 @@ This is the blended series of station JUNSELE, SWEDEN (STAID: 3530)
 Blended and updated with sources:36872 36875 902243 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3530, 36872,19090101,-9999,    9
   3530, 36872,19090102,-9999,    9
   3530, 36872,19090103,-9999,    9

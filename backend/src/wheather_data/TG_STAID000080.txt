@@ -18,7 +18,7 @@ This is the blended series of station KURSK, RUSSIAN FEDERATION (STAID: 80)
 Blended and updated with sources:309 934009 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
     80,   309,18910101,  -62,    0
     80,   309,18910102,  -35,    0
     80,   309,18910103, -109,    0

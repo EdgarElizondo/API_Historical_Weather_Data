@@ -18,7 +18,7 @@ This is the blended series of station RV4 LYGNA, NORWAY (STAID: 18708)
 Blended and updated with sources:99722 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18708, 99722,20130901,-9999,    9
  18708, 99722,20130902,-9999,    9
  18708, 99722,20130903,-9999,    9

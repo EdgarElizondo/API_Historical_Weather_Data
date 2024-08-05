@@ -18,7 +18,7 @@ This is the blended series of station VARBERG, SWEDEN (STAID: 5254)
 Blended and updated with sources:35426 35429 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5254, 35426,18791201, -117,    1
   5254, 35426,18791202, -111,    1
   5254, 35426,18791203, -128,    1

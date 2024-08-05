@@ -18,7 +18,7 @@ This is the blended series of station ALBERSCHWENDE, AUSTRIA (STAID: 24144)
 Blended and updated with sources:127507 911301 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24144,127507,19951101,   89,    0
  24144,127507,19951102,   52,    0
  24144,127507,19951103,   36,    0

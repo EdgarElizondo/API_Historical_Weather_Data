@@ -18,7 +18,7 @@ This is the blended series of station TARREGA, SPAIN (STAID: 11080)
 Blended and updated with sources:56580 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11080, 56580,20080101,  -28,    0
  11080, 56580,20080102,   -1,    0
  11080, 56580,20080103,   50,    0

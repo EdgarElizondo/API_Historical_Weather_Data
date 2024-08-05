@@ -18,7 +18,7 @@ This is the blended series of station FV888 STORE REINOKSEVATN, NORWAY (STAID: 1
 Blended and updated with sources:99603 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18635, 99603,20150901,-9999,    9
  18635, 99603,20150902,-9999,    9
  18635, 99603,20150903,-9999,    9

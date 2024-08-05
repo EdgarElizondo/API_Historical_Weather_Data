@@ -18,7 +18,7 @@ This is the blended series of station LOSSIEMOUTH, UNITED KINGDOM (STAID: 11106)
 Blended and updated with sources:56859 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11106, 56859,20130101,   32,    0
  11106, 56859,20130102,   74,    0
  11106, 56859,20130103,   85,    0

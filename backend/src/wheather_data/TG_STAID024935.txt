@@ -18,7 +18,7 @@ This is the blended series of station SZCZAWNO-ZDROJ, POLAND (STAID: 24935)
 Blended and updated with sources:137670 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24935,137670,19560101,    5,    0
  24935,137670,19560102,   11,    0
  24935,137670,19560103,  -38,    0

@@ -18,7 +18,7 @@ This is the blended series of station FUERSTENFELD, AUSTRIA (STAID: 24276)
 Blended and updated with sources:129184 129197 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24276,129184,19360101,   53,    0
  24276,129184,19360102,   37,    0
  24276,129184,19360103,   46,    0

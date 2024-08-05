@@ -18,7 +18,7 @@ This is the blended series of station LILLE-LESQUIN, FRANCE (STAID: 737)
 Blended and updated with sources:4041 907015 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    737,  4041,19441201,   78,    0
    737,  4041,19441202,   63,    0
    737,  4041,19441203,   64,    0

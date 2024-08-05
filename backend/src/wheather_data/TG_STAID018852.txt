@@ -18,7 +18,7 @@ This is the blended series of station BOLNA, NORWAY (STAID: 18852)
 Blended and updated with sources:100711 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18852,100711,19671001,   56,    0
  18852,100711,19671002,   65,    0
  18852,100711,19671003,   33,    0

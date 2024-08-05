@@ -18,7 +18,7 @@ This is the blended series of station KOTERBERG, GERMANY (STAID: 4305)
 Blended and updated with sources:24752 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4305, 24752,19980101,-9999,    9
   4305, 24752,19980102,   44,    0
   4305, 24752,19980103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station RISTNA, ESTONIA (STAID: 11362)
 Blended and updated with sources:75050 926115 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11362, 75050,19450301,   19,    0
  11362, 75050,19450302,  -13,    0
  11362, 75050,19450303,  -50,    0

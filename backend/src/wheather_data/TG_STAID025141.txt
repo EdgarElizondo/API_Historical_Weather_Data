@@ -18,7 +18,7 @@ This is the blended series of station PLOCK, POLAND (STAID: 25141)
 Blended and updated with sources:140142 912360 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  25141,140142,19510101,  -33,    0
  25141,140142,19510102,  -15,    0
  25141,140142,19510103,   17,    0

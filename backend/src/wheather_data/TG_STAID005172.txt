@@ -18,7 +18,7 @@ This is the blended series of station HOKOPINGE, SWEDEN (STAID: 5172)
 Blended and updated with sources:35153 35162 35171 902635 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5172, 35171,19170301,-9999,    9
   5172, 35171,19170302,-9999,    9
   5172, 35171,19170303,-9999,    9

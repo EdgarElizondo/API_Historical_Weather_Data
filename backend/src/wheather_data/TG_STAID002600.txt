@@ -18,7 +18,7 @@ This is the blended series of station TRYVASSHOGDA, NORWAY (STAID: 2600)
 Blended and updated with sources:9941 100592 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2600,  9941,19430101,  -94,    0
   2600,  9941,19430102, -134,    0
   2600,  9941,19430103,  -94,    0

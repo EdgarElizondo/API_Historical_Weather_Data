@@ -18,7 +18,7 @@ This is the blended series of station ENONTEKIO KALMANKALTIO, FINLAND (STAID: 78
 Blended and updated with sources:46641 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7877, 46641,19610101,  -66,    0
   7877, 46641,19610102,  -77,    0
   7877, 46641,19610103,  -72,    0

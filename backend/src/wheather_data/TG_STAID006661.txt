@@ -18,7 +18,7 @@ This is the blended series of station SUNDMO, SWEDEN (STAID: 6661)
 Blended and updated with sources:69058 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   6661, 69058,19610101,  -41,    0
   6661, 69058,19610102,  -53,    0
   6661, 69058,19610103,  -27,    0

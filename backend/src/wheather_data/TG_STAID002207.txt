@@ -18,7 +18,7 @@ This is the blended series of station MONTPELLIER-AEROPORT, FRANCE (STAID: 2207)
 Blended and updated with sources:7225 907643 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2207,  7225,19460101,   39,    0
   2207,  7225,19460102,   74,    0
   2207,  7225,19460103,   52,    0

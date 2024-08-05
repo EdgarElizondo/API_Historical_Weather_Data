@@ -18,7 +18,7 @@ This is the blended series of station KOKKOLA TANKAR, FINLAND (STAID: 7579)
 Blended and updated with sources:45060 45085 45095 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7579, 45060,19590101,  -30,    0
   7579, 45060,19590102,  -56,    0
   7579, 45060,19590103,  -47,    0

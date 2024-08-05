@@ -18,7 +18,7 @@ This is the blended series of station AURSJOEEN, NORWAY (STAID: 18980)
 Blended and updated with sources:100855 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18980,100855,19600101,  -14,    0
  18980,100855,19600102,  -65,    0
  18980,100855,19600103,  -69,    0

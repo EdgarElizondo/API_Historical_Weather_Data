@@ -18,7 +18,7 @@ This is the blended series of station STEYR-STADTGUT, AUSTRIA (STAID: 23992)
 Blended and updated with sources:125557 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23992,125557,19560101,   10,    0
  23992,125557,19560102,   18,    0
  23992,125557,19560103,    9,    0

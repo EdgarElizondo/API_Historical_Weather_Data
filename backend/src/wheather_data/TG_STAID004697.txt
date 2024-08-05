@@ -18,7 +18,7 @@ This is the blended series of station TROCHTELFINGEN-WILSINGEN, GERMANY (STAID: 
 Blended and updated with sources:29456 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4697, 29456,19880601,   92,    0
   4697, 29456,19880602,  105,    0
   4697, 29456,19880603,  150,    0

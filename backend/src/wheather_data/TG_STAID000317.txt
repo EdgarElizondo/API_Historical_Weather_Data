@@ -18,7 +18,7 @@ This is the blended series of station BAHARIA, EGYPT (STAID: 317)
 Blended and updated with sources:1079 962420 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    317,  1079,19940101,  148,    0
    317,  1079,19940102,  140,    0
    317,  1079,19940103,  137,    0

@@ -18,7 +18,7 @@ This is the blended series of station KLITZSCHEN BEI TORGAU, GERMANY (STAID: 429
 Blended and updated with sources:24632 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4295, 24632,19941001,  117,    0
   4295, 24632,19941002,  125,    0
   4295, 24632,19941003,  110,    0

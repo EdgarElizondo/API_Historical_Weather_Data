@@ -18,7 +18,7 @@ This is the blended series of station VEREB'E, RUSSIAN FEDERATION (STAID: 1148)
 Blended and updated with sources:49018 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1148, 49018,19360101,    8,    0
   1148, 49018,19360102,    8,    0
   1148, 49018,19360103,   10,    0

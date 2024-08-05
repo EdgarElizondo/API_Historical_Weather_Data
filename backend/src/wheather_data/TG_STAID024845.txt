@@ -18,7 +18,7 @@ This is the blended series of station RATTENBERG/RADFELD, AUSTRIA (STAID: 24845)
 Blended and updated with sources:127910 134670 136581 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24845,134670,19550401,   31,    0
  24845,134670,19550402,   60,    0
  24845,134670,19550403,   62,    0

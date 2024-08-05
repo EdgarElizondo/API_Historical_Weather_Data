@@ -18,7 +18,7 @@ This is the blended series of station MULLSJO, SWEDEN (STAID: 5324)
 Blended and updated with sources:35663 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5324, 35663,19610101,  -13,    0
   5324, 35663,19610102,   -2,    0
   5324, 35663,19610103,    1,    0

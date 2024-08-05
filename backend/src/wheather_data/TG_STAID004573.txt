@@ -18,7 +18,7 @@ This is the blended series of station BAD ROTHENFELDE, GERMANY (STAID: 4573)
 Blended and updated with sources:27968 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4573, 27968,19510101,  -15,    0
   4573, 27968,19510102,   13,    0
   4573, 27968,19510103,    6,    0

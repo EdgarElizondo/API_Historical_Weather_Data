@@ -18,7 +18,7 @@ This is the blended series of station GUENZBURG, GERMANY (STAID: 11752)
 Blended and updated with sources:81064 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11752, 81064,20160901,  195,    0
  11752, 81064,20160902,  183,    0
  11752, 81064,20160903,  184,    0

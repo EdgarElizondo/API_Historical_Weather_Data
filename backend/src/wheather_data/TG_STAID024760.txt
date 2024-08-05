@@ -18,7 +18,7 @@ This is the blended series of station WOLFSBERG, AUSTRIA (STAID: 24760)
 Blended and updated with sources:132213 135476 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24760,135476,19530101,   12,    0
  24760,135476,19530102,   12,    0
  24760,135476,19530103,    6,    0

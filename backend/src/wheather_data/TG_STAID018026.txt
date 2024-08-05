@@ -18,7 +18,7 @@ This is the blended series of station LEBERGSFJELLET, NORWAY (STAID: 18026)
 Blended and updated with sources:99171 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18026, 99171,20131126,   27,    1
  18026, 99171,20131127,   31,    0
  18026, 99171,20131128,   -7,    0

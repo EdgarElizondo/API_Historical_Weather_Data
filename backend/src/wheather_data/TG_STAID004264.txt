@@ -18,7 +18,7 @@ This is the blended series of station JESSEN/ELSTER, GERMANY (STAID: 4264)
 Blended and updated with sources:24260 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4264, 24260,19910101,   35,    0
   4264, 24260,19910102,   69,    0
   4264, 24260,19910103,   71,    0

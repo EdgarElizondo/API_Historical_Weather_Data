@@ -18,7 +18,7 @@ This is the blended series of station VARGARDA-HAGRUNGA, SWEDEN (STAID: 5329)
 Blended and updated with sources:35678 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5329, 35678,19620801,  142,    0
   5329, 35678,19620802,  139,    0
   5329, 35678,19620803,  141,    0

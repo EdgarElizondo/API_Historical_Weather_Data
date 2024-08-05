@@ -18,7 +18,7 @@ This is the blended series of station GALWAY, IRELAND (STAID: 441)
 Blended and updated with sources:1857 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    441,  1857,18610101,-9999,    9
    441,  1857,18610102,-9999,    9
    441,  1857,18610103,-9999,    9

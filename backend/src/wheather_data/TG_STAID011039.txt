@@ -18,7 +18,7 @@ This is the blended series of station FONT-RUBI, SPAIN (STAID: 11039)
 Blended and updated with sources:56211 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11039, 56211,20080101,   59,    0
  11039, 56211,20080102,   56,    0
  11039, 56211,20080103,   59,    0

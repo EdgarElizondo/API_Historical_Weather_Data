@@ -18,7 +18,7 @@ This is the blended series of station TOOMA, ESTONIA (STAID: 11368)
 Blended and updated with sources:75074 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11368, 75074,19150401,  -33,    0
  11368, 75074,19150402,  -31,    0
  11368, 75074,19150403,  -42,    0

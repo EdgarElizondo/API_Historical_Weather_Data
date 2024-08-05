@@ -18,7 +18,7 @@ This is the blended series of station KUUSAMO KIUTAKONGAS, FINLAND (STAID: 7765)
 Blended and updated with sources:46065 902811 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7765, 46065,19660801,  140,    0
   7765, 46065,19660802,  148,    0
   7765, 46065,19660803,  144,    0

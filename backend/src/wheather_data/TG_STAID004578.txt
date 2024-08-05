@@ -18,7 +18,7 @@ This is the blended series of station RUHWINKEL, GERMANY (STAID: 4578)
 Blended and updated with sources:28028 31160 910150 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4578, 28028,19880601,  124,    0
   4578, 28028,19880602,  135,    0
   4578, 28028,19880603,  138,    0

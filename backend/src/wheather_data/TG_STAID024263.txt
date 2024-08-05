@@ -18,7 +18,7 @@ This is the blended series of station GRAZ-FLUGHAFEN, AUSTRIA (STAID: 24263)
 Blended and updated with sources:129041 911240 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24263,129041,19500101,  -54,    0
  24263,129041,19500102,  -58,    0
  24263,129041,19500103,   15,    0

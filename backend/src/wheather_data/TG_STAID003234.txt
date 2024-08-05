@@ -18,7 +18,7 @@ This is the blended series of station MINUSINSK, RUSSIAN FEDERATION (STAID: 3234
 Blended and updated with sources:17121 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3234, 17121,19100101,-9999,    9
   3234, 17121,19100102,-9999,    9
   3234, 17121,19100103,-9999,    9

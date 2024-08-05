@@ -18,7 +18,7 @@ This is the blended series of station FV72 INNSMOEN, NORWAY (STAID: 18683)
 Blended and updated with sources:99686 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18683, 99686,20140101,  -14,    0
  18683, 99686,20140102,    4,    0
  18683, 99686,20140103,    8,    0

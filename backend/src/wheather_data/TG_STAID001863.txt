@@ -18,7 +18,7 @@ This is the blended series of station BOGNOR REGIS, UNITED KINGDOM (STAID: 1863)
 Blended and updated with sources:7057 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1863,  7057,19600101,  106,    1
   1863,  7057,19600102,   86,    0
   1863,  7057,19600103,   89,    0

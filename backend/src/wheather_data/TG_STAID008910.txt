@@ -18,7 +18,7 @@ This is the blended series of station MERSRAGS, LATVIA (STAID: 8910)
 Blended and updated with sources:118898 926324 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8910,118898,18951101,   13,    1
   8910,118898,18951102,   55,    1
   8910,118898,18951103,   34,    1

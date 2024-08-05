@@ -18,7 +18,7 @@ This is the blended series of station BREIDFELD, LUXEMBOURG (STAID: 22466)
 Blended and updated with sources:121041 136702 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  22466,136702,20120201,-9999,    9
  22466,136702,20120202,-9999,    9
  22466,136702,20120203,-9999,    9

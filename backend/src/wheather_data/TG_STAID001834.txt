@@ -18,7 +18,7 @@ This is the blended series of station BLYTH BRIDGE, UNITED KINGDOM (STAID: 1834)
 Blended and updated with sources:7028 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1834,  7028,19600101,   47,    1
   1834,  7028,19600102,   11,    0
   1834,  7028,19600103,   25,    0

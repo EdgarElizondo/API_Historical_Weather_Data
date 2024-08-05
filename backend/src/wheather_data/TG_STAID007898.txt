@@ -18,7 +18,7 @@ This is the blended series of station INARI KAAMANEN, FINLAND (STAID: 7898)
 Blended and updated with sources:46691 46751 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7898, 46691,19590101,  -86,    0
   7898, 46691,19590102, -101,    1
   7898, 46691,19590103, -137,    0

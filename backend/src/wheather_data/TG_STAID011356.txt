@@ -18,7 +18,7 @@ This is the blended series of station KUUSIKU, ESTONIA (STAID: 11356)
 Blended and updated with sources:75026 926134 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11356, 75026,19260101,  -31,    0
  11356, 75026,19260102,  -28,    0
  11356, 75026,19260103,  -54,    0

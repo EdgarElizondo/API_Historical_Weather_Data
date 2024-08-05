@@ -18,7 +18,7 @@ This is the blended series of station MARKREE CASTLE, IRELAND (STAID: 1756)
 Blended and updated with sources:7567 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1756,  7567,19660101,   52,    0
   1756,  7567,19660102,   59,    0
   1756,  7567,19660103,   38,    0

@@ -18,7 +18,7 @@ This is the blended series of station OFFERSOEY II, NORWAY (STAID: 18873)
 Blended and updated with sources:100734 100916 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18873,100916,19570101,  -59,    0
  18873,100916,19570102,  -24,    0
  18873,100916,19570103,  -19,    0

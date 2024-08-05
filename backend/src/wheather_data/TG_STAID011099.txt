@@ -18,7 +18,7 @@ This is the blended series of station NOTODDEN FLYPLASS, NORWAY (STAID: 11099)
 Blended and updated with sources:56801 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11099, 56801,19970601,-9999,    9
  11099, 56801,19970602,-9999,    9
  11099, 56801,19970603,-9999,    9

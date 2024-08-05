@@ -18,7 +18,7 @@ This is the blended series of station KARASJOK, NORWAY (STAID: 190)
 Blended and updated with sources:592 5496 901065 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    190,   592,19000101,  -83,    0
    190,   592,19000102,  -90,    1
    190,   592,19000103, -251,    1

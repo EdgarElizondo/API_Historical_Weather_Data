@@ -18,7 +18,7 @@ This is the blended series of station DUDINKA, RUSSIAN FEDERATION (STAID: 8065)
 Blended and updated with sources:48393 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8065, 48393,19060101,-9999,    9
   8065, 48393,19060102,-9999,    9
   8065, 48393,19060103,-9999,    9

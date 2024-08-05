@@ -18,7 +18,7 @@ This is the blended series of station DREWITZ BEI BURG, GERMANY (STAID: 4024)
 Blended and updated with sources:21380 29240 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4024, 29240,19470101,  -54,    0
   4024, 29240,19470102,  -40,    0
   4024, 29240,19470103,  -44,    0

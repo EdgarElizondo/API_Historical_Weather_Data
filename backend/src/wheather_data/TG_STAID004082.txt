@@ -18,7 +18,7 @@ This is the blended series of station FELDBERG, GERMANY (STAID: 4082)
 Blended and updated with sources:22076 32024 910282 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4082, 22076,19470301,  -46,    0
   4082, 22076,19470302,  -77,    0
   4082, 22076,19470303,  -68,    0

@@ -18,7 +18,7 @@ This is the blended series of station AMPOSTA, SPAIN (STAID: 11011)
 Blended and updated with sources:55959 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11011, 55959,20080101,   55,    0
  11011, 55959,20080102,   52,    0
  11011, 55959,20080103,   57,    0

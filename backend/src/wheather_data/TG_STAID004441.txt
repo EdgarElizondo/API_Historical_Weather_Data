@@ -18,7 +18,7 @@ This is the blended series of station NAGOLD, GERMANY (STAID: 4441)
 Blended and updated with sources:26384 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4441, 26384,19490101,   22,    0
   4441, 26384,19490102,   17,    0
   4441, 26384,19490103,   16,    0

@@ -18,7 +18,7 @@ This is the blended series of station REMSCHEID, GERMANY (STAID: 4792)
 Blended and updated with sources:30596 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4792, 30596,20041001,  131,    0
   4792, 30596,20041002,  122,    0
   4792, 30596,20041003,  124,    0

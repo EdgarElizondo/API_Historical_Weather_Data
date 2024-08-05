@@ -18,7 +18,7 @@ This is the blended series of station BALMORAL, UNITED KINGDOM (STAID: 1819)
 Blended and updated with sources:7013 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   1819,  7013,19600101,   36,    0
   1819,  7013,19600102,  -12,    0
   1819,  7013,19600103,   22,    0

@@ -18,7 +18,7 @@ This is the blended series of station MURCIA, SPAIN (STAID: 421)
 Blended and updated with sources:20318 20327 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    421, 20327,19400101,   72,    0
    421, 20327,19400102,   97,    0
    421, 20327,19400103,   81,    0

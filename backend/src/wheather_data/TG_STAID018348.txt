@@ -18,7 +18,7 @@ This is the blended series of station KV5738 NATTLANDSFJELLET, NORWAY (STAID: 18
 Blended and updated with sources:99066 99596 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18348, 99066,20140101,-9999,    9
  18348, 99066,20140102,-9999,    9
  18348, 99066,20140103,   14,    0

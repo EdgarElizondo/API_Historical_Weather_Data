@@ -18,7 +18,7 @@ This is the blended series of station PIETARSAARI KALLAN, FINLAND (STAID: 7578)
 Blended and updated with sources:45055 45090 902901 902920 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7578, 45055,19640101,  -22,    0
   7578, 45055,19640102,  -38,    0
   7578, 45055,19640103,   -1,    0

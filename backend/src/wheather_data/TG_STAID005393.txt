@@ -18,7 +18,7 @@ This is the blended series of station ERIKSTAD-BERGARUD_V, SWEDEN (STAID: 5393)
 Blended and updated with sources:35891 35909 65103 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5393, 65103,19450101,   18,    1
   5393, 65103,19450102,   49,    1
   5393, 65103,19450103,   23,    1

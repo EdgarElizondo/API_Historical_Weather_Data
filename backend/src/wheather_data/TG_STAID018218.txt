@@ -18,7 +18,7 @@ This is the blended series of station ROELDALSFJELLET, NORWAY (STAID: 18218)
 Blended and updated with sources:99430 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18218, 99430,20131101,    4,    1
  18218, 99430,20131102,   -3,    0
  18218, 99430,20131103,    7,    0

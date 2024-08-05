@@ -18,7 +18,7 @@ This is the blended series of station FV47 FERKINGSTAD, NORWAY (STAID: 18479)
 Blended and updated with sources:99307 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18479, 99307,20131101,-9999,    9
  18479, 99307,20131102,-9999,    9
  18479, 99307,20131103,-9999,    9

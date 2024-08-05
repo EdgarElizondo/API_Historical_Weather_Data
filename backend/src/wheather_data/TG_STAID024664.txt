@@ -18,7 +18,7 @@ This is the blended series of station AIGEN/ENNSTAL, AUSTRIA (STAID: 24664)
 Blended and updated with sources:131615 134228 911157 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24664,134228,19390301,   -3,    0
  24664,134228,19390302,   15,    0
  24664,134228,19390303,  -44,    0

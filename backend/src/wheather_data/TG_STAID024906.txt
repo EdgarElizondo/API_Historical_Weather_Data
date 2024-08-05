@@ -18,7 +18,7 @@ This is the blended series of station CZORSZTYN-NADZAMCZE, POLAND (STAID: 24906)
 Blended and updated with sources:137190 137322 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24906,137322,19910101,    2,    0
  24906,137322,19910102,  -13,    0
  24906,137322,19910103,   28,    0

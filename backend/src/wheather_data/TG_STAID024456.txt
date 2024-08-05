@@ -18,7 +18,7 @@ This is the blended series of station OBERVELLACH, AUSTRIA (STAID: 24456)
 Blended and updated with sources:131537 911261 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24456,131537,19861201,  -11,    0
  24456,131537,19861202,   10,    0
  24456,131537,19861203,   25,    0

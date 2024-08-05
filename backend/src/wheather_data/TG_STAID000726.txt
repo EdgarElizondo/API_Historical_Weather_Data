@@ -18,7 +18,7 @@ This is the blended series of station VIEREMA KAARAKKALA, FINLAND (STAID: 726)
 Blended and updated with sources:45380 902834 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    726, 45380,19590101,  -88,    0
    726, 45380,19590102,  -94,    0
    726, 45380,19590103,  -83,    0

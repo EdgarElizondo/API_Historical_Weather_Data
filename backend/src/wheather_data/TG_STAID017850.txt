@@ -18,7 +18,7 @@ This is the blended series of station ZOLA_PREDOSA, ITALY (STAID: 17850)
 Blended and updated with sources:862 94360 94384 97888 916132 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  17850,   862,18140101,   36,    1
  17850,   862,18140102,   24,    1
  17850,   862,18140103,    9,    1

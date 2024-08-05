@@ -18,7 +18,7 @@ This is the blended series of station WELS-SCHLEISSHEIM, AUSTRIA (STAID: 23986)
 Blended and updated with sources:125492 125505 911059 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  23986,125505,19420515,  129,    0
  23986,125505,19420516,  142,    0
  23986,125505,19420517,  131,    0

@@ -18,7 +18,7 @@ This is the blended series of station ULLANGER, SWEDEN (STAID: 5652)
 Blended and updated with sources:36734 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5652, 36734,19610101,  -28,    0
   5652, 36734,19610102,  -45,    0
   5652, 36734,19610103,  -23,    0

@@ -18,7 +18,7 @@ This is the blended series of station VASTRA_BANKEN, SWEDEN (STAID: 5571)
 Blended and updated with sources:36473 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5571, 36473,19690930,   92,    1
   5571, 36473,19691001,   79,    1
   5571, 36473,19691002,   77,    1

@@ -18,7 +18,7 @@ This is the blended series of station GARDSJO_A, SWEDEN (STAID: 5421)
 Blended and updated with sources:35978 902546 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5421, 35978,19950801,  217,    0
   5421, 35978,19950802,  209,    0
   5421, 35978,19950803,  181,    0

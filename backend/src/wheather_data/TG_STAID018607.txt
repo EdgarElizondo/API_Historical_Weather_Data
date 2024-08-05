@@ -18,7 +18,7 @@ This is the blended series of station RV22 KROKEDAL, NORWAY (STAID: 18607)
 Blended and updated with sources:99548 100603 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18607,100603,19610901,  136,    0
  18607,100603,19610902,  136,    0
  18607,100603,19610903,  127,    0

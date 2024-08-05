@@ -18,7 +18,7 @@ This is the blended series of station FROSTA, NORWAY (STAID: 18059)
 Blended and updated with sources:12073 99526 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18059, 12073,19460101, -109,    0
  18059, 12073,19460102,  -90,    0
  18059, 12073,19460103,  -33,    0

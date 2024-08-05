@@ -18,7 +18,7 @@ This is the blended series of station AMOT, NORWAY (STAID: 19095)
 Blended and updated with sources:100988 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19095,100988,19490101,  -15,    0
  19095,100988,19490102,    1,    1
  19095,100988,19490103,  -22,    0

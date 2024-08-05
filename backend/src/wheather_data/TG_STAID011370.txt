@@ -18,7 +18,7 @@ This is the blended series of station TURI, ESTONIA (STAID: 11370)
 Blended and updated with sources:75082 926135 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  11370, 75082,19410201,-9999,    9
  11370, 75082,19410202,-9999,    9
  11370, 75082,19410203,-9999,    9

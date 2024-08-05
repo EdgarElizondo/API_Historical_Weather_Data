@@ -18,7 +18,7 @@ This is the blended series of station RV15 SKJAERINGSDALEN, NORWAY (STAID: 24853
 Blended and updated with sources:136697 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24853,136697,20220101,-9999,    9
  24853,136697,20220102,-9999,    9
  24853,136697,20220103,-9999,    9

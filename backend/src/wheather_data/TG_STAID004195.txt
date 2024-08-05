@@ -18,7 +18,7 @@ This is the blended series of station HASELDORF, GERMANY (STAID: 4195)
 Blended and updated with sources:23432 24284 29072 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4195, 23432,19510101,  -24,    0
   4195, 23432,19510102,   -6,    0
   4195, 23432,19510103,    0,    0

@@ -18,7 +18,7 @@ This is the blended series of station NURBURG-BARWEILER, GERMANY (STAID: 485)
 Blended and updated with sources:2326 910506 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
    485,  2326,19950301,-9999,    9
    485,  2326,19950302,-9999,    9
    485,  2326,19950303,-9999,    9

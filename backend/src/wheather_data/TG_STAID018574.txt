@@ -18,7 +18,7 @@ This is the blended series of station FV17 ROEDHAMMER, NORWAY (STAID: 18574)
 Blended and updated with sources:99485 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18574, 99485,20150901,-9999,    9
  18574, 99485,20150902,-9999,    9
  18574, 99485,20150903,-9999,    9

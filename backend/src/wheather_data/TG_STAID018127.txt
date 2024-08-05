@@ -18,7 +18,7 @@ This is the blended series of station FOERDE LH - BRINGELAND, NORWAY (STAID: 181
 Blended and updated with sources:99188 901323 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18127, 99188,20031001,   61,    0
  18127, 99188,20031002,   59,    0
  18127, 99188,20031003,   72,    0

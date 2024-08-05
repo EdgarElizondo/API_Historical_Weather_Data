@@ -18,7 +18,7 @@ This is the blended series of station EIDANGER, NORWAY (STAID: 19078)
 Blended and updated with sources:100706 100969 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  19078,100969,19611101,   35,    0
  19078,100969,19611102,   96,    0
  19078,100969,19611103,   41,    0

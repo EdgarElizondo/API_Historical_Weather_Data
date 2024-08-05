@@ -18,7 +18,7 @@ This is the blended series of station GISSELAS, SWEDEN (STAID: 5693)
 Blended and updated with sources:36878 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5693, 36878,19610101,  -43,    0
   5693, 36878,19610102,  -53,    0
   5693, 36878,19610103,  -37,    0

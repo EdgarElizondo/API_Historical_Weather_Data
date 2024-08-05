@@ -18,7 +18,7 @@ This is the blended series of station NEUNKIRCHEN-SEELSCHEID-KRAWINKEL, GERMANY 
 Blended and updated with sources:26564 26576 28748 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4456, 28748,19470101,   12,    0
   4456, 28748,19470102,    5,    0
   4456, 28748,19470103,   13,    0

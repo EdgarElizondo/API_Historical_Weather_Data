@@ -18,7 +18,7 @@ This is the blended series of station KITTILA KK, FINLAND (STAID: 7848)
 Blended and updated with sources:46446 46486 46496 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   7848, 46446,19700101,-9999,    9
   7848, 46446,19700102,-9999,    9
   7848, 46446,19700103,-9999,    9

@@ -18,7 +18,7 @@ This is the blended series of station STENSELE, SWEDEN (STAID: 3)
 Blended and updated with sources:37076 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
      3, 37076,18600501,   57,    1
      3, 37076,18600502,    5,    1
      3, 37076,18600503,   14,    1

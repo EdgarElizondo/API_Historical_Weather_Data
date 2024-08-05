@@ -18,7 +18,7 @@ This is the blended series of station E6 KVAM, NORWAY (STAID: 18557)
 Blended and updated with sources:99459 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18557, 99459,20140101,   21,    0
  18557, 99459,20140102,-9999,    9
  18557, 99459,20140103,-9999,    9

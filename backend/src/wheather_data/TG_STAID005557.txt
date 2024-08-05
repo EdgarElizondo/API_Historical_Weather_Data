@@ -18,7 +18,7 @@ This is the blended series of station FAGERVIKEN, SWEDEN (STAID: 5557)
 Blended and updated with sources:36425 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5557, 36425,19661101,-9999,    9
   5557, 36425,19661102,-9999,    9
   5557, 36425,19661103,-9999,    9

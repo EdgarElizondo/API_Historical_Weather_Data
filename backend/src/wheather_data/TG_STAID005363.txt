@@ -18,7 +18,7 @@ This is the blended series of station UDDEVALLA, SWEDEN (STAID: 5363)
 Blended and updated with sources:35786 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5363, 35786,19610801,  127,    0
   5363, 35786,19610802,  168,    0
   5363, 35786,19610803,  151,    0

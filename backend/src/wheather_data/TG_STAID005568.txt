@@ -18,7 +18,7 @@ This is the blended series of station EGGEGRUND, SWEDEN (STAID: 5568)
 Blended and updated with sources:36464 36467 902450 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5568, 36464,19410101,  -88,    1
   5568, 36464,19410102, -111,    1
   5568, 36464,19410103, -136,    1

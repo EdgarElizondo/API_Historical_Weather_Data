@@ -18,7 +18,7 @@ This is the blended series of station KR.ROTTAL-INN FALKENBERG, GERMANY (STAID: 
 Blended and updated with sources:22040 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4079, 22040,19660701,  150,    0
   4079, 22040,19660702,  174,    0
   4079, 22040,19660703,  197,    0

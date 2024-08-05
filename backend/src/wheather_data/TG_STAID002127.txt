@@ -18,7 +18,7 @@ This is the blended series of station BOSCOMBE DOWN, UNITED KINGDOM (STAID: 2127
 Blended and updated with sources:56835 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   2127, 56835,20130101,   50,    0
   2127, 56835,20130102,   68,    0
   2127, 56835,20130103,   74,    0

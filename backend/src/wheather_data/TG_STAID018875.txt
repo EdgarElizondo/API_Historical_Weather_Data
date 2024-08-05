@@ -18,7 +18,7 @@ This is the blended series of station SANDSOEY I SENJA III, NORWAY (STAID: 18875
 Blended and updated with sources:100737 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18875,100737,19660901,   67,    0
  18875,100737,19660902,   61,    0
  18875,100737,19660903,   73,    0

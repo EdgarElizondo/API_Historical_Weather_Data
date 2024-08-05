@@ -18,7 +18,7 @@ This is the blended series of station KR. HOLZMINDEN BEVERN, GERMANY (STAID: 424
 Blended and updated with sources:23996 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4242, 23996,19510101,    7,    0
   4242, 23996,19510102,   16,    0
   4242, 23996,19510103,    5,    0

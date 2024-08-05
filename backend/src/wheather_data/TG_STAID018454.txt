@@ -18,7 +18,7 @@ This is the blended series of station RV41 AMLI, NORWAY (STAID: 18454)
 Blended and updated with sources:99262 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18454, 99262,20170301,-9999,    9
  18454, 99262,20170302,-9999,    9
  18454, 99262,20170303,-9999,    9

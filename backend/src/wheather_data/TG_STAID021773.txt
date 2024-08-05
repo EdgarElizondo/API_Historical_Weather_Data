@@ -18,7 +18,7 @@ This is the blended series of station FV5876 RUNDEBRUA, NORWAY (STAID: 21773)
 Blended and updated with sources:118112 118165 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  21773,118165,20200901,-9999,    9
  21773,118165,20200902,-9999,    9
  21773,118165,20200903,-9999,    9

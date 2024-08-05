@@ -18,7 +18,7 @@ This is the blended series of station LOENSDAL STASJON, NORWAY (STAID: 18304)
 Blended and updated with sources:99671 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  18304, 99671,20131221,  -53,    1
  18304, 99671,20131222,  -48,    1
  18304, 99671,20131223,  -58,    1

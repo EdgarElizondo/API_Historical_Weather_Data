@@ -18,7 +18,7 @@ This is the blended series of station BORZYA, RUSSIAN FEDERATION (STAID: 3251)
 Blended and updated with sources:17206 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   3251, 17206,19010101,-9999,    9
   3251, 17206,19010102,-9999,    9
   3251, 17206,19010103,-9999,    9

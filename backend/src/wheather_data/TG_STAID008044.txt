@@ -18,7 +18,7 @@ This is the blended series of station STERLEGOVA, RUSSIAN FEDERATION (STAID: 804
 Blended and updated with sources:47953 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   8044, 47953,19770101,-9999,    9
   8044, 47953,19770102,-9999,    9
   8044, 47953,19770103,-9999,    9

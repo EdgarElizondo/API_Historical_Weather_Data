@@ -18,7 +18,7 @@ This is the blended series of station RHEINE-BENTLAGE, GERMANY (STAID: 4557)
 Blended and updated with sources:24044 27776 910306 910314 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   4557, 27776,19710101,-9999,    9
   4557, 27776,19710102,-9999,    9
   4557, 27776,19710103,-9999,    9

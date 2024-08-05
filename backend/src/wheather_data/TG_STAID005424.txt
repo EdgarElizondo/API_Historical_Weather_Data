@@ -18,7 +18,7 @@ This is the blended series of station TROSA, SWEDEN (STAID: 5424)
 Blended and updated with sources:35990 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
   5424, 35990,19610101,   -3,    0
   5424, 35990,19610102,    2,    0
   5424, 35990,19610103,   19,    0

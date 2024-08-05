@@ -18,7 +18,7 @@ This is the blended series of station LLEIDA-AJUNTAMENT, SPAIN (STAID: 10904)
 Blended and updated with sources:20237 20246 55291 55305 55319 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  10904, 55319,19381201,   92,    0
  10904, 55319,19381202,   81,    0
  10904, 55319,19381203,   67,    0

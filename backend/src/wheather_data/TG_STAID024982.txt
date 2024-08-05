@@ -18,7 +18,7 @@ This is the blended series of station BOGUSLAWICE, POLAND (STAID: 24982)
 Blended and updated with sources:138234 
 See files sources.txt and stations.txt for more info.
 
-STAID, SOUID,    DATE,   TG, Q_TG
+STAID,SOUID,DATE,TG,Q_TG
  24982,138234,19860101,  -64,    0
  24982,138234,19860102,  -42,    0
  24982,138234,19860103,  -16,    0
