@@ -12,16 +12,28 @@ df = pd.read_csv("backend\src\wheather_data\stations.txt",skiprows=17)
 def home():
     return render_template("home.html", data=df[["STAID","STANAME"]].to_html())
 
+# PAGE OF SINGLE DATE STATION DATA RECORD
 @app.route("/api/v1/<station>/<date>")
 def weather_api(station,date):
     try:
         path = f"backend\src\wheather_data\TG_STAID{int(station):06d}.txt"
         df = pd.read_csv(path,parse_dates=["DATE"],skiprows=20)
-        temperature = str(df.loc[df["DATE"] == date]["TG"].squeeze() / 10)
+        temperature = df.loc[df["DATE"] == date]["TG"].squeeze() / 10
 
         return {"Station": station,
             "Date": date,
             "temperature":temperature}
+    except FileNotFoundError:
+        return "Not Existing Data"
+    
+# PAGE OF ALL STATION DATA RECORD
+@app.route("/api/v1/<station>")
+def station_data(station):
+    try:
+        path = f"backend\src\wheather_data\TG_STAID{int(station):06d}.txt"
+        df = pd.read_csv(path,parse_dates=["DATE"],skiprows=20)
+        return df.to_dict(orient="records")
+    
     except FileNotFoundError:
         return "Not Existing Data"
 
