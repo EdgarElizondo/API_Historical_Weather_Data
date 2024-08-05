@@ -11,12 +11,16 @@ def home():
 
 @app.route("/api/v1/<station>/<date>")
 def weather_api(station,date):
-    #df = pd.read_csv("")
-    temperature = str(23)
+    try:
+        path = f"backend\src\wheather_data\TG_STAID{int(station):06d}.txt"
+        df = pd.read_csv(path,parse_dates=["DATE"],skiprows=20)
+        temperature = str(df.loc[df["DATE"] == date]["TG"].squeeze() / 10)
 
-    return {"Station": station,
+        return {"Station": station,
             "Date": date,
             "temperature":temperature}
+    except FileNotFoundError:
+        return "Not Existing Data"
 
 if __name__ == "__main__":
     app.run(debug=True)
